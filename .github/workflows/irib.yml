@@ -50,7 +50,10 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+        git add irib.m3u irib-extvlcopt.m3u irib.json epg.xml
+        git stash
         git pull origin main --rebase
+        git stash pop || true
         git add irib.m3u irib-extvlcopt.m3u irib.json epg.xml
         git diff --staged --quiet || git commit -m "Auto-refresh IRIB channels [$(date +'%Y-%m-%d %H:%M:%S')]"
         git push origin main
