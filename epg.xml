@@ -3,6 +3,11 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260407221000 +0000" stop="20260407230849 +0000" channel="tv1">
+    <title>قسمت آخر</title>
+    <sub-title>روشنایی شب</sub-title>
+    <length units="seconds">3268</length>
+  </programme>
   <programme start="20260407210000 +0000" stop="20260407220126 +0000" channel="tv1">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار سراسری </sub-title>
@@ -115,6 +120,16 @@
     <title>18 فروردین 1405</title>
     <sub-title>پدر امت </sub-title>
     <length units="seconds">2494</length>
+  </programme>
+  <programme start="20260407213255 +0000" stop="20260407213500 +0000" channel="tv2">
+    <title>حق زحمت یا زیر میزی؟</title>
+    <sub-title>کلانتری یازده </sub-title>
+    <length units="seconds">126</length>
+  </programme>
+  <programme start="20260407212534 +0000" stop="20260407212824 +0000" channel="tv2">
+    <title>خود بخشدار باید تضمین کنه!</title>
+    <sub-title>کلانتری یازده </sub-title>
+    <length units="seconds">170</length>
   </programme>
   <programme start="20260407211754 +0000" stop="20260407215740 +0000" channel="tv2">
     <title>قسمت ۱۷ </title>
@@ -467,6 +482,16 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260407213031 +0000" stop="20260407231029 +0000" channel="tv4">
+    <title>هک بزرگ - 18 فروردین 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 4)</sub-title>
+    <length units="seconds">5998</length>
+  </programme>
+  <programme start="20260407211244 +0000" stop="20260407212601 +0000" channel="tv4">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 </title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">796</length>
+  </programme>
   <programme start="20260407203250 +0000" stop="20260407211240 +0000" channel="tv4">
     <title>18 فروردین 1405</title>
     <sub-title>سنجه</sub-title>
@@ -555,6 +580,21 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260407230350 +0000" stop="20260407232730 +0000" channel="irinn">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">1420</length>
+  </programme>
+  <programme start="20260407230010 +0000" stop="20260407230345 +0000" channel="irinn">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (خبر)</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260407223300 +0000" stop="20260407230010 +0000" channel="irinn">
+    <title>۱۸ فروردین ۱۴۰۵ - بخش ۲</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1628</length>
+  </programme>
   <programme start="20260407222950 +0000" stop="20260407223300 +0000" channel="irinn">
     <title>۱۸ فروردین ۱۴۰۵</title>
     <sub-title>اخبار ساعت 22:30</sub-title>
@@ -789,21 +829,6 @@
     <title>۱۸ فروردین ۱۴۰۵</title>
     <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
     <length units="seconds">574</length>
-  </programme>
-  <programme start="20260407075925 +0000" stop="20260407083030 +0000" channel="irinn">
-    <title>۱۸ فروردین ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1864</length>
-  </programme>
-  <programme start="20260407073745 +0000" stop="20260407075915 +0000" channel="irinn">
-    <title>۱۸ فروردین ۱۴۰۵ - بخش ۲</title>
-    <sub-title>جنگ رمضان</sub-title>
-    <length units="seconds">1290</length>
-  </programme>
-  <programme start="20260407072955 +0000" stop="20260407073415 +0000" channel="irinn">
-    <title>۱۸ فروردین ۱۴۰۵</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">260</length>
   </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
@@ -1163,9 +1188,28 @@
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260407210201 +0000" stop="20260407225330 +0000" channel="namayesh">
+    <title>نفس</title>
+    <length units="seconds">6508</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260407230230 +0000" stop="20260407230700 +0000" channel="tehran">
+    <title>مردان علی - 18 فروردین 1405</title>
+    <sub-title>نماهنگ (شبکه تهران)</sub-title>
+    <length units="seconds">269</length>
+  </programme>
+  <programme start="20260407225016 +0000" stop="20260407225314 +0000" channel="tehran">
+    <title>18 فروردین 1405 - بخش 6</title>
+    <sub-title>خبرنگار مردمی</sub-title>
+    <length units="seconds">178</length>
+  </programme>
+  <programme start="20260407223700 +0000" stop="20260407225015 +0000" channel="tehran">
+    <title>18 فروردین 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">794</length>
+  </programme>
   <programme start="20260407211300 +0000" stop="20260407220200 +0000" channel="tehran">
     <title>18 فروردین 1405 - بخش 2</title>
     <sub-title>تا پای جان برای ایران</sub-title>
@@ -1278,6 +1322,11 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260407220000 +0000" stop="20260407222900 +0000" channel="mostanad">
+    <title>18 فروردین 1405</title>
+    <sub-title>معرکه</sub-title>
+    <length units="seconds">1740</length>
+  </programme>
   <programme start="20260407210500 +0000" stop="20260407215800 +0000" channel="mostanad">
     <title>هایت الله - 18 فروردین 1405</title>
     <sub-title>برنامه اجتماعی (مستند)</sub-title>
@@ -1311,6 +1360,11 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260407230130 +0000" stop="20260407231330 +0000" channel="quran">
+    <title>18 فروردین 1405</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">720</length>
+  </programme>
   <programme start="20260407214828 +0000" stop="20260407225020 +0000" channel="quran">
     <title>18 فروردین 1405</title>
     <sub-title>عهد خون</sub-title>
@@ -1539,6 +1593,16 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260407230000 +0000" stop="20260407232645 +0000" channel="amouzesh">
+    <title>کنکور انسانی - علوم و فنون - اغراق - ۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1606</length>
+  </programme>
+  <programme start="20260407223030 +0000" stop="20260407225925 +0000" channel="amouzesh">
+    <title>کنکور تجربی - شیمی - قدرت اسیدی و قدرت بازی - ۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی کنکور</sub-title>
+    <length units="seconds">1734</length>
+  </programme>
   <programme start="20260407220215 +0000" stop="20260407223020 +0000" channel="amouzesh">
     <title>کنکور تجربی - زیست شناسی - فصل هفتم پایه یازدهم - ۱۸ فروردین ۱۴۰۵</title>
     <sub-title>مدرسه تلویزیونی کنکور</sub-title>
@@ -1770,10 +1834,25 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260407223809 +0000" stop="20260407225741 +0000" channel="ofogh">
+    <title>18 فروردین 1405</title>
+    <sub-title>سروستان </sub-title>
+    <length units="seconds">1172</length>
+  </programme>
   <programme start="20260407223608 +0000" stop="20260407223726 +0000" channel="ofogh">
     <title>18 فروردین 1405</title>
     <sub-title>روزنگار </sub-title>
     <length units="seconds">78</length>
+  </programme>
+  <programme start="20260407222657 +0000" stop="20260407222803 +0000" channel="ofogh">
+    <title>بزرگترین کابوس</title>
+    <sub-title>کارزار</sub-title>
+    <length units="seconds">66</length>
+  </programme>
+  <programme start="20260407222434 +0000" stop="20260407222654 +0000" channel="ofogh">
+    <title>تجربه ای که میتونم بذارم تو کفنم و ببرم!</title>
+    <sub-title>کارزار</sub-title>
+    <length units="seconds">140</length>
   </programme>
   <programme start="20260407222107 +0000" stop="20260407223607 +0000" channel="ofogh">
     <title>18 فروردین 1405</title>
@@ -1931,6 +2010,11 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260407212530 +0000" stop="20260407230921 +0000" channel="irinn2">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش ۲</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">6232</length>
+  </programme>
   <programme start="20260407201858 +0000" stop="20260407212530 +0000" channel="irinn2">
     <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 1</title>
     <sub-title>گزارش خبری </sub-title>
@@ -2088,6 +2172,31 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260407230000 +0000" stop="20260407232254 +0000" channel="esfahan">
+    <title>18 فروردین 1405 </title>
+    <sub-title>اخبار ساعت 23:00 (اصفهان)</sub-title>
+    <length units="seconds">1375</length>
+  </programme>
+  <programme start="20260407222700 +0000" stop="20260407224717 +0000" channel="esfahan">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 3</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">1216</length>
+  </programme>
+  <programme start="20260407214943 +0000" stop="20260407222700 +0000" channel="esfahan">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 2</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2236</length>
+  </programme>
+  <programme start="20260407210911 +0000" stop="20260407214940 +0000" channel="esfahan">
+    <title>18 فروردین 1405 - بخش 2</title>
+    <sub-title>تا پای جان برای ایران</sub-title>
+    <length units="seconds">2428</length>
+  </programme>
+  <programme start="20260407205404 +0000" stop="20260407210909 +0000" channel="esfahan">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 1</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">904</length>
+  </programme>
   <programme start="20260407200000 +0000" stop="20260407203340 +0000" channel="esfahan">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
@@ -2261,6 +2370,26 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260407220656 +0000" stop="20260407223407 +0000" channel="khorasanrazavi">
+    <title>18 فروردین 1405 - بخش 2</title>
+    <sub-title>خیابان پیروزی</sub-title>
+    <length units="seconds">1632</length>
+  </programme>
+  <programme start="20260407220029 +0000" stop="20260407220651 +0000" channel="khorasanrazavi">
+    <title>18 فروردین 1405 - بخش 2</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">381</length>
+  </programme>
+  <programme start="20260407210236 +0000" stop="20260407220025 +0000" channel="khorasanrazavi">
+    <title>18 فروردین 1405 - بخش 1</title>
+    <sub-title>خیابان پیروزی</sub-title>
+    <length units="seconds">3468</length>
+  </programme>
+  <programme start="20260407202927 +0000" stop="20260407205830 +0000" channel="khorasanrazavi">
+    <title>18 فروردین 1405 </title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
   <programme start="20260407195945 +0000" stop="20260407202926 +0000" channel="khorasanrazavi">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار ساعت 20</sub-title>
@@ -2309,6 +2438,11 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260407225955 +0000" stop="20260407231500 +0000" channel="atrak">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت 23:00 (اترک)</sub-title>
+    <length units="seconds">905</length>
+  </programme>
   <programme start="20260407210001 +0000" stop="20260407220259 +0000" channel="atrak">
     <title>18 فروردین 1405</title>
     <sub-title>ملت بیدارتر</sub-title>
@@ -2357,6 +2491,16 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260407135712 +0000" stop="20260407142647 +0000" channel="khalijefars">
+    <title>18 فروردین 1405</title>
+    <sub-title>زندگی به روایت زنان هرمزگان (خلیج فارس)</sub-title>
+    <length units="seconds">1776</length>
+  </programme>
+  <programme start="20260407104810 +0000" stop="20260407110945 +0000" channel="khalijefars">
+    <title>مسجد حضرت ابوالفضل العباس پل خواجو - 18 فروردین 1405</title>
+    <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
+    <length units="seconds">1289</length>
+  </programme>
   <programme start="20260407082831 +0000" stop="20260407092900 +0000" channel="khalijefars">
     <title>18 فروردین 1405</title>
     <sub-title>پزشک شما (خلیج فارس)</sub-title>
@@ -2395,6 +2539,11 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260407225955 +0000" stop="20260407232953 +0000" channel="khoozestan">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت 23:00 (خوزستان)</sub-title>
+    <length units="seconds">1797</length>
+  </programme>
   <programme start="20260407202939 +0000" stop="20260407225250 +0000" channel="khoozestan">
     <title>۱۸ فروردین ۱۴۰۵</title>
     <sub-title>ملت بیدارتر (خوزستان )</sub-title>
@@ -2469,6 +2618,16 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260407225951 +0000" stop="20260407231945 +0000" channel="hamoon">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت 23:00 (هامون)</sub-title>
+    <length units="seconds">1195</length>
+  </programme>
+  <programme start="20260407203715 +0000" stop="20260407225756 +0000" channel="hamoon">
+    <title>اجتماع مردمی - 18 فروردین 1405</title>
+    <sub-title>ویژه برنامه های هامون ۱۴۰۵</sub-title>
+    <length units="seconds">8440</length>
+  </programme>
   <programme start="20260407195949 +0000" stop="20260407202910 +0000" channel="hamoon">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار ساعت 20:00 (هامون)</sub-title>
@@ -2538,6 +2697,31 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260407230017 +0000" stop="20260407232339 +0000" channel="noor">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (قم)</sub-title>
+    <length units="seconds">1402</length>
+  </programme>
+  <programme start="20260407222830 +0000" stop="20260407230011 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 3</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">1900</length>
+  </programme>
+  <programme start="20260407215600 +0000" stop="20260407222830 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 2</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">1951</length>
+  </programme>
+  <programme start="20260407212035 +0000" stop="20260407215600 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 1</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2124</length>
+  </programme>
+  <programme start="20260407203436 +0000" stop="20260407211603 +0000" channel="noor">
+    <title>18 فروردین 1405</title>
+    <sub-title>ایستاده ایم </sub-title>
+    <length units="seconds">2486</length>
+  </programme>
   <programme start="20260407202314 +0000" stop="20260407203310 +0000" channel="noor">
     <title>18 فروردین 1405 - بخش 3</title>
     <sub-title>مسجد ما</sub-title>
@@ -2716,6 +2900,16 @@
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260407225959 +0000" stop="20260407232709 +0000" channel="sabz">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت 23:00 (سبز)</sub-title>
+    <length units="seconds">1630</length>
+  </programme>
+  <programme start="20260407220030 +0000" stop="20260407225808 +0000" channel="sabz">
+    <title>بهار ولایت - 18 فروردین 1405</title>
+    <sub-title>ویژه برنامه های ۱۴۰۵</sub-title>
+    <length units="seconds">3458</length>
+  </programme>
   <programme start="20260407204835 +0000" stop="20260407215857 +0000" channel="sabz">
     <title>اجتماع مردمی - 18 فروردین 1405</title>
     <sub-title>ویژه برنامه های ۱۴۰۵</sub-title>
@@ -2759,6 +2953,16 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260407230018 +0000" stop="20260407232230 +0000" channel="baran">
+    <title>18 فروردین 1405</title>
+    <sub-title>اخبار ساعت 23:00 (باران)</sub-title>
+    <length units="seconds">1332</length>
+  </programme>
+  <programme start="20260407212524 +0000" stop="20260407230009 +0000" channel="baran">
+    <title>18 فروردین 1405</title>
+    <sub-title>ملت بیدارتر (باران)</sub-title>
+    <length units="seconds">5673</length>
+  </programme>
   <programme start="20260407204845 +0000" stop="20260407212523 +0000" channel="baran">
     <title>اجتماع مردمی - ۱۸ فروردین ۱۴۰۵</title>
     <sub-title>ویژه برنامه های 140۵</sub-title>
@@ -2807,6 +3011,36 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260407225555 +0000" stop="20260407232850 +0000" channel="kordestan">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر</sub-title>
+    <length units="seconds">1975</length>
+  </programme>
+  <programme start="20260407212945 +0000" stop="20260407215100 +0000" channel="kordestan">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
+    <length units="seconds">1274</length>
+  </programme>
+  <programme start="20260407201645 +0000" stop="20260407212930 +0000" channel="kordestan">
+    <title>اجتماع مردمی کردستان - ۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های ۱۴۰۵</sub-title>
+    <length units="seconds">4365</length>
+  </programme>
+  <programme start="20260407195100 +0000" stop="20260407201535 +0000" channel="kordestan">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>ایران استوار</sub-title>
+    <length units="seconds">1475</length>
+  </programme>
+  <programme start="20260407192235 +0000" stop="20260407195040 +0000" channel="kordestan">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>خط نبرد</sub-title>
+    <length units="seconds">1684</length>
+  </programme>
+  <programme start="20260407190155 +0000" stop="20260407190550 +0000" channel="kordestan">
+    <title>۱۸ فروردین ۱۴۰۵</title>
+    <sub-title>صهبای جان (کردستان)</sub-title>
+    <length units="seconds">235</length>
+  </programme>
   <programme start="20260407162105 +0000" stop="20260407165855 +0000" channel="kordestan">
     <title>جمال الدین کردستانی - ۱۸ فروردین ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (کردستان)</sub-title>
@@ -2828,15 +3062,20 @@
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260407205530 +0000" stop="20260407225955 +0000" channel="tabarestan">
+    <title>تجمع مردمی - 18 فروردین 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">6902</length>
+  </programme>
   <programme start="20260407200002 +0000" stop="20260407202530 +0000" channel="tabarestan">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار ساعت 20:00 (تبرستان)</sub-title>
-    <length units="seconds">1528</length>
+    <length units="seconds">1527</length>
   </programme>
   <programme start="20260407185652 +0000" stop="20260407195807 +0000" channel="tabarestan">
     <title>18 فروردین 1405</title>
     <sub-title>بهارون (تبرستان)</sub-title>
-    <length units="seconds">3675</length>
+    <length units="seconds">3674</length>
   </programme>
   <programme start="20260407175701 +0000" stop="20260407180628 +0000" channel="tabarestan">
     <title>ایران همدل - 18 فروردین 1405</title>
@@ -2891,6 +3130,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260407221000 +0000" stop="20260407225812 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 4</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2892</length>
+  </programme>
+  <programme start="20260407213000 +0000" stop="20260407221000 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 3</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2400</length>
+  </programme>
+  <programme start="20260407204524 +0000" stop="20260407213000 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 18 فروردین 1405 - بخش 2</title>
+    <sub-title>ویژه برنامه های ۱۴۰5</sub-title>
+    <length units="seconds">2676</length>
+  </programme>
   <programme start="20260407195949 +0000" stop="20260407204141 +0000" channel="aftab">
     <title>18 فروردین 1405</title>
     <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
