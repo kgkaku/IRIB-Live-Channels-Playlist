@@ -27,7 +27,7 @@
 
 ## 📒 Introduction
 
-**IRIB Live Channels Playlist** automatically fetches live streaming links from **Telewebion** (the official IRIB streaming platform). The script runs every 6 hours via GitHub Actions, collects channel metadata, stream URLs, authentication tokens, and EPG data, then generates ready-to-use `.m3u` playlists and `.json` output.
+**IRIB Live Channels Playlist** automatically fetches live streaming links from **[Telewebion](https://telewebion.ir/)** (the official IRIB streaming platform). The script runs every 6 hours via GitHub Actions, collects channel metadata, stream URLs, authentication tokens, and EPG data, then generates ready-to-use `.m3u` playlists and `.json` output.
 
 Perfect for IPTV players, custom apps, or personal use — no manual work needed.
 
@@ -166,16 +166,20 @@ https://raw.githubusercontent.com/kgkaku/IRIB-Live-Channels-Playlist/refs/heads/
 ## 📝 Legal Notice
 
 · ⛔ I do not host any content. All stream URLs are fetched from publicly available sources (Telewebion.ir).
+
 · ⚠️ This project is for educational and research purposes only. It demonstrates how to authenticate and stream IPTV using public APIs.
+
 · 🚫 If this code affects the revenue of the content owners, please contact me and I will remove it.
+
 · 🇮🇷 Some content may be geo-restricted to Iran.
 
 ---
 
 ## ✉️ Contact Me
 
-* [GitHub](https://github.com/kgkaku)  
-* [Telegram](https://t.me/kgkaku_bot)
+**[GitHub](https://github.com/kgkaku)**
+
+**[Telegram](https://t.me/kgkaku_bot)**
 
 
 ---
