@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/kgkaku/IRIB-Live-Channels-Playlist">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/IRIB_Logo.svg/500px-IRIB_Logo.svg.png" alt="IRIB Logo" width="80%">
+    <img src="https://raw.githubusercontent.com/kgkaku/IRIB-Live-Channels-Playlist/refs/heads/main/images/irib-logo.png" alt="IRIB Logo" width="80%">
   </a>
   <br>
   IRIB Live Channels Playlist
