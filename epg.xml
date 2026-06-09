@@ -3,18 +3,308 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260609090013 +0000" stop="20260609105854 +0000" channel="tv1">
+    <title>19 خرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">6884</length>
+  </programme>
+  <programme start="20260609084630 +0000" stop="20260609085010 +0000" channel="tv1">
+    <title>19 خرداد 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260609080000 +0000" stop="20260609082843 +0000" channel="tv1">
+    <title>19 خرداد 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1722</length>
+  </programme>
+  <programme start="20260609060541 +0000" stop="20260609075050 +0000" channel="tv1">
+    <title>19 خرداد 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">5964</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260609122514 +0000" stop="20260609130537 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">2424</length>
+  </programme>
+  <programme start="20260609122123 +0000" stop="20260609122228 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>درسی از اندیشه علوی </sub-title>
+    <length units="seconds">64</length>
+  </programme>
+  <programme start="20260609121936 +0000" stop="20260609122121 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>خط امام </sub-title>
+    <length units="seconds">106</length>
+  </programme>
+  <programme start="20260609115602 +0000" stop="20260609115837 +0000" channel="tv2">
+    <title>آیت الله ناصری - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>جان کلام (شبکه ۲)</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260609115501 +0000" stop="20260609115601 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>جرعه</sub-title>
+    <length units="seconds">60</length>
+  </programme>
+  <programme start="20260609070044 +0000" stop="20260609095735 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">10054</length>
+  </programme>
+  <programme start="20260609062546 +0000" stop="20260609064914 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1408</length>
+  </programme>
+  <programme start="20260609043423 +0000" stop="20260609045622 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>جوانمردان</sub-title>
+    <length units="seconds">1318</length>
+  </programme>
+  <programme start="20260609032350 +0000" stop="20260609033221 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">512</length>
+  </programme>
+  <programme start="20260609031137 +0000" stop="20260609031645 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای هفتم صحیفه سجادیه</sub-title>
+    <length units="seconds">308</length>
+  </programme>
+  <programme start="20260609030703 +0000" stop="20260609031041 +0000" channel="tv2">
+    <title>دعای نادعلی - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260609025255 +0000" stop="20260609025614 +0000" channel="tv2">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260609023315 +0000" stop="20260609023452 +0000" channel="tv2">
+    <title>جان فدا - یار وفادار - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">96</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260609130422 +0000" stop="20260609130930 +0000" channel="tv3">
+    <title>پیروزی بزرگ - 19 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">308</length>
+  </programme>
+  <programme start="20260609115722 +0000" stop="20260609121834 +0000" channel="tv3">
+    <title>19 خرداد ۱۴۰۵ - بخش 2</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1272</length>
+  </programme>
+  <programme start="20260609105302 +0000" stop="20260609114923 +0000" channel="tv3">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>طبیب 1405</sub-title>
+    <length units="seconds">3046</length>
+  </programme>
+  <programme start="20260609095521 +0000" stop="20260609103808 +0000" channel="tv3">
+    <title>پشت صحنه</title>
+    <sub-title>کلینیک رویا</sub-title>
+    <length units="seconds">2328</length>
+  </programme>
+  <programme start="20260609080639 +0000" stop="20260609094806 +0000" channel="tv3">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>سلام صبح بخیر 1405</sub-title>
+    <length units="seconds">5593</length>
+  </programme>
+  <programme start="20260609075832 +0000" stop="20260609080320 +0000" channel="tv3">
+    <title>بیعت مردم با رهبر معظم انقلاب و نیروهای مسلح - 19 خرداد ۱۴۰۵</title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
+    <length units="seconds">288</length>
+  </programme>
+  <programme start="20260609073306 +0000" stop="20260609074804 +0000" channel="tv3">
+    <title>جزیره هرمز - 19 خرداد ۱۴۰۵</title>
+    <sub-title>وطن من</sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260609025447 +0000" stop="20260609031729 +0000" channel="tv3">
+    <title>19 خرداد ۱۴۰۵ - بخش 1</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1362</length>
+  </programme>
+  <programme start="20260609020548 +0000" stop="20260609025433 +0000" channel="tv3">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>ضیافت دوست 1405</sub-title>
+    <length units="seconds">2926</length>
+  </programme>
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260609115357 +0000" stop="20260609115753 +0000" channel="tv4">
+    <title>19 خرداد ۱۴۰۵ - بخش 2</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260609061332 +0000" stop="20260609064235 +0000" channel="tv4">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260609060109 +0000" stop="20260609060958 +0000" channel="tv4">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (شبکه ۴)</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20260609025236 +0000" stop="20260609025643 +0000" channel="tv4">
+    <title>19 خرداد ۱۴۰۵ - بخش 1</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">247</length>
+  </programme>
+  <programme start="20260609000930 +0000" stop="20260609005510 +0000" channel="tv4">
+    <title>قسمت 7</title>
+    <sub-title>سال های برف و بنفشه </sub-title>
+    <length units="seconds">2643</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260609130005 +0000" stop="20260609131100 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">654</length>
+  </programme>
+  <programme start="20260609123510 +0000" stop="20260609125715 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1326</length>
+  </programme>
+  <programme start="20260609123010 +0000" stop="20260609123510 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260609122320 +0000" stop="20260609122835 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20260609121220 +0000" stop="20260609122315 +0000" channel="irinn">
+    <title>ملت ایستادگی - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">656</length>
+  </programme>
+  <programme start="20260609120010 +0000" stop="20260609121210 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">514</length>
+  </programme>
+  <programme start="20260609113435 +0000" stop="20260609115845 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1450</length>
+  </programme>
+  <programme start="20260609113005 +0000" stop="20260609113435 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260609110950 +0000" stop="20260609112900 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - علیرضا سالاری شریف</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1148</length>
+  </programme>
+  <programme start="20260609110005 +0000" stop="20260609110955 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">590</length>
+  </programme>
+  <programme start="20260609103420 +0000" stop="20260609105625 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1326</length>
+  </programme>
+  <programme start="20260609103005 +0000" stop="20260609103420 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260609102825 +0000" stop="20260609103005 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۳</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260609101145 +0000" stop="20260609102815 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">990</length>
+  </programme>
+  <programme start="20260609100940 +0000" stop="20260609101145 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">126</length>
+  </programme>
+  <programme start="20260609100010 +0000" stop="20260609100935 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">566</length>
+  </programme>
+  <programme start="20260609093005 +0000" stop="20260609093445 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260609090825 +0000" stop="20260609092950 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - پیمان صالحی</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1286</length>
+  </programme>
+  <programme start="20260609090005 +0000" stop="20260609090825 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">500</length>
+  </programme>
+  <programme start="20260609083215 +0000" stop="20260609085900 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - سید نظام‌الدین موسوی</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1606</length>
+  </programme>
+  <programme start="20260609080000 +0000" stop="20260609082820 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1698</length>
+  </programme>
+  <programme start="20260609075640 +0000" stop="20260609075910 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">148</length>
+  </programme>
+  <programme start="20260609073340 +0000" stop="20260609075640 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1380</length>
+  </programme>
+  <programme start="20260609073005 +0000" stop="20260609073335 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260609070930 +0000" stop="20260609072955 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵ - شهرام فداکار</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1224</length>
+  </programme>
+  <programme start="20260609070010 +0000" stop="20260609070930 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20260609063005 +0000" stop="20260609063420 +0000" channel="irinn">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
+    <length units="seconds">256</length>
+  </programme>
   <programme start="20260609060005 +0000" stop="20260609061001 +0000" channel="irinn">
     <title>19 خرداد 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -53,15 +343,130 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260609105845 +0000" stop="20260609114445 +0000" channel="nasim">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2760</length>
+  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260609102201 +0000" stop="20260609102230 +0000" channel="varzesh">
+    <title>عذرخواهی سلمانی از پرسپولیسی‌ها</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">28</length>
+  </programme>
+  <programme start="20260609101234 +0000" stop="20260609103149 +0000" channel="varzesh">
+    <title>19 خرداد ۱۴۰۵ - بخش 1</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1156</length>
+  </programme>
+  <programme start="20260609100430 +0000" stop="20260609101225 +0000" channel="varzesh">
+    <title>گل های برتر آنتوان گریزمان - 19 خرداد ۱۴۰۵</title>
+    <sub-title>توی دروازه</sub-title>
+    <length units="seconds">476</length>
+  </programme>
+  <programme start="20260609080537 +0000" stop="20260609085530 +0000" channel="varzesh">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2993</length>
+  </programme>
+  <programme start="20260609060557 +0000" stop="20260609063539 +0000" channel="varzesh">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1782</length>
+  </programme>
+  <programme start="20260609060240 +0000" stop="20260609060537 +0000" channel="varzesh">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>مرشد زورخانه ای</sub-title>
+    <length units="seconds">178</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260609125455 +0000" stop="20260609125945 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۵</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260609125030 +0000" stop="20260609125340 +0000" channel="pooya">
+    <title>بهترین بابا - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260609123940 +0000" stop="20260609124415 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>باهم بازی (فصل جدید)</sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260609122940 +0000" stop="20260609123730 +0000" channel="pooya">
+    <title>قسمت ۸۰</title>
+    <sub-title>رابی و روبی</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260609121000 +0000" stop="20260609121510 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260609115310 +0000" stop="20260609115840 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۴</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260609113020 +0000" stop="20260609113910 +0000" channel="pooya">
+    <title>قسمت ۵۳ - بپا حوصله‌ات سر نره</title>
+    <sub-title>دوستان شاد</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20260609110030 +0000" stop="20260609112755 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>خانه آبنباتی (فصل جدید)</sub-title>
+    <length units="seconds">1644</length>
+  </programme>
+  <programme start="20260609105450 +0000" stop="20260609110020 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۳</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260609105130 +0000" stop="20260609105440 +0000" channel="pooya">
+    <title>ابر - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260609104125 +0000" stop="20260609104510 +0000" channel="pooya">
+    <title>قسمت ۱۸</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260609100940 +0000" stop="20260609101415 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260609085550 +0000" stop="20260609090005 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>پویانو</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260609085130 +0000" stop="20260609085435 +0000" channel="pooya">
+    <title>سوزن و قرقره - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">184</length>
+  </programme>
+  <programme start="20260609083950 +0000" stop="20260609084305 +0000" channel="pooya">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">194</length>
+  </programme>
+  <programme start="20260609080505 +0000" stop="20260609080815 +0000" channel="pooya">
+    <title>فصل‌ها - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">190</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -71,15 +476,220 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260609101540 +0000" stop="20260609101635 +0000" channel="tehran">
+    <title>19 خرداد 1405 - بخش 2</title>
+    <sub-title>خبرنگار مردمی</sub-title>
+    <length units="seconds">56</length>
+  </programme>
+  <programme start="20260609101135 +0000" stop="20260609101532 +0000" channel="tehran">
+    <title>پرچم بالا - 19 خرداد 1405</title>
+    <sub-title>نماهنگ (شبکه تهران)</sub-title>
+    <length units="seconds">237</length>
+  </programme>
+  <programme start="20260609090036 +0000" stop="20260609090142 +0000" channel="tehran">
+    <title>19 خرداد 1405 - بخش 1</title>
+    <sub-title>خبرنگار مردمی</sub-title>
+    <length units="seconds">66</length>
+  </programme>
+  <programme start="20260609070010 +0000" stop="20260609085010 +0000" channel="tehran">
+    <title>19 خرداد 1405</title>
+    <sub-title>سلام تهران 1405</sub-title>
+    <length units="seconds">6300</length>
+  </programme>
+  <programme start="20260609034420 +0000" stop="20260609035910 +0000" channel="tehran">
+    <title>19 خرداد 1405</title>
+    <sub-title>جهان گرد (شبکه تهران)</sub-title>
+    <length units="seconds">891</length>
+  </programme>
+  <programme start="20260609032240 +0000" stop="20260609034300 +0000" channel="tehran">
+    <title>19 خرداد 1405</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1211</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260609123721 +0000" stop="20260609130245 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>قرآن و نبرد</sub-title>
+    <length units="seconds">1524</length>
+  </programme>
+  <programme start="20260609114654 +0000" stop="20260609120255 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">962</length>
+  </programme>
+  <programme start="20260609103140 +0000" stop="20260609114440 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">4380</length>
+  </programme>
+  <programme start="20260609084951 +0000" stop="20260609085206 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مکتب (قرآن)</sub-title>
+    <length units="seconds">134</length>
+  </programme>
+  <programme start="20260609084001 +0000" stop="20260609084950 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>صبح ظهور (قرآن)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260609082809 +0000" stop="20260609084000 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
+    <length units="seconds">710</length>
+  </programme>
+  <programme start="20260609080427 +0000" stop="20260609082554 +0000" channel="quran">
+    <title>احمد شحات احمد سید - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1288</length>
+  </programme>
+  <programme start="20260609071923 +0000" stop="20260609075928 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">2406</length>
+  </programme>
+  <programme start="20260609070957 +0000" stop="20260609071856 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (قرآن)</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260609070516 +0000" stop="20260609070930 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260609064750 +0000" stop="20260609070515 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
+    <length units="seconds">1046</length>
+  </programme>
+  <programme start="20260609062308 +0000" stop="20260609063425 +0000" channel="quran">
+    <title>یونس شاهمرادی - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">676</length>
+  </programme>
+  <programme start="20260609060453 +0000" stop="20260609062305 +0000" channel="quran">
+    <title>آیت الله شیخ مجتبی قزوینی (ره) - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ضیافت</sub-title>
+    <length units="seconds">1092</length>
+  </programme>
+  <programme start="20260609060151 +0000" stop="20260609060451 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260609055314 +0000" stop="20260609060150 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">516</length>
+  </programme>
+  <programme start="20260609050159 +0000" stop="20260609053101 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مکارم الاخلاق </sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260609035125 +0000" stop="20260609050034 +0000" channel="quran">
+    <title>جزء ۱۹ - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">4148</length>
+  </programme>
+  <programme start="20260609033847 +0000" stop="20260609035108 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">742</length>
+  </programme>
+  <programme start="20260609033516 +0000" stop="20260609033821 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">184</length>
+  </programme>
+  <programme start="20260609032611 +0000" stop="20260609033515 +0000" channel="quran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">544</length>
+  </programme>
+  <programme start="20260609031709 +0000" stop="20260609032414 +0000" channel="quran">
+    <title>دعای نادعلی - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">426</length>
+  </programme>
+  <programme start="20260609025356 +0000" stop="20260609025907 +0000" channel="quran">
+    <title>محمدرضا زارع پناهی - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">310</length>
+  </programme>
+  <programme start="20260609015512 +0000" stop="20260609021012 +0000" channel="quran">
+    <title>دعای یستشیر - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">900</length>
+  </programme>
+  <programme start="20260609010450 +0000" stop="20260609015441 +0000" channel="quran">
+    <title>جزء ۱۹ - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">2990</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260609122620 +0000" stop="20260609123305 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">407</length>
+  </programme>
+  <programme start="20260609121530 +0000" stop="20260609121930 +0000" channel="amouzesh">
+    <title>ناد علی - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (آموزش)</sub-title>
+    <length units="seconds">241</length>
+  </programme>
+  <programme start="20260609113035 +0000" stop="20260609113930 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>باشگاه ذهن</sub-title>
+    <length units="seconds">535</length>
+  </programme>
+  <programme start="20260609100050 +0000" stop="20260609110440 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>مسابقه هوش یار</sub-title>
+    <length units="seconds">3818</length>
+  </programme>
+  <programme start="20260609095525 +0000" stop="20260609095820 +0000" channel="amouzesh">
+    <title>میدان آموزش - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20260609090000 +0000" stop="20260609095440 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>هیچ وقت دیر نیست </sub-title>
+    <length units="seconds">3280</length>
+  </programme>
+  <programme start="20260609064500 +0000" stop="20260609064745 +0000" channel="amouzesh">
+    <title>دختر شهید - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">165</length>
+  </programme>
+  <programme start="20260609062440 +0000" stop="20260609064410 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>از زمین خاکی</sub-title>
+    <length units="seconds">1170</length>
+  </programme>
+  <programme start="20260609060215 +0000" stop="20260609062225 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1210</length>
+  </programme>
+  <programme start="20260609045935 +0000" stop="20260609050210 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>الف تا</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260609030805 +0000" stop="20260609031735 +0000" channel="amouzesh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>مباحث احکام و اخلاق (آموزش)</sub-title>
+    <length units="seconds">570</length>
+  </programme>
   <programme start="20260609010045 +0000" stop="20260609012830 +0000" channel="amouzesh">
     <title>۱۹ خرداد ۱۴۰۵</title>
     <sub-title>نان و هنر (آموزش)</sub-title>
@@ -88,27 +698,177 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260609113850 +0000" stop="20260609115544 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>خدا با ماست </sub-title>
+    <length units="seconds">1002</length>
+  </programme>
+  <programme start="20260609095733 +0000" stop="20260609103756 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مشاعره سلامت</sub-title>
+    <length units="seconds">2415</length>
+  </programme>
+  <programme start="20260609095535 +0000" stop="20260609095729 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260609085751 +0000" stop="20260609094515 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2793</length>
+  </programme>
+  <programme start="20260609085550 +0000" stop="20260609085749 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">118</length>
+  </programme>
+  <programme start="20260609083232 +0000" stop="20260609085100 +0000" channel="salamat">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1089</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260609123042 +0000" stop="20260609125950 +0000" channel="ofogh">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>روشنا (افق)</sub-title>
+    <length units="seconds">1748</length>
+  </programme>
+  <programme start="20260609105450 +0000" stop="20260609105855 +0000" channel="ofogh">
+    <title>ایران خدا قوت - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">244</length>
+  </programme>
+  <programme start="20260609094550 +0000" stop="20260609100122 +0000" channel="ofogh">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مقاوم شهر </sub-title>
+    <length units="seconds">932</length>
+  </programme>
+  <programme start="20260609080133 +0000" stop="20260609085252 +0000" channel="ofogh">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3080</length>
+  </programme>
+  <programme start="20260609055735 +0000" stop="20260609055912 +0000" channel="ofogh">
+    <title>خیابان با ما - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260609040007 +0000" stop="20260609042601 +0000" channel="ofogh">
+    <title>خوی - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>سرزمین ستاره ها</sub-title>
+    <length units="seconds">1554</length>
+  </programme>
+  <programme start="20260609032400 +0000" stop="20260609033623 +0000" channel="ofogh">
+    <title>دعای صباح - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (افق)</sub-title>
+    <length units="seconds">742</length>
+  </programme>
+  <programme start="20260609024213 +0000" stop="20260609024939 +0000" channel="ofogh">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مسیر زندگی </sub-title>
+    <length units="seconds">446</length>
+  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260609091917 +0000" stop="20260609095930 +0000" channel="omid">
+    <title>قسمت 3</title>
+    <sub-title>آسمان همیشه ابری نیست</sub-title>
+    <length units="seconds">2412</length>
+  </programme>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260609111257 +0000" stop="20260609124315 +0000" channel="irinn2">
+    <title>نشست خبری وزیر ارتباطات و فناوری اطلاعات - 19 خرداد ۱۴۰۵ - بخش 2</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">5215</length>
+  </programme>
+  <programme start="20260609103046 +0000" stop="20260609111254 +0000" channel="irinn2">
+    <title>نشست خبری سخنگوی دولت - 19 خرداد ۱۴۰۵</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">2507</length>
+  </programme>
+  <programme start="20260609101459 +0000" stop="20260609103038 +0000" channel="irinn2">
+    <title>نشست خبری وزیر ارتباطات و فناوری اطلاعات - 19 خرداد ۱۴۰۵ - بخش 1</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">938</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260609123905 +0000" stop="20260609131115 +0000" channel="sahand">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ثقلین</sub-title>
+    <length units="seconds">1906</length>
+  </programme>
+  <programme start="20260609091205 +0000" stop="20260609095830 +0000" channel="sahand">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">2694</length>
+  </programme>
+  <programme start="20260609090445 +0000" stop="20260609091205 +0000" channel="sahand">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>با خبرنگاران (سهند)</sub-title>
+    <length units="seconds">432</length>
+  </programme>
+  <programme start="20260609080010 +0000" stop="20260609090440 +0000" channel="sahand">
+    <title>۱۹ خرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">3791</length>
+  </programme>
+  <programme start="20260609065935 +0000" stop="20260609072730 +0000" channel="sahand">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ارسباران (سهند)</sub-title>
+    <length units="seconds">1641</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260609123114 +0000" stop="20260609130140 +0000" channel="esfahan">
+    <title>فیزیک 3 - 19 خرداد ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی اصفهان</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260609114257 +0000" stop="20260609115743 +0000" channel="esfahan">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا (اصفهان)</sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20260609112759 +0000" stop="20260609114054 +0000" channel="esfahan">
+    <title>کنگره بزرگداشت 200 شهید مسجد فاطمیه - 19 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">776</length>
+  </programme>
+  <programme start="20260609100000 +0000" stop="20260609104853 +0000" channel="esfahan">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>سلام زندگی (اصفهان)</sub-title>
+    <length units="seconds">2932</length>
+  </programme>
+  <programme start="20260609090135 +0000" stop="20260609094748 +0000" channel="esfahan">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>و اما امروز</sub-title>
+    <length units="seconds">2774</length>
+  </programme>
+  <programme start="20260609083006 +0000" stop="20260609085901 +0000" channel="esfahan">
+    <title>زیست شناسی دوازدهم - 19 خرداد ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی اصفهان</sub-title>
+    <length units="seconds">1734</length>
+  </programme>
+  <programme start="20260609052650 +0000" stop="20260609055131 +0000" channel="esfahan">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>میراث کهن (اصفهان)</sub-title>
+    <length units="seconds">1480</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -127,18 +887,143 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260609120255 +0000" stop="20260609130419 +0000" channel="khorasanrazavi">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3684</length>
+  </programme>
+  <programme start="20260609103232 +0000" stop="20260609104608 +0000" channel="khorasanrazavi">
+    <title>سلام خورشید - 19 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">816</length>
+  </programme>
+  <programme start="20260609083026 +0000" stop="20260609093122 +0000" channel="khorasanrazavi">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>خانواده خراسانی </sub-title>
+    <length units="seconds">3656</length>
+  </programme>
+  <programme start="20260609052504 +0000" stop="20260609060033 +0000" channel="khorasanrazavi">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">2130</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260609105959 +0000" stop="20260609111539 +0000" channel="atrak">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260609100031 +0000" stop="20260609105249 +0000" channel="atrak">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (اترک)</sub-title>
+    <length units="seconds">3138</length>
+  </programme>
+  <programme start="20260609070031 +0000" stop="20260609080000 +0000" channel="atrak">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3568</length>
+  </programme>
+  <programme start="20260609055021 +0000" stop="20260609055813 +0000" channel="atrak">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>گیاهان دارویی (اترک)</sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260609022046 +0000" stop="20260609022317 +0000" channel="atrak">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>نجوا (اترک)</sub-title>
+    <length units="seconds">152</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260609123716 +0000" stop="20260609124423 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>به صرف هشتگ (خوزستان)</sub-title>
+    <length units="seconds">425</length>
+  </programme>
+  <programme start="20260609120154 +0000" stop="20260609120816 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">381</length>
+  </programme>
+  <programme start="20260609115840 +0000" stop="20260609115917 +0000" channel="khoozestan">
+    <title>خوش خبر - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">36</length>
+  </programme>
+  <programme start="20260609110126 +0000" stop="20260609115830 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">3413</length>
+  </programme>
+  <programme start="20260609093055 +0000" stop="20260609100458 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">2020</length>
+  </programme>
+  <programme start="20260609083108 +0000" stop="20260609092913 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>یه روز تازه (خوزستان)</sub-title>
+    <length units="seconds">3399</length>
+  </programme>
+  <programme start="20260609054742 +0000" stop="20260609055819 +0000" channel="khoozestan">
+    <title>سنگرهای بی نشان - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">636</length>
+  </programme>
+  <programme start="20260609035537 +0000" stop="20260609040407 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
+  <programme start="20260609031610 +0000" stop="20260609032940 +0000" channel="khoozestan">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مناجات امیرالمومنین (خوزستان) </sub-title>
+    <length units="seconds">798</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260609120005 +0000" stop="20260609120755 +0000" channel="eshragh">
+    <title>شهید احسان کرمی - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260609110000 +0000" stop="20260609111525 +0000" channel="eshragh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">926</length>
+  </programme>
+  <programme start="20260609072835 +0000" stop="20260609075605 +0000" channel="eshragh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>نیمه پنهان ماه (اشراق)</sub-title>
+    <length units="seconds">1650</length>
+  </programme>
+  <programme start="20260609072300 +0000" stop="20260609072830 +0000" channel="eshragh">
+    <title>گزیده اجتماع مردمی - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260609070555 +0000" stop="20260609072145 +0000" channel="eshragh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>سکانس برتر (اشراق)</sub-title>
+    <length units="seconds">950</length>
+  </programme>
+  <programme start="20260609061400 +0000" stop="20260609070550 +0000" channel="eshragh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>آلاداغلار</sub-title>
+    <length units="seconds">3110</length>
+  </programme>
+  <programme start="20260609060105 +0000" stop="20260609061120 +0000" channel="eshragh">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (اشراق)</sub-title>
+    <length units="seconds">614</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
@@ -148,12 +1033,92 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260609100000 +0000" stop="20260609110800 +0000" channel="fars">
+    <title>19 خرداد 1405</title>
+    <sub-title>کاشانه مهر (فارس)</sub-title>
+    <length units="seconds">4073</length>
+  </programme>
+  <programme start="20260609091430 +0000" stop="20260609092300 +0000" channel="fars">
+    <title>19 خرداد 1405</title>
+    <sub-title>چهل تیکه (فارس)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
+  <programme start="20260609060430 +0000" stop="20260609062900 +0000" channel="fars">
+    <title>19 خرداد 1405</title>
+    <sub-title>کوله پشتی (فارس)</sub-title>
+    <length units="seconds">1470</length>
+  </programme>
+  <programme start="20260609042630 +0000" stop="20260609050330 +0000" channel="fars">
+    <title>19 خرداد 1405</title>
+    <sub-title>دلنوازان (فارس)</sub-title>
+    <length units="seconds">2220</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260609110008 +0000" stop="20260609110248 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>خبر روز (قزوین)</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260609090634 +0000" stop="20260609095839 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>ماجرا های خانه ما </sub-title>
+    <length units="seconds">3126</length>
+  </programme>
+  <programme start="20260609075543 +0000" stop="20260609090312 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>صبح بخیر قزوین (قزوین)</sub-title>
+    <length units="seconds">4048</length>
+  </programme>
+  <programme start="20260609070039 +0000" stop="20260609072450 +0000" channel="qazvin">
+    <title>مستند مکرون - 19 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (قزوین)</sub-title>
+    <length units="seconds">1450</length>
+  </programme>
+  <programme start="20260609043407 +0000" stop="20260609044110 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>مواهب (قزوین)</sub-title>
+    <length units="seconds">422</length>
+  </programme>
+  <programme start="20260609032004 +0000" stop="20260609042357 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (قزوین)</sub-title>
+    <length units="seconds">3833</length>
+  </programme>
+  <programme start="20260609021540 +0000" stop="20260609024625 +0000" channel="qazvin">
+    <title>19 خرداد 1405</title>
+    <sub-title>دل افروزان (قزوین)</sub-title>
+    <length units="seconds">1846</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260609123130 +0000" stop="20260609124721 +0000" channel="noor">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">928</length>
+  </programme>
+  <programme start="20260609105135 +0000" stop="20260609110140 +0000" channel="noor">
+    <title>روایت حضور - 19 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20260609100117 +0000" stop="20260609105133 +0000" channel="noor">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>دکتر سلام (نور)</sub-title>
+    <length units="seconds">2978</length>
+  </programme>
+  <programme start="20260609061408 +0000" stop="20260609062358 +0000" channel="noor">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>زیارت حضرت معصومه (نور)</sub-title>
+    <length units="seconds">590</length>
+  </programme>
+  <programme start="20260609060513 +0000" stop="20260609061344 +0000" channel="noor">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (نور)</sub-title>
+    <length units="seconds">512</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -175,9 +1140,94 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260609115142 +0000" stop="20260609120325 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">691</length>
+  </programme>
+  <programme start="20260609111411 +0000" stop="20260609114608 +0000" channel="baran">
+    <title>مسجد نشان - ۱9 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">1917</length>
+  </programme>
+  <programme start="20260609100036 +0000" stop="20260609110132 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3552</length>
+  </programme>
+  <programme start="20260609090042 +0000" stop="20260609095559 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>رادیو شهر ما (باران)</sub-title>
+    <length units="seconds">3226</length>
+  </programme>
+  <programme start="20260609073038 +0000" stop="20260609084027 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4136</length>
+  </programme>
+  <programme start="20260609033601 +0000" stop="20260609044137 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">3831</length>
+  </programme>
+  <programme start="20260609032517 +0000" stop="20260609033400 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">522</length>
+  </programme>
+  <programme start="20260609023808 +0000" stop="20260609025003 +0000" channel="baran">
+    <title>۱9 خرداد ۱۴۰۵</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">714</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260609115545 +0000" stop="20260609121000 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>به ره و رووناکی (کردستان)</sub-title>
+    <length units="seconds">856</length>
+  </programme>
+  <programme start="20260609110115 +0000" stop="20260609115535 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>ژین وئه وین (کردستان)</sub-title>
+    <length units="seconds">3260</length>
+  </programme>
+  <programme start="20260609095635 +0000" stop="20260609095825 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>فضای مجازی شبکه کردستان</sub-title>
+    <length units="seconds">110</length>
+  </programme>
+  <programme start="20260609094910 +0000" stop="20260609095630 +0000" channel="kordestan">
+    <title>ایران همدل - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">440</length>
+  </programme>
+  <programme start="20260609090230 +0000" stop="20260609094825 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>روژمان (کردستان)</sub-title>
+    <length units="seconds">2754</length>
+  </programme>
+  <programme start="20260609083650 +0000" stop="20260609085805 +0000" channel="kordestan">
+    <title>هرمز جان - ۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1274</length>
+  </programme>
+  <programme start="20260609080825 +0000" stop="20260609083645 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">1700</length>
+  </programme>
+  <programme start="20260609064020 +0000" stop="20260609072210 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>تفسیر قرآن کریم (کردستان)</sub-title>
+    <length units="seconds">2510</length>
+  </programme>
+  <programme start="20260609060250 +0000" stop="20260609064010 +0000" channel="kordestan">
+    <title>۱۹ خرداد ۱۴۰۵</title>
+    <sub-title>دمی با قرآن (کردستان)</sub-title>
+    <length units="seconds">2240</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
@@ -187,6 +1237,26 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260609115233 +0000" stop="20260609120551 +0000" channel="aftab">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کساء (آفتاب)</sub-title>
+    <length units="seconds">798</length>
+  </programme>
+  <programme start="20260609080142 +0000" stop="20260609093302 +0000" channel="aftab">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5480</length>
+  </programme>
+  <programme start="20260609073036 +0000" stop="20260609074443 +0000" channel="aftab">
+    <title>روستای دهسد مزار مطهر شهید پاکپور - 19 خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
+    <length units="seconds">846</length>
+  </programme>
+  <programme start="20260609060130 +0000" stop="20260609061122 +0000" channel="aftab">
+    <title>19 خرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">592</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -196,6 +1266,26 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260609110000 +0000" stop="20260609110800 +0000" channel="khavaran">
+    <title>19 خرداد 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خاوران)</sub-title>
+    <length units="seconds">480</length>
+  </programme>
+  <programme start="20260609084107 +0000" stop="20260609090200 +0000" channel="khavaran">
+    <title>19 خرداد 1405</title>
+    <sub-title>روشنای شما (خاوران)</sub-title>
+    <length units="seconds">1252</length>
+  </programme>
+  <programme start="20260609073030 +0000" stop="20260609083900 +0000" channel="khavaran">
+    <title>19 خرداد 1405</title>
+    <sub-title>صبحانه (خاوران)</sub-title>
+    <length units="seconds">4110</length>
+  </programme>
+  <programme start="20260609065808 +0000" stop="20260609072700 +0000" channel="khavaran">
+    <title>19 خرداد 1405</title>
+    <sub-title>فرصت (خاوران)</sub-title>
+    <length units="seconds">1732</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
