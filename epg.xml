@@ -3,6 +3,31 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260616232200 +0000" stop="20260616235900 +0000" channel="tv1">
+    <title>26 خرداد 1405 - مرتضی طاهری </title>
+    <sub-title>رهنما</sub-title>
+    <length units="seconds">2220</length>
+  </programme>
+  <programme start="20260616221945 +0000" stop="20260616231130 +0000" channel="tv1">
+    <title>قسمت 1</title>
+    <sub-title>متولد آوریل</sub-title>
+    <length units="seconds">2750</length>
+  </programme>
+  <programme start="20260616210000 +0000" stop="20260616220115 +0000" channel="tv1">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3676</length>
+  </programme>
+  <programme start="20260616200415 +0000" stop="20260616204130 +0000" channel="tv1">
+    <title>26 خرداد 1405</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2234</length>
+  </programme>
+  <programme start="20260616192930 +0000" stop="20260616193530 +0000" channel="tv1">
+    <title>شب اول محرم - مسجد ارگ تهران - 26 خرداد 1405</title>
+    <sub-title>مداحی حاج منصور ارضی</sub-title>
+    <length units="seconds">360</length>
+  </programme>
   <programme start="20260616190843 +0000" stop="20260616192915 +0000" channel="tv1">
     <title>26 خرداد 1405</title>
     <sub-title>درس گفتاری از مکتب عاشورا (شبکه 1)</sub-title>
@@ -101,6 +126,31 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260616222322 +0000" stop="20260616224822 +0000" channel="tv2">
+    <title>۲۶ خرداد ۱۴۰۵ - محسن محمدی پناه </title>
+    <sub-title>پدر امت </sub-title>
+    <length units="seconds">1500</length>
+  </programme>
+  <programme start="20260616220115 +0000" stop="20260616221633 +0000" channel="tv2">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>سفر بخیر </sub-title>
+    <length units="seconds">918</length>
+  </programme>
+  <programme start="20260616211759 +0000" stop="20260616214821 +0000" channel="tv2">
+    <title> حاج محمود کریمی - شب دوم محرم - چیذر- آستان امام زاده علی اکبر - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>حسینیه امام خمینی (ره)</sub-title>
+    <length units="seconds">1822</length>
+  </programme>
+  <programme start="20260616205643 +0000" stop="20260616211222 +0000" channel="tv2">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>نوسان (شبکه 2)</sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260616203005 +0000" stop="20260616205640 +0000" channel="tv2">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1596</length>
+  </programme>
   <programme start="20260616195631 +0000" stop="20260616201702 +0000" channel="tv2">
     <title>۲6 خرداد ۱۴۰۵</title>
     <sub-title>پاورقی</sub-title>
@@ -234,6 +284,21 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260616213045 +0000" stop="20260616223135 +0000" channel="tv3">
+    <title>26 خرداد 1405 - بخش 4</title>
+    <sub-title>جام 26</sub-title>
+    <length units="seconds">2445</length>
+  </programme>
+  <programme start="20260616203647 +0000" stop="20260616210704 +0000" channel="tv3">
+    <title>روایت یک تغییر؛ قصه محمدسالار - 26 خرداد 1405</title>
+    <sub-title>خط قرمز </sub-title>
+    <length units="seconds">1818</length>
+  </programme>
+  <programme start="20260616195420 +0000" stop="20260616202535 +0000" channel="tv3">
+    <title>26 خرداد 1405</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">1874</length>
+  </programme>
   <programme start="20260616193650 +0000" stop="20260616195018 +0000" channel="tv3">
     <title>26 خرداد 1405 - بخش 2</title>
     <sub-title>اذان و نماز (شبکه ۳)</sub-title>
@@ -275,7 +340,7 @@
     <length units="seconds">3162</length>
   </programme>
   <programme start="20260616135746 +0000" stop="20260616140310 +0000" channel="tv3">
-    <title>کربلایی مجتبی رمضانی - هیات کربلا رفسنجان - شب اول محرم - 26 خرداد 1405</title>
+    <title>کربلایی مجتبی رمضانی - شب اول محرم  - هیات کربلا رفسنجان- 26 خرداد 1405</title>
     <sub-title>مداحی های محرم ۱۴۰5 (شبکه 3)</sub-title>
     <length units="seconds">324</length>
   </programme>
@@ -322,6 +387,31 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260616224926 +0000" stop="20260617001058 +0000" channel="tv4">
+    <title>26 خرداد 1405 - حجت الاسلام غلامرضا قاسمیان</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">4803</length>
+  </programme>
+  <programme start="20260616222330 +0000" stop="20260616224838 +0000" channel="tv4">
+    <title>همایش سراسری حکمرانی هم افزا - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 4)</sub-title>
+    <length units="seconds">1491</length>
+  </programme>
+  <programme start="20260616214520 +0000" stop="20260616222028 +0000" channel="tv4">
+    <title>میز وضعیت جنگی - 26 خرداد 1405</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">2099</length>
+  </programme>
+  <programme start="20260616210525 +0000" stop="20260616214518 +0000" channel="tv4">
+    <title>میز سنجه - 26 خرداد 1405</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">2385</length>
+  </programme>
+  <programme start="20260616200412 +0000" stop="20260616210010 +0000" channel="tv4">
+    <title>26 خرداد 1405 - بخش 3</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">2227</length>
+  </programme>
   <programme start="20260616194932 +0000" stop="20260616200114 +0000" channel="tv4">
     <title>26 خرداد 1405</title>
     <sub-title>حدیث کساء</sub-title>
@@ -400,6 +490,36 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260616225945 +0000" stop="20260616234740 +0000" channel="nasim">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>از سرگذشت </sub-title>
+    <length units="seconds">2874</length>
+  </programme>
+  <programme start="20260616222935 +0000" stop="20260616225340 +0000" channel="nasim">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>من حسین را دوست دارم </sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20260616221900 +0000" stop="20260616222455 +0000" channel="nasim">
+    <title>علیرضا قربانی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20260616210035 +0000" stop="20260616211930 +0000" channel="nasim">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">1134</length>
+  </programme>
+  <programme start="20260616200510 +0000" stop="20260616205255 +0000" channel="nasim">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>هزار داستان (نسیم)</sub-title>
+    <length units="seconds">2736</length>
+  </programme>
+  <programme start="20260616195345 +0000" stop="20260616195940 +0000" channel="nasim">
+    <title>ناد علی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
   <programme start="20260616193610 +0000" stop="20260616194305 +0000" channel="nasim">
     <title>۲۶ خرداد ۱۴۰۵</title>
     <sub-title>دعای چهاردهم صحیفه سجادیه </sub-title>
@@ -468,6 +588,46 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260616233405 +0000" stop="20260616235735 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">1410</length>
+  </programme>
+  <programme start="20260616233015 +0000" stop="20260616233405 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:30 (خبر)</sub-title>
+    <length units="seconds">230</length>
+  </programme>
+  <programme start="20260616230925 +0000" stop="20260616233010 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">1246</length>
+  </programme>
+  <programme start="20260616223430 +0000" stop="20260616230555 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵ - علی زینی وند</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1884</length>
+  </programme>
+  <programme start="20260616223010 +0000" stop="20260616223425 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260616220050 +0000" stop="20260616222545 +0000" channel="irinn">
+    <title>همایش سراسری حکمرانی هم‌افزا - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">1494</length>
+  </programme>
+  <programme start="20260616210000 +0000" stop="20260616220045 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3644</length>
+  </programme>
+  <programme start="20260616194930 +0000" stop="20260616205645 +0000" channel="irinn">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">4036</length>
+  </programme>
   <programme start="20260616193010 +0000" stop="20260616193505 +0000" channel="irinn">
     <title>۲۶ خرداد ۱۴۰۵</title>
     <sub-title>اخبار ساعت 19:30</sub-title>
@@ -678,46 +838,6 @@
     <sub-title>نگاهی به مطبوعات</sub-title>
     <length units="seconds">1070</length>
   </programme>
-  <programme start="20260616100010 +0000" stop="20260616100810 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 10:00 </sub-title>
-    <length units="seconds">480</length>
-  </programme>
-  <programme start="20260616095745 +0000" stop="20260616100010 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>بوم بیدار</sub-title>
-    <length units="seconds">144</length>
-  </programme>
-  <programme start="20260616094255 +0000" stop="20260616095715 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">860</length>
-  </programme>
-  <programme start="20260616093010 +0000" stop="20260616094255 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
-    <length units="seconds">766</length>
-  </programme>
-  <programme start="20260616090925 +0000" stop="20260616092855 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵ - حسن قشقاوی</title>
-    <sub-title>جنگ تحمیلی سوم</sub-title>
-    <length units="seconds">1170</length>
-  </programme>
-  <programme start="20260616090010 +0000" stop="20260616090925 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">556</length>
-  </programme>
-  <programme start="20260616083235 +0000" stop="20260616085945 +0000" channel="irinn">
-    <title>ساماندهی و نظارت بر بازار اجاره واحدهای مسکونی - ۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">1630</length>
-  </programme>
-  <programme start="20260616080000 +0000" stop="20260616082845 +0000" channel="irinn">
-    <title>۲۶ خرداد ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1724</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
@@ -777,6 +897,16 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260616214320 +0000" stop="20260616215945 +0000" channel="pooya">
+    <title>یک روز خوب - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>شب رویایی</sub-title>
+    <length units="seconds">986</length>
+  </programme>
+  <programme start="20260616213110 +0000" stop="20260616214320 +0000" channel="pooya">
+    <title>روز اول: چرا جنگ شد؟ - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>شب رویایی</sub-title>
+    <length units="seconds">730</length>
+  </programme>
   <programme start="20260616194820 +0000" stop="20260616195400 +0000" channel="pooya">
     <title>فانوس شب - ۲۶ خرداد ۱۴۰۵</title>
     <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
@@ -920,6 +1050,31 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260616234636 +0000" stop="20260616235400 +0000" channel="ifilm">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">444</length>
+  </programme>
+  <programme start="20260616230129 +0000" stop="20260616234513 +0000" channel="ifilm">
+    <title>قسمت ۴۳</title>
+    <sub-title>گیل دخت </sub-title>
+    <length units="seconds">2180</length>
+  </programme>
+  <programme start="20260616220036 +0000" stop="20260616225149 +0000" channel="ifilm">
+    <title>قسمت ۲۸</title>
+    <sub-title>یادآوری</sub-title>
+    <length units="seconds">2710</length>
+  </programme>
+  <programme start="20260616210135 +0000" stop="20260616214950 +0000" channel="ifilm">
+    <title>قسمت ۳۶</title>
+    <sub-title>دلدادگان</sub-title>
+    <length units="seconds">2522</length>
+  </programme>
+  <programme start="20260616200029 +0000" stop="20260616204614 +0000" channel="ifilm">
+    <title>قسمت ۴۸</title>
+    <sub-title>زمانه</sub-title>
+    <length units="seconds">2266</length>
+  </programme>
   <programme start="20260616190021 +0000" stop="20260616193921 +0000" channel="ifilm">
     <title>قسمت ۵۲</title>
     <sub-title>ناریا </sub-title>
@@ -943,9 +1098,38 @@
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260616210045 +0000" stop="20260616222950 +0000" channel="namayesh">
+    <title>تماس</title>
+    <length units="seconds">4670</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260616224442 +0000" stop="20260616225030 +0000" channel="tehran">
+    <title> رونمایی از پلاک خوردروهای منطقه آزاد شهر فرودگاهی امام خمینی  - 26 خرداد 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">348</length>
+  </programme>
+  <programme start="20260616221920 +0000" stop="20260616222700 +0000" channel="tehran">
+    <title>گرامیداشت شهدای جنگ 12روزه در قطعه 42 گلزار شهدای بهشت زهرا  - 26 خرداد 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">459</length>
+  </programme>
+  <programme start="20260616213400 +0000" stop="20260616220930 +0000" channel="tehran">
+    <title>شهریار - باغستان - 26 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه مردمی</sub-title>
+    <length units="seconds">2131</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616212900 +0000" channel="tehran">
+    <title>26 خرداد 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">5321</length>
+  </programme>
+  <programme start="20260616185210 +0000" stop="20260616194200 +0000" channel="tehran">
+    <title>قسمت 35</title>
+    <sub-title>عملیات 125</sub-title>
+    <length units="seconds">2835</length>
+  </programme>
   <programme start="20260616181730 +0000" stop="20260616183535 +0000" channel="tehran">
     <title>دختر ایران - 26 خرداد 1405</title>
     <sub-title>جنگ تحمیلی سوم</sub-title>
@@ -994,6 +1178,41 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260616222730 +0000" stop="20260616225700 +0000" channel="mostanad">
+    <title>26 خرداد 1405</title>
+    <sub-title>ترمه (مستند)</sub-title>
+    <length units="seconds">1770</length>
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260616222710 +0000" channel="mostanad">
+    <title>26 خرداد 1405</title>
+    <sub-title>معرکه</sub-title>
+    <length units="seconds">1630</length>
+  </programme>
+  <programme start="20260616210000 +0000" stop="20260616215300 +0000" channel="mostanad">
+    <title>مستند طبس 2 - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3180</length>
+  </programme>
+  <programme start="20260616200735 +0000" stop="20260616205600 +0000" channel="mostanad">
+    <title>26 خرداد 1405</title>
+    <sub-title>داستان های فوتبال (مستند)</sub-title>
+    <length units="seconds">2906</length>
+  </programme>
+  <programme start="20260616185940 +0000" stop="20260616192345 +0000" channel="mostanad">
+    <title>26 خرداد 1405</title>
+    <sub-title>مردم عادی</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20260616183640 +0000" stop="20260616185200 +0000" channel="mostanad">
+    <title>مستند معصومه - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">920</length>
+  </programme>
+  <programme start="20260616180200 +0000" stop="20260616183633 +0000" channel="mostanad">
+    <title>بازدید - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2072</length>
+  </programme>
   <programme start="20260616165942 +0000" stop="20260616175835 +0000" channel="mostanad">
     <title>مستند ساختمان شیشه ای - 26 خرداد 1405</title>
     <sub-title>برنامه اجتماعی (مستند)</sub-title>
@@ -1002,6 +1221,36 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260616234439 +0000" stop="20260616235001 +0000" channel="quran">
+    <title>حاج میثم مطیعی - شب دوم محرم - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>مداحی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">322</length>
+  </programme>
+  <programme start="20260616230546 +0000" stop="20260616234020 +0000" channel="quran">
+    <title>حجت الاسلام پناهیان - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>سخنرانی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">2074</length>
+  </programme>
+  <programme start="20260616224729 +0000" stop="20260616225453 +0000" channel="quran">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>حکیمانه </sub-title>
+    <length units="seconds">444</length>
+  </programme>
+  <programme start="20260616223307 +0000" stop="20260616224524 +0000" channel="quran">
+    <title>حاج منصور ارضی - حسینیه صنف لباس فروشان -  ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>مداحی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">738</length>
+  </programme>
+  <programme start="20260616220851 +0000" stop="20260616223245 +0000" channel="quran">
+    <title>تکیه نفرآباد - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه قرآن)</sub-title>
+    <length units="seconds">1414</length>
+  </programme>
+  <programme start="20260616220028 +0000" stop="20260616220825 +0000" channel="quran">
+    <title>حجت الاسلام موسوی درچه ای - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">482</length>
+  </programme>
   <programme start="20260616192918 +0000" stop="20260616194000 +0000" channel="quran">
     <title>حمید شاکرنژاد - ۲6 خرداد ۱۴۰۵</title>
     <sub-title>تلاوت قرآن</sub-title>
@@ -1222,29 +1471,24 @@
     <sub-title>ادعیه و زیارت (قرآن)</sub-title>
     <length units="seconds">590</length>
   </programme>
-  <programme start="20260616025222 +0000" stop="20260616025830 +0000" channel="quran">
-    <title>محمدرضا پورزرگری - ۲6 خرداد ۱۴۰۵</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">368</length>
-  </programme>
-  <programme start="20260616020532 +0000" stop="20260616021013 +0000" channel="quran">
-    <title>مسلم بن عقیل - ۲6 خرداد ۱۴۰۵</title>
-    <sub-title>انصارالحسین علیه السلام </sub-title>
-    <length units="seconds">280</length>
-  </programme>
-  <programme start="20260616014826 +0000" stop="20260616020329 +0000" channel="quran">
-    <title>دعای یستشیر - ۲6 خرداد ۱۴۰۵</title>
-    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
-    <length units="seconds">904</length>
-  </programme>
-  <programme start="20260616013346 +0000" stop="20260616014146 +0000" channel="quran">
-    <title>حجت الاسلام موسوی درچه ای - ۲6 خرداد ۱۴۰۵</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">480</length>
-  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260616221615 +0000" stop="20260616224805 +0000" channel="amouzesh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>مدهوش</sub-title>
+    <length units="seconds">1910</length>
+  </programme>
+  <programme start="20260616215205 +0000" stop="20260616221530 +0000" channel="amouzesh">
+    <title>تجمع مردمی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1406</length>
+  </programme>
+  <programme start="20260616200105 +0000" stop="20260616201740 +0000" channel="amouzesh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا</sub-title>
+    <length units="seconds">994</length>
+  </programme>
   <programme start="20260616190310 +0000" stop="20260616190800 +0000" channel="amouzesh">
     <title>انسانم آرزوست - ۲۶ خرداد ۱۴۰۵</title>
     <sub-title>برنامه اجتماعی (آموزش)</sub-title>
@@ -1363,6 +1607,31 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260616235028 +0000" stop="20260617001219 +0000" channel="salamat">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>یک قدم نزدیک تر</sub-title>
+    <length units="seconds">1280</length>
+  </programme>
+  <programme start="20260616232746 +0000" stop="20260616233524 +0000" channel="salamat">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ایده های ارزشمند </sub-title>
+    <length units="seconds">448</length>
+  </programme>
+  <programme start="20260616220230 +0000" stop="20260616225520 +0000" channel="salamat">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>تب فوتبال </sub-title>
+    <length units="seconds">3128</length>
+  </programme>
+  <programme start="20260616210233 +0000" stop="20260616214816 +0000" channel="salamat">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>حال خوب </sub-title>
+    <length units="seconds">2690</length>
+  </programme>
+  <programme start="20260616200444 +0000" stop="20260616205916 +0000" channel="salamat">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>کشیک سلامت </sub-title>
+    <length units="seconds">3234</length>
+  </programme>
   <programme start="20260616190944 +0000" stop="20260616192343 +0000" channel="salamat">
     <title>۲6 خرداد ۱۴۰۵</title>
     <sub-title>برنامه رادیویی من ایرانی هستم </sub-title>
@@ -1446,6 +1715,26 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260616222846 +0000" stop="20260616224520 +0000" channel="ofogh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>دل نوا</sub-title>
+    <length units="seconds">994</length>
+  </programme>
+  <programme start="20260616222513 +0000" stop="20260616222844 +0000" channel="ofogh">
+    <title>چراغ - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20260616222113 +0000" stop="20260616222510 +0000" channel="ofogh">
+    <title>خیال پرواز - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">238</length>
+  </programme>
+  <programme start="20260616202550 +0000" stop="20260616210648 +0000" channel="ofogh">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>پرچمدار </sub-title>
+    <length units="seconds">1809</length>
+  </programme>
   <programme start="20260616191557 +0000" stop="20260616193128 +0000" channel="ofogh">
     <title>حدیث کساء - ۲6 خرداد ۱۴۰۵</title>
     <sub-title>ادعیه و زیارت (افق)</sub-title>
@@ -1509,6 +1798,41 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260616231730 +0000" stop="20260616234600 +0000" channel="omid">
+    <title>26 خرداد 1405</title>
+    <sub-title>پیدای پنهان (محرم 1405)</sub-title>
+    <length units="seconds">1710</length>
+  </programme>
+  <programme start="20260616222500 +0000" stop="20260616231225 +0000" channel="omid">
+    <title>26 خرداد 1405</title>
+    <sub-title>ستاره ساز (فصل پنجم)</sub-title>
+    <length units="seconds">2836</length>
+  </programme>
+  <programme start="20260616220300 +0000" stop="20260616222050 +0000" channel="omid">
+    <title>26 خرداد 1405</title>
+    <sub-title>اشاره (امید)</sub-title>
+    <length units="seconds">1036</length>
+  </programme>
+  <programme start="20260616214610 +0000" stop="20260616220100 +0000" channel="omid">
+    <title>خواهی بشوی رسوا همرنگ جماعت شو - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (امید)</sub-title>
+    <length units="seconds">890</length>
+  </programme>
+  <programme start="20260616210534 +0000" stop="20260616214500 +0000" channel="omid">
+    <title>قسمت 11</title>
+    <sub-title>آسمان همیشه ابری نیست</sub-title>
+    <length units="seconds">2366</length>
+  </programme>
+  <programme start="20260616203100 +0000" stop="20260616205730 +0000" channel="omid">
+    <title>26 خرداد 1405</title>
+    <sub-title>هزار و یک اسم</sub-title>
+    <length units="seconds">1514</length>
+  </programme>
+  <programme start="20260616195400 +0000" stop="20260616195916 +0000" channel="omid">
+    <title>26 خرداد 1405</title>
+    <sub-title>هیس طوری</sub-title>
+    <length units="seconds">316</length>
+  </programme>
   <programme start="20260616190120 +0000" stop="20260616193000 +0000" channel="omid">
     <title>26 خرداد 1405</title>
     <sub-title>خونه آبی</sub-title>
@@ -1540,6 +1864,26 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260616222725 +0000" stop="20260617000001 +0000" channel="irinn2">
+    <title>آتش سوزی ارتفاعات قلات گچساران - 26 خرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">5556</length>
+  </programme>
+  <programme start="20260616221239 +0000" stop="20260616222721 +0000" channel="irinn2">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 1</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">869</length>
+  </programme>
+  <programme start="20260616210351 +0000" stop="20260616220839 +0000" channel="irinn2">
+    <title>مراسم سالگرد حمله رژیم صهیونی به ساختمان شیشه ای صداوسیما - 26 خرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3867</length>
+  </programme>
+  <programme start="20260616202743 +0000" stop="20260616205330 +0000" channel="irinn2">
+    <title>نشست کارگروه ارتباطات ستاد تشییع رهبر شهید انقلاب - 26 خرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1549</length>
+  </programme>
   <programme start="20260616173809 +0000" stop="20260616175945 +0000" channel="irinn2">
     <title>نشست شورای امنیت سازمان ملل درباره تحولات غرب آسیا - 26 خرداد 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -1591,6 +1935,26 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260616230710 +0000" stop="20260616235730 +0000" channel="sahand">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>عشق قافله سی</sub-title>
+    <length units="seconds">2903</length>
+  </programme>
+  <programme start="20260616223000 +0000" stop="20260616230535 +0000" channel="sahand">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30 (سهند)</sub-title>
+    <length units="seconds">2066</length>
+  </programme>
+  <programme start="20260616212545 +0000" stop="20260616221810 +0000" channel="sahand">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">3085</length>
+  </programme>
+  <programme start="20260616203130 +0000" stop="20260616212335 +0000" channel="sahand">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>حسینیه (سهند)</sub-title>
+    <length units="seconds">3125</length>
+  </programme>
   <programme start="20260616193000 +0000" stop="20260616195520 +0000" channel="sahand">
     <title>۲۶ خرداد ۱۴۰۵</title>
     <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
@@ -1639,6 +2003,31 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260616224822 +0000" stop="20260616232504 +0000" channel="alborz">
+    <title>26 خرداد 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">2202</length>
+  </programme>
+  <programme start="20260616213054 +0000" stop="20260616224525 +0000" channel="alborz">
+    <title>تجمع مردمی - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">4462</length>
+  </programme>
+  <programme start="20260616204505 +0000" stop="20260616212408 +0000" channel="alborz">
+    <title>روایت مقاومت - 26 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (البرز)</sub-title>
+    <length units="seconds">2278</length>
+  </programme>
+  <programme start="20260616200003 +0000" stop="20260616203335 +0000" channel="alborz">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
+    <length units="seconds">2012</length>
+  </programme>
+  <programme start="20260616185944 +0000" stop="20260616195214 +0000" channel="alborz">
+    <title>26 خرداد 1405</title>
+    <sub-title>نگاه مردم (البرز)</sub-title>
+    <length units="seconds">2936</length>
+  </programme>
   <programme start="20260616170715 +0000" stop="20260616183402 +0000" channel="alborz">
     <title>26 خرداد 1405</title>
     <sub-title>سین هشتم</sub-title>
@@ -1687,6 +2076,36 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616231710 +0000" channel="esfahan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (اصفهان)</sub-title>
+    <length units="seconds">1030</length>
+  </programme>
+  <programme start="20260616224545 +0000" stop="20260616224812 +0000" channel="esfahan">
+    <title>آیین نصب پرچم عزای حضرت اباعبدالله الحسین (ع) حرم مطهر حضرت محمد هلال بن علی (ع) - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه اصفهان)</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260616215944 +0000" stop="20260616221832 +0000" channel="esfahan">
+    <title>خاک و آب - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">1128</length>
+  </programme>
+  <programme start="20260616210015 +0000" stop="20260616215259 +0000" channel="esfahan">
+    <title>ایرانیا - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">3164</length>
+  </programme>
+  <programme start="20260616203747 +0000" stop="20260616205010 +0000" channel="esfahan">
+    <title>26 خرداد 1405</title>
+    <sub-title>سیمای راهبران</sub-title>
+    <length units="seconds">742</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616203423 +0000" channel="esfahan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">2064</length>
+  </programme>
   <programme start="20260616171324 +0000" stop="20260616172506 +0000" channel="esfahan">
     <title>شهروندان عراقی در مجلس گرامیداشت شهیدان محمدآباد - 26 خرداد 1405</title>
     <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
@@ -1750,12 +2169,132 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260616162123 +0000" stop="20260616164415 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه خبری (سبلان)</sub-title>
+    <length units="seconds">1372</length>
+  </programme>
+  <programme start="20260616160000 +0000" stop="20260616161417 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار 16:00 </sub-title>
+    <length units="seconds">858</length>
+  </programme>
+  <programme start="20260616132322 +0000" stop="20260616135710 +0000" channel="sabalan">
+    <title>فرزندان سبلان - 26 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">2028</length>
+  </programme>
+  <programme start="20260616125016 +0000" stop="20260616132232 +0000" channel="sabalan">
+    <title>محتاج - 26 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">1936</length>
+  </programme>
+  <programme start="20260616121031 +0000" stop="20260616121707 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>تلاوت قرآن (سبلان)</sub-title>
+    <length units="seconds">396</length>
+  </programme>
+  <programme start="20260616110015 +0000" stop="20260616111356 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">820</length>
+  </programme>
+  <programme start="20260616084216 +0000" stop="20260616085658 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>با مردم </sub-title>
+    <length units="seconds">882</length>
+  </programme>
+  <programme start="20260616080042 +0000" stop="20260616083239 +0000" channel="sabalan">
+    <title>عزاداری در بازار - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه سبلان)</sub-title>
+    <length units="seconds">1918</length>
+  </programme>
+  <programme start="20260616031416 +0000" stop="20260616032300 +0000" channel="sabalan">
+    <title>26 خرداد 1405</title>
+    <sub-title>دعای عهد (سبلان)</sub-title>
+    <length units="seconds">524</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20260616165949 +0000" stop="20260616172317 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 17:00 (ایلام)</sub-title>
+    <length units="seconds">1408</length>
+  </programme>
+  <programme start="20260616114945 +0000" stop="20260616120405 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>با خبرنگاران </sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260616070112 +0000" stop="20260616075853 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>شه وه کیانه </sub-title>
+    <length units="seconds">3462</length>
+  </programme>
+  <programme start="20260616035507 +0000" stop="20260616045822 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم</sub-title>
+    <length units="seconds">3794</length>
+  </programme>
+  <programme start="20260616034632 +0000" stop="20260616035504 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>دعای عهد (ایلام)</sub-title>
+    <length units="seconds">513</length>
+  </programme>
+  <programme start="20260616033633 +0000" stop="20260616033846 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>نجوا (ایلام)</sub-title>
+    <length units="seconds">133</length>
+  </programme>
+  <programme start="20260616030301 +0000" stop="20260616032510 +0000" channel="ilam">
+    <title>26 خرداد 1405</title>
+    <sub-title>مناجات حضرت امیرالمومنین </sub-title>
+    <length units="seconds">1330</length>
+  </programme>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260616200006 +0000" stop="20260616202146 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (بوشهر)</sub-title>
+    <length units="seconds">1300</length>
+  </programme>
+  <programme start="20260616185946 +0000" stop="20260616190418 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>جهان گرد (بوشهر)</sub-title>
+    <length units="seconds">272</length>
+  </programme>
+  <programme start="20260616180506 +0000" stop="20260616185940 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>گفت و گو</sub-title>
+    <length units="seconds">3274</length>
+  </programme>
+  <programme start="20260616170015 +0000" stop="20260616172117 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 17:00 (بوشهر)</sub-title>
+    <length units="seconds">1260</length>
+  </programme>
+  <programme start="20260616163218 +0000" stop="20260616165235 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1218</length>
+  </programme>
+  <programme start="20260616163013 +0000" stop="20260616163215 +0000" channel="bushehr">
+    <title>رنگ و جنگ - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260616153110 +0000" stop="20260616163009 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>بچه های آفتاب</sub-title>
+    <length units="seconds">3540</length>
+  </programme>
+  <programme start="20260616060900 +0000" stop="20260616064355 +0000" channel="bushehr">
+    <title>26 خرداد 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">2094</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
@@ -1807,6 +2346,26 @@
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616232205 +0000" channel="abadan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (آبادان)</sub-title>
+    <length units="seconds">1324</length>
+  </programme>
+  <programme start="20260616215347 +0000" stop="20260616225347 +0000" channel="abadan">
+    <title>تجمع مردمی - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3588</length>
+  </programme>
+  <programme start="20260616203007 +0000" stop="20260616213329 +0000" channel="abadan">
+    <title>26 خرداد 1405</title>
+    <sub-title>رواق حسین</sub-title>
+    <length units="seconds">3802</length>
+  </programme>
+  <programme start="20260616200007 +0000" stop="20260616200903 +0000" channel="abadan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آبادان)</sub-title>
+    <length units="seconds">536</length>
+  </programme>
   <programme start="20260616180139 +0000" stop="20260616190302 +0000" channel="abadan">
     <title>مستند خون طلایی آمنه - 26 خرداد 1405</title>
     <sub-title>برنامه فرهنگی و هنری (آبادان)</sub-title>
@@ -1840,6 +2399,36 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260616222412 +0000" stop="20260616222701 +0000" channel="khorasanrazavi">
+    <title>عزاداری مردم گیلان - حرم مطهر رضوی - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه خراسان رضوی)</sub-title>
+    <length units="seconds">170</length>
+  </programme>
+  <programme start="20260616220613 +0000" stop="20260616221131 +0000" channel="khorasanrazavi">
+    <title>عزاداری محرم - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه خراسان رضوی)</sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20260616220020 +0000" stop="20260616220526 +0000" channel="khorasanrazavi">
+    <title>26 خرداد 1405</title>
+    <sub-title>مروری بر خبرها</sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260616210247 +0000" stop="20260616220016 +0000" channel="khorasanrazavi">
+    <title>26 خرداد 1405</title>
+    <sub-title>ملت امام حسین</sub-title>
+    <length units="seconds">3448</length>
+  </programme>
+  <programme start="20260616202728 +0000" stop="20260616205704 +0000" channel="khorasanrazavi">
+    <title>26 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1714</length>
+  </programme>
+  <programme start="20260616195955 +0000" stop="20260616202722 +0000" channel="khorasanrazavi">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">1648</length>
+  </programme>
   <programme start="20260616194501 +0000" stop="20260616195522 +0000" channel="khorasanrazavi">
     <title>شهید علیرضا امیر - 26 خرداد 1405</title>
     <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
@@ -1908,6 +2497,26 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260616225954 +0000" stop="20260616231345 +0000" channel="atrak">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (اترک)</sub-title>
+    <length units="seconds">832</length>
+  </programme>
+  <programme start="20260616222852 +0000" stop="20260616224956 +0000" channel="atrak">
+    <title>اجتماع مردمی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1264</length>
+  </programme>
+  <programme start="20260616210027 +0000" stop="20260616222852 +0000" channel="atrak">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر</sub-title>
+    <length units="seconds">5306</length>
+  </programme>
+  <programme start="20260616195955 +0000" stop="20260616202942 +0000" channel="atrak">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1788</length>
+  </programme>
   <programme start="20260616180058 +0000" stop="20260616185125 +0000" channel="atrak">
     <title>۲6 خرداد ۱۴۰۵</title>
     <sub-title>سلام آبادی (اترک)</sub-title>
@@ -1941,9 +2550,74 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260616174852 +0000" stop="20260616175230 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>خبر خلیج فارس(خلیج فارس)</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260616171958 +0000" stop="20260616172614 +0000" channel="khalijefars">
+    <title>دل مردم - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">376</length>
+  </programme>
+  <programme start="20260616170512 +0000" stop="20260616171328 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>اینجا هرمزگان</sub-title>
+    <length units="seconds">496</length>
+  </programme>
+  <programme start="20260616164445 +0000" stop="20260616170100 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت ۱۶:۴۵ (خلیج فارس)</sub-title>
+    <length units="seconds">974</length>
+  </programme>
+  <programme start="20260616154822 +0000" stop="20260616163415 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>بچه ها کارتون</sub-title>
+    <length units="seconds">2754</length>
+  </programme>
+  <programme start="20260616111706 +0000" stop="20260616112804 +0000" channel="khalijefars">
+    <title>صبح ظهور - 26 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
+    <length units="seconds">658</length>
+  </programme>
+  <programme start="20260616094055 +0000" stop="20260616094744 +0000" channel="khalijefars">
+    <title>روایت و حکایت - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه خلیج فارس)</sub-title>
+    <length units="seconds">410</length>
+  </programme>
+  <programme start="20260616043731 +0000" stop="20260616045151 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>گل های بهشتی (خلیج فارس)</sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260616030643 +0000" stop="20260616031058 +0000" channel="khalijefars">
+    <title>26 خرداد 1405</title>
+    <sub-title>تا آسمان (خلیج فارس)</sub-title>
+    <length units="seconds">256</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260616225956 +0000" stop="20260616232637 +0000" channel="khoozestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (خوزستان)</sub-title>
+    <length units="seconds">1533</length>
+  </programme>
+  <programme start="20260616221518 +0000" stop="20260616224355 +0000" channel="khoozestan">
+    <title>مراسم عزاداری - مهرشهر - اهواز - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه خوزستان)</sub-title>
+    <length units="seconds">1706</length>
+  </programme>
+  <programme start="20260616213000 +0000" stop="20260616221510 +0000" channel="khoozestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>تراز</sub-title>
+    <length units="seconds">2688</length>
+  </programme>
+  <programme start="20260616200726 +0000" stop="20260616210847 +0000" channel="khoozestan">
+    <title>سازمان انتقال خون ایران - ۲6 خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3576</length>
+  </programme>
   <programme start="20260616184916 +0000" stop="20260616193827 +0000" channel="khoozestan">
     <title>۲6 خرداد ۱۴۰۵</title>
     <sub-title>لبیک یا حسین(ع)</sub-title>
@@ -2002,6 +2676,31 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616232135 +0000" channel="eshragh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (اشراق)</sub-title>
+    <length units="seconds">1294</length>
+  </programme>
+  <programme start="20260616222200 +0000" stop="20260616225440 +0000" channel="eshragh">
+    <title>اجتماع مردمی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1960</length>
+  </programme>
+  <programme start="20260616212020 +0000" stop="20260616222200 +0000" channel="eshragh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>بعثت خیابان</sub-title>
+    <length units="seconds">3542</length>
+  </programme>
+  <programme start="20260616205050 +0000" stop="20260616211240 +0000" channel="eshragh">
+    <title>پزشکی قانونی استان - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">1294</length>
+  </programme>
+  <programme start="20260616200300 +0000" stop="20260616204540 +0000" channel="eshragh">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اشراق)</sub-title>
+    <length units="seconds">2560</length>
+  </programme>
   <programme start="20260616192905 +0000" stop="20260616194940 +0000" channel="eshragh">
     <title>۲۶ خرداد ۱۴۰۵</title>
     <sub-title>برکت (اشراق)</sub-title>
@@ -2045,6 +2744,41 @@
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
+  <programme start="20260616200000 +0000" stop="20260616202904 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سمنان)</sub-title>
+    <length units="seconds">1744</length>
+  </programme>
+  <programme start="20260616173834 +0000" stop="20260616183106 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>با همیم (سمنان)</sub-title>
+    <length units="seconds">3152</length>
+  </programme>
+  <programme start="20260616164500 +0000" stop="20260616170019 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 16:45 (سمنان)</sub-title>
+    <length units="seconds">918</length>
+  </programme>
+  <programme start="20260616080124 +0000" stop="20260616084203 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>یه صبح تازه</sub-title>
+    <length units="seconds">2439</length>
+  </programme>
+  <programme start="20260616043846 +0000" stop="20260616044332 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>با ستاره ها (سمنان)</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260616033727 +0000" stop="20260616043845 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (سمنان)</sub-title>
+    <length units="seconds">3678</length>
+  </programme>
+  <programme start="20260616023807 +0000" stop="20260616031556 +0000" channel="semnan">
+    <title>26 خرداد 1405</title>
+    <sub-title>تا فلق (سمنان)</sub-title>
+    <length units="seconds">2268</length>
+  </programme>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
@@ -2071,6 +2805,31 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616231700 +0000" channel="fars">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (فارس)</sub-title>
+    <length units="seconds">1020</length>
+  </programme>
+  <programme start="20260616223630 +0000" stop="20260616225900 +0000" channel="fars">
+    <title>مردم دئر میدان - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
+  <programme start="20260616210430 +0000" stop="20260616223605 +0000" channel="fars">
+    <title>26 خرداد 1405</title>
+    <sub-title>ایراندخت</sub-title>
+    <length units="seconds">5496</length>
+  </programme>
+  <programme start="20260616202400 +0000" stop="20260616205800 +0000" channel="fars">
+    <title>باغ جنت - مراسم شب دوم محرم - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه فارس)</sub-title>
+    <length units="seconds">2040</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616202330 +0000" channel="fars">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">1410</length>
+  </programme>
   <programme start="20260616185000 +0000" stop="20260616185930 +0000" channel="fars">
     <title>26 خرداد 1405</title>
     <sub-title>روایت خانه</sub-title>
@@ -2134,6 +2893,61 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616231751 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (قزوین)</sub-title>
+    <length units="seconds">1062</length>
+  </programme>
+  <programme start="20260616212300 +0000" stop="20260616224930 +0000" channel="qazvin">
+    <title>تجمع مردمی - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">4577</length>
+  </programme>
+  <programme start="20260616205037 +0000" stop="20260616210711 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>در شهر (قزوین)</sub-title>
+    <length units="seconds">976</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616203026 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260616190814 +0000" stop="20260616194318 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>ره پیش</sub-title>
+    <length units="seconds">2104</length>
+  </programme>
+  <programme start="20260616170321 +0000" stop="20260616180226 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>گل و ریحان (قزوین)</sub-title>
+    <length units="seconds">3545</length>
+  </programme>
+  <programme start="20260616130557 +0000" stop="20260616133227 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>گپ و گفت </sub-title>
+    <length units="seconds">1590</length>
+  </programme>
+  <programme start="20260616110118 +0000" stop="20260616110401 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>خبر روز (قزوین)</sub-title>
+    <length units="seconds">162</length>
+  </programme>
+  <programme start="20260616090525 +0000" stop="20260616093305 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>گلخونه (قزوین)</sub-title>
+    <length units="seconds">1660</length>
+  </programme>
+  <programme start="20260616075457 +0000" stop="20260616090254 +0000" channel="qazvin">
+    <title>26 خرداد 1405</title>
+    <sub-title>صبح بخیر قزوین (قزوین)</sub-title>
+    <length units="seconds">4077</length>
+  </programme>
+  <programme start="20260616055509 +0000" stop="20260616061017 +0000" channel="qazvin">
+    <title>مستند چگونه ساخته شد - 26 خرداد 1405</title>
+    <sub-title>برنامه علمی</sub-title>
+    <length units="seconds">908</length>
+  </programme>
   <programme start="20260616050125 +0000" stop="20260616055123 +0000" channel="qazvin">
     <title>مستند سیاره زمین - 26 خرداد 1405</title>
     <sub-title>برنامه طبیعت و حیات وحش (قزوین)</sub-title>
@@ -2152,6 +2966,41 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260616230014 +0000" stop="20260616232236 +0000" channel="noor">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (قم)</sub-title>
+    <length units="seconds">1309</length>
+  </programme>
+  <programme start="20260616224500 +0000" stop="20260616230010 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 4</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">874</length>
+  </programme>
+  <programme start="20260616223000 +0000" stop="20260616224500 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 3</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">853</length>
+  </programme>
+  <programme start="20260616221500 +0000" stop="20260616223000 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 2</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">865</length>
+  </programme>
+  <programme start="20260616220252 +0000" stop="20260616221500 +0000" channel="noor">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 1</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">717</length>
+  </programme>
+  <programme start="20260616214510 +0000" stop="20260616215322 +0000" channel="noor">
+    <title>26 خرداد 1405</title>
+    <sub-title>دوربین قم (نور)</sub-title>
+    <length units="seconds">479</length>
+  </programme>
+  <programme start="20260616201720 +0000" stop="20260616212045 +0000" channel="noor">
+    <title>حرم مطهر حضرت فاطمه معصومه (س) - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه نور)</sub-title>
+    <length units="seconds">3743</length>
+  </programme>
   <programme start="20260616200013 +0000" stop="20260616201718 +0000" channel="noor">
     <title>26 خرداد 1405</title>
     <sub-title>اخبار ساعت 20:00</sub-title>
@@ -2316,6 +3165,51 @@
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260616172919 +0000" stop="20260616174532 +0000" channel="zagros">
+    <title>شهد عشق - 26 خرداد 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">972</length>
+  </programme>
+  <programme start="20260616130026 +0000" stop="20260616131518 +0000" channel="zagros">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار 13 </sub-title>
+    <length units="seconds">894</length>
+  </programme>
+  <programme start="20260616125250 +0000" stop="20260616125423 +0000" channel="zagros">
+    <title>مردم نوشت - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">92</length>
+  </programme>
+  <programme start="20260616120146 +0000" stop="20260616120314 +0000" channel="zagros">
+    <title>میدانم - 26 خرداد 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (زاگرس)</sub-title>
+    <length units="seconds">88</length>
+  </programme>
+  <programme start="20260616080145 +0000" stop="20260616085705 +0000" channel="zagros">
+    <title>26 خرداد 1405</title>
+    <sub-title>سلام کرمانشاه (زاگرس)</sub-title>
+    <length units="seconds">3310</length>
+  </programme>
+  <programme start="20260616060113 +0000" stop="20260616060957 +0000" channel="zagros">
+    <title>26 خرداد 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260616054534 +0000" stop="20260616055750 +0000" channel="zagros">
+    <title>26 خرداد 1405</title>
+    <sub-title>میراثی از  سناباد (زاگرس)</sub-title>
+    <length units="seconds">724</length>
+  </programme>
+  <programme start="20260616040050 +0000" stop="20260616043702 +0000" channel="zagros">
+    <title>درس هایی از نهج البلاغه - 26 خرداد 1405</title>
+    <sub-title>برنامه مذهبی (زاگرس)</sub-title>
+    <length units="seconds">2172</length>
+  </programme>
+  <programme start="20260616030823 +0000" stop="20260616031029 +0000" channel="zagros">
+    <title>26 خرداد 1405</title>
+    <sub-title>با شهدا (زاگرس)</sub-title>
+    <length units="seconds">126</length>
+  </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
@@ -2433,6 +3327,36 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260616233149 +0000" stop="20260616235850 +0000" channel="baran">
+    <title>مراسم عزاداری شب دوم محرم - میدان شهدای ذهاب رشت - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه باران)</sub-title>
+    <length units="seconds">1601</length>
+  </programme>
+  <programme start="20260616230036 +0000" stop="20260616232235 +0000" channel="baran">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (باران)</sub-title>
+    <length units="seconds">1258</length>
+  </programme>
+  <programme start="20260616214500 +0000" stop="20260616225030 +0000" channel="baran">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر (باران)</sub-title>
+    <length units="seconds">3808</length>
+  </programme>
+  <programme start="20260616210305 +0000" stop="20260616213605 +0000" channel="baran">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>حسینیه عشق (شبکه باران)</sub-title>
+    <length units="seconds">1934</length>
+  </programme>
+  <programme start="20260616203310 +0000" stop="20260616205600 +0000" channel="baran">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (باران)</sub-title>
+    <length units="seconds">1349</length>
+  </programme>
+  <programme start="20260616200025 +0000" stop="20260616203310 +0000" channel="baran">
+    <title>۲6 خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">1929</length>
+  </programme>
   <programme start="20260616192003 +0000" stop="20260616192420 +0000" channel="baran">
     <title>مراسم عزااداری شب اول لنگرود - ۲6 خرداد ۱۴۰۵</title>
     <sub-title>ویژه برنامه های محرم 1405 (شبکه باران)</sub-title>
@@ -2481,6 +3405,36 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260616230610 +0000" stop="20260616235935 +0000" channel="kordestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>ضربان (کردستان)</sub-title>
+    <length units="seconds">3206</length>
+  </programme>
+  <programme start="20260616222635 +0000" stop="20260616230025 +0000" channel="kordestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>عقل سرخ</sub-title>
+    <length units="seconds">2022</length>
+  </programme>
+  <programme start="20260616215645 +0000" stop="20260616222630 +0000" channel="kordestan">
+    <title>تجمع مردمی - ۲۶ خرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1785</length>
+  </programme>
+  <programme start="20260616212945 +0000" stop="20260616215640 +0000" channel="kordestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:30 (کردستان)</sub-title>
+    <length units="seconds">1616</length>
+  </programme>
+  <programme start="20260616211640 +0000" stop="20260616212930 +0000" channel="kordestan">
+    <title>تجمع مردمی - ۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">770</length>
+  </programme>
+  <programme start="20260616195220 +0000" stop="20260616195930 +0000" channel="kordestan">
+    <title>۲۶ خرداد ۱۴۰۵</title>
+    <sub-title>صهبای جان (کردستان)</sub-title>
+    <length units="seconds">430</length>
+  </programme>
   <programme start="20260616190910 +0000" stop="20260616194030 +0000" channel="kordestan">
     <title>حسینیه سنندج - ۲۶ خرداد ۱۴۰۵</title>
     <sub-title>ویژه برنامه های محرم 1405 (شبکه کردستان)</sub-title>
@@ -2539,9 +3493,64 @@
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
+  <programme start="20260616161558 +0000" stop="20260616163100 +0000" channel="taban">
+    <title>رابونا - 26 خرداد 1405</title>
+    <sub-title>برنامه ورزشی (یزد)</sub-title>
+    <length units="seconds">851</length>
+  </programme>
+  <programme start="20260616155440 +0000" stop="20260616161252 +0000" channel="taban">
+    <title>شمر زمانه ات را بشناس - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه یزد)</sub-title>
+    <length units="seconds">1092</length>
+  </programme>
+  <programme start="20260616134913 +0000" stop="20260616135507 +0000" channel="taban">
+    <title>تا پای جان - 26 خرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (یزد)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260616132945 +0000" stop="20260616134410 +0000" channel="taban">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت ۱۳:۳۰ (یزد)</sub-title>
+    <length units="seconds">864</length>
+  </programme>
+  <programme start="20260616080010 +0000" stop="20260616090357 +0000" channel="taban">
+    <title>26 خرداد 1405</title>
+    <sub-title>بفرمایید روضه</sub-title>
+    <length units="seconds">3828</length>
+  </programme>
+  <programme start="20260616060455 +0000" stop="20260616061000 +0000" channel="taban">
+    <title>26 خرداد 1405</title>
+    <sub-title>آن روزها (یزد)</sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260616033044 +0000" stop="20260616033545 +0000" channel="taban">
+    <title>دعای چهاردهم صحیفه سجادیه - 26 خرداد 1405</title>
+    <sub-title>ادعیه و زیارت (یزد)</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260616031230 +0000" stop="20260616032058 +0000" channel="taban">
+    <title>26 خرداد 1405</title>
+    <sub-title>دعای عهد (یزد)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260616023058 +0000" stop="20260616024342 +0000" channel="taban">
+    <title>ساعت سرخ - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه یزد)</sub-title>
+    <length units="seconds">764</length>
+  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260616164721 +0000" stop="20260616165558 +0000" channel="tabarestan">
+    <title>ایوان محرم - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه تبرستان)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
+  <programme start="20260616160010 +0000" stop="20260616164614 +0000" channel="tabarestan">
+    <title>26 خرداد 1405</title>
+    <sub-title>شاپرک (تبرستان)</sub-title>
+    <length units="seconds">2764</length>
+  </programme>
   <programme start="20260616130019 +0000" stop="20260616135035 +0000" channel="tabarestan">
     <title>26 خرداد 1405</title>
     <sub-title>راز سلامت (تبرستان)</sub-title>
@@ -2561,6 +3570,11 @@
     <title>26 خرداد 1405</title>
     <sub-title>اخبار ساعت 11:00 (تبرستان)</sub-title>
     <length units="seconds">898</length>
+  </programme>
+  <programme start="20260616095946 +0000" stop="20260616105802 +0000" channel="tabarestan">
+    <title>شور و شین - 26 خرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه تبرستان)</sub-title>
+    <length units="seconds">2603</length>
   </programme>
   <programme start="20260616090150 +0000" stop="20260616095857 +0000" channel="tabarestan">
     <title>26 خرداد 1405</title>
@@ -2600,6 +3614,46 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616232144 +0000" channel="aftab">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (آفتاب)</sub-title>
+    <length units="seconds">1304</length>
+  </programme>
+  <programme start="20260616223800 +0000" stop="20260616225743 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 5</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1182</length>
+  </programme>
+  <programme start="20260616222000 +0000" stop="20260616223800 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 4</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1080</length>
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260616222000 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 3</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1208</length>
+  </programme>
+  <programme start="20260616214000 +0000" stop="20260616220000 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 2</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1206</length>
+  </programme>
+  <programme start="20260616212505 +0000" stop="20260616214000 +0000" channel="aftab">
+    <title>اجتماع مردمی بیعت با رهبر معظم انقلاب و حمایت از رزمندگان اسلام - 26 خرداد 1405 - بخش 1</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20260616205110 +0000" stop="20260616210429 +0000" channel="aftab">
+    <title>26 خرداد 1405</title>
+    <sub-title>در استان (آفتاب)</sub-title>
+    <length units="seconds">782</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616203349 +0000" channel="aftab">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آفتاب)</sub-title>
+    <length units="seconds">2028</length>
+  </programme>
   <programme start="20260616175940 +0000" stop="20260616185421 +0000" channel="aftab">
     <title>26 خرداد 1405</title>
     <sub-title>رو در رو</sub-title>
@@ -2648,12 +3702,142 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260616201346 +0000" stop="20260616210501 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>مصباح الهدی (مهاباد)</sub-title>
+    <length units="seconds">3075</length>
+  </programme>
+  <programme start="20260616192913 +0000" stop="20260616195911 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
+    <length units="seconds">1632</length>
+  </programme>
+  <programme start="20260616164650 +0000" stop="20260616173835 +0000" channel="mahabad">
+    <title>پارسیان - 26 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (مهاباد)</sub-title>
+    <length units="seconds">3104</length>
+  </programme>
+  <programme start="20260616124623 +0000" stop="20260616125117 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>هاوری یانی هه تاو (مهاباد)</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20260616124332 +0000" stop="20260616124620 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>نجوا (مهاباد)</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260616105945 +0000" stop="20260616121331 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>خاووخیزان (مهاباد)</sub-title>
+    <length units="seconds">4426</length>
+  </programme>
+  <programme start="20260616082929 +0000" stop="20260616093513 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>کازیو (مهاباد)</sub-title>
+    <length units="seconds">3944</length>
+  </programme>
+  <programme start="20260616032501 +0000" stop="20260616033955 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>جهان گرد (مهاباد)</sub-title>
+    <length units="seconds">894</length>
+  </programme>
+  <programme start="20260616032205 +0000" stop="20260616032458 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>نجوا (مهاباد)</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260616025025 +0000" stop="20260616025924 +0000" channel="mahabad">
+    <title>26 خرداد 1405</title>
+    <sub-title>مواهب (مهاباد)</sub-title>
+    <length units="seconds">538</length>
+  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260616223244 +0000" stop="20260616230015 +0000" channel="sina">
+    <title>تجمع مردمی - 26 خرداد 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1638</length>
+  </programme>
+  <programme start="20260616220000 +0000" stop="20260616223221 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 22:00 (همدان)</sub-title>
+    <length units="seconds">1895</length>
+  </programme>
+  <programme start="20260616210007 +0000" stop="20260616215011 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>ایران حسین </sub-title>
+    <length units="seconds">3004</length>
+  </programme>
+  <programme start="20260616193511 +0000" stop="20260616194710 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>گفتگوی ویژه خبری (همدان)</sub-title>
+    <length units="seconds">718</length>
+  </programme>
+  <programme start="20260616190238 +0000" stop="20260616193510 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 19:00 (همدان)</sub-title>
+    <length units="seconds">1927</length>
+  </programme>
+  <programme start="20260616170106 +0000" stop="20260616171502 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>خیابان با ما</sub-title>
+    <length units="seconds">837</length>
+  </programme>
+  <programme start="20260616165438 +0000" stop="20260616170055 +0000" channel="sina">
+    <title>روایت و حکایت - 26 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (همدان)</sub-title>
+    <length units="seconds">376</length>
+  </programme>
+  <programme start="20260616160010 +0000" stop="20260616165157 +0000" channel="sina">
+    <title>مستند کهنز - 26 خرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (همدان)</sub-title>
+    <length units="seconds">3074</length>
+  </programme>
+  <programme start="20260616131554 +0000" stop="20260616134725 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>ایرانگرد (همدان)</sub-title>
+    <length units="seconds">1892</length>
+  </programme>
+  <programme start="20260616080008 +0000" stop="20260616085135 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>صبح عالی (همدان)</sub-title>
+    <length units="seconds">3087</length>
+  </programme>
+  <programme start="20260616045443 +0000" stop="20260616053457 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">2230</length>
+  </programme>
+  <programme start="20260616020321 +0000" stop="20260616023454 +0000" channel="sina">
+    <title>26 خرداد 1405</title>
+    <sub-title>ایرانگرد (همدان)</sub-title>
+    <length units="seconds">1858</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260616230000 +0000" stop="20260616231800 +0000" channel="khavaran">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 23:00 (خاوران)</sub-title>
+    <length units="seconds">1080</length>
+  </programme>
+  <programme start="20260616214500 +0000" stop="20260616223730 +0000" channel="khavaran">
+    <title>26 خرداد 1405</title>
+    <sub-title>تا پای جان</sub-title>
+    <length units="seconds">3152</length>
+  </programme>
+  <programme start="20260616204000 +0000" stop="20260616214000 +0000" channel="khavaran">
+    <title>26 خرداد 1405</title>
+    <sub-title>ایران حسین</sub-title>
+    <length units="seconds">1434</length>
+  </programme>
+  <programme start="20260616200000 +0000" stop="20260616202800 +0000" channel="khavaran">
+    <title>26 خرداد 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خاوران)</sub-title>
+    <length units="seconds">1680</length>
+  </programme>
   <programme start="20260616191850 +0000" stop="20260616192330 +0000" channel="khavaran">
     <title>سلاله - 26 خرداد 1405</title>
     <sub-title>ویژه برنامه های محرم 1405 (شبکه خاوران)</sub-title>
