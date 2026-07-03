@@ -3,12 +3,87 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260703111015 +0000" stop="20260703123107 +0000" channel="tv1">
+    <title>12 تیر 1405 - بخش 3</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">4852</length>
+  </programme>
+  <programme start="20260703092040 +0000" stop="20260703111014 +0000" channel="tv1">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405 - بخش 2</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">6574</length>
+  </programme>
+  <programme start="20260703074743 +0000" stop="20260703092110 +0000" channel="tv1">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405 - بخش 1</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">5608</length>
+  </programme>
+  <programme start="20260703053112 +0000" stop="20260703072917 +0000" channel="tv1">
+    <title>12 تیر 1405</title>
+    <sub-title>منتظران ظهور</sub-title>
+    <length units="seconds">7086</length>
+  </programme>
+  <programme start="20260703024146 +0000" stop="20260703033040 +0000" channel="tv1">
+    <title>12 تیر 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">2934</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260703111902 +0000" stop="20260703113127 +0000" channel="tv2">
+    <title>12 تیر 1405 </title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">746</length>
+  </programme>
+  <programme start="20260703102919 +0000" stop="20260703103856 +0000" channel="tv2">
+    <title>ادای احترام هیات های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405</title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">577</length>
+  </programme>
+  <programme start="20260703085357 +0000" stop="20260703091020 +0000" channel="tv2">
+    <title>12 تیر 1405</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">984</length>
+  </programme>
+  <programme start="20260703051622 +0000" stop="20260703052722 +0000" channel="tv2">
+    <title>خون بها - 12 تیر 1405</title>
+    <sub-title>فیلم کوتاه (شبکه ۲)</sub-title>
+    <length units="seconds">660</length>
+  </programme>
+  <programme start="20260703032701 +0000" stop="20260703033530 +0000" channel="tv2">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260703031537 +0000" stop="20260703032108 +0000" channel="tv2">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای هفتم صحیفه سجادیه</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260703031120 +0000" stop="20260703031459 +0000" channel="tv2">
+    <title>دعای نادعلی - 12 تیر 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">220</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260703113556 +0000" stop="20260703120743 +0000" channel="tv3">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">1908</length>
+  </programme>
+  <programme start="20260703104647 +0000" stop="20260703113553 +0000" channel="tv3">
+    <title>روزی که با تو بودم - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">2946</length>
+  </programme>
+  <programme start="20260703100400 +0000" stop="20260703104546 +0000" channel="tv3">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
+    <length units="seconds">2506</length>
+  </programme>
   <programme start="20260703010346 +0000" stop="20260703014204 +0000" channel="tv3">
     <title>12 تیر 1405</title>
     <sub-title>ضیافت دوست 1405</sub-title>
@@ -17,6 +92,16 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260703102949 +0000" stop="20260703105930 +0000" channel="tv4">
+    <title> مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت  - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 4)</sub-title>
+    <length units="seconds">1782</length>
+  </programme>
+  <programme start="20260703061355 +0000" stop="20260703064156 +0000" channel="tv4">
+    <title>12 تیر 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">1682</length>
+  </programme>
   <programme start="20260703060214 +0000" stop="20260703061102 +0000" channel="tv4">
     <title>12 تیر 1405</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
@@ -35,9 +120,169 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260703114956 +0000" stop="20260703115330 +0000" channel="nasim">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">214</length>
+  </programme>
+  <programme start="20260703110036 +0000" stop="20260703114710 +0000" channel="nasim">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2794</length>
+  </programme>
+  <programme start="20260703000127 +0000" stop="20260703000851 +0000" channel="nasim">
+    <title>قصه دخترای بابا - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>پاره های تن ایران</sub-title>
+    <length units="seconds">444</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260703120013 +0000" stop="20260703120639 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260703113624 +0000" stop="20260703115937 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1394</length>
+  </programme>
+  <programme start="20260703113015 +0000" stop="20260703113622 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">366</length>
+  </programme>
+  <programme start="20260703111547 +0000" stop="20260703113013 +0000" channel="irinn">
+    <title>12 تیر 1405 - محسن مومنی شریف </title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">866</length>
+  </programme>
+  <programme start="20260703111148 +0000" stop="20260703111547 +0000" channel="irinn">
+    <title>ورود معاون رییس جمهور ترکیه - 12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20260703110006 +0000" stop="20260703111101 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">656</length>
+  </programme>
+  <programme start="20260703104647 +0000" stop="20260703105922 +0000" channel="irinn">
+    <title>12 تیر 1405 - مولوی نظیر احمد سلامی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">754</length>
+  </programme>
+  <programme start="20260703103519 +0000" stop="20260703104646 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">686</length>
+  </programme>
+  <programme start="20260703103000 +0000" stop="20260703103516 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20260703102541 +0000" stop="20260703102949 +0000" channel="irinn">
+    <title>ورود رئیس جمهور عراق به فرودگاه مهرآباد - 12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260703101453 +0000" stop="20260703102540 +0000" channel="irinn">
+    <title>12 تیر 1405 - دکتر شیخ خلیل افرا</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">646</length>
+  </programme>
+  <programme start="20260703101114 +0000" stop="20260703101416 +0000" channel="irinn">
+    <title>ادای احترام هیئت اداره عالی مسلمانان گرجستان - 12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260703100009 +0000" stop="20260703101111 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">662</length>
+  </programme>
+  <programme start="20260703095118 +0000" stop="20260703095351 +0000" channel="irinn">
+    <title>ورود رئیس جمهور تاجیکستان به فرودگاه مهرآباد - 12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">154</length>
+  </programme>
+  <programme start="20260703094215 +0000" stop="20260703095117 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">542</length>
+  </programme>
+  <programme start="20260703093617 +0000" stop="20260703093830 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">132</length>
+  </programme>
+  <programme start="20260703093024 +0000" stop="20260703093538 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
+    <length units="seconds">314</length>
+  </programme>
+  <programme start="20260703092520 +0000" stop="20260703092944 +0000" channel="irinn">
+    <title>12 تیر 1405 - دکتر حامد موفق</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">264</length>
+  </programme>
+  <programme start="20260703092341 +0000" stop="20260703092517 +0000" channel="irinn">
+    <title>ورود هیئت ازبکستان به فرودگاه مهرآباد - 12 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">96</length>
+  </programme>
+  <programme start="20260703090842 +0000" stop="20260703092340 +0000" channel="irinn">
+    <title>12 تیر 1405 - حامد موفق بهروزی </title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260703090047 +0000" stop="20260703090837 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260703083240 +0000" stop="20260703084636 +0000" channel="irinn">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">836</length>
+  </programme>
+  <programme start="20260703075958 +0000" stop="20260703082911 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1754</length>
+  </programme>
+  <programme start="20260703073311 +0000" stop="20260703075636 +0000" channel="irinn">
+    <title>12 تیر 1405 - علوی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1404</length>
+  </programme>
+  <programme start="20260703073014 +0000" stop="20260703073307 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20260703071146 +0000" stop="20260703072943 +0000" channel="irinn">
+    <title>12 تیر 1405 - میر تاجدینی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1078</length>
+  </programme>
+  <programme start="20260703070012 +0000" stop="20260703071141 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">690</length>
+  </programme>
+  <programme start="20260703064116 +0000" stop="20260703065600 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">884</length>
+  </programme>
+  <programme start="20260703063013 +0000" stop="20260703063440 +0000" channel="irinn">
+    <title>12 تیر 1405</title>
+    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
+    <length units="seconds">266</length>
+  </programme>
   <programme start="20260703060010 +0000" stop="20260703061100 +0000" channel="irinn">
     <title>12 تیر 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -71,12 +316,82 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260703115911 +0000" stop="20260703120311 +0000" channel="varzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20260703105347 +0000" stop="20260703115528 +0000" channel="varzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>فوتبال یک 05-04</sub-title>
+    <length units="seconds">3702</length>
+  </programme>
+  <programme start="20260703100024 +0000" stop="20260703102506 +0000" channel="varzesh">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1482</length>
+  </programme>
+  <programme start="20260703075650 +0000" stop="20260703084557 +0000" channel="varzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2946</length>
+  </programme>
+  <programme start="20260703060030 +0000" stop="20260703063133 +0000" channel="varzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1862</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260703123125 +0000" stop="20260703124018 +0000" channel="pooya">
+    <title>قسمت 12</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">532</length>
+  </programme>
+  <programme start="20260703121443 +0000" stop="20260703121915 +0000" channel="pooya">
+    <title>12 تیر 1405 </title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">272</length>
+  </programme>
+  <programme start="20260703120054 +0000" stop="20260703120400 +0000" channel="pooya">
+    <title>آقاجان - 12 تیر 1405 </title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">186</length>
+  </programme>
+  <programme start="20260703114535 +0000" stop="20260703120030 +0000" channel="pooya">
+    <title>12 تیر 1405 - بخش 3</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">895</length>
+  </programme>
+  <programme start="20260703113546 +0000" stop="20260703114437 +0000" channel="pooya">
+    <title>قسمت 7</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20260703110028 +0000" stop="20260703113229 +0000" channel="pooya">
+    <title>12 تیر 1405 - بخش 2</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">1921</length>
+  </programme>
+  <programme start="20260703095754 +0000" stop="20260703101254 +0000" channel="pooya">
+    <title>12 تیر 1405</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">900</length>
+  </programme>
+  <programme start="20260703085634 +0000" stop="20260703090023 +0000" channel="pooya">
+    <title>قسمت 62</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260703081020 +0000" stop="20260703081503 +0000" channel="pooya">
+    <title>12 تیر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">282</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -86,36 +401,311 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260703105913 +0000" stop="20260703115920 +0000" channel="tehran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">3588</length>
+  </programme>
+  <programme start="20260703093906 +0000" stop="20260703105835 +0000" channel="tehran">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر رهبر شهید انقلاب - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">4720</length>
+  </programme>
+  <programme start="20260703070041 +0000" stop="20260703075305 +0000" channel="tehran">
+    <title>حقوق بی بشر - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه تهران)</sub-title>
+    <length units="seconds">3122</length>
+  </programme>
+  <programme start="20260703062130 +0000" stop="20260703065338 +0000" channel="tehran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>شهر امن </sub-title>
+    <length units="seconds">1919</length>
+  </programme>
+  <programme start="20260703034122 +0000" stop="20260703040500 +0000" channel="tehran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1409</length>
+  </programme>
+  <programme start="20260703032003 +0000" stop="20260703032705 +0000" channel="tehran">
+    <title>صفحه ۱۲۸ - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>نهضت تلاوت</sub-title>
+    <length units="seconds">412</length>
+  </programme>
+  <programme start="20260703020354 +0000" stop="20260703025315 +0000" channel="tehran">
+    <title>روزی که با تو بودم - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">2960</length>
+  </programme>
+  <programme start="20260703000036 +0000" stop="20260703020027 +0000" channel="tehran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>سدره </sub-title>
+    <length units="seconds">7191</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260703115300 +0000" stop="20260703120353 +0000" channel="quran">
+    <title>آقای محمدصادق صارمی - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">652</length>
+  </programme>
+  <programme start="20260703113551 +0000" stop="20260703115217 +0000" channel="quran">
+    <title>مراسم وداع با پیکر مطهر رهبر انقلاب در حسینیه امام خمینی (ره) - 11 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">986</length>
+  </programme>
+  <programme start="20260703084052 +0000" stop="20260703094230 +0000" channel="quran">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر رهبر شهید انقلاب - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3698</length>
+  </programme>
+  <programme start="20260703081607 +0000" stop="20260703083243 +0000" channel="quran">
+    <title>ادای احترام هیئت های خارجی به پیکر پاک رهبر شهید انقلاب - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">998</length>
+  </programme>
+  <programme start="20260703070619 +0000" stop="20260703080153 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>دعای ندبه (قرآن)</sub-title>
+    <length units="seconds">3334</length>
+  </programme>
+  <programme start="20260703070143 +0000" stop="20260703070555 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">252</length>
+  </programme>
+  <programme start="20260703064830 +0000" stop="20260703070119 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
+    <length units="seconds">768</length>
+  </programme>
+  <programme start="20260703063224 +0000" stop="20260703064743 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">918</length>
+  </programme>
+  <programme start="20260703061657 +0000" stop="20260703063015 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">796</length>
+  </programme>
+  <programme start="20260703061000 +0000" stop="20260703061635 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>تربت ما (قرآن)</sub-title>
+    <length units="seconds">394</length>
+  </programme>
+  <programme start="20260703060730 +0000" stop="20260703061000 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260703060549 +0000" stop="20260703060730 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>سلام بر حسین علیه السلام</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260703060412 +0000" stop="20260703060549 +0000" channel="quran">
+    <title>شهد گوارای شهادت - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (قرآن)</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260703055659 +0000" stop="20260703060410 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>آیات ایستادگی (قرآن)</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20260703055215 +0000" stop="20260703055658 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>انصارالحسین علیه السلام </sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20260703053800 +0000" stop="20260703054827 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>زیارت وارث</sub-title>
+    <length units="seconds">626</length>
+  </programme>
+  <programme start="20260703051027 +0000" stop="20260703053630 +0000" channel="quran">
+    <title>حجت الاسلام ماندگاری - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>سخنرانی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">1562</length>
+  </programme>
+  <programme start="20260703040401 +0000" stop="20260703050719 +0000" channel="quran">
+    <title>جز ۱۲ - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3798</length>
+  </programme>
+  <programme start="20260703034507 +0000" stop="20260703040026 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">918</length>
+  </programme>
+  <programme start="20260703034123 +0000" stop="20260703034442 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260703033329 +0000" stop="20260703034122 +0000" channel="quran">
+    <title>صفحه ۷۴</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260703025805 +0000" stop="20260703030659 +0000" channel="quran">
+    <title>آقای وحید وکیلی - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">534</length>
+  </programme>
+  <programme start="20260703024249 +0000" stop="20260703025802 +0000" channel="quran">
+    <title>مراسم وداع با رهبر شهید انقلاب - حسینیه امام خمینی (ره) - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">913</length>
+  </programme>
+  <programme start="20260703003333 +0000" stop="20260703015552 +0000" channel="quran">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>نیایش به وقت حاج قاسم</sub-title>
+    <length units="seconds">4938</length>
+  </programme>
+  <programme start="20260703001013 +0000" stop="20260703001857 +0000" channel="quran">
+    <title>اگر نبود - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">524</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260703100543 +0000" stop="20260703105614 +0000" channel="amouzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>خانه های نورانی</sub-title>
+    <length units="seconds">3029</length>
+  </programme>
+  <programme start="20260703085957 +0000" stop="20260703093940 +0000" channel="amouzesh">
+    <title>سایه سرو بلند - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">2325</length>
+  </programme>
+  <programme start="20260703082700 +0000" stop="20260703085030 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - دین و زندگی - جلسه نهم - 12 تیر 1405</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1409</length>
+  </programme>
+  <programme start="20260703080206 +0000" stop="20260703082220 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - دین و زندگی - جلسه هشتم - 12 تیر 1405</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1214</length>
+  </programme>
+  <programme start="20260703073253 +0000" stop="20260703075132 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - دین و زندگی - جلسه هفتم - 12 تیر 1405</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1119</length>
+  </programme>
+  <programme start="20260703070049 +0000" stop="20260703072331 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - دین و زندگی - جلسه ششم - 12 تیر 1405</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1363</length>
+  </programme>
+  <programme start="20260703060205 +0000" stop="20260703062405 +0000" channel="amouzesh">
+    <title>12 تیر 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1321</length>
+  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260703110502 +0000" stop="20260703111723 +0000" channel="salamat">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">741</length>
+  </programme>
+  <programme start="20260703090153 +0000" stop="20260703094400 +0000" channel="salamat">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2444</length>
+  </programme>
+  <programme start="20260703090002 +0000" stop="20260703090153 +0000" channel="salamat">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">111</length>
+  </programme>
+  <programme start="20260703083546 +0000" stop="20260703085435 +0000" channel="salamat">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1120</length>
+  </programme>
+  <programme start="20260703075019 +0000" stop="20260703080700 +0000" channel="salamat">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ناسلامتی</sub-title>
+    <length units="seconds">957</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260703115107 +0000" stop="20260703115735 +0000" channel="ofogh">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260703103000 +0000" stop="20260703105828 +0000" channel="ofogh">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">1708</length>
+  </programme>
+  <programme start="20260703080113 +0000" stop="20260703103000 +0000" channel="ofogh">
+    <title>مراسم وداع با رهبر شهید انقلاب - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">8926</length>
+  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260703115539 +0000" stop="20260703120432 +0000" channel="omid">
+    <title>12 تیر 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">534</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260703090000 +0000" stop="20260703114100 +0000" channel="irinn2">
+    <title>ادای احترام شخصیت های خارجی به آقای شهید ایران بخش 2 - 12 تیر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">9425</length>
+  </programme>
+  <programme start="20260703070554 +0000" stop="20260703090000 +0000" channel="irinn2">
+    <title>ادای احترام شخصیت های خارجی به آقای شهید ایران - 12 تیر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">6753</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260703082440 +0000" stop="20260703085945 +0000" channel="sahand">
+    <title>پدر امت - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">2037</length>
+  </programme>
+  <programme start="20260703065636 +0000" stop="20260703074820 +0000" channel="sahand">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای ندبه (سهند)</sub-title>
+    <length units="seconds">3067</length>
+  </programme>
+  <programme start="20260703064559 +0000" stop="20260703065400 +0000" channel="sahand">
+    <title>12 تیر 1405</title>
+    <sub-title>شهریار ایران (سهند)</sub-title>
+    <length units="seconds">481</length>
+  </programme>
+  <programme start="20260703063710 +0000" stop="20260703064556 +0000" channel="sahand">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
   <programme start="20260703051237 +0000" stop="20260703053453 +0000" channel="sahand">
     <title>قرآن و جامعه - 12 تیر 1405</title>
     <sub-title>برنامه اجتماعی (سهند)</sub-title>
@@ -149,9 +739,44 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260703115148 +0000" stop="20260703115628 +0000" channel="alborz">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260703110815 +0000" stop="20260703111500 +0000" channel="alborz">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">406</length>
+  </programme>
+  <programme start="20260703075901 +0000" stop="20260703080010 +0000" channel="alborz">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>خبر 68 ثانیه ای (شبکه البرز)</sub-title>
+    <length units="seconds">70</length>
+  </programme>
+  <programme start="20260703074320 +0000" stop="20260703075850 +0000" channel="alborz">
+    <title>۱۲ تیر ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">930</length>
+  </programme>
+  <programme start="20260703061635 +0000" stop="20260703073000 +0000" channel="alborz">
+    <title>دعای ندبه - ۱۲ تیر ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (البرز)</sub-title>
+    <length units="seconds">4406</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260703090914 +0000" stop="20260703095255 +0000" channel="esfahan">
+    <title>12 تیر 1405</title>
+    <sub-title>میثاق</sub-title>
+    <length units="seconds">2622</length>
+  </programme>
+  <programme start="20260703061830 +0000" stop="20260703072945 +0000" channel="esfahan">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای ندبه (اصفهان)</sub-title>
+    <length units="seconds">4276</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -170,15 +795,80 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260703055723 +0000" stop="20260703064156 +0000" channel="khorasanrazavi">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای ندبه (خراسان رضوی)</sub-title>
+    <length units="seconds">2674</length>
+  </programme>
+  <programme start="20260703003216 +0000" stop="20260703011138 +0000" channel="khorasanrazavi">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای کمیل (خراسان رضوی)</sub-title>
+    <length units="seconds">2362</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260703100713 +0000" stop="20260703112058 +0000" channel="atrak">
+    <title>12 تیر 1405</title>
+    <sub-title>وداع یک امت </sub-title>
+    <length units="seconds">4425</length>
+  </programme>
+  <programme start="20260703060355 +0000" stop="20260703070215 +0000" channel="atrak">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای ندبه (اترک)</sub-title>
+    <length units="seconds">3500</length>
+  </programme>
+  <programme start="20260703024803 +0000" stop="20260703025629 +0000" channel="atrak">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای عهد (اترک)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260703022524 +0000" stop="20260703022756 +0000" channel="atrak">
+    <title>12 تیر 1405</title>
+    <sub-title>نجوا (اترک)</sub-title>
+    <length units="seconds">152</length>
+  </programme>
+  <programme start="20260703010615 +0000" stop="20260703020627 +0000" channel="atrak">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای کمیل (اترک)</sub-title>
+    <length units="seconds">3612</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260703115022 +0000" stop="20260703115727 +0000" channel="khoozestan">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">414</length>
+  </programme>
+  <programme start="20260703104104 +0000" stop="20260703105540 +0000" channel="khoozestan">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">874</length>
+  </programme>
+  <programme start="20260703100510 +0000" stop="20260703103841 +0000" channel="khoozestan">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">1954</length>
+  </programme>
+  <programme start="20260703093341 +0000" stop="20260703095805 +0000" channel="khoozestan">
+    <title>مراسم ادای احترام هیئت های خارجی به پیکر مطهر قائد شهید امت </title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">1395</length>
+  </programme>
+  <programme start="20260703083804 +0000" stop="20260703093125 +0000" channel="khoozestan">
+    <title>رهنما - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">3109</length>
+  </programme>
+  <programme start="20260703060325 +0000" stop="20260703063620 +0000" channel="khoozestan">
+    <title>پدر امت - 12 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">1952</length>
+  </programme>
   <programme start="20260703045907 +0000" stop="20260703054146 +0000" channel="khoozestan">
     <title>12 تیر 1405</title>
     <sub-title>دعای ندبه (خوزستان)</sub-title>
@@ -245,6 +935,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260703101516 +0000" stop="20260703102628 +0000" channel="aftab">
+    <title> 12 تیر 1405 - بخش 2</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">672</length>
+  </programme>
+  <programme start="20260703070659 +0000" stop="20260703071811 +0000" channel="aftab">
+    <title>12 تیر 1405 - بخش 1</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">672</length>
+  </programme>
+  <programme start="20260703060145 +0000" stop="20260703070625 +0000" channel="aftab">
+    <title>12 تیر 1405</title>
+    <sub-title>دعای ندبه (آفتاب)</sub-title>
+    <length units="seconds">3880</length>
+  </programme>
   <programme start="20260703050401 +0000" stop="20260703055400 +0000" channel="aftab">
     <title>میراث مرثیه - 12 تیر 1405</title>
     <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
