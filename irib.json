@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-04T13:29:53.860580",
+  "generated": "2026-07-04T19:16:51.940147",
   "credit": "@kgkaku",
-  "total_channels": 85,
+  "total_channels": 86,
   "channels": [
     {
       "descriptor": "tv1",
@@ -12,10 +12,10 @@
       "group_name_en": "National",
       "has_archive": true,
       "priority": 1,
-      "logo_url": "https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default",
+      "logo_url": "https://static.telewebion.ir/channelsLogo/6557542f-fa8d-407f-9947-b9c3b055192e/default",
       "stream_url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
       "channel_id": "0x1b1a6d1",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNDU3NCwiZXhwIjoxODE0NjcwNTc0fQ.LkABaj_316ylNcmC1DdO2p5o8Ed31aiZ4sXR7M1K7uA",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA3MDQzNiwiZXhwIjoxODE0NjA2NDM2fQ.7JitmOAs4UUhr3alFs6f3JTxuo7CKgNbI7HVGtRYlsI",
       "epg_code": 31
     },
     {
@@ -30,7 +30,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default",
       "stream_url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
       "channel_id": "0x1b1a719",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzM0OCwiZXhwIjoxODE0NjIzMzQ4fQ.LqpKJiH4J-6JhNX1Q3EvxdSxPK1b07troN2ZKKoJU_Q",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg3ODAwMiwiZXhwIjoxODE0NDE0MDAyfQ.kOQQzF0a1y8j-Pg3COdA2M09-I3PwrlycnxuleOVUG4",
       "epg_code": 32
     },
     {
@@ -45,7 +45,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default",
       "stream_url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
       "channel_id": "0x1b1a761",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTMxOSwiZXhwIjoxODE0Mzg1MzE5fQ.jW3zjoSbYz_y9g3BXre_AstT_saXbrxNaVzQ-f8BVR0",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjY1NDMzNCwiZXhwIjoxODE0MTkwMzM0fQ.UBL83Wxm9TWIm5wfotFdtQN9mMYO6f9QLDFxaekSP98",
       "epg_code": 33
     },
     {
@@ -60,23 +60,8 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default",
       "stream_url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
       "channel_id": "0x1b1a6e1",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc2Mjg0OCwiZXhwIjoxODE0Mjk4ODQ4fQ.Jviuvul95O18T5bwoykafbJ_o5Cb8zFMGI8LV7xalPI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDAzMCwiZXhwIjoxODE0NjkwMDMwfQ.O-1lwUVYuIuru0QAiFJQXTDfRL5ba85VAjDPTjd8z4k",
       "epg_code": 34
-    },
-    {
-      "descriptor": "nasim",
-      "name_fa": "نسیم",
-      "name_en": "Nasim",
-      "type": "سراسری",
-      "type_descriptor": "national",
-      "group_name_en": "National",
-      "has_archive": true,
-      "priority": 5,
-      "logo_url": "https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default",
-      "stream_url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
-      "channel_id": "0x1b1a77d",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgyOTAxOSwiZXhwIjoxODE0MzY1MDE5fQ._-x9eYT5bgY1b-_r9mCNL2SIDZpGe0L34IVoBgRSxI8",
-      "epg_code": 49
     },
     {
       "descriptor": "irinn",
@@ -90,8 +75,23 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
       "stream_url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
       "channel_id": "0x1b1a6e0",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2MzUyNywiZXhwIjoxODE0NDk5NTI3fQ.biW7aNUjAqL81hPtMrHzQ44xe0wUUa2zRlquzZJV4EI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEwNDQxMCwiZXhwIjoxODE0NjQwNDEwfQ.2yC8pKzZaN-RUqcz45j3lpMdNkyHljO5U0kfpkaa9TI",
       "epg_code": 36
+    },
+    {
+      "descriptor": "nasim",
+      "name_fa": "نسیم",
+      "name_en": "Nasim",
+      "type": "سراسری",
+      "type_descriptor": "national",
+      "group_name_en": "National",
+      "has_archive": true,
+      "priority": 5,
+      "logo_url": "https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default",
+      "stream_url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+      "channel_id": "0x1b1a77d",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAyMDI5MiwiZXhwIjoxODE0NTU2MjkyfQ.ZV0ksCVdqxNiinAsNYXnvaR_-f7WJB7To0ICW8lbZWQ",
+      "epg_code": 49
     },
     {
       "descriptor": "varzesh",
@@ -105,7 +105,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default",
       "stream_url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
       "channel_id": "0x1b1a745",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjM1ODg3MywiZXhwIjoxODEzODk0ODczfQ.wa9CIJKYFP-yoNC8OviR40gtDPk2_7pekWrlR58qjpI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjI5ODYxMSwiZXhwIjoxODEzODM0NjExfQ.YPoWrxtUVG5ZWbtVGrI-pvDo3skHhAKM0A0fXaxfEHA",
       "epg_code": 47
     },
     {
@@ -120,7 +120,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default",
       "stream_url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
       "channel_id": "0x1b1a73d",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNDkwMCwiZXhwIjoxODE0NjcwOTAwfQ.btXcSCYp7Cul1ipzXnQ_G9TcrjJL_o4vUbw2UNw8b7k",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0ODQ4NSwiZXhwIjoxODE0NTg0NDg1fQ.IcRGiqpXOm9SnpJZL-HvJ2QgMONgm-4QrSWPpjwzNRg",
       "epg_code": 69
     },
     {
@@ -135,7 +135,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default",
       "stream_url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
       "channel_id": "0x1b1a759",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1OSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTc2MywiZXhwIjoxODE0NzA3NzYzfQ.PscahYjTxglxmaGs4AI1IYvr3_hO0kkxyQUVslS0njk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1OSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE5MjMzMywiZXhwIjoxODE0NzI4MzMzfQ.V0aO-pRSqWsWJ_Yiqxu5en1qlRIvN6XneZlxtn3lwgk",
       "epg_code": 29
     },
     {
@@ -150,7 +150,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default",
       "stream_url": "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8",
       "channel_id": "0x1b1a71d",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkzNTcxNiwiZXhwIjoxODE0NDcxNzE2fQ.heDSfG8WS5-ZC3n3x4_LffUB5CKp1krHBB4j0Far3DE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjcwNTg1NiwiZXhwIjoxODE0MjQxODU2fQ.AMh7sMsQpm6y1lHiVD9ux6PSOyZEKX-l-CTQayasAME",
       "epg_code": 44
     },
     {
@@ -165,7 +165,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default",
       "stream_url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
       "channel_id": "0x1b1a790",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc5MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjU2NzY0NSwiZXhwIjoxODE0MTAzNjQ1fQ.XsqipGIuelK8Gznto1Ee_qsWKMlVgBLhGlGs1YjoIcE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc5MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM0OSwiZXhwIjoxODE0NjkwMzQ5fQ.QTpOqoVoR7HCD4sYM_BcEytMqeHYDQW4j_NdqJ84Tx4",
       "epg_code": 42
     },
     {
@@ -180,7 +180,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NzQyZGZmZmI2MTlkZmYxZTdkMzFjNmVlYzY3MzdmNTJkNzZmYTZkOGYxM2U5YjJmMjk2NGQyMDhmZWMyYjY2Yw/default",
       "stream_url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
       "channel_id": "0x1b1a6ed",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjEyODkyMywiZXhwIjoxODEzNjY0OTIzfQ.L_2K4Be0Fddfarpv8SaEPhvGKqQaD84FlA6oaQni1GI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTQ1NSwiZXhwIjoxODE0NzA3NDU1fQ.9PI1lgVG2O98x2YQlwYYu4lMujmB2s6xkcqm-Y6oCWs",
       "epg_code": 35
     },
     {
@@ -195,7 +195,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default",
       "stream_url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
       "channel_id": "0x1b1a728",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzM2NywiZXhwIjoxODE0NjIzMzY3fQ.-7pFXTYdjuK26fVFhn6T56WQXam2RSfNZ7agLFDaDfE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNDkwNywiZXhwIjoxODE0NjcwOTA3fQ.T_Wb05wjJTzXcKqTBzipQA5-a2YFizjWsqFw9OAjoz4",
       "epg_code": 39
     },
     {
@@ -210,7 +210,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default",
       "stream_url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
       "channel_id": "0x1b1a784",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4NCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgxMjMwMiwiZXhwIjoxODE0MzQ4MzAyfQ.Hos2W1JUpKmjJoJI5TeJBgP8QSGprhQCV5vELQlS1TE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4NCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc4MSwiZXhwIjoxODE0NDUyNzgxfQ.wQ2TPl8tX7XP2y-1YPzndI8SuWaM1LzSBbrML3cx7J8",
       "epg_code": 38
     },
     {
@@ -225,7 +225,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/80849bee-6fb3-4e82-8047-da2ead8b61bf/default",
       "stream_url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
       "channel_id": "0x1b1a739",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTY2OSwiZXhwIjoxODE0Mzg1NjY5fQ.9_KlvIJ1CBf3LWsL0Lm8-3Sb-cut7UjAf8sSbiy03d0",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjMxMTUzOSwiZXhwIjoxODEzODQ3NTM5fQ.6XcN1AOTyqmhkoP4U_2-2dx_zhpU7PunY4mfv3548XI",
       "epg_code": 37
     },
     {
@@ -240,7 +240,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/b24edd34-d2ef-4c18-9f95-7978c719ead6/default",
       "stream_url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
       "channel_id": "0x1b1a721",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjcxNSwiZXhwIjoxODE0NTE4NzE1fQ.8aV-KIo5Eg39XGdaUfpvLqr9g0ckmBR3SFKMYDJvwfk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg5ODk4OSwiZXhwIjoxODE0NDM0OTg5fQ.LTpHH_JQh8COGGQ47I_tECYT7kCQaSOghckz5CwTea0",
       "epg_code": 48
     },
     {
@@ -255,7 +255,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/OTc3YjJkNzk0MmJjMjkxMTRmNjk2MmNhNTdiNGNkNjMxNjE2NWU1ZDI5MzlhMjI0MzZiYzljNDVkMjRkZTkxMA/default",
       "stream_url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
       "channel_id": "0x1b1a723",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjM4NSwiZXhwIjoxODE0NDUyMzg1fQ.hXN_iLI0QP5QJgb7kt8NUNvYM9yJxo0m8zqZF3g7FTs",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjQ4Mzk3NywiZXhwIjoxODE0MDE5OTc3fQ.6YdFF04NS9ReY2PRoR_fDOlqIU4N-B1kmmBJFalzCJo",
       "epg_code": 43
     },
     {
@@ -270,23 +270,8 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NzRjZTk4ZmFjMGNlNzMzMjM2N2JjYWE1YTFmYmVkOTMzYTVmNzgzNzk1ZGZlMDJiMGM5NzU1YTM3NDkyZmY0Zg/default",
       "stream_url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
       "channel_id": "0x1b1a763",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAxOTkwNCwiZXhwIjoxODE0NTU1OTA0fQ.rIFdus_DTy8C7ronNWuvqOjVMDAqzXUYM1Y8PE4IASk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjE4NTgxMywiZXhwIjoxODEzNzIxODEzfQ.gFH2uSlxPTGnIprYGMyxpN5P6S3QHrHGZSaWhP8CT0E",
       "epg_code": 104
-    },
-    {
-      "descriptor": "faratar",
-      "name_fa": "فراتر",
-      "name_en": "faratar",
-      "type": "سراسری",
-      "type_descriptor": "national",
-      "group_name_en": "National",
-      "has_archive": true,
-      "priority": 26,
-      "logo_url": "https://static.telewebion.ir/channelsLogo/6495b89d-0463-4544-9f09-0321b26ad116/default",
-      "stream_url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-      "channel_id": "0x53f352e",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4NTNmMzUyZSIsImNvcHlyaWdodFNjaGVkdWxlIjpbeyJzdGFydF9mcm9tIjoiMjAyNC0wNS0xNFQwNjozMDowMFoiLCJlbmRfYXQiOiIyMDM0LTAzLTE5VDEwOjMwOjAwWiJ9XSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDE5NywiZXhwIjoxODE0NjkwMTk3fQ.HFK8mht2Ho4qIoJgVMDQzwlfpFpXAgZRGxo3GQ0Kg-0",
-      "epg_code": null
     },
     {
       "descriptor": "irinn2",
@@ -300,7 +285,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/0a85d80d-6380-4fe4-b23f-23a2615a411e/default",
       "stream_url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
       "channel_id": "0x2988d5f",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4Mjk4OGQ1ZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgyOTI3NywiZXhwIjoxODE0MzY1Mjc3fQ.vktJK-SP4jZ2AJ2soAn2RHIh7JHFrII0UcJotEW-cbw",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4Mjk4OGQ1ZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1Mzc4OCwiZXhwIjoxODE0Njg5Nzg4fQ.7NdBKQRpxyW89Qi5CTlTAatuZizJY9bve2AXxluLsRc",
       "epg_code": null
     },
     {
@@ -315,7 +300,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/b1a30927-c269-4c05-a02f-d6056d59eae7/default",
       "stream_url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
       "channel_id": "0x1b1a715",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxNSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTU1MCwiZXhwIjoxODE0Mzg1NTUwfQ.w7VYL_yg94qvSJmFjl4wHRK0dPb7PRt9uXxKZRRbezU",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxNSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA1NywiZXhwIjoxODE0NTM3MDU3fQ.8ZzCXmRQ0bXP1A9y18RGVv2PSjNYUDotYA6x52iGX8c",
       "epg_code": 91
     },
     {
@@ -330,7 +315,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NjQ0MTQyODE5ZTYzZmZjNTliNTBmY2I2NDk1MjczM2JlOTk1NTljYWExODY0ZjFiMWU0OTZiY2Y4OTc4MjQ4MQ/default",
       "stream_url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
       "channel_id": "0x1b1a6d9",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjcwNTg2MiwiZXhwIjoxODE0MjQxODYyfQ.zzVeeaUw4TKLprMZ6qC5vcrQdvYvFYph_8uEJshKV2Q",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkOSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MDU0NjI1OSwiZXhwIjoxODEyMDgyMjU5fQ.u53ve8Qp9YqipJo2MvFbRXQMOyq5KRqnu6ACsDV8Xvs",
       "epg_code": 72
     },
     {
@@ -345,7 +330,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/f38a5e88-f85d-4b1e-a102-74b0889cae33/default",
       "stream_url": "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8",
       "channel_id": "0x1b1a73e",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2MzQyMSwiZXhwIjoxODE0NDk5NDIxfQ.jJXFZ97oYbgVKQOYbPwJG9IVE_hlnkRE71JGZ2xLhfI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc4NywiZXhwIjoxODE0NDUyNzg3fQ.oPuBx0z-B7FcpdthJ6-F_B1KJRtK9yWkaNClpikxtS0",
       "epg_code": 61
     },
     {
@@ -360,7 +345,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YTM3Zjk1NjI2NDljM2Q0NjA3ZGY2OGJkMTFhNDU4MjRmOWFkZDc5MGMwYThjZTVjN2UxYWQ0MWEwOTFlNGNkOQ/default",
       "stream_url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
       "channel_id": "0x1b1a732",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc4NywiZXhwIjoxODE0NDUyNzg3fQ.GJ8MGNlzFd3-lqwjj8y5N50daD6rwC8v74BI71VCAUk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjE4NjA3MywiZXhwIjoxODEzNzIyMDczfQ.qVuQPMMT_aNEd3ORMYN22U-zQzFG8TEjVZl0B5cHKPY",
       "epg_code": 70
     },
     {
@@ -375,7 +360,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/Njg3ZWFiNjYzNzc4ZWE3MmVhZjUyMDFmNzFkZGY5NGNiNGUyN2UyZjgwY2I3ZGUxZWMxM2M4ZjYzYWEwODgzZQ/default",
       "stream_url": "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8",
       "channel_id": "0x1b1a726",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc3NywiZXhwIjoxODE0NDUyNzc3fQ.RobWOA3clhOVxXsWjWaq3zIM26SD_mKBsIraRs31ybc",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNDY4NSwiZXhwIjoxODE0NjcwNjg1fQ.fE5Bfo-Zdx9k6hxtRaCnuul2KIF-TBMNzJ-ybi_IvtA",
       "epg_code": 88
     },
     {
@@ -390,7 +375,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZjZmYWFkMDdlY2Q1Nzg1OGI5YTEzNjk2NDBjODc4Njk1YzNiY2U5ODRmODRkNDA1Mzk4M2IwNzY3MjIwMzQ2MQ/default",
       "stream_url": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8",
       "channel_id": "0x1b1a746",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMDQ3NCwiZXhwIjoxODE0MjY2NDc0fQ.n9Sow8TwFwNWxaI6k6cguHwSAhYZiHIKICyL6QRzb-8",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgxMjM2NSwiZXhwIjoxODE0MzQ4MzY1fQ.00B9TiUpZ5jjaYjPeYi7H-X42KP_psA5t2WqwulvFNI",
       "epg_code": 85
     },
     {
@@ -405,7 +390,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/Y2NmODlmYjdiOWM0MTVmMGU0ZjM5NGEwOGIxMDliZjg0MjhmMTU3MDNlNzViZDJjNDMzNWQ2OTkzNzc0N2MxZA/default",
       "stream_url": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8",
       "channel_id": "0x1b1a747",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjcwNTg2NSwiZXhwIjoxODE0MjQxODY1fQ.Hp07Xcr_BpePigKTlwpPwPP_82Wal7eP1uI5O9Obgdk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0NyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjI0NDc1MywiZXhwIjoxODEzNzgwNzUzfQ.yXZ2ipAdrYETIFCJxyUwx2Tiv5FEN0wrabF-Su7zJHs",
       "epg_code": 82
     },
     {
@@ -420,7 +405,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default",
       "stream_url": "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8",
       "channel_id": "0x1b1a700",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcwMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgxMjM2NiwiZXhwIjoxODE0MzQ4MzY2fQ.PjxTHwnwNankZD8EGNvQCnn352CKvlcV9KsJN2x94pk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcwMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjcyMSwiZXhwIjoxODE0NTE4NzIxfQ.b9vo_oz4dFzJB4LqYU-VIWgf2bM5HBn5d5BW-UTDUnI",
       "epg_code": 99
     },
     {
@@ -435,7 +420,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/Y2ZmOWFkZDdhNmJjNzE1NjM3OTk3ZGQ1NGJlOTM0NWUzODUyZWUxZDdhYjg4YWM5ZDUwMzllMTJhNjkyOWRjNg/default",
       "stream_url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
       "channel_id": "0x1b1a740",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAyMDIzNiwiZXhwIjoxODE0NTU2MjM2fQ.sScwuGTHx0iUpj1M9Bp0gEQZEf-Q9YvhuYGDfBjHDyA",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc5MCwiZXhwIjoxODE0NDUyNzkwfQ.EvvWYWE45kbtzTreg8GqKm9Y2KMB405y5_rOr7idsHc",
       "epg_code": 76
     },
     {
@@ -450,7 +435,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YzExZDIzZDJmOTQyMDMzYTdmMThiY2U2YTk5ZTA1NjBkOTc4ZjNiMGVhNDQ4YjI0YTkxOTE4NmQyYzQ1NjRlYw/default",
       "stream_url": "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8",
       "channel_id": "0x1b1a74d",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2MzMxNSwiZXhwIjoxODE0NDk5MzE1fQ.BwVr9noPdPJR5YYBgu63sUMB5Q56dF8bg1ukHLbEirg",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjQ4MzcyMiwiZXhwIjoxODE0MDE5NzIyfQ.geBuhaE_9vFXFA2Mi2IUnCzpE3zzM-46EQ5JTr2m9Vs",
       "epg_code": 73
     },
     {
@@ -480,7 +465,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/OWNlMTMxMzA4YTA2Y2NjZDhiMGVhNmQwYzE2YTc2OGI2ZTQ3MTRlYmU5ZjFhOWMzNzU4YmNkYTlkOWI1NmQ3Yg/default",
       "stream_url": "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8",
       "channel_id": "0x1b1a722",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjUzMTAyMywiZXhwIjoxODE0MDY3MDIzfQ.TRfUEgGjBW-fQGAySKYiTvabkjVxlVgMZidA6OkAJGw",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzY5MiwiZXhwIjoxODE0NjIzNjkyfQ.GvGRFTjyL_OpaLhjl4hIPTQIxZyPTx4SY0WVbd0ZdLk",
       "epg_code": 89
     },
     {
@@ -495,7 +480,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default",
       "stream_url": "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8",
       "channel_id": "0x1b1a6cc",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZjYyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjUwMzE4OCwiZXhwIjoxODE0MDM5MTg4fQ.3CsNGblYqMuAsemnsXxI91kbYDjg5GbyK1CGSjvhPto",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZjYyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0ODU5NSwiZXhwIjoxODE0NTg0NTk1fQ.VzXDpSi6owJ9f-e_cBi-Eom32XPbgAJKlG3S_NVk3OI",
       "epg_code": 80
     },
     {
@@ -510,7 +495,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/Yjc3NjRhMGJiZWJiNTk1ZDM5MDU3ODZlMTcyNmQ1YjMxMDkyNWVhYzYyNzQ4NDQ5MzM2OTFjZTEzMWU4NmMzNQ/default",
       "stream_url": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8",
       "channel_id": "0x1b1a704",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcwNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc2MjgzOCwiZXhwIjoxODE0Mjk4ODM4fQ.ZTiRM2QtdK-HiekEvwtAntG4PPpqUGsbgAa5XFbVMGg",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcwNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjMxMTY0MywiZXhwIjoxODEzODQ3NjQzfQ.zapSn9mIJhc9GFXz7-ib78dGImiKvzUo0hFezwjyqzs",
       "epg_code": 84
     },
     {
@@ -525,7 +510,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/OTM3YWVhYmU4NDgzOWRlMWY1ZTI0ODYyNzgyOWJiZGFkOWU5NzBjMjQ2NDY2ZWQ0MmFjZGQ2MjRkOGNiMWEzOQ/default",
       "stream_url": "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8",
       "channel_id": "0x1b1a6ea",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlYSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTY3OSwiZXhwIjoxODE0Mzg1Njc5fQ.crpRLf2pKASp5nnUyYuiPlaGD7k06ihW8hcgO7x3-4I",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlYSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzQxNiwiZXhwIjoxODE0NjIzNDE2fQ.FtoCMlT7ypBKZDP_8TULCKzVppgATNEDkyNrWZBlaaw",
       "epg_code": 90
     },
     {
@@ -540,7 +525,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZTY4OThmNTUxNmNhZmNlOThjMzk0MzYyZDBlMWVkNTg1MGJkZGRiMTdmYzNlNDY0ZGM1ZTc5NTU4OGE1NDc3MQ/default",
       "stream_url": "https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8",
       "channel_id": "0x1b1a73f",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjcwNTg3MCwiZXhwIjoxODE0MjQxODcwfQ.MHNbJmKl8P-m9mBrENLUlkPd9EDO64YPmb3LGDkT5l8",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg5OTQzMiwiZXhwIjoxODE0NDM1NDMyfQ.xsHGcVFapGmwP53PI8GBuYqtSGujXQYL7mOxigkRk8E",
       "epg_code": 98
     },
     {
@@ -555,7 +540,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/177dcbe7-db46-45cb-956c-784bde0b4a2e/default",
       "stream_url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
       "channel_id": "0x1b1a77e",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3ZSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMDk5MywiZXhwIjoxODE0MjY2OTkzfQ.-j2FXs2EkoNbcpdGV2kh0Lizjy4jBAKW1V6_Aq0LGHY",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3ZSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0ODY1NywiZXhwIjoxODE0NTg0NjU3fQ.ReYA09rGfwc6nDwsFUHrnBqzIlQFSc_LAH7tuLW5pIc",
       "epg_code": 74
     },
     {
@@ -570,7 +555,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NzFjZGViYWEzZjFkYjVkZTc2MDE0NzBjZDA5N2E5YjZmNDFmNmI0YzA1YzgxMjQ0Y2U5MDQ1MmE5ODdiNzAwMw/default",
       "stream_url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8",
       "channel_id": "0x1b1a724",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAyMDI0MSwiZXhwIjoxODE0NTU2MjQxfQ.sPGM8PAH7W66lvU4hL2TYc2usrNuEWzkv1Zays3pokM",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgxMjM3MiwiZXhwIjoxODE0MzQ4MzcyfQ.K4xw66Bu0mPfvxcDQ1JlukbFLS8Cq8B7taNGKxdtFpY",
       "epg_code": 83
     },
     {
@@ -585,7 +570,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/OTQzMjA1YTA1OTVjYmIxZjExYjZjYjk3ZjgzOWE1YmYwOTM3YzY1YzIyMmM3NzZmYWQwNjBmZDhkMjU0NDkwNw/default",
       "stream_url": "https://ncdn.telewebion.ir/noor/live/playlist.m3u8",
       "channel_id": "0x1b1a75c",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1YyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MTQxMDMxOCwiZXhwIjoxODEyOTQ2MzE4fQ.vCb5kRbSQJcb3EfLVdsxaNHtWtxVrLTeCWK30SEsOuw",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1YyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjI5MCwiZXhwIjoxODE0NTE4MjkwfQ.am6DejxPt2zNQs4oPaXoYLwysYytJH-uhYMMYowrqD0",
       "epg_code": 87
     },
     {
@@ -600,7 +585,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/f44138b1-62ac-4c87-80c9-d20516ae2007/default",
       "stream_url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
       "channel_id": "0x1b1a6e5",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlNSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2Mzc1MywiZXhwIjoxODE0NDk5NzUzfQ.3sXPeCVDS-d5EB92W0LknY4NOvJ9E2-x8U1yv3vG6Rw",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlNSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDMzOSwiZXhwIjoxODE0NjkwMzM5fQ.VNXRIZ0tWVDDdTEMZO4eOwzL1yn_g2fuQUJbWUVczvk",
       "epg_code": 94
     },
     {
@@ -615,7 +600,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ODE1YWIxNjcxYTU1NWM2YmJkYmRkNzE5OGJiOTQ0YmEyNzhjMDBkMGU2N2MwOTlhMGFjYzZhYjc1MjRjM2E5OA/default",
       "stream_url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
       "channel_id": "0x1b1a6db",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkYiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2Mzc1NCwiZXhwIjoxODE0NDk5NzU0fQ.o786rvh4a9k85RFG6DwuqUvcbEg5irdw-v-qPAbSVUA",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkYiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTc3MCwiZXhwIjoxODE0NzA3NzcwfQ.z9Ny6T8gPk6-gl6avVpkFv7WQg7G4Q0XtgP3IzSDGwo",
       "epg_code": 93
     },
     {
@@ -630,7 +615,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZDcwNjM3MjMwODE0MzdlNDQ5YTEzNTZjMGE5MzMwNjBkOTcwOTRmNDE3YmZmMmQxNGM2MDI5MjI2MWFlZWM5MA/default",
       "stream_url": "https://ncdn.telewebion.ir/zagros/live/playlist.m3u8",
       "channel_id": "0x1b1a75b",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1YiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDI4NiwiZXhwIjoxODE0NjkwMjg2fQ.VMe96tKBvPtSY6ykPCxfLdlomeaeP-xTtN4yhdmNBZQ",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1YiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA2OCwiZXhwIjoxODE0NTM3MDY4fQ.5pLa8jECmPsYkhd20DTXBw6k3eIt-9xpAIpJwLw7unY",
       "epg_code": 75
     },
     {
@@ -645,7 +630,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ODZhMTE0Y2FmNzk4MzIxMTVhY2UxNjI0ZGY5MmI3Y2NhMzY3ZDE3ZDA4MjgzYmZhZTU2ODhjYmUyOGQ2ZTUzNw/default",
       "stream_url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
       "channel_id": "0x1b1a785",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4NSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMDQxMCwiZXhwIjoxODE0MjY2NDEwfQ.lVcYmq_l3hzup4UbeH7S2HhtfsU-faqApvf2vrgXWeo",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4NSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTY4NCwiZXhwIjoxODE0Mzg1Njg0fQ.SgzXgSaE2fVZmAJAAT59ba3v5rWXla28S0riLShvPHY",
       "epg_code": 71
     },
     {
@@ -660,7 +645,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NWI5MDUzZTJhOTZlOThmOTgzZDQyMmNiYzVlYjhiZGUyOWY3OTg2NDM5YjUwOWVmMDU3OGEwYjVjZDQ0NjU2NQ/default",
       "stream_url": "https://ncdn.telewebion.ir/kish/live/playlist.m3u8",
       "channel_id": "0x1b1a748",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0OCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjU4ODIzMCwiZXhwIjoxODE0MTI0MjMwfQ.ECXXcKlFv-TH34vCPs267dOopYY0tQfEDxYyX5_nz34",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0OCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjgyOTM3NiwiZXhwIjoxODE0MzY1Mzc2fQ.fBJk0KQ5Hl7edBqfHQkmrOwadw3PGqm6yQR0MzwT1e8",
       "epg_code": 101
     },
     {
@@ -675,7 +660,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MDFiMjQwMTlkMGM3OGNkZWM2ZmFmODM4MGI1YWYyZWM5N2UxOTkxYjUxMjRlMWYyNzVkNTQyOGVkZWFlMTZkMw/default",
       "stream_url": "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8",
       "channel_id": "0x1b1a733",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMDk5OCwiZXhwIjoxODE0MjY2OTk4fQ.l8IsPwnkt43vHA22KJ1VsYk3A7aM3IIxn9rjJcu-vRo",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc5OSwiZXhwIjoxODE0NDUyNzk5fQ.nd1u0EClHp9iW2E0cz3NWSsv53fvBtiEPDQcQubUicc",
       "epg_code": 78
     },
     {
@@ -690,7 +675,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZGM5ODhlYWY4NTE4YWRiMDg1OTk2Yzg4OWI1ODc1YWNmYzhhM2VkNThiYmM2ZjczM2U0Njk4OWU4N2Q4ZWQ3Zg/default",
       "stream_url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
       "channel_id": "0x1b1a754",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1NCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MTE1MDgxMSwiZXhwIjoxODEyNjg2ODExfQ.SsQJXMIovrHdWgsuFMB4Z6KYfl34p7Te9eQhw-iwNcc",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1NCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0OTAzNiwiZXhwIjoxODE0NTg1MDM2fQ.PDKQMUpnj4l5Ym0vKyyNXnanjr7RnwG5D0Io_XsfvKs",
       "epg_code": 79
     },
     {
@@ -720,7 +705,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MmVhYzA4YWU1NTkxMmIzNTE1MWY2MmM4YTE5OWQyMzRjZDViM2JhMWQ2MGU1NTIxMzNjMzYzNjYzYjMyYjMxOQ/default",
       "stream_url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
       "channel_id": "0x1b1a716",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjQ2MSwiZXhwIjoxODE0NTE4NDYxfQ.PKoSyHB_xozagiynTVywcpCLFYm6jt6QBzSQNI1ZTnE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNDYyNSwiZXhwIjoxODE0NjcwNjI1fQ.76s3ZBJ3kccJ7ooPYhlbSbx7EyRV1Q_N0vqq7h4_0bU",
       "epg_code": 86
     },
     {
@@ -735,7 +720,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZWZlOGFhZWM3ZDI4MDVmZWVjZDhkNWJjMjliZDYwOGZiMDkyYTA2NzIzNTQ5NDBiYmU2NThiYzA4MDEwMWJlMQ/default",
       "stream_url": "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8",
       "channel_id": "0x1b1a710",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg0OTE1MiwiZXhwIjoxODE0Mzg1MTUyfQ.2QbGYmxqEejNouZaXYI0PWoTGK_PjiAabUPhj5LqISI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc2MzIzMiwiZXhwIjoxODE0Mjk5MjMyfQ.2QDEbJ1mp4snzM7_Zzz4cDXdo2KeK_d0pJ-7OYbvDd0",
       "epg_code": 77
     },
     {
@@ -750,7 +735,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/86b54cc3-4955-46c6-a0f5-9db1fe1160ae/default",
       "stream_url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
       "channel_id": "0x1b1a752",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1MiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMTAwMSwiZXhwIjoxODE0MjY3MDAxfQ.6klVQqK3vArc31oj0n0HTmCwwdeWut_fUqcjZ5RIP3g",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc1MiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjUzNCwiZXhwIjoxODE0NTE4NTM0fQ.AGigNZmjO9bpvuPyM4Ahm-gifBkeQZGEV4Bh-fmqU4c",
       "epg_code": 60
     },
     {
@@ -765,7 +750,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YmQyYmI3ZGY1YWQ4YjViODgyZGM5ZTQyOTI4NmM2MzBmNWMzMjM1MzQ2ZWYwMDg4NjQ1M2JiNTFiNjA3YjM2Zg/default",
       "stream_url": "https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8",
       "channel_id": "0x1b1a734",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNTA2MSwiZXhwIjoxODE0NjcxMDYxfQ.yotZLIKRaXvCEMAtXRKI7lAcGKJ0XFVqhZhXB-KMOAI",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTczNCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc0NzY4MCwiZXhwIjoxODE0MjgzNjgwfQ.6JUOf3hYRYQ0Y1Zjpw2kni7cQGinIXw4OJLfYNQM5FE",
       "epg_code": 100
     },
     {
@@ -780,7 +765,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NTlmNTJkOGUyOTMwZjAxNmJhODAwMjdmYTkxNzM4NTIyZjg2ZWI4YTc4MTUzOThkMGEzNTI5N2ZkZjM0YTY3Ng/default",
       "stream_url": "https://ncdn.telewebion.ir/sina/live/playlist.m3u8",
       "channel_id": "0x1b1a780",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjczMTAwMiwiZXhwIjoxODE0MjY3MDAyfQ.deYX8F399xg9vnh-nkEu4JOtUMFxQpZIb4OCjkYKeL0",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjczNCwiZXhwIjoxODE0NTE4NzM0fQ.UmRZn8Khq_egefJpRueOQ8Ptcj9vcHbR54NA7Jj9J1M",
       "epg_code": 81
     },
     {
@@ -795,7 +780,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NWE2YjUwNDhlMTYwM2U4MjdjNjRhY2E0Yjg0NGYzMGYwMzBjN2E5OTNjNWViMjRhNWFlMWI0OTYwOWVmZGVhMA/default",
       "stream_url": "https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8",
       "channel_id": "0x1b1a6dd",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg3ODA2MywiZXhwIjoxODE0NDE0MDYzfQ.Ivd7kUrbrPEpSQg9uyR8pX9z-ggcLnBwxMCjWlImn3c",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjU2ODAxOCwiZXhwIjoxODE0MTA0MDE4fQ.uuc295r6tPPAstdyXgvKOPezNR73Pe51zwqSeBknmXI",
       "epg_code": 96
     },
     {
@@ -810,7 +795,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/1a4aba4f-bb6e-410c-b3e9-79dcf0136938/default",
       "stream_url": "https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8",
       "channel_id": "0x1504d515",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTUwNGQ1MTUiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwMjA0MTMsImV4cCI6MTgxNDU1NjQxM30.wWFbWJY3c9BVX8fL-2mNZ9EWUPwXaekPLHFxmYKq8rE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTUwNGQ1MTUiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI5MTY4MDQsImV4cCI6MTgxNDQ1MjgwNH0.HqyJszWRSGavtwpSGacg7WeoUKWjMueRQ6U3hCxMqV4",
       "epg_code": null
     },
     {
@@ -840,7 +825,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default",
       "stream_url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
       "channel_id": "0x11396481",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTEzOTY0ODEiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwMjA0MTQsImV4cCI6MTgxNDU1NjQxNH0.Ovo3JL5LRrLSrd1LwVvXrZktbI3CgCdAEcbhJGS4hIk",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTEzOTY0ODEiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI5NjM3NjIsImV4cCI6MTgxNDQ5OTc2Mn0.A6AKjE2YjSkbMDD3hPyA0P1mRr8-HiMkH2FWmDtgl7g",
       "epg_code": null
     },
     {
@@ -855,7 +840,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default",
       "stream_url": "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8",
       "channel_id": "0x1b1a742",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0MiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg3ODU2NiwiZXhwIjoxODE0NDE0NTY2fQ.9EuabkRTW9QXqs0rjCK3pc_pYho1S9xFdZsRQ9-R7wY",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc0MiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjg5OTQ0MywiZXhwIjoxODE0NDM1NDQzfQ.MBJAC1iUFIhwBAPbM4eqzhn44_4ncOYVnOU3ggyDQ7Y",
       "epg_code": null
     },
     {
@@ -870,7 +855,22 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
       "stream_url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
       "channel_id": "0x29c99cc",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MjljOTljYyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA3NywiZXhwIjoxODE0NTM3MDc3fQ.WJ1Mk4eTSscBDv24I2KYiHvGER_QGOyTKWmGSwGPcqM",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MjljOTljYyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTc3OSwiZXhwIjoxODE0NzA3Nzc5fQ.6DSTk6UjnbbdVBvCKOKgoqQie6BC0jIIa_Jw6aNIyXk",
+      "epg_code": null
+    },
+    {
+      "descriptor": "razavi",
+      "name_fa": "رضوی",
+      "name_en": "razavi",
+      "type": "اختصاصی",
+      "type_descriptor": "exclusive",
+      "group_name_en": "Exclusive",
+      "has_archive": false,
+      "priority": 161,
+      "logo_url": "https://static.telewebion.ir/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default",
+      "stream_url": "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8",
+      "channel_id": "0x298c208",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4Mjk4YzIwOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE5MjU5NywiZXhwIjoxODE0NzI4NTk3fQ.BupctYzKi6ffyhyRgL0LY_qHRlbpk4F9cchMxyeY9QA",
       "epg_code": null
     },
     {
@@ -885,7 +885,22 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default",
       "stream_url": "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8",
       "channel_id": "0x7a542f2",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4N2E1NDJmMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjgwNywiZXhwIjoxODE0NDUyODA3fQ.K1fC2Pm6_z2yHpknVm78iJYYtCFzZ7eNVgn569b8fDw",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4N2E1NDJmMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTI4OCwiZXhwIjoxODE0NzA3Mjg4fQ.egsrjJt3hgjGhXKT2lvSOBR89K0ZZnda6Wp9ri35T84",
+      "epg_code": null
+    },
+    {
+      "descriptor": "baenergy",
+      "name_fa": "انرژی",
+      "name_en": "baenergy",
+      "type": "اختصاصی",
+      "type_descriptor": "exclusive",
+      "group_name_en": "Exclusive",
+      "has_archive": true,
+      "priority": 166,
+      "logo_url": "https://static.telewebion.ir/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default",
+      "stream_url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
+      "channel_id": "0xe9cd641",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4ZTljZDY0MSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjI5MzY0MSwiZXhwIjoxODEzODI5NjQxfQ.cUPgLJEYRvleCtVLqncF8qdIs-g2aOqCI8LlA5BI5m8",
       "epg_code": null
     },
     {
@@ -900,8 +915,21 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default",
       "stream_url": "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8",
       "channel_id": "0x2930cef",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MjkzMGNlZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzEzNTA2NiwiZXhwIjoxODE0NjcxMDY2fQ.hiLzQYm4rBF2kwZx8Mg7AW1uMClXC2Qbc7qN2C8Srk4",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MjkzMGNlZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTM0OCwiZXhwIjoxODE0NzA3MzQ4fQ.Spo-U8JEZ381nXTUYopwU5bFLjwbYwmHqVmdCuxOAzo",
       "epg_code": null
+    },
+    {
+      "descriptor": "karoon",
+      "name_fa": "کارون",
+      "name_en": "karoon channel ",
+      "type": "اختصاصی",
+      "type_descriptor": "exclusive",
+      "group_name_en": "Exclusive",
+      "has_archive": true,
+      "priority": 168,
+      "logo_url": "https://static.telewebion.ir/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default",
+      "stream_url": "https://ncdn.telewebion.ir/karoon/live/playlist.m3u8",
+      "channel_id": "0x12fdf301"
     },
     {
       "descriptor": "sport1",
@@ -915,7 +943,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/7bc81b96-3a06-4d5a-9349-a3ed837e3f0f/default",
       "stream_url": "https://ncdn.telewebion.ir/sport1/live/playlist.m3u8",
       "channel_id": "0x13dfbdc3",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzMiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwODc3MTAsImV4cCI6MTgxNDYyMzcxMH0.pG4EiicisRHjR2X7ndc-xIRA_-2lIj0zVD-pwgpSKrY",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzMiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwMDEwNzgsImV4cCI6MTgxNDUzNzA3OH0.iM6TBiexAL19j-DbzLtKsNZEzAy-ySgSJv4dPjtd3oU",
       "epg_code": null
     },
     {
@@ -930,7 +958,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/1e069759-9dc0-47bd-b95c-9ea1891849ee/default",
       "stream_url": "https://ncdn.telewebion.ir/sport2/live/playlist.m3u8",
       "channel_id": "0x13dfbdc6",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzYiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI1NjgwMjQsImV4cCI6MTgxNDEwNDAyNH0.aM5tdRefI0hlQMOFoKNSgu9kLyW-bob3P3xGxKHqR0g",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzYiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI4MjkwNDEsImV4cCI6MTgxNDM2NTA0MX0.oCpMxP93vlMwT3gxqnUr1DJO1kIRVXDu5-toLCWxlvM",
       "epg_code": null
     },
     {
@@ -945,7 +973,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/b3f16501-cca7-415c-8069-79de502eeeba/default",
       "stream_url": "https://ncdn.telewebion.ir/sport3/live/playlist.m3u8",
       "channel_id": "0x13dfbdc7",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzciLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI3NDc3MjAsImV4cCI6MTgxNDI4MzcyMH0.sMXJGuR4xw0vmqYH9xP7U5VS1r3ZILjYXx3uOJZm_h0",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTNkZmJkYzciLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI4MjkzMjIsImV4cCI6MTgxNDM2NTMyMn0.2BnHq0nIDb5T7HIKfKHvG9uKsil_fTlJg54XrpOSZ6k",
       "epg_code": null
     },
     {
@@ -960,22 +988,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/c60682d2-7f57-43d1-934d-268da20d1846/default",
       "stream_url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
       "channel_id": "0x9770630",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4OTc3MDYzMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjU0OTUwNCwiZXhwIjoxODE0MDg1NTA0fQ.Zlpsd4xPd6YzAeEWXwfh_i-HtRqUyjtMTDeR_a39m10",
-      "epg_code": null
-    },
-    {
-      "descriptor": "nesfejahan",
-      "name_fa": "نصف جهان",
-      "name_en": "nesfejahan channel",
-      "type": "اختصاصی",
-      "type_descriptor": "exclusive",
-      "group_name_en": "Exclusive",
-      "has_archive": true,
-      "priority": 173,
-      "logo_url": "https://static.telewebion.ir/channelsLogo/b7e08873-2f50-4d6b-86cf-e4be4177852c/default",
-      "stream_url": "https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8",
-      "channel_id": "0x14e7414e",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTRlNzQxNGUiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODE5Mjc0OTAsImV4cCI6MTgxMzQ2MzQ5MH0.469AILJS1djHMi5PQGNTRezxY7orOHUDGrGIN-ZkHxU",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4OTc3MDYzMCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4Mjc0MSwiZXhwIjoxODE0NTE4NzQxfQ.FUHHi_-FLHja9b0Nla_gJh_kk8oxb3CZOswoK6l7Nyk",
       "epg_code": null
     },
     {
@@ -990,7 +1003,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NGViODhkMWM0MzFiMzI4MDE0YWJmMDI3NDYzMmY0ZWRhMzJhMmEzODJmMjhlMjYwNjc2MjM3ZDkxNjlhNTg3Zg/default",
       "stream_url": "https://ncdn.telewebion.ir/kawthar/live/playlist.m3u8",
       "channel_id": "0x1b1a78d",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzEyMiwiZXhwIjoxODE0NjIzMTIyfQ.ZYQ8rlcp5hl2tmM5XBy2ic6HS9hdJ9Dmx1DqYDichRE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4ZCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2Mzc2OCwiZXhwIjoxODE0NDk5NzY4fQ.lqra4PYklOI1wuDoolhUfz2pHvXL05IyHnTCRyl-htg",
       "epg_code": null
     },
     {
@@ -1005,23 +1018,21 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/efcb8d29-8ff5-47f7-926e-ad4a1a577c15/default",
       "stream_url": "https://ncdn.telewebion.ir/presstv/live/playlist.m3u8",
       "channel_id": "0x16be0f78",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTZiZTBmNzgiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwMDEwODIsImV4cCI6MTgxNDUzNzA4Mn0.aFs7SFb4TBd3tsSUm-W33qWX0UzLTIiiJXKTI-0tcb8",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTZiZTBmNzgiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI5ODI3NDIsImV4cCI6MTgxNDUxODc0Mn0.tuwLALmGpnOchqdvHGSWjSRTy2_wbflVdo2vj2iwn5k",
       "epg_code": null
     },
     {
-      "descriptor": "alalam",
+      "descriptor": "Al-Alam",
       "name_fa": "العالم",
-      "name_en": "alalam",
+      "name_en": "Al-Alam channel",
       "type": "برون مرزی",
       "type_descriptor": "international",
       "group_name_en": "International",
       "has_archive": false,
       "priority": 193,
       "logo_url": "https://static.telewebion.ir/channelsLogo/0dbbf481-899d-484b-84cb-4c83c5aca4a0/default",
-      "stream_url": "https://ncdn.telewebion.ir/alalam/live/playlist.m3u8",
-      "channel_id": "0x16be0f79",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTZiZTBmNzkiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODI3NjMxMTEsImV4cCI6MTgxNDI5OTExMX0.zKzL19_tlh0G5eHjftzjG39n6f6ddejvOLo__rZzY5E",
-      "epg_code": null
+      "stream_url": "https://ncdn.telewebion.ir/Al-Alam/live/playlist.m3u8",
+      "channel_id": "0x16be0f79"
     },
     {
       "descriptor": "radioava",
@@ -1035,7 +1046,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ODk2OGQ4OGUzODRiYTVkYTNkZTk1ODcxNDdmY2NhOTdjNjdiMmFjM2Q1NDljMzY5YjZkODFjZTU4MGQxNmE4YQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radioava/live/playlist.m3u8",
       "channel_id": "0x1b1a789",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4OSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4MjQzNSwiZXhwIjoxODE0NTE4NDM1fQ.I7WfeJeTE3ZFrUm-fJXC30Bcaj3CqMQ9o7-fiWiaWZU",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4OSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzcxNCwiZXhwIjoxODE0NjIzNzE0fQ.rABUlvuYp7DbUbLG7FdasB_JAMWjQ5RpmHuiWkhZtuU",
       "epg_code": null
     },
     {
@@ -1050,7 +1061,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YThmMDY0MTQ4MWEzNzdjNDUxNmJhZjdlODNjNWY4ODNkMmQzNDI4OTBhYjYyZDgyZDI0MDdlMzU4MTlmOWZmZQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radiogoftogo/live/playlist.m3u8",
       "channel_id": "0x1b1a6c7",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZjNyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0OTA0OCwiZXhwIjoxODE0NTg1MDQ4fQ.nSE68tsgRUmxKWBk7hk5T7k9c3VhuhZ83HhIGwN4Q7Q",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZjNyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAyMDE4MywiZXhwIjoxODE0NTU2MTgzfQ.DB7rGDOm7S7jnT1qs0Y-UyL_4jMFcljHZfIDCA89HV8",
       "epg_code": null
     },
     {
@@ -1065,7 +1076,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MzQ3NmE5NjZiYTY1Y2NjNTlmODk3ZmRjNDc1OTVjNWEyMTM5Mzc3MThiMjExYTU3Y2I5OGZlZDE5OThlNTE3MA/default",
       "stream_url": "https://ncdn.telewebion.ir/radiomaaref/live/playlist.m3u8",
       "channel_id": "0x1b1a78a",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4YSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzcxNSwiZXhwIjoxODE0NjIzNzE1fQ.aAAOPhhfy1FX2xkobd5SOLyGYQI6txBcW7oQZxGuBdo",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4YSIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM4MSwiZXhwIjoxODE0NjkwMzgxfQ.pp7vIiaZX0zob2_iYvRg2QQVDrJyGyvgDKTblpGczbI",
       "epg_code": null
     },
     {
@@ -1080,7 +1091,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MDE1ZjBhNzk0ZDJlNjRmY2IyNGRmY2E2MDMzOGEwYTI4N2EwZTIwYWZmODBiNGZjODE4ZGYwNGM2YTVkNjdkYw/default",
       "stream_url": "https://ncdn.telewebion.ir/radioquran/live/playlist.m3u8",
       "channel_id": "0x1b1a78b",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4YiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA4NCwiZXhwIjoxODE0NTM3MDg0fQ.YopJVSzvaDS9DZhuqI2bheEV1Bt8C7cexjbx4fMwOZ8",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc4YiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE3MTc4NiwiZXhwIjoxODE0NzA3Nzg2fQ.qRiXrS4trnCqvvvRyNtwvwUgDUIo3Naz07Zk7rjJcfw",
       "epg_code": null
     },
     {
@@ -1095,7 +1106,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YjZlMmQyMmM3MDkxNmRkOTYwNWM3MDBmM2FmOGEyZWRjNTE5NjliN2Y2Njc5N2JlNjY4NTZmYTMzOWE2ZTc4Yw/default",
       "stream_url": "https://ncdn.telewebion.ir/radiovarzesh/live/playlist.m3u8",
       "channel_id": "0x1b1a760",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM4MiwiZXhwIjoxODE0NjkwMzgyfQ.KftyogdAOjRlFESF5UQCP6zYeyDYsmmQyHA-cnm1Lps",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2MCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjkxNjc4NSwiZXhwIjoxODE0NDUyNzg1fQ.hQuRWrDXqNv-15seMb2fRTqfIp2HHNPyoy1Sm8SBXDs",
       "epg_code": null
     },
     {
@@ -1110,7 +1121,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MjdiMjY4YzEzYmI2ZjY1OWQ1NzRlZGY2NTNiYzBkMTMxOTFjZDMyOWJmYWU1MGM1YTc1ODRlNDUwNTIyOGRlNA/default",
       "stream_url": "https://ncdn.telewebion.ir/radioeghtesad/live/playlist.m3u8",
       "channel_id": "0x1b1a768",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2OCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk4Mjc0NiwiZXhwIjoxODE0NTE4NzQ2fQ.pE56se-xuMIau--1Ask6IozaEYPt_uTH1Twaw1MulZE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc2OCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjk2Mzc3MywiZXhwIjoxODE0NDk5NzczfQ.5J66AIiGf1U5_7F1arOMJ0rx5H5w8r0Wv2GF0i-JDcc",
       "epg_code": null
     },
     {
@@ -1125,7 +1136,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MGJkNGU4MTYzOWE3MGQ5NmU2ODk0Yzc5OGRhOTNjOTk2MTllNjAwYmYyMzE0NjUyMTg0ZDZhMTQwZDMzZDhhNQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radioiran/live/playlist.m3u8",
       "channel_id": "0x1b1a6e7",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlNyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDIwOCwiZXhwIjoxODE0NjkwMjA4fQ.WcNkThXFUsX3yLPZX9pE8ll_Wu_z7Qw_mz3Jgn8JrDg",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlNyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA4NzcxNywiZXhwIjoxODE0NjIzNzE3fQ.W6LrxV2pLQ7ATLWAJFQn-3D-A-wb4d1REFcvxIUjg0w",
       "epg_code": null
     },
     {
@@ -1140,7 +1151,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/ZmNjYWM4YWFkM2VhMmJiMWY1NzRhMWVmY2VlODljZWFmYWZiZGY4NWQ0OTAxYmU2YjQ3OGFlNjk0YTU1YTc4YQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radionamayesh/live/playlist.m3u8",
       "channel_id": "0x1b1a718",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjMxMTY2NSwiZXhwIjoxODEzODQ3NjY1fQ.q95wM7JhP-6ePGL60juHLe40BrNl-LpH-XVqWfF59Po",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM4NCwiZXhwIjoxODE0NjkwMzg0fQ.Qho5WNJxxfqiaTfab6H6gxuX25v16NmKsqoI11oVNLQ",
       "epg_code": null
     },
     {
@@ -1155,7 +1166,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/NDAyZGMwOTgyNTZmMTNlNDRmNjJkMWUzZTlhNmEwMzJiODhmZmFiNTIzZDRiMTVhNDA0MDZlYTljOGM3Y2MyNQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radiosaba/live/playlist.m3u8",
       "channel_id": "0x1b1a72f",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA4NywiZXhwIjoxODE0NTM3MDg3fQ.yjFZ7E-L4MIjyeIBAU2DsH6DUBocTSisR74ZbfS5ZGE",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcyZiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MTE5Mzk1MywiZXhwIjoxODEyNzI5OTUzfQ.kBx1K9m-vd36rCsaIrXXYFKoY0ODbp6JQB_Ae7rHxnU",
       "epg_code": null
     },
     {
@@ -1170,7 +1181,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/6bd4f383-6b4d-45b6-b69c-5e030a93a042/default",
       "stream_url": "https://ncdn.telewebion.ir/radiotehran/live/playlist.m3u8",
       "channel_id": "0x1b1a6d8",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc0NzgzNCwiZXhwIjoxODE0MjgzODM0fQ._5hXFcg_R5eS4kDPkX5kB4hnRlha-z_5VO6WMyjibHM",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc2MzI0OCwiZXhwIjoxODE0Mjk5MjQ4fQ.7GdeWCQ06CYjFTqKmLBcWY_gYL1YQz3royjPzfspCwo",
       "epg_code": null
     },
     {
@@ -1185,7 +1196,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MjRhZTBhMDU2YmJmMDVlN2RjNTAyZDMyMjc5ZTlmMDg4ZjU0ZDJiM2Y2Yzk3ZTMzMDY4YTQxNjdlNWY1NjJmMA/default",
       "stream_url": "https://ncdn.telewebion.ir/radioziarat/live/playlist.m3u8",
       "channel_id": "0x1b1a6e8",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzA0OTA1MywiZXhwIjoxODE0NTg1MDUzfQ.vOvDHVrCU34SbvIr5zk5t5a6zWV-HWrKosr30dzctUg",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZlOCIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM4NiwiZXhwIjoxODE0NjkwMzg2fQ.2BLERCR0HUJ07ATPdVaR650nij2-Jrr1jt8TNjy5AMs",
       "epg_code": null
     },
     {
@@ -1200,7 +1211,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/2016a911-5b68-4e64-a68b-b130fc065546/default",
       "stream_url": "https://ncdn.telewebion.ir/radiofarhang/live/playlist.m3u8",
       "channel_id": "0x1b1a6d2",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjE2MDk4NiwiZXhwIjoxODEzNjk2OTg2fQ.Y8ue_GczlFPJlDTrIqPuwd2TG_qTbDtDPmYk4KV92Xg",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzE1NDM4NiwiZXhwIjoxODE0NjkwMzg2fQ.nGV-yUVb-YAXKbGmI5THKnIZ3eLaA0YqQjNYop-5PSc",
       "epg_code": null
     },
     {
@@ -1215,7 +1226,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YzFkOTVmNDI3NTI4MDkzYTEwMWQzNDIyNzhhZmM3NzhmMzc4MTExOTVjYzJmYzI1OWMwOTE5MzM0ZTVkZTVjYQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radiojavan/live/playlist.m3u8",
       "channel_id": "0x1b1a6d3",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA4OSwiZXhwIjoxODE0NTM3MDg5fQ.eCNbMTFm4EdwnKirlbwwQviLjFm3vjJX4rACSh30FrM",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZkMyIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjE2MTAwMSwiZXhwIjoxODEzNjk3MDAxfQ.r-6lyswBywZP2LJEexkxLAWzvQBtW9SRqFBwg9EZWVU",
       "epg_code": null
     },
     {
@@ -1230,7 +1241,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/OGRiM2I1ZjY3ZmNlOTdlMTgwYjk1MTg1YWY3MDYyYWIwMzZiYzJjNzgzNTViYTIzYWMwNTg3MzFlYjRmZTNhNQ/default",
       "stream_url": "https://ncdn.telewebion.ir/radiopayam/live/playlist.m3u8",
       "channel_id": "0x1b1a71b",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxYiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MTU4MzA2MywiZXhwIjoxODEzMTE5MDYzfQ.FI0Z5mNjpuDkJWUkeoDyCR9lyGRzz7YF9PhOroG2WF4",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTcxYiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4Mjc2MzI1MCwiZXhwIjoxODE0Mjk5MjUwfQ.5jiiL-M08uhB4D7paYaIX4d_0lMyTo01EKeT4sZM5XU",
       "epg_code": null
     },
     {
@@ -1245,7 +1256,7 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/MTFkZDZlMWM2OTJlYWJiZDFkMWZjZTc2ZmRjYmJiODhlOTUzNWZiN2MzYWFhNGExOTk4ZjBhYzA3ZmEwOGY4Mw/default",
       "stream_url": "https://ncdn.telewebion.ir/radiosalamat/live/playlist.m3u8",
       "channel_id": "0x1b1a776",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3NiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjEyOTU0MCwiZXhwIjoxODEzNjY1NTQwfQ.ZGzEeAG_8WC8_T00ZvXe-mHQY_WIGCS3beINYXD3XjY",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTc3NiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MzAwMTA5MCwiZXhwIjoxODE0NTM3MDkwfQ.hn-GqpYoXEWRkDXrxxtUVi_NSQCh95d_NGWPP-WiOkU",
       "epg_code": null
     },
     {
@@ -1260,23 +1271,21 @@
       "logo_url": "https://static.telewebion.ir/channelsLogo/YjAxZWZlYzljYTdkOGUwY2FkMjIzZjUzM2EyODkwMDkwMmQzOGViODAzYTFlYWMyZTlkYjIyNzI3YzZhZGVmNg/default",
       "stream_url": "https://ncdn.telewebion.ir/radiotartil/live/playlist.m3u8",
       "channel_id": "0x1b1a6f6",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZmNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjE2MTQ5NSwiZXhwIjoxODEzNjk3NDk1fQ.WYK88TJ4j4qiWs0TxuzUi4cOZo0iu_-pBEA7xL5_sVU",
+      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MWIxYTZmNiIsImNvcHlyaWdodFNjaGVkdWxlIjpbXSwiZXhjbHVzaW9uIjpbXX0sImlhdCI6MTc4MjUzMDgzMSwiZXhwIjoxODE0MDY2ODMxfQ.MSLgSjjm_rbT50IglaSknD77uOI4OzgY-IkpYTLmc-s",
       "epg_code": null
     },
     {
-      "descriptor": "makran",
-      "name_fa": "مکران",
-      "name_en": "Makoran",
+      "descriptor": "taftan",
+      "name_fa": " تفتان",
+      "name_en": "taftan channel",
       "type": "اختصاصی",
       "type_descriptor": "exclusive",
       "group_name_en": "Exclusive",
       "has_archive": false,
-      "priority": 303,
-      "logo_url": "https://static.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default",
-      "stream_url": "https://ncdn.telewebion.ir/makran/live/playlist.m3u8",
-      "channel_id": "0x16b743e6",
-      "channel_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaGFubmVsIjp7IkNoYW5uZWxJRCI6IjB4MTZiNzQzZTYiLCJjb3B5cmlnaHRTY2hlZHVsZSI6W10sImV4Y2x1c2lvbiI6W119LCJpYXQiOjE3ODMwMDEwOTEsImV4cCI6MTgxNDUzNzA5MX0.mdDGW7MmI5XM14uO3LdMZMWAOLm-t_sVpkp46uIpO6Y",
-      "epg_code": null
+      "priority": 304,
+      "logo_url": "https://static.telewebion.ir/channelsLogo/0b0d74db-1523-400c-8b87-91c754a1ab34/default",
+      "stream_url": "https://ncdn.telewebion.ir/taftan/live/playlist.m3u8",
+      "channel_id": "0x16b9257a"
     }
   ]
 }

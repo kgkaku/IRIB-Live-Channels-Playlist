@@ -3,6 +3,51 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260704220005 +0000" stop="20260704221425 +0000" channel="tv1">
+    <title>شهید خامنه‌ای - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260704210000 +0000" stop="20260704220005 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3604</length>
+  </programme>
+  <programme start="20260704204945 +0000" stop="20260704205825 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260704200400 +0000" stop="20260704204320 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>جریان </sub-title>
+    <length units="seconds">2360</length>
+  </programme>
+  <programme start="20260704195520 +0000" stop="20260704200325 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۲</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">484</length>
+  </programme>
+  <programme start="20260704192725 +0000" stop="20260704194410 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۱</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">1006</length>
+  </programme>
+  <programme start="20260704170404 +0000" stop="20260704191845 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۰</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">8080</length>
+  </programme>
+  <programme start="20260704165807 +0000" stop="20260704170402 +0000" channel="tv1">
+    <title>امضا</title>
+    <sub-title>دیدار</sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20260704150852 +0000" stop="20260704165805 +0000" channel="tv1">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۹</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">6552</length>
+  </programme>
   <programme start="20260704150445 +0000" stop="20260704150850 +0000" channel="tv1">
     <title>یک تکه نان</title>
     <sub-title>دیدار</sub-title>
@@ -76,6 +121,46 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260704212654 +0000" stop="20260704215845 +0000" channel="tv2">
+    <title>13 تیر 1405 - ام عقیل </title>
+    <sub-title>پدر امت </sub-title>
+    <length units="seconds">1912</length>
+  </programme>
+  <programme start="20260704205723 +0000" stop="20260704212510 +0000" channel="tv2">
+    <title>13 تیر 1405 - بخش 1</title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">1666</length>
+  </programme>
+  <programme start="20260704203000 +0000" stop="20260704205722 +0000" channel="tv2">
+    <title>13 تیر 1405</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1642</length>
+  </programme>
+  <programme start="20260704200033 +0000" stop="20260704202958 +0000" channel="tv2">
+    <title>13 تیر 1405 - بخش 10</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">1766</length>
+  </programme>
+  <programme start="20260704195610 +0000" stop="20260704200032 +0000" channel="tv2">
+    <title>دعای نادعلی - 13 تیر 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260704185308 +0000" stop="20260704193619 +0000" channel="tv2">
+    <title>13 تیر 1405 - بخش 9</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">2590</length>
+  </programme>
+  <programme start="20260704171426 +0000" stop="20260704185308 +0000" channel="tv2">
+    <title>13 تیر 1405 - بخش 8</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">5922</length>
+  </programme>
+  <programme start="20260704152924 +0000" stop="20260704171425 +0000" channel="tv2">
+    <title>13 تیر 1405 - بخش 7</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">6300</length>
+  </programme>
   <programme start="20260704141000 +0000" stop="20260704152924 +0000" channel="tv2">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۶</title>
     <sub-title>زمانه </sub-title>
@@ -134,6 +219,31 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260704200438 +0000" stop="20260704203023 +0000" channel="tv3">
+    <title>13 تیر 1405 - بخش 4</title>
+    <sub-title>جام 26</sub-title>
+    <length units="seconds">1404</length>
+  </programme>
+  <programme start="20260704191202 +0000" stop="20260704194950 +0000" channel="tv3">
+    <title>13 تیر 1405 - بخش 9</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">2268</length>
+  </programme>
+  <programme start="20260704190049 +0000" stop="20260704191202 +0000" channel="tv3">
+    <title>13 تیر 1405</title>
+    <sub-title>جهاندار</sub-title>
+    <length units="seconds">672</length>
+  </programme>
+  <programme start="20260704171039 +0000" stop="20260704190049 +0000" channel="tv3">
+    <title>13 تیر 1405 - بخش 8</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">6610</length>
+  </programme>
+  <programme start="20260704153943 +0000" stop="20260704171037 +0000" channel="tv3">
+    <title>13 تیر 1405 - بخش 7</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">5454</length>
+  </programme>
   <programme start="20260704140253 +0000" stop="20260704153943 +0000" channel="tv3">
     <title>13 تیر 1405 - بخش 6</title>
     <sub-title>میداندار</sub-title>
@@ -192,6 +302,26 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260704201347 +0000" stop="20260704215633 +0000" channel="tv4">
+    <title>13 تیر 1405 - بخش 5</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">6076</length>
+  </programme>
+  <programme start="20260704195912 +0000" stop="20260704201103 +0000" channel="tv4">
+    <title>13 تیر 1405</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20260704180920 +0000" stop="20260704194441 +0000" channel="tv4">
+    <title>13 تیر 1405 - بخش 4</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">5693</length>
+  </programme>
+  <programme start="20260704160214 +0000" stop="20260704180920 +0000" channel="tv4">
+    <title>13 تیر 1405 - بخش 3</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">7598</length>
+  </programme>
   <programme start="20260704140522 +0000" stop="20260704160214 +0000" channel="tv4">
     <title>13 تیر 1405 - بخش 2</title>
     <sub-title>مشهد تا مشهد</sub-title>
@@ -247,37 +377,119 @@
     <sub-title>رازهای یک خانه</sub-title>
     <length units="seconds">2715</length>
   </programme>
-  <channel id="nasim">
-    <display-name>Nasim</display-name>
-  </channel>
-  <programme start="20260704130635 +0000" stop="20260704150335 +0000" channel="nasim">
-    <title>۱۳ تیر ۱۴۰۵ - بخش ۱</title>
-    <sub-title>امین ایران</sub-title>
-    <length units="seconds">7020</length>
-  </programme>
-  <programme start="20260704122725 +0000" stop="20260704123655 +0000" channel="nasim">
-    <title>۱۳ تیر ۱۴۰۵ - بخش ۲</title>
-    <sub-title>باید برخاست</sub-title>
-    <length units="seconds">570</length>
-  </programme>
-  <programme start="20260704110320 +0000" stop="20260704114650 +0000" channel="nasim">
-    <title>۱۳ تیر ۱۴۰۵</title>
-    <sub-title>ایران ما (نسیم)</sub-title>
-    <length units="seconds">2610</length>
-  </programme>
-  <programme start="20260704104645 +0000" stop="20260704110130 +0000" channel="nasim">
-    <title>۱۳ تیر ۱۴۰۵ - بخش ۱</title>
-    <sub-title>باید برخاست</sub-title>
-    <length units="seconds">886</length>
-  </programme>
-  <programme start="20260704001120 +0000" stop="20260704002150 +0000" channel="nasim">
-    <title>مسافران آخر سال - ۱۳ تیر ۱۴۰۵</title>
-    <sub-title>پاره های تن ایران</sub-title>
-    <length units="seconds">630</length>
-  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260704223030 +0000" stop="20260704223505 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30</sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260704220705 +0000" stop="20260704223025 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲۳</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1400</length>
+  </programme>
+  <programme start="20260704210000 +0000" stop="20260704220015 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3614</length>
+  </programme>
+  <programme start="20260704205715 +0000" stop="20260704205940 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲۳</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260704195205 +0000" stop="20260704205710 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3906</length>
+  </programme>
+  <programme start="20260704193325 +0000" stop="20260704194445 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲۲</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">680</length>
+  </programme>
+  <programme start="20260704193010 +0000" stop="20260704193320 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260704190845 +0000" stop="20260704193000 +0000" channel="irinn">
+    <title>همایش بین‌المللی امام خامنه‌ای رهبر جاویدان مقاومت - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1276</length>
+  </programme>
+  <programme start="20260704190020 +0000" stop="20260704190845 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">504</length>
+  </programme>
+  <programme start="20260704183520 +0000" stop="20260704190015 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲۱</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1494</length>
+  </programme>
+  <programme start="20260704183015 +0000" stop="20260704183515 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:30 </sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260704181320 +0000" stop="20260704183010 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲۰</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1010</length>
+  </programme>
+  <programme start="20260704180010 +0000" stop="20260704181320 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260704173610 +0000" stop="20260704180010 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۹</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1440</length>
+  </programme>
+  <programme start="20260704173010 +0000" stop="20260704173605 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (خبر)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260704171510 +0000" stop="20260704173005 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۸</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">894</length>
+  </programme>
+  <programme start="20260704170950 +0000" stop="20260704171045 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">54</length>
+  </programme>
+  <programme start="20260704170010 +0000" stop="20260704171505 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">840</length>
+  </programme>
+  <programme start="20260704163625 +0000" stop="20260704170005 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>لبنان امروز</sub-title>
+    <length units="seconds">1420</length>
+  </programme>
+  <programme start="20260704163025 +0000" stop="20260704163430 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:30 </sub-title>
+    <length units="seconds">246</length>
+  </programme>
+  <programme start="20260704161205 +0000" stop="20260704163020 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱۷</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1095</length>
+  </programme>
+  <programme start="20260704160005 +0000" stop="20260704161200 +0000" channel="irinn">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:00 </sub-title>
+    <length units="seconds">716</length>
+  </programme>
   <programme start="20260704153455 +0000" stop="20260704160000 +0000" channel="irinn">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۱۶</title>
     <sub-title>بدرقه آقای شهید</sub-title>
@@ -296,7 +508,7 @@
   <programme start="20260704140000 +0000" stop="20260704150455 +0000" channel="irinn">
     <title>۱۳ تیر ۱۴۰۵</title>
     <sub-title>اخبار ساعت 14:00</sub-title>
-    <length units="seconds">3896</length>
+    <length units="seconds">3895</length>
   </programme>
   <programme start="20260704133545 +0000" stop="20260704135945 +0000" channel="irinn">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۱۴</title>
@@ -418,79 +630,117 @@
     <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
     <length units="seconds">80</length>
   </programme>
-  <programme start="20260704071345 +0000" stop="20260704073010 +0000" channel="irinn">
+  <channel id="nasim">
+    <display-name>Nasim</display-name>
+  </channel>
+  <programme start="20260704205310 +0000" stop="20260704205640 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260704200510 +0000" stop="20260704205145 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>نسیم آوا (جدید)</sub-title>
+    <length units="seconds">2750</length>
+  </programme>
+  <programme start="20260704195545 +0000" stop="20260704200140 +0000" channel="nasim">
+    <title>ناد علی - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نسیم)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260704193805 +0000" stop="20260704194505 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه </sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260704192825 +0000" stop="20260704193350 +0000" channel="nasim">
+    <title>امام شهید - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">324</length>
+  </programme>
+  <programme start="20260704190540 +0000" stop="20260704192630 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۶</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">1250</length>
+  </programme>
+  <programme start="20260704183500 +0000" stop="20260704190330 +0000" channel="nasim">
+    <title>قسمت ۱۹</title>
+    <sub-title>یه تیکه زمین</sub-title>
+    <length units="seconds">1644</length>
+  </programme>
+  <programme start="20260704181750 +0000" stop="20260704183310 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">920</length>
+  </programme>
+  <programme start="20260704180130 +0000" stop="20260704181720 +0000" channel="nasim">
+    <title>هنوز باران می بارد - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">948</length>
+  </programme>
+  <programme start="20260704175625 +0000" stop="20260704180100 +0000" channel="nasim">
+    <title>عزیز ایران - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260704174055 +0000" stop="20260704175530 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۴</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">875</length>
+  </programme>
+  <programme start="20260704173615 +0000" stop="20260704173945 +0000" channel="nasim">
+    <title>محمد معتمدی - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (نسیم)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260704170545 +0000" stop="20260704171600 +0000" channel="nasim">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۳</title>
-    <sub-title>بدرقه آقای شهید</sub-title>
-    <length units="seconds">984</length>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">614</length>
   </programme>
-  <programme start="20260704070015 +0000" stop="20260704071345 +0000" channel="irinn">
-    <title>۱۳ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">810</length>
-  </programme>
-  <programme start="20260704064147 +0000" stop="20260704070010 +0000" channel="irinn">
+  <programme start="20260704150335 +0000" stop="20260704170540 +0000" channel="nasim">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۲</title>
-    <sub-title>بدرقه آقای شهید</sub-title>
-    <length units="seconds">1102</length>
+    <sub-title>امین ایران</sub-title>
+    <length units="seconds">7324</length>
   </programme>
-  <programme start="20260704063010 +0000" stop="20260704063415 +0000" channel="irinn">
-    <title>۱۳ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
-    <length units="seconds">246</length>
-  </programme>
-  <programme start="20260704061419 +0000" stop="20260704063005 +0000" channel="irinn">
+  <programme start="20260704130635 +0000" stop="20260704150335 +0000" channel="nasim">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۱</title>
-    <sub-title>بدرقه آقای شهید</sub-title>
-    <length units="seconds">946</length>
+    <sub-title>امین ایران</sub-title>
+    <length units="seconds">7020</length>
   </programme>
-  <programme start="20260704060011 +0000" stop="20260704061211 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">720</length>
+  <programme start="20260704122725 +0000" stop="20260704123655 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۲</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">570</length>
   </programme>
-  <programme start="20260704050011 +0000" stop="20260704051009 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">598</length>
+  <programme start="20260704110320 +0000" stop="20260704114650 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2610</length>
   </programme>
-  <programme start="20260704040010 +0000" stop="20260704041210 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">720</length>
+  <programme start="20260704104645 +0000" stop="20260704110130 +0000" channel="nasim">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۱</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">886</length>
   </programme>
-  <programme start="20260704030019 +0000" stop="20260704031252 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">564</length>
-  </programme>
-  <programme start="20260704023907 +0000" stop="20260704024415 +0000" channel="irinn">
-    <title>جان لبنان - 13 تیر 1405</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">308</length>
-  </programme>
-  <programme start="20260704021153 +0000" stop="20260704023459 +0000" channel="irinn">
-    <title>طلایه دار - قسمت اول - 13 تیر 1405</title>
-    <sub-title>مستند خبر</sub-title>
-    <length units="seconds">1386</length>
-  </programme>
-  <programme start="20260704020004 +0000" stop="20260704021014 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">608</length>
-  </programme>
-  <programme start="20260704010013 +0000" stop="20260704011033 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">620</length>
-  </programme>
-  <programme start="20260704000000 +0000" stop="20260704003207 +0000" channel="irinn">
-    <title>13 تیر 1405</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1926</length>
+  <programme start="20260704001120 +0000" stop="20260704002150 +0000" channel="nasim">
+    <title>مسافران آخر سال - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>پاره های تن ایران</sub-title>
+    <length units="seconds">630</length>
   </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260704180542 +0000" stop="20260704182102 +0000" channel="varzesh">
+    <title>حامی - 13 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (ورزش)</sub-title>
+    <length units="seconds">920</length>
+  </programme>
+  <programme start="20260704162122 +0000" stop="20260704162830 +0000" channel="varzesh">
+    <title>13 تیر 1405 - بخش 4</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">428</length>
+  </programme>
   <programme start="20260704142137 +0000" stop="20260704161501 +0000" channel="varzesh">
     <title>کشتی آزاد 13 تیر 1405</title>
     <sub-title>کشتی قهرمانی جوانان آسیا 2026</sub-title>
@@ -539,9 +789,79 @@
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
+  <programme start="20260704210016 +0000" stop="20260704214758 +0000" channel="hdtest">
+    <title>قسمت 2</title>
+    <sub-title>در قصه ها زندگی می کنند</sub-title>
+    <length units="seconds">2862</length>
+  </programme>
+  <programme start="20260704183014 +0000" stop="20260704200640 +0000" channel="hdtest">
+    <title>قسمت 2</title>
+    <sub-title>هاتف</sub-title>
+    <length units="seconds">4542</length>
+  </programme>
+  <programme start="20260704165545 +0000" stop="20260704165953 +0000" channel="hdtest">
+    <title>روضه دار قدیمی - 13 تیر 1405</title>
+    <sub-title>نماهنگ (تماشا)</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260704155200 +0000" stop="20260704165540 +0000" channel="hdtest">
+    <title>باید برخاست - 13 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (تماشا)</sub-title>
+    <length units="seconds">3822</length>
+  </programme>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260704213120 +0000" stop="20260704215600 +0000" channel="pooya">
+    <title>۱۳ تیر ۱۴۰۵</title>
+    <sub-title>شب بخیر بچه‌ ها</sub-title>
+    <length units="seconds">1480</length>
+  </programme>
+  <programme start="20260704203025 +0000" stop="20260704210035 +0000" channel="pooya">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۹</title>
+    <sub-title>سر سفره خدا (محرم 1405)</sub-title>
+    <length units="seconds">1810</length>
+  </programme>
+  <programme start="20260704195545 +0000" stop="20260704200030 +0000" channel="pooya">
+    <title>نوگلان ایران - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260704195000 +0000" stop="20260704195540 +0000" channel="pooya">
+    <title>اقامه نماز - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>سر سفره خدا (محرم 1405)</sub-title>
+    <length units="seconds">342</length>
+  </programme>
+  <programme start="20260704180000 +0000" stop="20260704193520 +0000" channel="pooya">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۸</title>
+    <sub-title>سر سفره خدا (محرم 1405)</sub-title>
+    <length units="seconds">5720</length>
+  </programme>
+  <programme start="20260704174410 +0000" stop="20260704175635 +0000" channel="pooya">
+    <title>قسمت ۷۲</title>
+    <sub-title>مهارت های زندگی</sub-title>
+    <length units="seconds">744</length>
+  </programme>
+  <programme start="20260704170040 +0000" stop="20260704171235 +0000" channel="pooya">
+    <title>قسمت ۹</title>
+    <sub-title>ساعت پویا</sub-title>
+    <length units="seconds">714</length>
+  </programme>
+  <programme start="20260704165450 +0000" stop="20260704165905 +0000" channel="pooya">
+    <title>پسراتو ببین - ۱۳ تیر ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260704162950 +0000" stop="20260704165210 +0000" channel="pooya">
+    <title>قسمت ۲۹</title>
+    <sub-title>شهر موشکی</sub-title>
+    <length units="seconds">1340</length>
+  </programme>
+  <programme start="20260704160030 +0000" stop="20260704162850 +0000" channel="pooya">
+    <title>۱۳ تیر ۱۴۰۵ - بخش ۷</title>
+    <sub-title>سر سفره خدا (محرم 1405)</sub-title>
+    <length units="seconds">1700</length>
+  </programme>
   <programme start="20260704153035 +0000" stop="20260704154550 +0000" channel="pooya">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۶</title>
     <sub-title>سر سفره خدا (محرم 1405)</sub-title>
@@ -635,6 +955,36 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260704210030 +0000" stop="20260704214940 +0000" channel="ifilm">
+    <title>قسمت 54</title>
+    <sub-title>دلدادگان</sub-title>
+    <length units="seconds">2608</length>
+  </programme>
+  <programme start="20260704200522 +0000" stop="20260704205700 +0000" channel="ifilm">
+    <title>قسمت 17</title>
+    <sub-title>فریبا</sub-title>
+    <length units="seconds">2764</length>
+  </programme>
+  <programme start="20260704190015 +0000" stop="20260704200453 +0000" channel="ifilm">
+    <title>قسمت 12</title>
+    <sub-title>بی نشان </sub-title>
+    <length units="seconds">2726</length>
+  </programme>
+  <programme start="20260704185250 +0000" stop="20260704185758 +0000" channel="ifilm">
+    <title>13 تیر 1405</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">308</length>
+  </programme>
+  <programme start="20260704180018 +0000" stop="20260704184235 +0000" channel="ifilm">
+    <title>قسمت 12</title>
+    <sub-title>مرضیه</sub-title>
+    <length units="seconds">2282</length>
+  </programme>
+  <programme start="20260704170019 +0000" stop="20260704175720 +0000" channel="ifilm">
+    <title>قسمت 23</title>
+    <sub-title>پرده نشین </sub-title>
+    <length units="seconds">3180</length>
+  </programme>
   <programme start="20260704160020 +0000" stop="20260704164805 +0000" channel="ifilm">
     <title>قسمت 1</title>
     <sub-title>بازگشت</sub-title>
@@ -643,6 +993,14 @@
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260704192855 +0000" stop="20260704211752 +0000" channel="namayesh">
+    <title>نغمه</title>
+    <length units="seconds">5432</length>
+  </programme>
+  <programme start="20260704175450 +0000" stop="20260704192410 +0000" channel="namayesh">
+    <title>شکارچی شنبه</title>
+    <length units="seconds">5360</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
@@ -687,6 +1045,36 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260704201733 +0000" stop="20260704213136 +0000" channel="quran">
+    <title>13 تیر 1405</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">4442</length>
+  </programme>
+  <programme start="20260704201205 +0000" stop="20260704201708 +0000" channel="quran">
+    <title>13 تیر 1405</title>
+    <sub-title>زیارت وارث</sub-title>
+    <length units="seconds">302</length>
+  </programme>
+  <programme start="20260704193316 +0000" stop="20260704194200 +0000" channel="quran">
+    <title>13 تیر 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260704174830 +0000" stop="20260704192709 +0000" channel="quran">
+    <title>13 تیر 1405</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">5920</length>
+  </programme>
+  <programme start="20260704170315 +0000" stop="20260704174829 +0000" channel="quran">
+    <title>13 تیر 1405 - بخش 6</title>
+    <sub-title>آقای شهید ایران </sub-title>
+    <length units="seconds">2714</length>
+  </programme>
+  <programme start="20260704161150 +0000" stop="20260704170011 +0000" channel="quran">
+    <title>13 تیر 1405</title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">2900</length>
+  </programme>
   <programme start="20260704141520 +0000" stop="20260704161149 +0000" channel="quran">
     <title>13 تیر 1405 - بخش 5</title>
     <sub-title>آقای شهید ایران </sub-title>
@@ -923,6 +1311,56 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260704214826 +0000" stop="20260704215546 +0000" channel="salamat">
+    <title>خادمان سلامت در مسیر وداع با رهبر شهید ایران - 13 تیر 1405</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20260704210327 +0000" stop="20260704214810 +0000" channel="salamat">
+    <title>13 تیر 1405</title>
+    <sub-title>حال خوب </sub-title>
+    <length units="seconds">2570</length>
+  </programme>
+  <programme start="20260704200347 +0000" stop="20260704204336 +0000" channel="salamat">
+    <title>13 تیر 1405</title>
+    <sub-title>استودیو سلامت 1405</sub-title>
+    <length units="seconds">2315</length>
+  </programme>
+  <programme start="20260704191433 +0000" stop="20260704192319 +0000" channel="salamat">
+    <title>گزارش یک عیادت - 13 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (سلامت)</sub-title>
+    <length units="seconds">518</length>
+  </programme>
+  <programme start="20260704182433 +0000" stop="20260704191430 +0000" channel="salamat">
+    <title>13 تیر 1405 - بخش 6</title>
+    <sub-title>طبیب امت</sub-title>
+    <length units="seconds">2997</length>
+  </programme>
+  <programme start="20260704181539 +0000" stop="20260704182101 +0000" channel="salamat">
+    <title>13 تیر 1405 - بخش 5</title>
+    <sub-title>طبیب امت</sub-title>
+    <length units="seconds">322</length>
+  </programme>
+  <programme start="20260704180546 +0000" stop="20260704180834 +0000" channel="salamat">
+    <title>13 تیر 1405 - بخش 4</title>
+    <sub-title>طبیب امت</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260704175159 +0000" stop="20260704180544 +0000" channel="salamat">
+    <title>13 تیر 1405 - بخش 3</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">825</length>
+  </programme>
+  <programme start="20260704171244 +0000" stop="20260704175155 +0000" channel="salamat">
+    <title>13 تیر 1405</title>
+    <sub-title>پورسینا (سلامت)</sub-title>
+    <length units="seconds">2333</length>
+  </programme>
+  <programme start="20260704160525 +0000" stop="20260704165437 +0000" channel="salamat">
+    <title>13 تیر 1405</title>
+    <sub-title>ضربان ۱۴۰5</sub-title>
+    <length units="seconds">2915</length>
+  </programme>
   <programme start="20260704150013 +0000" stop="20260704160140 +0000" channel="salamat">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۳</title>
     <sub-title>طبیب امت</sub-title>
@@ -976,6 +1414,26 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260704202912 +0000" stop="20260704220000 +0000" channel="ofogh">
+    <title>13 تیر 1405 - بخش 8</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">5448</length>
+  </programme>
+  <programme start="20260704201153 +0000" stop="20260704201640 +0000" channel="ofogh">
+    <title>کشور دوست - 13 تیر 1405</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260704174649 +0000" stop="20260704194510 +0000" channel="ofogh">
+    <title>13 تیر 1405 - بخش 7</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">7100</length>
+  </programme>
+  <programme start="20260704155500 +0000" stop="20260704174649 +0000" channel="ofogh">
+    <title>13 تیر 1405 - بخش 6</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">6710</length>
+  </programme>
   <programme start="20260704140920 +0000" stop="20260704155500 +0000" channel="ofogh">
     <title>۱۳ تیر ۱۴۰۵ - بخش ۵</title>
     <sub-title>باید برخاست</sub-title>
@@ -1034,16 +1492,28 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
-  <channel id="faratar">
-    <display-name>faratar</display-name>
-  </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260704200325 +0000" stop="20260704220301 +0000" channel="irinn2">
+    <title>13 تیر 1405 - بخش 8</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">7176</length>
+  </programme>
+  <programme start="20260704175105 +0000" stop="20260704192135 +0000" channel="irinn2">
+    <title>13 تیر 1405 - بخش 7</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">5339</length>
+  </programme>
+  <programme start="20260704154721 +0000" stop="20260704175105 +0000" channel="irinn2">
+    <title>13 تیر 1405 - بخش 6</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">7313</length>
+  </programme>
   <programme start="20260704140800 +0000" stop="20260704154722 +0000" channel="irinn2">
     <title>13 تیر 1405 - بخش 5</title>
     <sub-title>بدرقه آقای شهید</sub-title>
-    <length units="seconds">5795</length>
+    <length units="seconds">5962</length>
   </programme>
   <programme start="20260704123400 +0000" stop="20260704140800 +0000" channel="irinn2">
     <title>13 تیر 1405 - بخش 4</title>
@@ -1549,11 +2019,20 @@
   <channel id="iribu">
     <display-name>iribu</display-name>
   </channel>
+  <channel id="razavi">
+    <display-name>razavi</display-name>
+  </channel>
   <channel id="tekyemadahi">
     <display-name>tekyemadahi</display-name>
   </channel>
+  <channel id="baenergy">
+    <display-name>baenergy</display-name>
+  </channel>
   <channel id="velayat">
     <display-name>velayat</display-name>
+  </channel>
+  <channel id="karoon">
+    <display-name>karoon channel </display-name>
   </channel>
   <channel id="sport1">
     <display-name>sport1</display-name>
@@ -1567,17 +2046,14 @@
   <channel id="palestine">
     <display-name>palestine</display-name>
   </channel>
-  <channel id="nesfejahan">
-    <display-name>nesfejahan channel</display-name>
-  </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
   </channel>
   <channel id="presstv">
     <display-name>Press TV channel </display-name>
   </channel>
-  <channel id="alalam">
-    <display-name>alalam</display-name>
+  <channel id="Al-Alam">
+    <display-name>Al-Alam channel</display-name>
   </channel>
   <channel id="radioava">
     <display-name>radioava</display-name>
@@ -1627,7 +2103,7 @@
   <channel id="radiotartil">
     <display-name>radiotartil</display-name>
   </channel>
-  <channel id="makran">
-    <display-name>Makoran</display-name>
+  <channel id="taftan">
+    <display-name>taftan channel</display-name>
   </channel>
 </tv>
