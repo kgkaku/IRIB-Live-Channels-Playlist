@@ -3,9 +3,94 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260709110349 +0000" stop="20260709120900 +0000" channel="tv1">
+    <title>18 تیر 1405 - بخش 5</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">3910</length>
+  </programme>
+  <programme start="20260709104944 +0000" stop="20260709110346 +0000" channel="tv1">
+    <title>پرچم واحد - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 1)</sub-title>
+    <length units="seconds">842</length>
+  </programme>
+  <programme start="20260709102102 +0000" stop="20260709104942 +0000" channel="tv1">
+    <title>جاذبه - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 1)</sub-title>
+    <length units="seconds">1720</length>
+  </programme>
+  <programme start="20260709090230 +0000" stop="20260709100910 +0000" channel="tv1">
+    <title>18 تیر 1405 - بخش 4</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">4000</length>
+  </programme>
+  <programme start="20260709083032 +0000" stop="20260709085907 +0000" channel="tv1">
+    <title>18 تیر 1405</title>
+    <sub-title>فراز</sub-title>
+    <length units="seconds">1716</length>
+  </programme>
+  <programme start="20260709075953 +0000" stop="20260709083028 +0000" channel="tv1">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1834</length>
+  </programme>
+  <programme start="20260709063135 +0000" stop="20260709065841 +0000" channel="tv1">
+    <title>18 تیر 1405</title>
+    <sub-title>رهنما</sub-title>
+    <length units="seconds">1626</length>
+  </programme>
+  <programme start="20260709044800 +0000" stop="20260709063130 +0000" channel="tv1">
+    <title>18 تیر 1405 - بخش 3</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">6210</length>
+  </programme>
+  <programme start="20260709022900 +0000" stop="20260709044745 +0000" channel="tv1">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">8000</length>
+  </programme>
+  <programme start="20260709001540 +0000" stop="20260709022900 +0000" channel="tv1">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">8000</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260709110008 +0000" stop="20260709114931 +0000" channel="tv2">
+    <title>روزی که با تو بودم - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 2)</sub-title>
+    <length units="seconds">2962</length>
+  </programme>
+  <programme start="20260709104359 +0000" stop="20260709105407 +0000" channel="tv2">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260709094325 +0000" stop="20260709094928 +0000" channel="tv2">
+    <title>اگر نبود - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 2)</sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20260709085917 +0000" stop="20260709093700 +0000" channel="tv2">
+    <title>عیار غبار - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 2)</sub-title>
+    <length units="seconds">2262</length>
+  </programme>
+  <programme start="20260709075039 +0000" stop="20260709082358 +0000" channel="tv2">
+    <title>برکت حضور - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 2)</sub-title>
+    <length units="seconds">2000</length>
+  </programme>
+  <programme start="20260709065936 +0000" stop="20260709073200 +0000" channel="tv2">
+    <title>18 تیر 1405</title>
+    <sub-title>فراز </sub-title>
+    <length units="seconds">1944</length>
+  </programme>
+  <programme start="20260709062916 +0000" stop="20260709065525 +0000" channel="tv2">
+    <title>18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">1314</length>
+  </programme>
   <programme start="20260709043000 +0000" stop="20260709053621 +0000" channel="tv2">
     <title>18 تیر 1405 - بخش 5</title>
     <sub-title>زمانه </sub-title>
@@ -34,6 +119,21 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260709112145 +0000" stop="20260709120940 +0000" channel="tv3">
+    <title>روزی که با تو بودم - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 3)</sub-title>
+    <length units="seconds">2874</length>
+  </programme>
+  <programme start="20260709100622 +0000" stop="20260709111341 +0000" channel="tv3">
+    <title>18 تیر 1405</title>
+    <sub-title>غیر رسمی 7</sub-title>
+    <length units="seconds">4038</length>
+  </programme>
+  <programme start="20260709064446 +0000" stop="20260709073400 +0000" channel="tv3">
+    <title>روزی که با تو بودم - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 3)</sub-title>
+    <length units="seconds">2954</length>
+  </programme>
   <programme start="20260709061016 +0000" stop="20260709063945 +0000" channel="tv3">
     <title>18 تیر 1405</title>
     <sub-title>سخنرانی حجت الاسلام و المسلمین رفیعی</sub-title>
@@ -62,6 +162,26 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260709100414 +0000" stop="20260709115836 +0000" channel="tv4">
+    <title>18 تیر 1405 - بخش 3</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">6862</length>
+  </programme>
+  <programme start="20260709082000 +0000" stop="20260709100413 +0000" channel="tv4">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">6235</length>
+  </programme>
+  <programme start="20260709070355 +0000" stop="20260709082000 +0000" channel="tv4">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>مشهد تا مشهد</sub-title>
+    <length units="seconds">4517</length>
+  </programme>
+  <programme start="20260709062014 +0000" stop="20260709065300 +0000" channel="tv4">
+    <title>18 تیر 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">1941</length>
+  </programme>
   <programme start="20260709060218 +0000" stop="20260709061104 +0000" channel="tv4">
     <title>18 تیر 1405</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
@@ -90,9 +210,134 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260709122953 +0000" stop="20260709124028 +0000" channel="nasim">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">634</length>
+  </programme>
+  <programme start="20260709000500 +0000" stop="20260709001535 +0000" channel="nasim">
+    <title>انتظار 25 سال - 18 تیر 1405</title>
+    <sub-title>پاره های تن ایران</sub-title>
+    <length units="seconds">636</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260709123651 +0000" stop="20260709124545 +0000" channel="irinn">
+    <title>زنده از مشهد مقدس - 18 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">534</length>
+  </programme>
+  <programme start="20260709123014 +0000" stop="20260709123526 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260709120014 +0000" stop="20260709120840 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260709113600 +0000" stop="20260709120008 +0000" channel="irinn">
+    <title>18 تیر 1405 - حجت الاسلام والمسلمین سیدحسین حسینی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1448</length>
+  </programme>
+  <programme start="20260709113004 +0000" stop="20260709113554 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">350</length>
+  </programme>
+  <programme start="20260709111049 +0000" stop="20260709113002 +0000" channel="irinn">
+    <title>18 تیر 1405 - مجتبی امانی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1152</length>
+  </programme>
+  <programme start="20260709110020 +0000" stop="20260709111046 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">626</length>
+  </programme>
+  <programme start="20260709104955 +0000" stop="20260709105140 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">105</length>
+  </programme>
+  <programme start="20260709104159 +0000" stop="20260709104759 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>موج (خبر)</sub-title>
+    <length units="seconds">360</length>
+  </programme>
+  <programme start="20260709103009 +0000" stop="20260709103923 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260709101425 +0000" stop="20260709102907 +0000" channel="irinn">
+    <title>18 تیر 1405 - عباس خامه یار</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">882</length>
+  </programme>
+  <programme start="20260709100011 +0000" stop="20260709100946 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">574</length>
+  </programme>
+  <programme start="20260709093827 +0000" stop="20260709095809 +0000" channel="irinn">
+    <title>18 تیر 1405 - سردار محمد کرمی</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1182</length>
+  </programme>
+  <programme start="20260709093015 +0000" stop="20260709093608 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 9:30 (خبر)</sub-title>
+    <length units="seconds">352</length>
+  </programme>
+  <programme start="20260709091145 +0000" stop="20260709092815 +0000" channel="irinn">
+    <title>18 تیر 1405 - دکتر طلا ناجی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">990</length>
+  </programme>
+  <programme start="20260709090012 +0000" stop="20260709090922 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">550</length>
+  </programme>
+  <programme start="20260709083442 +0000" stop="20260709090008 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1526</length>
+  </programme>
+  <programme start="20260709080000 +0000" stop="20260709083033 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1832</length>
+  </programme>
+  <programme start="20260709073533 +0000" stop="20260709075808 +0000" channel="irinn">
+    <title>18 تیر 1405 - سلطانی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1354</length>
+  </programme>
+  <programme start="20260709073009 +0000" stop="20260709073409 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20260709070958 +0000" stop="20260709073007 +0000" channel="irinn">
+    <title>18 تیر 1405 - نیک بین</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1208</length>
+  </programme>
+  <programme start="20260709070013 +0000" stop="20260709070955 +0000" channel="irinn">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">582</length>
+  </programme>
+  <programme start="20260709063253 +0000" stop="20260709070010 +0000" channel="irinn">
+    <title>18 تیر 1405 - ناصر ترابی</title>
+    <sub-title>بدرقه آقای شهید</sub-title>
+    <length units="seconds">1638</length>
+  </programme>
   <programme start="20260709063013 +0000" stop="20260709063245 +0000" channel="irinn">
     <title>18 تیر 1405</title>
     <sub-title>اخبار ساعت 6:30 (خبر)</sub-title>
@@ -156,6 +401,16 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260709100503 +0000" stop="20260709102739 +0000" channel="varzesh">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1356</length>
+  </programme>
+  <programme start="20260709080912 +0000" stop="20260709085200 +0000" channel="varzesh">
+    <title>18 تیر 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2568</length>
+  </programme>
   <programme start="20260709060144 +0000" stop="20260709063140 +0000" channel="varzesh">
     <title>18 تیر 1405</title>
     <sub-title>پهلوون</sub-title>
@@ -167,6 +422,71 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260709123209 +0000" stop="20260709123808 +0000" channel="pooya">
+    <title>قسمت 17</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">358</length>
+  </programme>
+  <programme start="20260709121551 +0000" stop="20260709122000 +0000" channel="pooya">
+    <title>18 تیر 1405</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260709120206 +0000" stop="20260709120457 +0000" channel="pooya">
+    <title>رهبر خوب تموم بچه هایی - 18 تیر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260709114530 +0000" stop="20260709120037 +0000" channel="pooya">
+    <title>18 تیر 1405 - بخش 3</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">906</length>
+  </programme>
+  <programme start="20260709113049 +0000" stop="20260709113941 +0000" channel="pooya">
+    <title>قسمت 13</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">532</length>
+  </programme>
+  <programme start="20260709110007 +0000" stop="20260709113037 +0000" channel="pooya">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">1830</length>
+  </programme>
+  <programme start="20260709105137 +0000" stop="20260709105519 +0000" channel="pooya">
+    <title>18 تیر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260709100837 +0000" stop="20260709101105 +0000" channel="pooya">
+    <title>قسمت 290</title>
+    <sub-title>جیک جیکو</sub-title>
+    <length units="seconds">148</length>
+  </programme>
+  <programme start="20260709094533 +0000" stop="20260709100020 +0000" channel="pooya">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>سر سفره خدا ۱۴۰۵</sub-title>
+    <length units="seconds">887</length>
+  </programme>
+  <programme start="20260709093914 +0000" stop="20260709094106 +0000" channel="pooya">
+    <title>18 تیر 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">112</length>
+  </programme>
+  <programme start="20260709085631 +0000" stop="20260709085842 +0000" channel="pooya">
+    <title>18 تیر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">132</length>
+  </programme>
+  <programme start="20260709082119 +0000" stop="20260709082703 +0000" channel="pooya">
+    <title>قسمت 195</title>
+    <sub-title>گلدانه ها</sub-title>
+    <length units="seconds">344</length>
+  </programme>
+  <programme start="20260709081138 +0000" stop="20260709081521 +0000" channel="pooya">
+    <title>18 تیر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">222</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -176,15 +496,150 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260709070535 +0000" stop="20260709092049 +0000" channel="tehran">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">8058</length>
+  </programme>
+  <programme start="20260709060202 +0000" stop="20260709062738 +0000" channel="tehran">
+    <title>18 تیر 1405</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1536</length>
+  </programme>
+  <programme start="20260709023735 +0000" stop="20260709050350 +0000" channel="tehran">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>سدره </sub-title>
+    <length units="seconds">8775</length>
+  </programme>
+  <programme start="20260709000019 +0000" stop="20260709023735 +0000" channel="tehran">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>سدره </sub-title>
+    <length units="seconds">9436</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260709115337 +0000" stop="20260709120900 +0000" channel="quran">
+    <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - 18 تیر 1405</title>
+    <sub-title>برنامه مذهبی (قرآن)</sub-title>
+    <length units="seconds">922</length>
+  </programme>
+  <programme start="20260709101730 +0000" stop="20260709115215 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">5686</length>
+  </programme>
+  <programme start="20260709094408 +0000" stop="20260709101626 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">1938</length>
+  </programme>
+  <programme start="20260709084718 +0000" stop="20260709085925 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
+    <length units="seconds">728</length>
+  </programme>
+  <programme start="20260709082328 +0000" stop="20260709084519 +0000" channel="quran">
+    <title>قاسم مقدمی - 18 تیر 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1312</length>
+  </programme>
+  <programme start="20260709080217 +0000" stop="20260709081526 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>زیارت وارث</sub-title>
+    <length units="seconds">788</length>
+  </programme>
+  <programme start="20260709072005 +0000" stop="20260709074827 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">1702</length>
+  </programme>
+  <programme start="20260709070118 +0000" stop="20260709071119 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>عهد</sub-title>
+    <length units="seconds">602</length>
+  </programme>
+  <programme start="20260709064032 +0000" stop="20260709065322 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
+    <length units="seconds">770</length>
+  </programme>
+  <programme start="20260709062843 +0000" stop="20260709063721 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">518</length>
+  </programme>
+  <programme start="20260709060929 +0000" stop="20260709062235 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">786</length>
+  </programme>
+  <programme start="20260709055431 +0000" stop="20260709060328 +0000" channel="quran">
+    <title>18 تیر 1405</title>
+    <sub-title>آیات ایستادگی (قرآن)</sub-title>
+    <length units="seconds">536</length>
+  </programme>
+  <programme start="20260709022630 +0000" stop="20260709052500 +0000" channel="quran">
+    <title>بدرقه پیکر مطهر امام مجاهد شهید - کربلای معلی - 18 تیر 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">10710</length>
+  </programme>
+  <programme start="20260709000214 +0000" stop="20260709022630 +0000" channel="quran">
+    <title>بدرقه پیکر مطهر امام مجاهد شهید - کربلای معلی - 18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">8656</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260709114019 +0000" stop="20260709114644 +0000" channel="amouzesh">
+    <title>18 تیر 1405</title>
+    <sub-title>دوربین هفت ۱۴۰۵</sub-title>
+    <length units="seconds">384</length>
+  </programme>
+  <programme start="20260709100021 +0000" stop="20260709112949 +0000" channel="amouzesh">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>معلم بعثت</sub-title>
+    <length units="seconds">5367</length>
+  </programme>
+  <programme start="20260709090526 +0000" stop="20260709094816 +0000" channel="amouzesh">
+    <title>زندگی اینجاست - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (آموزش)</sub-title>
+    <length units="seconds">2570</length>
+  </programme>
+  <programme start="20260709070124 +0000" stop="20260709071846 +0000" channel="amouzesh">
+    <title>دوازدهم ریاضی - درس فیزیک - جلسه دهم - 18 تیر 1405</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1042</length>
+  </programme>
+  <programme start="20260709060117 +0000" stop="20260709061809 +0000" channel="amouzesh">
+    <title>18 تیر 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1010</length>
+  </programme>
+  <programme start="20260709053706 +0000" stop="20260709054840 +0000" channel="amouzesh">
+    <title>پرچمداران - 18 تیر 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">692</length>
+  </programme>
+  <programme start="20260709044548 +0000" stop="20260709052814 +0000" channel="amouzesh">
+    <title>18 تیر 1405</title>
+    <sub-title>خانه های نورانی</sub-title>
+    <length units="seconds">2546</length>
+  </programme>
+  <programme start="20260709040000 +0000" stop="20260709044535 +0000" channel="amouzesh">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">2735</length>
+  </programme>
+  <programme start="20260709025609 +0000" stop="20260709040000 +0000" channel="amouzesh">
+    <title>ارتباط زنده کربلا - 18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">3831</length>
+  </programme>
   <programme start="20260709003110 +0000" stop="20260709011737 +0000" channel="amouzesh">
     <title>غیر رسمی - 18 تیر 1405</title>
     <sub-title>برنامه سیاسی تاریخی (آموزش)</sub-title>
@@ -198,9 +653,29 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260709111311 +0000" stop="20260709113620 +0000" channel="salamat">
+    <title>18 تیر 1405</title>
+    <sub-title>طبیب امت</sub-title>
+    <length units="seconds">1352</length>
+  </programme>
+  <programme start="20260709110112 +0000" stop="20260709111310 +0000" channel="salamat">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">707</length>
+  </programme>
+  <programme start="20260709090032 +0000" stop="20260709094209 +0000" channel="salamat">
+    <title>18 تیر 1405</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2471</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260709101145 +0000" stop="20260709120357 +0000" channel="ofogh">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>پرچمدار </sub-title>
+    <length units="seconds">6732</length>
+  </programme>
   <programme start="20260709041100 +0000" stop="20260709053010 +0000" channel="ofogh">
     <title>18 تیر 1405 - بخش 4</title>
     <sub-title>باید برخاست</sub-title>
@@ -241,6 +716,26 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260709095730 +0000" stop="20260709120450 +0000" channel="sahand">
+    <title>18 تیر 1405 - بخش 3</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">7450</length>
+  </programme>
+  <programme start="20260709084000 +0000" stop="20260709095730 +0000" channel="sahand">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">1605</length>
+  </programme>
+  <programme start="20260709073301 +0000" stop="20260709084000 +0000" channel="sahand">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">6819</length>
+  </programme>
+  <programme start="20260709063409 +0000" stop="20260709064438 +0000" channel="sahand">
+    <title>18 تیر 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">620</length>
+  </programme>
   <programme start="20260709041200 +0000" stop="20260709051836 +0000" channel="sahand">
     <title>مکتب رهبر شهید - 18 تیر 1405</title>
     <sub-title>برنامه اجتماعی (سهند)</sub-title>
@@ -264,9 +759,44 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260709122436 +0000" stop="20260709123100 +0000" channel="alborz">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">384</length>
+  </programme>
+  <programme start="20260709111551 +0000" stop="20260709120630 +0000" channel="alborz">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">3038</length>
+  </programme>
+  <programme start="20260709102132 +0000" stop="20260709104300 +0000" channel="alborz">
+    <title>18 تیر 1405</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">1288</length>
+  </programme>
+  <programme start="20260709080001 +0000" stop="20260709095553 +0000" channel="alborz">
+    <title>18 تیر 1405</title>
+    <sub-title>امروز البرز (البرز)</sub-title>
+    <length units="seconds">6952</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260709110429 +0000" stop="20260709114013 +0000" channel="esfahan">
+    <title>18 تیر 1405</title>
+    <sub-title>قائد امت</sub-title>
+    <length units="seconds">2144</length>
+  </programme>
+  <programme start="20260709090503 +0000" stop="20260709100223 +0000" channel="esfahan">
+    <title>18 تیر 1405</title>
+    <sub-title>میثاق</sub-title>
+    <length units="seconds">3440</length>
+  </programme>
+  <programme start="20260709071311 +0000" stop="20260709073952 +0000" channel="esfahan">
+    <title>حجت الاسلام انصاریان - 18 تیر 1405</title>
+    <sub-title>سخنرانی (اصفهان)</sub-title>
+    <length units="seconds">1600</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -285,15 +815,75 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260709093556 +0000" stop="20260709113700 +0000" channel="khorasanrazavi">
+    <title>18 تیر 1405 - بخش 3</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">7264</length>
+  </programme>
+  <programme start="20260709075600 +0000" stop="20260709093556 +0000" channel="khorasanrazavi">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">5996</length>
+  </programme>
+  <programme start="20260709062018 +0000" stop="20260709075600 +0000" channel="khorasanrazavi">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>آقای شهید</sub-title>
+    <length units="seconds">5742</length>
+  </programme>
+  <programme start="20260709035300 +0000" stop="20260709051935 +0000" channel="khorasanrazavi">
+    <title>مراسم تشیییع باشکوه قائد شهید امت - کربلای معلی - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">5194</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260709111707 +0000" stop="20260709112122 +0000" channel="atrak">
+    <title>مراسم بدرقه و وداع با آقای شهید ایران - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260709110009 +0000" stop="20260709111608 +0000" channel="atrak">
+    <title>18 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">958</length>
+  </programme>
+  <programme start="20260709102657 +0000" stop="20260709105727 +0000" channel="atrak">
+    <title>صد قافله دل - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1830</length>
+  </programme>
+  <programme start="20260709073931 +0000" stop="20260709102652 +0000" channel="atrak">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>وداع یک امت </sub-title>
+    <length units="seconds">10041</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260709112640 +0000" stop="20260709115650 +0000" channel="khoozestan">
+    <title>دیدار دوباره - 18 تیر 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (خوزستان)</sub-title>
+    <length units="seconds">1800</length>
+  </programme>
+  <programme start="20260709100001 +0000" stop="20260709112630 +0000" channel="khoozestan">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>بدرقه </sub-title>
+    <length units="seconds">5112</length>
+  </programme>
+  <programme start="20260709082153 +0000" stop="20260709100000 +0000" channel="khoozestan">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>بدرقه </sub-title>
+    <length units="seconds">5763</length>
+  </programme>
+  <programme start="20260709060407 +0000" stop="20260709065529 +0000" channel="khoozestan">
+    <title>رهنما - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">2993</length>
+  </programme>
   <programme start="20260709052227 +0000" stop="20260709060010 +0000" channel="khoozestan">
     <title>پدر امت - 18 تیر 1405</title>
     <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
@@ -331,12 +921,57 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260709111600 +0000" stop="20260709115530 +0000" channel="fars">
+    <title>18 تیر 1405</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">2370</length>
+  </programme>
+  <programme start="20260709102500 +0000" stop="20260709111600 +0000" channel="fars">
+    <title>18 تیر 1405</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">3060</length>
+  </programme>
+  <programme start="20260709090132 +0000" stop="20260709095700 +0000" channel="fars">
+    <title>18 تیر 1405</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">3328</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260709052410 +0000" stop="20260709055406 +0000" channel="qazvin">
+    <title>18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">1796</length>
+  </programme>
+  <programme start="20260709044612 +0000" stop="20260709051854 +0000" channel="qazvin">
+    <title>ورود پیکر مطهر رهبر شهید انقلاب به حرم حضرت عباس - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">1962</length>
+  </programme>
+  <programme start="20260709033024 +0000" stop="20260709043134 +0000" channel="qazvin">
+    <title>18 تیر 1405</title>
+    <sub-title>تلاوت نور</sub-title>
+    <length units="seconds">3670</length>
+  </programme>
+  <programme start="20260709022655 +0000" stop="20260709033023 +0000" channel="qazvin">
+    <title>ورود پیکر رهبر شهید انقلاب به حائر حسینی - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">3808</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260709115419 +0000" stop="20260709123010 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - 18 تیر 1405</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">2017</length>
+  </programme>
+  <programme start="20260709090543 +0000" stop="20260709113558 +0000" channel="noor">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">8579</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -361,6 +996,26 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260709120315 +0000" stop="20260709121643 +0000" channel="kordestan">
+    <title>18 تیر 1405</title>
+    <sub-title>به ره و رووناکی (کردستان)</sub-title>
+    <length units="seconds">808</length>
+  </programme>
+  <programme start="20260709112801 +0000" stop="20260709120300 +0000" channel="kordestan">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">2098</length>
+  </programme>
+  <programme start="20260709103101 +0000" stop="20260709112800 +0000" channel="kordestan">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">3418</length>
+  </programme>
+  <programme start="20260709090026 +0000" stop="20260709103100 +0000" channel="kordestan">
+    <title>18 تیر 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">5434</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
@@ -370,6 +1025,26 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260709110509 +0000" stop="20260709114905 +0000" channel="aftab">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">2636</length>
+  </programme>
+  <programme start="20260709093837 +0000" stop="20260709095008 +0000" channel="aftab">
+    <title>18 تیر 1405 - بخش 2</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">692</length>
+  </programme>
+  <programme start="20260709080136 +0000" stop="20260709093441 +0000" channel="aftab">
+    <title>18 تیر 1405 - بخش 1</title>
+    <sub-title>آقای شهید ایران</sub-title>
+    <length units="seconds">5584</length>
+  </programme>
+  <programme start="20260709070015 +0000" stop="20260709075530 +0000" channel="aftab">
+    <title>غیر رسمی - 18 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
+    <length units="seconds">3316</length>
+  </programme>
   <programme start="20260709061716 +0000" stop="20260709062725 +0000" channel="aftab">
     <title>18 تیر 1405 - بخش 1</title>
     <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
