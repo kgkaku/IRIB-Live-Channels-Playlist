@@ -9,49 +9,14 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
-  <programme start="20260716022027 +0000" stop="20260716030917 +0000" channel="tv3">
-    <title>25 تیر 1405</title>
-    <sub-title>ضیافت دوست 1405</sub-title>
-    <length units="seconds">2930</length>
-  </programme>
-  <programme start="20260716020238 +0000" stop="20260716021550 +0000" channel="tv3">
-    <title>25 تیر 1405</title>
-    <sub-title>جهاندار</sub-title>
-    <length units="seconds">792</length>
-  </programme>
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
-  <programme start="20260716060112 +0000" stop="20260716060234 +0000" channel="tv4">
-    <title>25 تیر 1405</title>
-    <sub-title>از باران تا ایمان</sub-title>
-    <length units="seconds">82</length>
-  </programme>
-  <programme start="20260716000432 +0000" stop="20260716010150 +0000" channel="tv4">
-    <title>قسمت 12 </title>
-    <sub-title>رازهای یک خانه</sub-title>
-    <length units="seconds">3438</length>
-  </programme>
-  <channel id="irinn">
-    <display-name>channel irinn</display-name>
-  </channel>
-  <programme start="20260716030020 +0000" stop="20260716031302 +0000" channel="irinn">
-    <title>25 تیر 1405</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">762</length>
-  </programme>
-  <programme start="20260716020014 +0000" stop="20260716021100 +0000" channel="irinn">
-    <title>25 تیر 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">646</length>
-  </programme>
-  <programme start="20260716010015 +0000" stop="20260716010858 +0000" channel="irinn">
-    <title>25 تیر 1405</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">523</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
+  </channel>
+  <channel id="irinn">
+    <display-name>channel irinn</display-name>
   </channel>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
@@ -88,6 +53,9 @@
   </channel>
   <channel id="omid">
     <display-name>Omid</display-name>
+  </channel>
+  <channel id="faratar">
+    <display-name>faratar</display-name>
   </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
@@ -212,14 +180,8 @@
   <channel id="tekyemadahi">
     <display-name>tekyemadahi</display-name>
   </channel>
-  <channel id="baenergy">
-    <display-name>baenergy</display-name>
-  </channel>
   <channel id="velayat">
     <display-name>velayat</display-name>
-  </channel>
-  <channel id="karoon">
-    <display-name>karoon channel </display-name>
   </channel>
   <channel id="sport1">
     <display-name>sport1</display-name>
@@ -233,14 +195,17 @@
   <channel id="palestine">
     <display-name>palestine</display-name>
   </channel>
+  <channel id="nesfejahan">
+    <display-name>nesfejahan channel</display-name>
+  </channel>
   <channel id="kawthar">
     <display-name>kawthar</display-name>
   </channel>
   <channel id="presstv">
     <display-name>Press TV channel </display-name>
   </channel>
-  <channel id="Al-Alam">
-    <display-name>Al-Alam channel</display-name>
+  <channel id="alalam">
+    <display-name>alalam</display-name>
   </channel>
   <channel id="radioava">
     <display-name>radioava</display-name>
@@ -290,7 +255,7 @@
   <channel id="radiotartil">
     <display-name>radiotartil</display-name>
   </channel>
-  <channel id="taftan">
-    <display-name>taftan channel</display-name>
+  <channel id="makran">
+    <display-name>Makoran</display-name>
   </channel>
 </tv>
