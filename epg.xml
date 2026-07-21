@@ -3,6 +3,31 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260721140020 +0000" stop="20260721150130 +0000" channel="tv1">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3670</length>
+  </programme>
+  <programme start="20260721135530 +0000" stop="20260721135821 +0000" channel="tv1">
+    <title>30 تیر 1405</title>
+    <sub-title>امام امت (شبکه 1)</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260721133325 +0000" stop="20260721133428 +0000" channel="tv1">
+    <title>30 تیر 1405</title>
+    <sub-title>قاب یک</sub-title>
+    <length units="seconds">62</length>
+  </programme>
+  <programme start="20260721124530 +0000" stop="20260721133323 +0000" channel="tv1">
+    <title>30 تیر 1405</title>
+    <sub-title>سیمای خانواده 1405</sub-title>
+    <length units="seconds">2634</length>
+  </programme>
+  <programme start="20260721122145 +0000" stop="20260721123430 +0000" channel="tv1">
+    <title>30 تیر 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">764</length>
+  </programme>
   <programme start="20260721090030 +0000" stop="20260721105500 +0000" channel="tv1">
     <title>30 تیر 1405</title>
     <sub-title>ایران ما (شبکه ۱)</sub-title>
@@ -36,6 +61,31 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260721144726 +0000" stop="20260721155300 +0000" channel="tv2">
+    <title>گزیده - 30 تیر ۱۴۰۵ </title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">3934</length>
+  </programme>
+  <programme start="20260721143213 +0000" stop="20260721144241 +0000" channel="tv2">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">628</length>
+  </programme>
+  <programme start="20260721130455 +0000" stop="20260721140051 +0000" channel="tv2">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">3356</length>
+  </programme>
+  <programme start="20260721123228 +0000" stop="20260721130454 +0000" channel="tv2">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">1946</length>
+  </programme>
+  <programme start="20260721122319 +0000" stop="20260721122657 +0000" channel="tv2">
+    <title>دعای نادعلی - 30 تیر ۱۴۰۵ </title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">218</length>
+  </programme>
   <programme start="20260721095820 +0000" stop="20260721100856 +0000" channel="tv2">
     <title>30 تیر ۱۴۰۵ - بخش ۱</title>
     <sub-title>ایران در مسیر حسین (ع)</sub-title>
@@ -74,6 +124,36 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260721140052 +0000" stop="20260721140500 +0000" channel="tv3">
+    <title>مراسم بزرگداشت رهبر شهید انقلاب در مصلی تهران - 30 تیر 1405</title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260721130635 +0000" stop="20260721140039 +0000" channel="tv3">
+    <title>30 تیر 1405 - حجت الاسلام سید میرهاشم حسینی</title>
+    <sub-title>سمت خدا 1405</sub-title>
+    <length units="seconds">3244</length>
+  </programme>
+  <programme start="20260721124230 +0000" stop="20260721125452 +0000" channel="tv3">
+    <title>پیشنهاد سرآشپز - کباب کوبیده مرغ</title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">742</length>
+  </programme>
+  <programme start="20260721122624 +0000" stop="20260721123458 +0000" channel="tv3">
+    <title>30 تیر 1405</title>
+    <sub-title>محفل (شبکه 3)</sub-title>
+    <length units="seconds">514</length>
+  </programme>
+  <programme start="20260721120415 +0000" stop="20260721122622 +0000" channel="tv3">
+    <title>30 تیر 1405 - بخش 2</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1328</length>
+  </programme>
+  <programme start="20260721110539 +0000" stop="20260721120409 +0000" channel="tv3">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>طبیب 1405</sub-title>
+    <length units="seconds">3154</length>
+  </programme>
   <programme start="20260721080533 +0000" stop="20260721094428 +0000" channel="tv3">
     <title>30 تیر 1405</title>
     <sub-title>سلام صبح بخیر 1405</sub-title>
@@ -112,6 +192,31 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260721155056 +0000" stop="20260721160059 +0000" channel="tv4">
+    <title>30 تیر 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">602</length>
+  </programme>
+  <programme start="20260721150149 +0000" stop="20260721154851 +0000" channel="tv4">
+    <title>30 تیر 1405</title>
+    <sub-title>ایران ما (شبکه 4)</sub-title>
+    <length units="seconds">2805</length>
+  </programme>
+  <programme start="20260721145810 +0000" stop="20260721150123 +0000" channel="tv4">
+    <title>30 تیر 1405</title>
+    <sub-title>جهان گرد (شبکه 4)</sub-title>
+    <length units="seconds">193</length>
+  </programme>
+  <programme start="20260721132040 +0000" stop="20260721132937 +0000" channel="tv4">
+    <title>30 تیر 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">537</length>
+  </programme>
+  <programme start="20260721115934 +0000" stop="20260721120412 +0000" channel="tv4">
+    <title>30 تیر 1405 - بخش 2</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">278</length>
+  </programme>
   <programme start="20260721104540 +0000" stop="20260721105604 +0000" channel="tv4">
     <title>30 تیر 1405 - بخش 1</title>
     <sub-title>ایران در مسیر حسین (ع)</sub-title>
@@ -155,9 +260,109 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260721151635 +0000" stop="20260721153025 +0000" channel="nasim">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">830</length>
+  </programme>
+  <programme start="20260721110335 +0000" stop="20260721114800 +0000" channel="nasim">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2664</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260721170015 +0000" stop="20260721171000 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">586</length>
+  </programme>
+  <programme start="20260721163435 +0000" stop="20260721165815 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>لبنان امروز</sub-title>
+    <length units="seconds">1420</length>
+  </programme>
+  <programme start="20260721163015 +0000" stop="20260721163430 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:30 </sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260721162805 +0000" stop="20260721163010 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>بوم بیدار</sub-title>
+    <length units="seconds">126</length>
+  </programme>
+  <programme start="20260721160015 +0000" stop="20260721161010 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:00 </sub-title>
+    <length units="seconds">596</length>
+  </programme>
+  <programme start="20260721153428 +0000" stop="20260721155904 +0000" channel="irinn">
+    <title>30 تیر 1405</title>
+    <sub-title>آقای فرهنگ دوست</sub-title>
+    <length units="seconds">1476</length>
+  </programme>
+  <programme start="20260721153015 +0000" stop="20260721153424 +0000" channel="irinn">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 15:30</sub-title>
+    <length units="seconds">250</length>
+  </programme>
+  <programme start="20260721150147 +0000" stop="20260721152855 +0000" channel="irinn">
+    <title>30 تیر 1405</title>
+    <sub-title>میز اقتصاد (خبر)</sub-title>
+    <length units="seconds">1628</length>
+  </programme>
+  <programme start="20260721140025 +0000" stop="20260721150143 +0000" channel="irinn">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3678</length>
+  </programme>
+  <programme start="20260721133440 +0000" stop="20260721134750 +0000" channel="irinn">
+    <title>روایت فتح - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260721133020 +0000" stop="20260721133440 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:30</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20260721131030 +0000" stop="20260721132850 +0000" channel="irinn">
+    <title>ارتباط با خوزستان - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1100</length>
+  </programme>
+  <programme start="20260721130025 +0000" stop="20260721131025 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260721124515 +0000" stop="20260721125705 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">710</length>
+  </programme>
+  <programme start="20260721123450 +0000" stop="20260721124120 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>موج (خبر)</sub-title>
+    <length units="seconds">390</length>
+  </programme>
+  <programme start="20260721123050 +0000" stop="20260721123450 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20260721121400 +0000" stop="20260721123050 +0000" channel="irinn">
+    <title>توهم تسلیم - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1010</length>
+  </programme>
+  <programme start="20260721120020 +0000" stop="20260721120950 +0000" channel="irinn">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">570</length>
+  </programme>
   <programme start="20260721113500 +0000" stop="20260721115815 +0000" channel="irinn">
     <title>۳۰ تیر ۱۴۰۵</title>
     <sub-title>روایت اقتدار</sub-title>
@@ -318,33 +523,28 @@
     <sub-title>اخبار ساعت 4:00 </sub-title>
     <length units="seconds">630</length>
   </programme>
-  <programme start="20260721030020 +0000" stop="20260721030935 +0000" channel="irinn">
-    <title>۳۰ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">556</length>
-  </programme>
-  <programme start="20260721020015 +0000" stop="20260721021105 +0000" channel="irinn">
-    <title>۳۰ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">650</length>
-  </programme>
-  <programme start="20260721010015 +0000" stop="20260721010945 +0000" channel="irinn">
-    <title>۳۰ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">570</length>
-  </programme>
-  <programme start="20260721000005 +0000" stop="20260721003305 +0000" channel="irinn">
-    <title>۳۰ تیر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1980</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260721162922 +0000" stop="20260721163624 +0000" channel="varzesh">
+    <title>30 تیر 1405</title>
+    <sub-title>این تیم ایرانه</sub-title>
+    <length units="seconds">422</length>
+  </programme>
+  <programme start="20260721160214 +0000" stop="20260721162817 +0000" channel="varzesh">
+    <title>30 تیر 1405 - بخش 2</title>
+    <sub-title>تک به تک</sub-title>
+    <length units="seconds">1563</length>
+  </programme>
+  <programme start="20260721113406 +0000" stop="20260721115552 +0000" channel="varzesh">
+    <title>30 تیر 1405</title>
+    <sub-title>مستند رالی قهرمانی جهان</sub-title>
+    <length units="seconds">1306</length>
+  </programme>
   <programme start="20260721110535 +0000" stop="20260721113138 +0000" channel="varzesh">
     <title>30 تیر 1405</title>
     <sub-title>تک به تک</sub-title>
-    <length units="seconds">1562</length>
+    <length units="seconds">1563</length>
   </programme>
   <programme start="20260721100039 +0000" stop="20260721102804 +0000" channel="varzesh">
     <title>30 تیر 1405 - بخش 1</title>
@@ -367,6 +567,60 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260721165950 +0000" stop="20260721171400 +0000" channel="pooya">
+    <title>قسمت ۲۶</title>
+    <sub-title>ساعت پویا</sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20260721165620 +0000" stop="20260721165950 +0000" channel="pooya">
+    <title>بیعت - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260721160023 +0000" stop="20260721165615 +0000" channel="pooya">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>محفل ستاره‌ ها (تابستان ۱۴۰۵)</sub-title>
+    <length units="seconds">3352</length>
+  </programme>
+  <programme start="20260721153055 +0000" stop="20260721154435 +0000" channel="pooya">
+    <title>قسمت ۱۶</title>
+    <sub-title>قصه های ناخوانده</sub-title>
+    <length units="seconds">820</length>
+  </programme>
+  <programme start="20260721152640 +0000" stop="20260721153050 +0000" channel="pooya">
+    <title>جشن فرشته ها - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">250</length>
+  </programme>
+  <programme start="20260721140540 +0000" stop="20260721151825 +0000" channel="pooya">
+    <title>امین و اکوان</title>
+    <length units="seconds">4365</length>
+  </programme>
+  <programme start="20260721133050 +0000" stop="20260721133955 +0000" channel="pooya">
+    <title>قسمت ۹۵</title>
+    <sub-title>قاصدک ها</sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260721131600 +0000" stop="20260721132920 +0000" channel="pooya">
+    <title>قسمت ۱۹</title>
+    <sub-title>خلیج چوبی لیلی</sub-title>
+    <length units="seconds">800</length>
+  </programme>
+  <programme start="20260721130010 +0000" stop="20260721131550 +0000" channel="pooya">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>یه خونه یه آشپزخونه</sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260721123555 +0000" stop="20260721124520 +0000" channel="pooya">
+    <title>قسمت ۲۹</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">564</length>
+  </programme>
+  <programme start="20260721121655 +0000" stop="20260721122200 +0000" channel="pooya">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">304</length>
+  </programme>
   <programme start="20260721114135 +0000" stop="20260721115035 +0000" channel="pooya">
     <title>قسمت ۲۵</title>
     <sub-title>آجیلی ها</sub-title>
@@ -395,12 +649,27 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260721160530 +0000" stop="20260721165109 +0000" channel="ifilm">
+    <title>قسمت ۵</title>
+    <sub-title>آیینه عبرت (برگریزان)</sub-title>
+    <length units="seconds">2440</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260721132338 +0000" stop="20260721133550 +0000" channel="tehran">
+    <title>فریاد در سکوت - 30 تیر 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">732</length>
+  </programme>
+  <programme start="20260721123330 +0000" stop="20260721132230 +0000" channel="tehran">
+    <title>30 تیر 1405</title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">2940</length>
+  </programme>
   <programme start="20260721090830 +0000" stop="20260721093500 +0000" channel="tehran">
     <title>30 تیر 1405</title>
     <sub-title>گنجینه های هیرکانی </sub-title>
@@ -439,9 +708,64 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260721163830 +0000" stop="20260721170500 +0000" channel="mostanad">
+    <title>30 تیر 1405</title>
+    <sub-title>سیمرغ (مستند)</sub-title>
+    <length units="seconds">1590</length>
+  </programme>
+  <programme start="20260721160030 +0000" stop="20260721163800 +0000" channel="mostanad">
+    <title>کشاورزان فضا - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2250</length>
+  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260721165247 +0000" stop="20260721165543 +0000" channel="quran">
+    <title>میهمان گاه - 30 تیر ۱۴۰۵ </title>
+    <sub-title>ویژه اربعین </sub-title>
+    <length units="seconds">176</length>
+  </programme>
+  <programme start="20260721164115 +0000" stop="20260721165000 +0000" channel="quran">
+    <title>احمد احمد نعینع - 30 تیر ۱۴۰۵ </title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260721160020 +0000" stop="20260721163537 +0000" channel="quran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">2116</length>
+  </programme>
+  <programme start="20260721152725 +0000" stop="20260721155005 +0000" channel="quran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>جوانمردان </sub-title>
+    <length units="seconds">1360</length>
+  </programme>
+  <programme start="20260721151409 +0000" stop="20260721152645 +0000" channel="quran">
+    <title>در مسیر عشق - 30 تیر ۱۴۰۵ </title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه قرآن)</sub-title>
+    <length units="seconds">756</length>
+  </programme>
+  <programme start="20260721140250 +0000" stop="20260721150013 +0000" channel="quran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">3442</length>
+  </programme>
+  <programme start="20260721130608 +0000" stop="20260721140213 +0000" channel="quran">
+    <title>جزء ۳۰ - 30 تیر ۱۴۰۵ </title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3364</length>
+  </programme>
+  <programme start="20260721123821 +0000" stop="20260721130606 +0000" channel="quran">
+    <title>حجت الاسلام دکتر رفیعی - 30 تیر ۱۴۰۵ </title>
+    <sub-title>سخنرانی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">1666</length>
+  </programme>
+  <programme start="20260721115755 +0000" stop="20260721121020 +0000" channel="quran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">746</length>
+  </programme>
   <programme start="20260721110400 +0000" stop="20260721111407 +0000" channel="quran">
     <title>30 تیر ۱۴۰۵ </title>
     <sub-title>ایران در مسیر حسین (ع)</sub-title>
@@ -570,10 +894,30 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260721170225 +0000" stop="20260721171930 +0000" channel="amouzesh">
+    <title>پایه دوازدهم - زبان انگلیسی - جلسه هفتم - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع متوسطه دوم)</sub-title>
+    <length units="seconds">1025</length>
+  </programme>
+  <programme start="20260721165750 +0000" stop="20260721170105 +0000" channel="amouzesh">
+    <title>خلیج فارس - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>نماهنگ (آموزش)</sub-title>
+    <length units="seconds">195</length>
+  </programme>
+  <programme start="20260721165355 +0000" stop="20260721165745 +0000" channel="amouzesh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>گفتگوهای خوشمزه</sub-title>
+    <length units="seconds">229</length>
+  </programme>
+  <programme start="20260721130125 +0000" stop="20260721135430 +0000" channel="amouzesh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>دکتر سلام ۱۴۰۵</sub-title>
+    <length units="seconds">3004</length>
+  </programme>
   <programme start="20260721112610 +0000" stop="20260721113420 +0000" channel="amouzesh">
     <title>۳۰ تیر ۱۴۰۵</title>
     <sub-title>ماهر شو (آموزش)</sub-title>
-    <length units="seconds">490</length>
+    <length units="seconds">489</length>
   </programme>
   <programme start="20260721100230 +0000" stop="20260721100555 +0000" channel="amouzesh">
     <title>۳۰ تیر ۱۴۰۵</title>
@@ -638,6 +982,41 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260721164730 +0000" stop="20260721170040 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵  - بخش ۴</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">767</length>
+  </programme>
+  <programme start="20260721160248 +0000" stop="20260721164728 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>ضربان ۱۴۰5</sub-title>
+    <length units="seconds">2644</length>
+  </programme>
+  <programme start="20260721160021 +0000" stop="20260721160203 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵  - بخش ۳</title>
+    <sub-title>نود ثانیه با سلامت</sub-title>
+    <length units="seconds">102</length>
+  </programme>
+  <programme start="20260721143617 +0000" stop="20260721150326 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>مسابقه رمز سلامتی</sub-title>
+    <length units="seconds">1566</length>
+  </programme>
+  <programme start="20260721141420 +0000" stop="20260721142400 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵  - بخش ۳</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">581</length>
+  </programme>
+  <programme start="20260721132720 +0000" stop="20260721134027 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵  - بخش ۲</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">785</length>
+  </programme>
+  <programme start="20260721115217 +0000" stop="20260721120326 +0000" channel="salamat">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>ایران در مسیر حسین (ع) </sub-title>
+    <length units="seconds">632</length>
+  </programme>
   <programme start="20260721110727 +0000" stop="20260721111905 +0000" channel="salamat">
     <title>30 تیر ۱۴۰۵  - بخش ۱</title>
     <sub-title>مثبت سلامت ۱۴۰5</sub-title>
@@ -666,6 +1045,26 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260721165314 +0000" stop="20260721165733 +0000" channel="ofogh">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>تو بگو</sub-title>
+    <length units="seconds">258</length>
+  </programme>
+  <programme start="20260721134832 +0000" stop="20260721140205 +0000" channel="ofogh">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>به افق مردم </sub-title>
+    <length units="seconds">812</length>
+  </programme>
+  <programme start="20260721123545 +0000" stop="20260721124925 +0000" channel="ofogh">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">820</length>
+  </programme>
+  <programme start="20260721115447 +0000" stop="20260721120400 +0000" channel="ofogh">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>عهد</sub-title>
+    <length units="seconds">552</length>
+  </programme>
   <programme start="20260721115126 +0000" stop="20260721115439 +0000" channel="ofogh">
     <title>اول خانواده شهدا - شهید مرتضی علم خواه - 30 تیر ۱۴۰۵ </title>
     <sub-title>جنگ تحمیلی سوم</sub-title>
@@ -694,6 +1093,16 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260721160025 +0000" stop="20260721162620 +0000" channel="omid">
+    <title>30 تیر 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">1554</length>
+  </programme>
+  <programme start="20260721143110 +0000" stop="20260721160019 +0000" channel="omid">
+    <title>30 تیر 1405</title>
+    <sub-title>شبکه بازی: فصل 3 </sub-title>
+    <length units="seconds">5348</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
@@ -736,12 +1145,67 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260721133015 +0000" stop="20260721133610 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:30 (سهند)</sub-title>
+    <length units="seconds">345</length>
+  </programme>
+  <programme start="20260721124800 +0000" stop="20260721131945 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>ثقلین</sub-title>
+    <length units="seconds">1831</length>
+  </programme>
+  <programme start="20260721090850 +0000" stop="20260721101300 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵ - بخش ۲</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">3729</length>
+  </programme>
+  <programme start="20260721090105 +0000" stop="20260721090845 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>با خبرنگاران (سهند)</sub-title>
+    <length units="seconds">416</length>
+  </programme>
+  <programme start="20260721080015 +0000" stop="20260721090105 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵ - بخش ۱</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">3650</length>
+  </programme>
+  <programme start="20260721063730 +0000" stop="20260721064800 +0000" channel="sahand">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">608</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260721163443 +0000" stop="20260721170409 +0000" channel="esfahan">
+    <title>30 تیر 1405</title>
+    <sub-title>دور اما نزدیک</sub-title>
+    <length units="seconds">1766</length>
+  </programme>
+  <programme start="20260721161811 +0000" stop="20260721163440 +0000" channel="esfahan">
+    <title>30 تیر 1405</title>
+    <sub-title>کوشش و رویش</sub-title>
+    <length units="seconds">988</length>
+  </programme>
+  <programme start="20260721160000 +0000" stop="20260721161336 +0000" channel="esfahan">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 16:00 (اصفهان)</sub-title>
+    <length units="seconds">816</length>
+  </programme>
+  <programme start="20260721123308 +0000" stop="20260721130650 +0000" channel="esfahan">
+    <title>حجت الاسلام انصاریان - 30 تیر 1405</title>
+    <sub-title>سخنرانی (اصفهان)</sub-title>
+    <length units="seconds">2022</length>
+  </programme>
+  <programme start="20260721111630 +0000" stop="20260721113104 +0000" channel="esfahan">
+    <title>30 تیر 1405</title>
+    <sub-title>میدان دار</sub-title>
+    <length units="seconds">874</length>
+  </programme>
   <programme start="20260721104900 +0000" stop="20260721111343 +0000" channel="esfahan">
     <title>ارتباط مستقیم با بندرعباس - 30 تیر 1405</title>
     <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
@@ -760,6 +1224,41 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260721160010 +0000" stop="20260721161302 +0000" channel="sabalan">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار 16:00 </sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260721132545 +0000" stop="20260721135444 +0000" channel="sabalan">
+    <title>30 تیر 1405</title>
+    <sub-title>دانیشیق (سبلان)</sub-title>
+    <length units="seconds">1520</length>
+  </programme>
+  <programme start="20260721123921 +0000" stop="20260721125436 +0000" channel="sabalan">
+    <title>کسا - 30 تیر 1405</title>
+    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
+    <length units="seconds">819</length>
+  </programme>
+  <programme start="20260721121629 +0000" stop="20260721122305 +0000" channel="sabalan">
+    <title>30 تیر 1405</title>
+    <sub-title>تلاوت قرآن (سبلان)</sub-title>
+    <length units="seconds">396</length>
+  </programme>
+  <programme start="20260721110017 +0000" stop="20260721111632 +0000" channel="sabalan">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">926</length>
+  </programme>
+  <programme start="20260721094527 +0000" stop="20260721095436 +0000" channel="sabalan">
+    <title>ارتباط مستقیم با بیمارستان بقائی - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">499</length>
+  </programme>
+  <programme start="20260721033812 +0000" stop="20260721034658 +0000" channel="sabalan">
+    <title>30 تیر 1405</title>
+    <sub-title>دعای عهد (سبلان)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
@@ -769,12 +1268,57 @@
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
+  <programme start="20260721160315 +0000" stop="20260721164910 +0000" channel="jahanbin">
+    <title>ایران از بالا - 30 تیر 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (جهانبین)</sub-title>
+    <length units="seconds">2756</length>
+  </programme>
+  <programme start="20260721123055 +0000" stop="20260721133010 +0000" channel="jahanbin">
+    <title>30 تیر 1405</title>
+    <sub-title>مردم و مسئولان (جهانبین)</sub-title>
+    <length units="seconds">3556</length>
+  </programme>
+  <programme start="20260721100146 +0000" stop="20260721105958 +0000" channel="jahanbin">
+    <title>30 تیر 1405</title>
+    <sub-title>زیر یک سقف (جهانبین)</sub-title>
+    <length units="seconds">3492</length>
+  </programme>
+  <programme start="20260721035506 +0000" stop="20260721040343 +0000" channel="jahanbin">
+    <title>30 تیر 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">518</length>
+  </programme>
+  <programme start="20260721030747 +0000" stop="20260721032957 +0000" channel="jahanbin">
+    <title>30 تیر 1405</title>
+    <sub-title>مناجات امیرالمومنین (ع) (جهانبین)</sub-title>
+    <length units="seconds">1330</length>
+  </programme>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260721165844 +0000" stop="20260721170401 +0000" channel="khorasanrazavi">
+    <title>30 تیر 1405</title>
+    <sub-title>دیدار</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20260721164225 +0000" stop="20260721165826 +0000" channel="khorasanrazavi">
+    <title>شهید محمد رضا سنجرانی - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">951</length>
+  </programme>
+  <programme start="20260721160000 +0000" stop="20260721161816 +0000" channel="khorasanrazavi">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
+    <length units="seconds">1087</length>
+  </programme>
+  <programme start="20260721120433 +0000" stop="20260721130236 +0000" channel="khorasanrazavi">
+    <title>30 تیر 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3463</length>
+  </programme>
   <programme start="20260721105033 +0000" stop="20260721105456 +0000" channel="khorasanrazavi">
     <title>30 تیر 1405</title>
     <sub-title>راویوم</sub-title>
@@ -803,6 +1347,21 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260721120341 +0000" stop="20260721121342 +0000" channel="atrak">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>سرزمین اقوام (اترک)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260721110004 +0000" stop="20260721111931 +0000" channel="atrak">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">1168</length>
+  </programme>
+  <programme start="20260721100017 +0000" stop="20260721105205 +0000" channel="atrak">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>خانه مهر (اترک)</sub-title>
+    <length units="seconds">3108</length>
+  </programme>
   <programme start="20260721065442 +0000" stop="20260721080000 +0000" channel="atrak">
     <title>30 تیر ۱۴۰۵ </title>
     <sub-title>صبح اترک (اترک)</sub-title>
@@ -821,9 +1380,59 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260721094642 +0000" stop="20260721113100 +0000" channel="khalijefars">
+    <title>30 تیر 1405</title>
+    <sub-title>مهد دلیران</sub-title>
+    <length units="seconds">6212</length>
+  </programme>
+  <programme start="20260721090602 +0000" stop="20260721092805 +0000" channel="khalijefars">
+    <title>ارتباط مستقیم - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">1323</length>
+  </programme>
+  <programme start="20260721050041 +0000" stop="20260721051509 +0000" channel="khalijefars">
+    <title>30 تیر 1405</title>
+    <sub-title>گل های بهشتی (خلیج فارس)</sub-title>
+    <length units="seconds">868</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260721164347 +0000" stop="20260721164851 +0000" channel="khoozestan">
+    <title>حرکت بزرگ مشایه اهواز - 30 تیر ۱۴۰۵ </title>
+    <sub-title>ویژه اربعین (خوزستان)</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20260721132951 +0000" stop="20260721135350 +0000" channel="khoozestan">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>مردم قهرمان (خوزستان)</sub-title>
+    <length units="seconds">1356</length>
+  </programme>
+  <programme start="20260721131011 +0000" stop="20260721132822 +0000" channel="khoozestan">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>اخبار ساعت 13:00 (خوزستان)</sub-title>
+    <length units="seconds">1056</length>
+  </programme>
+  <programme start="20260721121150 +0000" stop="20260721121747 +0000" channel="khoozestan">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20260721120518 +0000" stop="20260721121145 +0000" channel="khoozestan">
+    <title>جان فدائیان - 30 تیر ۱۴۰۵ </title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260721110948 +0000" stop="20260721120510 +0000" channel="khoozestan">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>بیت الهنا</sub-title>
+    <length units="seconds">3227</length>
+  </programme>
+  <programme start="20260721105948 +0000" stop="20260721110555 +0000" channel="khoozestan">
+    <title>ارتباط مستقیم با هرمزگان - بندرعباس - 30 تیر ۱۴۰۵ </title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">355</length>
+  </programme>
   <programme start="20260721092748 +0000" stop="20260721095500 +0000" channel="khoozestan">
     <title>30 تیر ۱۴۰۵ </title>
     <sub-title>رنگین کمان (خوزستان)</sub-title>
@@ -847,15 +1456,80 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260721132520 +0000" stop="20260721135250 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>نیمه پنهان ماه (اشراق)</sub-title>
+    <length units="seconds">1650</length>
+  </programme>
+  <programme start="20260721123810 +0000" stop="20260721132040 +0000" channel="eshragh">
+    <title>مراسم بزرگداشت رهبر شهید انقلاب - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">2550</length>
+  </programme>
+  <programme start="20260721115630 +0000" stop="20260721121605 +0000" channel="eshragh">
+    <title>قاب اقتدار - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1176</length>
+  </programme>
+  <programme start="20260721113205 +0000" stop="20260721115605 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>روضه های خانگی</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20260721112110 +0000" stop="20260721113200 +0000" channel="eshragh">
+    <title>ارتباط مستقیم - بندر چابهار - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">650</length>
+  </programme>
+  <programme start="20260721110000 +0000" stop="20260721111505 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">906</length>
+  </programme>
+  <programme start="20260721100010 +0000" stop="20260721105435 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">3265</length>
+  </programme>
+  <programme start="20260721094810 +0000" stop="20260721095515 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>خیابان</sub-title>
+    <length units="seconds">426</length>
+  </programme>
+  <programme start="20260721060110 +0000" stop="20260721061120 +0000" channel="eshragh">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>دعای عهد (اشراق)</sub-title>
+    <length units="seconds">610</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260721110006 +0000" stop="20260721111435 +0000" channel="hamoon">
+    <title>30 تیر 1405</title>
+    <sub-title>خبر هامون</sub-title>
+    <length units="seconds">868</length>
+  </programme>
+  <programme start="20260721060442 +0000" stop="20260721061327 +0000" channel="hamoon">
+    <title>30 تیر 1405</title>
+    <sub-title>دعای عهد (هامون)</sub-title>
+    <length units="seconds">524</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260721122000 +0000" stop="20260721125330 +0000" channel="fars">
+    <title>ایلخاص - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">2010</length>
+  </programme>
+  <programme start="20260721111900 +0000" stop="20260721115700 +0000" channel="fars">
+    <title>30 تیر 1405</title>
+    <sub-title>نسیم حرم (فارس)</sub-title>
+    <length units="seconds">2280</length>
+  </programme>
   <programme start="20260721110110 +0000" stop="20260721110500 +0000" channel="fars">
     <title>30 تیر 1405</title>
     <sub-title>گلستان سعدی</sub-title>
@@ -887,6 +1561,11 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260721124056 +0000" stop="20260721125649 +0000" channel="noor">
+    <title>30 تیر 1405</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">942</length>
+  </programme>
   <programme start="20260721100221 +0000" stop="20260721105242 +0000" channel="noor">
     <title>30 تیر 1405</title>
     <sub-title>دکتر سلام (نور)</sub-title>
@@ -905,6 +1584,26 @@
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20260721123949 +0000" stop="20260721124424 +0000" channel="aflak">
+    <title>30 تیر 1405</title>
+    <sub-title>گنجینه احکام (لرستان)</sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260721115444 +0000" stop="20260721120638 +0000" channel="aflak">
+    <title>صبح ظهور - 30 تیر 1405</title>
+    <sub-title>برنامه مذهبی (لرستان)</sub-title>
+    <length units="seconds">714</length>
+  </programme>
+  <programme start="20260721060833 +0000" stop="20260721070040 +0000" channel="aflak">
+    <title>30 تیر 1405</title>
+    <sub-title>روایت فتح (لرستان)</sub-title>
+    <length units="seconds">3128</length>
+  </programme>
+  <programme start="20260721033704 +0000" stop="20260721034318 +0000" channel="aflak">
+    <title>30 تیر 1405</title>
+    <sub-title>تلاوت قرآن (لرستان)</sub-title>
+    <length units="seconds">374</length>
+  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
@@ -914,15 +1613,100 @@
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20260721164507 +0000" stop="20260721170108 +0000" channel="dena">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 16:45 (دنا)</sub-title>
+    <length units="seconds">961</length>
+  </programme>
+  <programme start="20260721154356 +0000" stop="20260721163207 +0000" channel="dena">
+    <title>30 تیر 1405</title>
+    <sub-title>شادی خانه (دنا)</sub-title>
+    <length units="seconds">2833</length>
+  </programme>
+  <programme start="20260721104530 +0000" stop="20260721105550 +0000" channel="dena">
+    <title>مهد دلیران - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (دنا)</sub-title>
+    <length units="seconds">609</length>
+  </programme>
+  <programme start="20260721060709 +0000" stop="20260721061533 +0000" channel="dena">
+    <title>30 تیر 1405</title>
+    <sub-title>دعای عهد (دنا)</sub-title>
+    <length units="seconds">500</length>
+  </programme>
+  <programme start="20260721035510 +0000" stop="20260721045311 +0000" channel="dena">
+    <title>30 تیر 1405</title>
+    <sub-title>ترتیل قرآن کریم (دنا)</sub-title>
+    <length units="seconds">3388</length>
+  </programme>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
+  <programme start="20260721110519 +0000" stop="20260721114335 +0000" channel="kish">
+    <title>30 تیر 1405</title>
+    <sub-title>کیش و زندگی (کیش)</sub-title>
+    <length units="seconds">2260</length>
+  </programme>
+  <programme start="20260721083036 +0000" stop="20260721090046 +0000" channel="kish">
+    <title>30 تیر 1405</title>
+    <sub-title>صدای جزیره (کیش)</sub-title>
+    <length units="seconds">1809</length>
+  </programme>
+  <programme start="20260721080546 +0000" stop="20260721080743 +0000" channel="kish">
+    <title>30 تیر 1405</title>
+    <sub-title>120 ثانیه با خبر (کیش)</sub-title>
+    <length units="seconds">117</length>
+  </programme>
+  <programme start="20260721030818 +0000" stop="20260721031842 +0000" channel="kish">
+    <title>صبح ظهور - 30 تیر 1405</title>
+    <sub-title>برنامه مذهبی (کیش)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260721111628 +0000" stop="20260721114049 +0000" channel="sabz">
+    <title>30 تیر 1405</title>
+    <sub-title>لحظه ملکوتی (سبز)</sub-title>
+    <length units="seconds">1463</length>
+  </programme>
+  <programme start="20260721100006 +0000" stop="20260721105148 +0000" channel="sabz">
+    <title>30 تیر 1405</title>
+    <sub-title>پزشک شما (سبز)</sub-title>
+    <length units="seconds">3102</length>
+  </programme>
+  <programme start="20260721080035 +0000" stop="20260721085518 +0000" channel="sabz">
+    <title>30 تیر 1405</title>
+    <sub-title>صبح عالی (سبز)</sub-title>
+    <length units="seconds">3281</length>
+  </programme>
+  <programme start="20260721060712 +0000" stop="20260721062116 +0000" channel="sabz">
+    <title>30 تیر 1405</title>
+    <sub-title>زیارت وارث (سبز)</sub-title>
+    <length units="seconds">844</length>
+  </programme>
+  <programme start="20260721025831 +0000" stop="20260721030437 +0000" channel="sabz">
+    <title>30 تیر 1405</title>
+    <sub-title>تلاوت قرآن (سبز)</sub-title>
+    <length units="seconds">365</length>
+  </programme>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260721115423 +0000" stop="20260721120944 +0000" channel="baran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260721110245 +0000" stop="20260721111306 +0000" channel="baran">
+    <title>ارتباط زنده با هرمزگان - بندرعباس - 30 تیر ۱۴۰۵ </title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260721095955 +0000" stop="20260721110225 +0000" channel="baran">
+    <title>30 تیر ۱۴۰۵ </title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3611</length>
+  </programme>
   <programme start="20260721090029 +0000" stop="20260721095523 +0000" channel="baran">
     <title>30 تیر ۱۴۰۵ </title>
     <sub-title>رادیو شهر ما (باران)</sub-title>
@@ -946,15 +1730,140 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260721105100 +0000" stop="20260721111250 +0000" channel="kordestan">
+    <title>دومین اجلاسیه شهدای شهرستان بانه - ۳۰ تیر ۱۴۰۵ - بخش ۲</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1310</length>
+  </programme>
+  <programme start="20260721095735 +0000" stop="20260721104205 +0000" channel="kordestan">
+    <title>دومین اجلاسیه شهدای شهرستان بانه - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
+  <programme start="20260721090110 +0000" stop="20260721094900 +0000" channel="kordestan">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>روژمان (کردستان)</sub-title>
+    <length units="seconds">2870</length>
+  </programme>
+  <programme start="20260721075840 +0000" stop="20260721082435 +0000" channel="kordestan">
+    <title>مادستان - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1556</length>
+  </programme>
+  <programme start="20260721072625 +0000" stop="20260721075545 +0000" channel="kordestan">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">1760</length>
+  </programme>
+  <programme start="20260721071430 +0000" stop="20260721072515 +0000" channel="kordestan">
+    <title>نگاتیو - ۳۰ تیر ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی تاریخی (کردستان)</sub-title>
+    <length units="seconds">646</length>
+  </programme>
+  <programme start="20260721063820 +0000" stop="20260721071325 +0000" channel="kordestan">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>تفسیر قرآن کریم (کردستان)</sub-title>
+    <length units="seconds">2106</length>
+  </programme>
+  <programme start="20260721060055 +0000" stop="20260721063815 +0000" channel="kordestan">
+    <title>۳۰ تیر ۱۴۰۵</title>
+    <sub-title>دمی با قرآن (کردستان)</sub-title>
+    <length units="seconds">2240</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260721131010 +0000" stop="20260721135433 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>راز سلامت (تبرستان)</sub-title>
+    <length units="seconds">2664</length>
+  </programme>
+  <programme start="20260721113420 +0000" stop="20260721114708 +0000" channel="tabarestan">
+    <title>مکران ایران - 30 تیر 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">768</length>
+  </programme>
+  <programme start="20260721111536 +0000" stop="20260721112945 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>پرس و جو </sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20260721110000 +0000" stop="20260721111521 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (تبرستان)</sub-title>
+    <length units="seconds">922</length>
+  </programme>
+  <programme start="20260721091044 +0000" stop="20260721100050 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>افتاب سو</sub-title>
+    <length units="seconds">3006</length>
+  </programme>
+  <programme start="20260721070004 +0000" stop="20260721075432 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>صواحی</sub-title>
+    <length units="seconds">3268</length>
+  </programme>
+  <programme start="20260721034612 +0000" stop="20260721041700 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>حدیث سرو (تبرستان)</sub-title>
+    <length units="seconds">1848</length>
+  </programme>
+  <programme start="20260721033439 +0000" stop="20260721034544 +0000" channel="tabarestan">
+    <title>ضیافت وحی - 30 تیر 1405</title>
+    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
+    <length units="seconds">664</length>
+  </programme>
+  <programme start="20260721032609 +0000" stop="20260721033436 +0000" channel="tabarestan">
+    <title>30 تیر 1405</title>
+    <sub-title>دعای عهد (تبرستان)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260721164320 +0000" stop="20260721165754 +0000" channel="aftab">
+    <title>30 تیر 1405</title>
+    <sub-title>سیمای بهزیستی (آفتاب)</sub-title>
+    <length units="seconds">874</length>
+  </programme>
+  <programme start="20260721153051 +0000" stop="20260721160338 +0000" channel="aftab">
+    <title>ریاضی چهارم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1917</length>
+  </programme>
+  <programme start="20260721150349 +0000" stop="20260721153034 +0000" channel="aftab">
+    <title>فارسی چهارم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1604</length>
+  </programme>
+  <programme start="20260721143157 +0000" stop="20260721150245 +0000" channel="aftab">
+    <title>ریاضی پنجم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1848</length>
+  </programme>
+  <programme start="20260721140019 +0000" stop="20260721143139 +0000" channel="aftab">
+    <title>فارسی پنجم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1808</length>
+  </programme>
+  <programme start="20260721132935 +0000" stop="20260721135916 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1782</length>
+  </programme>
+  <programme start="20260721130000 +0000" stop="20260721132228 +0000" channel="aftab">
+    <title>30 تیر 1405</title>
+    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
+    <length units="seconds">1348</length>
+  </programme>
+  <programme start="20260721114842 +0000" stop="20260721121400 +0000" channel="aftab">
+    <title>فارسی ششم ابتدایی - 30 تیر 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1518</length>
+  </programme>
   <programme start="20260721080147 +0000" stop="20260721094546 +0000" channel="aftab">
     <title>30 تیر ۱۴۰۵ </title>
     <sub-title>صبح و زندگی (آفتاب)</sub-title>
@@ -974,6 +1883,16 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260721125630 +0000" stop="20260721125755 +0000" channel="khavaran">
+    <title>30 تیر 1405</title>
+    <sub-title>با خبرنگاران (خاوران)</sub-title>
+    <length units="seconds">86</length>
+  </programme>
+  <programme start="20260721120000 +0000" stop="20260721125530 +0000" channel="khavaran">
+    <title>30 تیر 1405</title>
+    <sub-title>سیمای سلامت (خاوران)</sub-title>
+    <length units="seconds">3330</length>
+  </programme>
   <programme start="20260721110010 +0000" stop="20260721110530 +0000" channel="khavaran">
     <title>30 تیر 1405</title>
     <sub-title>اخبار ساعت 11:00 (خاوران)</sub-title>
