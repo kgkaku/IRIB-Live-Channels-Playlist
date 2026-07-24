@@ -3,6 +3,31 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260724140007 +0000" stop="20260724150012 +0000" channel="tv1">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3606</length>
+  </programme>
+  <programme start="20260724124722 +0000" stop="20260724134023 +0000" channel="tv1">
+    <title>2 مرداد 1405</title>
+    <sub-title>طرحی برای فردا </sub-title>
+    <length units="seconds">3180</length>
+  </programme>
+  <programme start="20260724123225 +0000" stop="20260724124013 +0000" channel="tv1">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">468</length>
+  </programme>
+  <programme start="20260724121622 +0000" stop="20260724123045 +0000" channel="tv1">
+    <title>2 مرداد 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">862</length>
+  </programme>
+  <programme start="20260724100010 +0000" stop="20260724114815 +0000" channel="tv1">
+    <title>2 مرداد 1405</title>
+    <sub-title>ورزش و مردم 1405</sub-title>
+    <length units="seconds">6342</length>
+  </programme>
   <programme start="20260724090142 +0000" stop="20260724095435 +0000" channel="tv1">
     <title>2 مرداد 1405</title>
     <sub-title>ایران ما (شبکه ۱)</sub-title>
@@ -41,6 +66,16 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260724130335 +0000" stop="20260724135736 +0000" channel="tv2">
+    <title>2 مرداد 1405</title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">3240</length>
+  </programme>
+  <programme start="20260724122429 +0000" stop="20260724130117 +0000" channel="tv2">
+    <title>2 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">2208</length>
+  </programme>
   <programme start="20260724061248 +0000" stop="20260724062241 +0000" channel="tv2">
     <title>2 مرداد 1405</title>
     <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
@@ -74,6 +109,16 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260724123009 +0000" stop="20260724125034 +0000" channel="tv3">
+    <title>دلمه - 2 مرداد 1405</title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">1224</length>
+  </programme>
+  <programme start="20260724115327 +0000" stop="20260724120359 +0000" channel="tv3">
+    <title>2 مرداد 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">632</length>
+  </programme>
   <programme start="20260724110454 +0000" stop="20260724114859 +0000" channel="tv3">
     <title>2 مرداد 1405</title>
     <sub-title>یک ماه مانده</sub-title>
@@ -102,6 +147,26 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260724155204 +0000" stop="20260724160048 +0000" channel="tv4">
+    <title>2 مرداد 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">523</length>
+  </programme>
+  <programme start="20260724150024 +0000" stop="20260724155020 +0000" channel="tv4">
+    <title>2 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه 4)</sub-title>
+    <length units="seconds">2977</length>
+  </programme>
+  <programme start="20260724132026 +0000" stop="20260724145556 +0000" channel="tv4">
+    <title>پرونده باز - 2 مرداد 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 4)</sub-title>
+    <length units="seconds">5682</length>
+  </programme>
+  <programme start="20260724130745 +0000" stop="20260724131558 +0000" channel="tv4">
+    <title>2 مرداد 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">492</length>
+  </programme>
   <programme start="20260724074900 +0000" stop="20260724084845 +0000" channel="tv4">
     <title>الهی قمشه ای - 2 مرداد 1405</title>
     <sub-title>سخنرانی (شبکه 4)</sub-title>
@@ -120,9 +185,114 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260724152056 +0000" stop="20260724153640 +0000" channel="nasim">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">944</length>
+  </programme>
+  <programme start="20260724110118 +0000" stop="20260724114735 +0000" channel="nasim">
+    <title>2 مرداد 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2778</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260724163535 +0000" stop="20260724170015 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>لبنان امروز</sub-title>
+    <length units="seconds">1480</length>
+  </programme>
+  <programme start="20260724163016 +0000" stop="20260724163529 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 16:30 </sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260724160500 +0000" stop="20260724162857 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>ماجرای تنگه</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
+  <programme start="20260724160119 +0000" stop="20260724160456 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 16:00 </sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20260724155500 +0000" stop="20260724160034 +0000" channel="irinn">
+    <title>موج 27 عملیات نصر 2 سپاه - 2 مرداد 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">334</length>
+  </programme>
+  <programme start="20260724153629 +0000" stop="20260724155457 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>کتاب هفته (خبر)</sub-title>
+    <length units="seconds">1108</length>
+  </programme>
+  <programme start="20260724153022 +0000" stop="20260724153627 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 3:30</sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20260724150024 +0000" stop="20260724152905 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>میز اقتصاد (خبر)</sub-title>
+    <length units="seconds">1720</length>
+  </programme>
+  <programme start="20260724140006 +0000" stop="20260724150018 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3612</length>
+  </programme>
+  <programme start="20260724133026 +0000" stop="20260724133542 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 13:30</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20260724131154 +0000" stop="20260724132858 +0000" channel="irinn">
+    <title>ارتباط زنده آبادان - 2 مرداد 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1024</length>
+  </programme>
+  <programme start="20260724130015 +0000" stop="20260724131148 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">692</length>
+  </programme>
+  <programme start="20260724124520 +0000" stop="20260724125330 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">490</length>
+  </programme>
+  <programme start="20260724124320 +0000" stop="20260724124513 +0000" channel="irinn">
+    <title>قاب ماندگار - 2 مرداد 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">112</length>
+  </programme>
+  <programme start="20260724123616 +0000" stop="20260724123952 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260724123017 +0000" stop="20260724123604 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">346</length>
+  </programme>
+  <programme start="20260724120030 +0000" stop="20260724121040 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260724114754 +0000" stop="20260724120027 +0000" channel="irinn">
+    <title>اطلاعیه شماره 47 سپاه پاسداران انقلاب اسلامی - 2 مرداد 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">752</length>
+  </programme>
+  <programme start="20260724113452 +0000" stop="20260724114746 +0000" channel="irinn">
+    <title>2 مرداد 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">774</length>
+  </programme>
   <programme start="20260724113013 +0000" stop="20260724113449 +0000" channel="irinn">
     <title>2 مرداد 1405</title>
     <sub-title>اخبار ساعت 11:30 </sub-title>
@@ -241,10 +411,10 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
-  <programme start="20260724102252 +0000" stop="20260724102324 +0000" channel="varzesh">
-    <title>سد بزرگ بر سر راه پپ</title>
-    <sub-title>دست اول 1405</sub-title>
-    <length units="seconds">32</length>
+  <programme start="20260724153024 +0000" stop="20260724153708 +0000" channel="varzesh">
+    <title>زیباترین گل های راه دور لیگ برتر انگلیس - 2 مرداد 1405</title>
+    <sub-title>آنچه شما خواسته اید ۱۴۰5</sub-title>
+    <length units="seconds">404</length>
   </programme>
   <programme start="20260724100704 +0000" stop="20260724103203 +0000" channel="varzesh">
     <title>2 مرداد 1405 - بخش 1</title>
@@ -267,6 +437,61 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260724163017 +0000" stop="20260724163143 +0000" channel="pooya">
+    <title>ای ایران ایران - 2 مرداد 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">86</length>
+  </programme>
+  <programme start="20260724160108 +0000" stop="20260724163013 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>برپا ۱۴۰۵</sub-title>
+    <length units="seconds">1746</length>
+  </programme>
+  <programme start="20260724153046 +0000" stop="20260724154448 +0000" channel="pooya">
+    <title>قسمت 19</title>
+    <sub-title>قصه های ناخوانده</sub-title>
+    <length units="seconds">842</length>
+  </programme>
+  <programme start="20260724133056 +0000" stop="20260724133940 +0000" channel="pooya">
+    <title>قسمت 99</title>
+    <sub-title>قاصدک ها</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260724132919 +0000" stop="20260724133043 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>یک دقیقه آرامش با لنا و علی</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260724132647 +0000" stop="20260724132917 +0000" channel="pooya">
+    <title>قسمت 292</title>
+    <sub-title>جیک جیکو</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260724130101 +0000" stop="20260724131315 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>فضایی ها</sub-title>
+    <length units="seconds">734</length>
+  </programme>
+  <programme start="20260724125646 +0000" stop="20260724125933 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260724123225 +0000" stop="20260724124136 +0000" channel="pooya">
+    <title>قسمت 32</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">550</length>
+  </programme>
+  <programme start="20260724121653 +0000" stop="20260724122107 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260724115920 +0000" stop="20260724120300 +0000" channel="pooya">
+    <title>2 مرداد 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">220</length>
+  </programme>
   <programme start="20260724113027 +0000" stop="20260724113910 +0000" channel="pooya">
     <title>قسمت 28</title>
     <sub-title>آجیلی ها</sub-title>
@@ -311,10 +536,25 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
-  <programme start="20260724070117 +0000" stop="20260724074054 +0000" channel="tehran">
+  <programme start="20260724160958 +0000" stop="20260724161412 +0000" channel="tehran">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260724160100 +0000" stop="20260724160855 +0000" channel="tehran">
+    <title>مشکلات اهالی شهرک مدرس - 2 مرداد 1405</title>
+    <sub-title>در شهر 1405 (شبکه تهران)</sub-title>
+    <length units="seconds">474</length>
+  </programme>
+  <programme start="20260724125748 +0000" stop="20260724132500 +0000" channel="tehran">
+    <title>2 مرداد 1405</title>
+    <sub-title>گنجینه های هیرکانی </sub-title>
+    <length units="seconds">1632</length>
+  </programme>
+  <programme start="20260724070120 +0000" stop="20260724074055 +0000" channel="tehran">
     <title>2 مرداد 1405</title>
     <sub-title>دیار ماندگار (شبکه تهران)</sub-title>
-    <length units="seconds">2378</length>
+    <length units="seconds">2284</length>
   </programme>
   <programme start="20260724035119 +0000" stop="20260724041600 +0000" channel="tehran">
     <title>2 مرداد 1405</title>
@@ -329,9 +569,69 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260724155729 +0000" stop="20260724165134 +0000" channel="mostanad">
+    <title>کلانشهرهای باستانی - 2 مرداد 1405</title>
+    <sub-title>برنامه تاریخی (مستند)</sub-title>
+    <length units="seconds">3244</length>
+  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260724165127 +0000" stop="20260724170027 +0000" channel="quran">
+    <title>راغب مصطفی غلوش - 2 مرداد 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260724164024 +0000" stop="20260724164956 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">572</length>
+  </programme>
+  <programme start="20260724160240 +0000" stop="20260724164000 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">2240</length>
+  </programme>
+  <programme start="20260724153248 +0000" stop="20260724155515 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>جوانمردان </sub-title>
+    <length units="seconds">1346</length>
+  </programme>
+  <programme start="20260724152759 +0000" stop="20260724153223 +0000" channel="quran">
+    <title>میهمان گاه - 2 مرداد 1405</title>
+    <sub-title>ویژه اربعین </sub-title>
+    <length units="seconds">264</length>
+  </programme>
+  <programme start="20260724151736 +0000" stop="20260724152759 +0000" channel="quran">
+    <title>آقای محمد سلطانی - 2 مرداد 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">624</length>
+  </programme>
+  <programme start="20260724150523 +0000" stop="20260724151639 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">676</length>
+  </programme>
+  <programme start="20260724140912 +0000" stop="20260724145926 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">3014</length>
+  </programme>
+  <programme start="20260724130927 +0000" stop="20260724140850 +0000" channel="quran">
+    <title>جز ۲ - 2 مرداد 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3564</length>
+  </programme>
+  <programme start="20260724123703 +0000" stop="20260724130828 +0000" channel="quran">
+    <title>2 مرداد 1405</title>
+    <sub-title>سخنرانی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">1886</length>
+  </programme>
+  <programme start="20260724115127 +0000" stop="20260724120840 +0000" channel="quran">
+    <title>آقای مهدی عادلی - 2 مرداد 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1034</length>
+  </programme>
   <programme start="20260724105404 +0000" stop="20260724110659 +0000" channel="quran">
     <title>2 مرداد 1405</title>
     <sub-title>خوش آمدید</sub-title>
@@ -430,6 +730,26 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260724145501 +0000" stop="20260724150131 +0000" channel="amouzesh">
+    <title>2 مرداد 1405</title>
+    <sub-title>ماهر شو (آموزش)</sub-title>
+    <length units="seconds">389</length>
+  </programme>
+  <programme start="20260724142210 +0000" stop="20260724143121 +0000" channel="amouzesh">
+    <title>2 مرداد 1405</title>
+    <sub-title>باشگاه ذهن</sub-title>
+    <length units="seconds">550</length>
+  </programme>
+  <programme start="20260724121540 +0000" stop="20260724122226 +0000" channel="amouzesh">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">406</length>
+  </programme>
+  <programme start="20260724100800 +0000" stop="20260724111915 +0000" channel="amouzesh">
+    <title>شاخه ای روی آب - 2 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">4274</length>
+  </programme>
   <programme start="20260724093740 +0000" stop="20260724095906 +0000" channel="amouzesh">
     <title>2 مرداد 1405</title>
     <sub-title>آزمایش ها (آموزش)</sub-title>
@@ -478,6 +798,21 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260724132636 +0000" stop="20260724134250 +0000" channel="salamat">
+    <title>2 مرداد 1405</title>
+    <sub-title>سخنرانی های تد (سلامت)</sub-title>
+    <length units="seconds">975</length>
+  </programme>
+  <programme start="20260724114914 +0000" stop="20260724120534 +0000" channel="salamat">
+    <title>2 مرداد 1405</title>
+    <sub-title>خدا با ماست </sub-title>
+    <length units="seconds">960</length>
+  </programme>
+  <programme start="20260724113425 +0000" stop="20260724114831 +0000" channel="salamat">
+    <title>2 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">843</length>
+  </programme>
   <programme start="20260724090216 +0000" stop="20260724094530 +0000" channel="salamat">
     <title>2 مرداد 1405</title>
     <sub-title>مادر کودک (سلامت)</sub-title>
@@ -491,6 +826,11 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260724124154 +0000" stop="20260724125220 +0000" channel="ofogh">
+    <title>2 مرداد 1405 - بخش 2</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">626</length>
+  </programme>
   <programme start="20260724094745 +0000" stop="20260724095155 +0000" channel="ofogh">
     <title>2 مرداد 1405 - بخش 1</title>
     <sub-title>باید برخاست</sub-title>
@@ -509,6 +849,21 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260724153022 +0000" stop="20260724162141 +0000" channel="omid">
+    <title>2 مرداد 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">3078</length>
+  </programme>
+  <programme start="20260724143202 +0000" stop="20260724153019 +0000" channel="omid">
+    <title>2 مرداد 1405</title>
+    <sub-title>شبکه بازی: فصل 3 </sub-title>
+    <length units="seconds">3496</length>
+  </programme>
+  <programme start="20260724115346 +0000" stop="20260724120559 +0000" channel="omid">
+    <title>2 مرداد 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">734</length>
+  </programme>
   <programme start="20260724065931 +0000" stop="20260724075920 +0000" channel="omid">
     <title>2 مرداد 1405</title>
     <sub-title>صبکوک (امید)</sub-title>
@@ -520,6 +875,16 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260724133428 +0000" stop="20260724134739 +0000" channel="irinn2">
+    <title>اجلاس وزیران امور خارجه سازمان همکاری شانگهای - 2 مرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260724121608 +0000" stop="20260724133408 +0000" channel="irinn2">
+    <title>خطبه های نماز جمعه - 2 مرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4680</length>
+  </programme>
   <programme start="20260724083929 +0000" stop="20260724100651 +0000" channel="irinn2">
     <title>پیاده روی اربعین بخش 2 - 2 مرداد 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -546,6 +911,11 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260724123549 +0000" stop="20260724134042 +0000" channel="sahand">
+    <title>خطبه های نمازجمعه - 2 مرداد 1405</title>
+    <sub-title>پیام جمعه</sub-title>
+    <length units="seconds">3780</length>
+  </programme>
   <programme start="20260724082839 +0000" stop="20260724091320 +0000" channel="sahand">
     <title>دریاها و اقیانوس ها - 2 مرداد 1405</title>
     <sub-title>برنامه طبیعت و حیات وحش (سهند)</sub-title>
@@ -594,6 +964,16 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260724133729 +0000" stop="20260724140040 +0000" channel="alborz">
+    <title>2 مرداد 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1392</length>
+  </programme>
+  <programme start="20260724121836 +0000" stop="20260724133725 +0000" channel="alborz">
+    <title>2 مرداد 1405</title>
+    <sub-title>خطبه های نماز جمعه (البرز)</sub-title>
+    <length units="seconds">4728</length>
+  </programme>
   <programme start="20260724110508 +0000" stop="20260724111230 +0000" channel="alborz">
     <title>2 مرداد 1405</title>
     <sub-title>اینجا البرزه </sub-title>
@@ -669,6 +1049,16 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260724133814 +0000" stop="20260724135901 +0000" channel="khoozestan">
+    <title>2 مرداد 1405</title>
+    <sub-title>مردم قهرمان (خوزستان)</sub-title>
+    <length units="seconds">1215</length>
+  </programme>
+  <programme start="20260724105818 +0000" stop="20260724115920 +0000" channel="khoozestan">
+    <title>2 مرداد 1405</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">3562</length>
+  </programme>
   <programme start="20260724093925 +0000" stop="20260724101040 +0000" channel="khoozestan">
     <title>2 مرداد 1405</title>
     <sub-title>رنگین کمان (خوزستان)</sub-title>
@@ -707,6 +1097,36 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260724115132 +0000" stop="20260724121450 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">1398</length>
+  </programme>
+  <programme start="20260724074902 +0000" stop="20260724075616 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title>نگاتیو</sub-title>
+    <length units="seconds">434</length>
+  </programme>
+  <programme start="20260724071608 +0000" stop="20260724074414 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای ندبه (اشراق)</sub-title>
+    <length units="seconds">1686</length>
+  </programme>
+  <programme start="20260724060109 +0000" stop="20260724061119 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای عهد (اشراق)</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260724034831 +0000" stop="20260724040245 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title> از لاک جیغ تا خدا (اشراق)</sub-title>
+    <length units="seconds">854</length>
+  </programme>
+  <programme start="20260724032056 +0000" stop="20260724032656 +0000" channel="eshragh">
+    <title>2 مرداد 1405</title>
+    <sub-title>تقویم عزت (اشراق)</sub-title>
+    <length units="seconds">360</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
@@ -716,6 +1136,11 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260724121403 +0000" stop="20260724130240 +0000" channel="fars">
+    <title>2 مرداد 1405</title>
+    <sub-title>خطبه های نماز جمعه (فارس)</sub-title>
+    <length units="seconds">2918</length>
+  </programme>
   <programme start="20260724113716 +0000" stop="20260724115340 +0000" channel="fars">
     <title>2 مرداد 1405</title>
     <sub-title>عطر انتظار</sub-title>
@@ -742,6 +1167,11 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260724132010 +0000" stop="20260724134936 +0000" channel="noor">
+    <title>یادبود شهدا - 2 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">1685</length>
+  </programme>
   <programme start="20260724104857 +0000" stop="20260724105735 +0000" channel="noor">
     <title>قاب مردمی - 2 مرداد 1405</title>
     <sub-title>جنگ تحمیلی سوم</sub-title>
@@ -798,6 +1228,56 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260724124322 +0000" stop="20260724124708 +0000" channel="baran">
+    <title>ارتباط زنده مرز مهران - 2 مرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه باران)</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260724123422 +0000" stop="20260724124023 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه (باران)</sub-title>
+    <length units="seconds">308</length>
+  </programme>
+  <programme start="20260724091202 +0000" stop="20260724092235 +0000" channel="baran">
+    <title>ارتباط زنده مرز شلمچه - 2 مرداد 1405</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه باران)</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260724072827 +0000" stop="20260724080325 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای ندبه (باران)</sub-title>
+    <length units="seconds">2047</length>
+  </programme>
+  <programme start="20260724060309 +0000" stop="20260724061339 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>صبح ظهور (باران)</sub-title>
+    <length units="seconds">620</length>
+  </programme>
+  <programme start="20260724052658 +0000" stop="20260724055707 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>حدیث سرو</sub-title>
+    <length units="seconds">1755</length>
+  </programme>
+  <programme start="20260724050522 +0000" stop="20260724052533 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>سیر آفاقی (باران)</sub-title>
+    <length units="seconds">1155</length>
+  </programme>
+  <programme start="20260724040133 +0000" stop="20260724050515 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">3727</length>
+  </programme>
+  <programme start="20260724035245 +0000" stop="20260724040127 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">498</length>
+  </programme>
+  <programme start="20260724034255 +0000" stop="20260724035137 +0000" channel="baran">
+    <title>2 مرداد 1405</title>
+    <sub-title>فراز 1 تا 21 دعای 47 صحیفه سجادیه</sub-title>
+    <length units="seconds">512</length>
+  </programme>
   <programme start="20260724024959 +0000" stop="20260724031313 +0000" channel="baran">
     <title>2 مرداد 1405</title>
     <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
@@ -815,6 +1295,11 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260724160045 +0000" stop="20260724163321 +0000" channel="aftab">
+    <title>2 مرداد 1405</title>
+    <sub-title>پهلوانان (آفتاب)</sub-title>
+    <length units="seconds">1956</length>
+  </programme>
   <programme start="20260724101049 +0000" stop="20260724105640 +0000" channel="aftab">
     <title>ایران از بالا - 2 مرداد 1405</title>
     <sub-title>برنامه طبیعت و حیات وحش (آفتاب)</sub-title>
@@ -874,6 +1359,31 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260724065246 +0000" stop="20260724072313 +0000" channel="khavaran">
+    <title>چگونه ساخته شده - 2 مرداد 1405</title>
+    <sub-title>برنامه علمی (خاوران)</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260724055841 +0000" stop="20260724064521 +0000" channel="khavaran">
+    <title>2 مرداد 1405</title>
+    <sub-title>دعای ندبه (خاوران)</sub-title>
+    <length units="seconds">2800</length>
+  </programme>
+  <programme start="20260724032239 +0000" stop="20260724042245 +0000" channel="khavaran">
+    <title>2 مرداد 1405</title>
+    <sub-title>گلشن وحی (خاوران)</sub-title>
+    <length units="seconds">3606</length>
+  </programme>
+  <programme start="20260724023013 +0000" stop="20260724025654 +0000" channel="khavaran">
+    <title>2 مرداد 1405</title>
+    <sub-title>عقیق</sub-title>
+    <length units="seconds">1602</length>
+  </programme>
+  <programme start="20260724000938 +0000" stop="20260724003902 +0000" channel="khavaran">
+    <title>نان و هنر - 2 مرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (خاوران)</sub-title>
+    <length units="seconds">1764</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
