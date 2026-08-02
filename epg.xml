@@ -3,6 +3,41 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260802090010 +0000" stop="20260802105737 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">6806</length>
+  </programme>
+  <programme start="20260802085200 +0000" stop="20260802085534 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">214</length>
+  </programme>
+  <programme start="20260802080000 +0000" stop="20260802082945 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1784</length>
+  </programme>
+  <programme start="20260802060855 +0000" stop="20260802075514 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">5970</length>
+  </programme>
+  <programme start="20260802035900 +0000" stop="20260802045030 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>ایران از بالا (شبکه 1)</sub-title>
+    <length units="seconds">3090</length>
+  </programme>
+  <programme start="20260802025430 +0000" stop="20260802032513 +0000" channel="tv1">
+    <title>11 مرداد 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">1842</length>
+  </programme>
+  <programme start="20260802003030 +0000" stop="20260802011005 +0000" channel="tv1">
+    <title>ماجرای تنگه - 11 مرداد 1405</title>
+    <sub-title>ثریا 1405</sub-title>
+    <length units="seconds">2376</length>
+  </programme>
   <programme start="20260802000315 +0000" stop="20260802002840 +0000" channel="tv1">
     <title>سدره - 11 مرداد 1405</title>
     <sub-title>ویژه اربعین  (شبکه 1)</sub-title>
@@ -11,15 +46,210 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260802111649 +0000" stop="20260802112945 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵ - سلمان فارسی </title>
+    <sub-title>تاریخ تا مشایه</sub-title>
+    <length units="seconds">776</length>
+  </programme>
+  <programme start="20260802103520 +0000" stop="20260802111645 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>کوی محبت</sub-title>
+    <length units="seconds">2486</length>
+  </programme>
+  <programme start="20260802102215 +0000" stop="20260802103443 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵ - مزار سلمان فارسی </title>
+    <sub-title>تاریخ تا مشایه</sub-title>
+    <length units="seconds">748</length>
+  </programme>
+  <programme start="20260802101352 +0000" stop="20260802102209 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵ </title>
+    <sub-title>کوی محبت</sub-title>
+    <length units="seconds">496</length>
+  </programme>
+  <programme start="20260802094631 +0000" stop="20260802095542 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">552</length>
+  </programme>
+  <programme start="20260802090045 +0000" stop="20260802094556 +0000" channel="tv2">
+    <title>تنها خواهم رفت - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین  (شبکه دو)</sub-title>
+    <length units="seconds">2712</length>
+  </programme>
+  <programme start="20260802085346 +0000" stop="20260802085803 +0000" channel="tv2">
+    <title>امام حسین (ع) همه ای - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260802065910 +0000" stop="20260802072227 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1396</length>
+  </programme>
+  <programme start="20260802065624 +0000" stop="20260802065908 +0000" channel="tv2">
+    <title>شهید امیرحسن جمشیدپور - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">164</length>
+  </programme>
+  <programme start="20260802065153 +0000" stop="20260802065623 +0000" channel="tv2">
+    <title>سلام بی همتا - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260802064527 +0000" stop="20260802065152 +0000" channel="tv2">
+    <title>دیدار - گندمزار - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">386</length>
+  </programme>
+  <programme start="20260802060644 +0000" stop="20260802061013 +0000" channel="tv2">
+    <title>دنیا بیدارشو - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">208</length>
+  </programme>
+  <programme start="20260802055659 +0000" stop="20260802060006 +0000" channel="tv2">
+    <title>ساکن کربلا - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">188</length>
+  </programme>
+  <programme start="20260802040044 +0000" stop="20260802041641 +0000" channel="tv2">
+    <title>موکب احباب الرضا علیه السلام - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین  (شبکه دو)</sub-title>
+    <length units="seconds">956</length>
+  </programme>
+  <programme start="20260802034518 +0000" stop="20260802035020 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای هفتم صحیفه سجادیه</sub-title>
+    <length units="seconds">302</length>
+  </programme>
+  <programme start="20260802032500 +0000" stop="20260802032818 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260802032346 +0000" stop="20260802032459 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>جرعه</sub-title>
+    <length units="seconds">72</length>
+  </programme>
+  <programme start="20260802031807 +0000" stop="20260802032125 +0000" channel="tv2">
+    <title>حسین جان - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (شبکه 2)</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20260802015807 +0000" stop="20260802020805 +0000" channel="tv2">
+    <title>۱۱ مرداد ۱۴۰۵ - بغداد قدیم - شیخ ابوالحسن السمری</title>
+    <sub-title>تاریخ تا مشایه</sub-title>
+    <length units="seconds">598</length>
+  </programme>
+  <programme start="20260802005958 +0000" stop="20260802015545 +0000" channel="tv2">
+    <title>فیلسوف جنگ - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">3348</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260802105244 +0000" stop="20260802110101 +0000" channel="tv3">
+    <title>11 مرداد 1405 - بخش 2</title>
+    <sub-title>در آستان خورشید ۱۴۰5</sub-title>
+    <length units="seconds">497</length>
+  </programme>
+  <programme start="20260802095754 +0000" stop="20260802100415 +0000" channel="tv3">
+    <title>۱۱ مرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>در آستان خورشید ۱۴۰5</sub-title>
+    <length units="seconds">380</length>
+  </programme>
+  <programme start="20260802094150 +0000" stop="20260802095240 +0000" channel="tv3">
+    <title>پیاده تا عرش - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین (شبکه 3)</sub-title>
+    <length units="seconds">650</length>
+  </programme>
+  <programme start="20260802080043 +0000" stop="20260802094130 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>سلام صبح بخیر 1405</sub-title>
+    <length units="seconds">5571</length>
+  </programme>
+  <programme start="20260802064124 +0000" stop="20260802075038 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۳)</sub-title>
+    <length units="seconds">4154</length>
+  </programme>
+  <programme start="20260802060943 +0000" stop="20260802063608 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>عطر صبح 1405</sub-title>
+    <length units="seconds">1586</length>
+  </programme>
+  <programme start="20260802060121 +0000" stop="20260802060942 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>دعای عهد (شبکه ۳)</sub-title>
+    <length units="seconds">502</length>
+  </programme>
+  <programme start="20260802032725 +0000" stop="20260802035415 +0000" channel="tv3">
+    <title>11 مرداد 1405 - بخش 1</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1610</length>
+  </programme>
+  <programme start="20260802024208 +0000" stop="20260802032721 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>ضیافت دوست 1405</sub-title>
+    <length units="seconds">2712</length>
+  </programme>
+  <programme start="20260802000108 +0000" stop="20260802012030 +0000" channel="tv3">
+    <title>11 مرداد 1405</title>
+    <sub-title>مردان آهنین (تابستان 1405)</sub-title>
+    <length units="seconds">4194</length>
+  </programme>
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260802104539 +0000" stop="20260802105508 +0000" channel="tv4">
+    <title>11 مرداد 1405 - بخش 1</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">570</length>
+  </programme>
+  <programme start="20260802090806 +0000" stop="20260802092510 +0000" channel="tv4">
+    <title>11 مرداد 1405</title>
+    <sub-title>چلچله (شبکه 4)</sub-title>
+    <length units="seconds">1005</length>
+  </programme>
+  <programme start="20260802064445 +0000" stop="20260802065032 +0000" channel="tv4">
+    <title>11 مرداد 1405</title>
+    <sub-title>راه</sub-title>
+    <length units="seconds">346</length>
+  </programme>
+  <programme start="20260802061600 +0000" stop="20260802064417 +0000" channel="tv4">
+    <title>11 مرداد 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">1685</length>
+  </programme>
+  <programme start="20260802060331 +0000" stop="20260802061219 +0000" channel="tv4">
+    <title>11 مرداد 1405</title>
+    <sub-title>دعای عهد (شبکه ۴)</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260802060112 +0000" stop="20260802060329 +0000" channel="tv4">
+    <title>11 مرداد 1405</title>
+    <sub-title>از باران تا ایمان</sub-title>
+    <length units="seconds">136</length>
+  </programme>
+  <programme start="20260802032555 +0000" stop="20260802033012 +0000" channel="tv4">
+    <title>11 مرداد 1405 - بخش 1</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">257</length>
+  </programme>
+  <programme start="20260802000510 +0000" stop="20260802005352 +0000" channel="tv4">
+    <title>قسمت 2</title>
+    <sub-title>سالهای مشروطه</sub-title>
+    <length units="seconds">2835</length>
+  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260802110145 +0000" stop="20260802114645 +0000" channel="nasim">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2698</length>
+  </programme>
   <programme start="20260802000245 +0000" stop="20260802002110 +0000" channel="nasim">
     <title>محرم شهر - ۱۱ مرداد ۱۴۰۵</title>
     <sub-title>ویژه برنامه های محرم 1405 (شبکه نسیم)</sub-title>
@@ -28,6 +258,116 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260802113015 +0000" stop="20260802113430 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260802111000 +0000" stop="20260802113010 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - محمد قادری</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1210</length>
+  </programme>
+  <programme start="20260802110020 +0000" stop="20260802111000 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">580</length>
+  </programme>
+  <programme start="20260802105715 +0000" stop="20260802105940 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260802103350 +0000" stop="20260802105710 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1400</length>
+  </programme>
+  <programme start="20260802103015 +0000" stop="20260802103350 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260802100845 +0000" stop="20260802102845 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1200</length>
+  </programme>
+  <programme start="20260802100025 +0000" stop="20260802100845 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">500</length>
+  </programme>
+  <programme start="20260802094710 +0000" stop="20260802095840 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">690</length>
+  </programme>
+  <programme start="20260802093810 +0000" stop="20260802094430 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نظرخوان</sub-title>
+    <length units="seconds">380</length>
+  </programme>
+  <programme start="20260802093010 +0000" stop="20260802093815 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">484</length>
+  </programme>
+  <programme start="20260802091055 +0000" stop="20260802093010 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - عباس خامه یار</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1156</length>
+  </programme>
+  <programme start="20260802090020 +0000" stop="20260802090905 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20260802082955 +0000" stop="20260802085920 +0000" channel="irinn">
+    <title>آغاز طرح ویژه نظارت بر بازار - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1766</length>
+  </programme>
+  <programme start="20260802080010 +0000" stop="20260802082950 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1780</length>
+  </programme>
+  <programme start="20260802075225 +0000" stop="20260802075930 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - محمدحسن نیک‌بین</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">426</length>
+  </programme>
+  <programme start="20260802074420 +0000" stop="20260802075225 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - سحر قناعتی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">484</length>
+  </programme>
+  <programme start="20260802073440 +0000" stop="20260802074420 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - محمد مجد</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">580</length>
+  </programme>
+  <programme start="20260802073010 +0000" stop="20260802073440 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260802071000 +0000" stop="20260802073005 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵ - محمود علیگو</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1204</length>
+  </programme>
+  <programme start="20260802070020 +0000" stop="20260802071000 +0000" channel="irinn">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">580</length>
+  </programme>
+  <programme start="20260802060020 +0000" stop="20260802060940 +0000" channel="irinn">
+    <title>11 مداد 1405</title>
+    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
+    <length units="seconds">560</length>
+  </programme>
   <programme start="20260802050012 +0000" stop="20260802050840 +0000" channel="irinn">
     <title>11 مرداد 1405</title>
     <sub-title>اخبار ساعت 5:00 </sub-title>
@@ -61,12 +401,87 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260802105927 +0000" stop="20260802110835 +0000" channel="varzesh">
+    <title>11 مرداد 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">548</length>
+  </programme>
+  <programme start="20260802103239 +0000" stop="20260802105752 +0000" channel="varzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>تک به تک</sub-title>
+    <length units="seconds">1512</length>
+  </programme>
+  <programme start="20260802100030 +0000" stop="20260802103228 +0000" channel="varzesh">
+    <title>۱۱ مرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1918</length>
+  </programme>
+  <programme start="20260802093155 +0000" stop="20260802095521 +0000" channel="varzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مجله رالی قهرمانی جهان</sub-title>
+    <length units="seconds">1406</length>
+  </programme>
+  <programme start="20260802080113 +0000" stop="20260802085526 +0000" channel="varzesh">
+    <title>11 مرداد 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">3252</length>
+  </programme>
+  <programme start="20260802060618 +0000" stop="20260802063614 +0000" channel="varzesh">
+    <title>11 مرداد 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1796</length>
+  </programme>
+  <programme start="20260802000215 +0000" stop="20260802001937 +0000" channel="varzesh">
+    <title>11 مرداد 1405</title>
+    <sub-title>مجله بسکتبال اروپا</sub-title>
+    <length units="seconds">1042</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260802114255 +0000" stop="20260802114510 +0000" channel="pooya">
+    <title>قسمت ۶۷۹</title>
+    <sub-title>روکی رباته</sub-title>
+    <length units="seconds">134</length>
+  </programme>
+  <programme start="20260802113140 +0000" stop="20260802114045 +0000" channel="pooya">
+    <title>قسمت ۳۷</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260802112945 +0000" stop="20260802113140 +0000" channel="pooya">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260802110025 +0000" stop="20260802112845 +0000" channel="pooya">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>پاشو پاشو قهرمان</sub-title>
+    <length units="seconds">1700</length>
+  </programme>
+  <programme start="20260802092655 +0000" stop="20260802093010 +0000" channel="pooya">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">196</length>
+  </programme>
+  <programme start="20260802092025 +0000" stop="20260802092415 +0000" channel="pooya">
+    <title>قسمت ۷۲</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">230</length>
+  </programme>
+  <programme start="20260802084225 +0000" stop="20260802084530 +0000" channel="pooya">
+    <title>پاکبان - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">186</length>
+  </programme>
+  <programme start="20260802082735 +0000" stop="20260802082950 +0000" channel="pooya">
+    <title>قسمت ۶۷۸</title>
+    <sub-title>روکی رباته</sub-title>
+    <length units="seconds">136</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -76,15 +491,200 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260802070100 +0000" stop="20260802090336 +0000" channel="tehran">
+    <title>11 مرداد 1405</title>
+    <sub-title>سلام تهران 1405</sub-title>
+    <length units="seconds">6956</length>
+  </programme>
+  <programme start="20260802060730 +0000" stop="20260802064430 +0000" channel="tehran">
+    <title>ایرانشهر - مروری بر خاطرات رهبری در دوران تبعید - 11 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">2220</length>
+  </programme>
+  <programme start="20260802040330 +0000" stop="20260802042943 +0000" channel="tehran">
+    <title>11 مرداد 1405</title>
+    <sub-title>پنجره هدایت (شبکه تهران)</sub-title>
+    <length units="seconds">1572</length>
+  </programme>
+  <programme start="20260802034730 +0000" stop="20260802035730 +0000" channel="tehran">
+    <title>11 مرداد 1405</title>
+    <sub-title>نائب الشهید</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260802003400 +0000" stop="20260802022500 +0000" channel="tehran">
+    <title>11 مرداد 1405</title>
+    <sub-title>سدره </sub-title>
+    <length units="seconds">6660</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260802105809 +0000" stop="20260802111055 +0000" channel="quran">
+    <title>حاتم حیران - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین </sub-title>
+    <length units="seconds">766</length>
+  </programme>
+  <programme start="20260802104512 +0000" stop="20260802105410 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20260802103552 +0000" stop="20260802104414 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ایران در مسیر حسین (ع)</sub-title>
+    <length units="seconds">502</length>
+  </programme>
+  <programme start="20260802094739 +0000" stop="20260802095543 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>پویش حفظ جزء ۳۰ قرآن کریم </sub-title>
+    <length units="seconds">484</length>
+  </programme>
+  <programme start="20260802090053 +0000" stop="20260802094602 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>عهد</sub-title>
+    <length units="seconds">2708</length>
+  </programme>
+  <programme start="20260802085252 +0000" stop="20260802085716 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>چشم و چراغ (قرآن)</sub-title>
+    <length units="seconds">264</length>
+  </programme>
+  <programme start="20260802083455 +0000" stop="20260802085245 +0000" channel="quran">
+    <title>سعید پرویزی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1070</length>
+  </programme>
+  <programme start="20260802080206 +0000" stop="20260802083415 +0000" channel="quran">
+    <title>حجت الاسلام انصاریان - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سخنرانی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">1928</length>
+  </programme>
+  <programme start="20260802072108 +0000" stop="20260802075100 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">1790</length>
+  </programme>
+  <programme start="20260802071100 +0000" stop="20260802071926 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (قرآن)</sub-title>
+    <length units="seconds">504</length>
+  </programme>
+  <programme start="20260802070701 +0000" stop="20260802071036 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260802065248 +0000" stop="20260802070700 +0000" channel="quran">
+    <title>حدیث کساء - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">852</length>
+  </programme>
+  <programme start="20260802060330 +0000" stop="20260802065132 +0000" channel="quran">
+    <title>ارتباط زنده با سامرا - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین </sub-title>
+    <length units="seconds">2880</length>
+  </programme>
+  <programme start="20260802055405 +0000" stop="20260802060136 +0000" channel="quran">
+    <title>سعید رحمانی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">450</length>
+  </programme>
+  <programme start="20260802050507 +0000" stop="20260802055335 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خیمه گاه </sub-title>
+    <length units="seconds">2908</length>
+  </programme>
+  <programme start="20260802045227 +0000" stop="20260802050249 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">622</length>
+  </programme>
+  <programme start="20260802035124 +0000" stop="20260802045150 +0000" channel="quran">
+    <title>جزء ۱۱ - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3624</length>
+  </programme>
+  <programme start="20260802034945 +0000" stop="20260802035106 +0000" channel="quran">
+    <title>دعای نادعلی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20260802032041 +0000" stop="20260802032747 +0000" channel="quran">
+    <title>سیدمحمد کرمانی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">410</length>
+  </programme>
+  <programme start="20260802031717 +0000" stop="20260802032004 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260802023805 +0000" stop="20260802031450 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>آرام جان</sub-title>
+    <length units="seconds">2206</length>
+  </programme>
+  <programme start="20260802022050 +0000" stop="20260802022839 +0000" channel="quran">
+    <title>آیت الله شیخ فضل الله نوری - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>زندگی نامه علما</sub-title>
+    <length units="seconds">468</length>
+  </programme>
+  <programme start="20260802021534 +0000" stop="20260802022004 +0000" channel="quran">
+    <title>حاج محمود کریمی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20260802020347 +0000" stop="20260802021533 +0000" channel="quran">
+    <title>حدیث کساء - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
+    <length units="seconds">706</length>
+  </programme>
+  <programme start="20260802015741 +0000" stop="20260802020321 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">340</length>
+  </programme>
+  <programme start="20260802015046 +0000" stop="20260802015700 +0000" channel="quran">
+    <title>محمدرضا پورصفر - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">374</length>
+  </programme>
+  <programme start="20260802000025 +0000" stop="20260802013520 +0000" channel="quran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>موکب رسانه ای معلی </sub-title>
+    <length units="seconds">5696</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260802085645 +0000" stop="20260802100010 +0000" channel="amouzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>هیچ وقت دیر نیست </sub-title>
+    <length units="seconds">3756</length>
+  </programme>
+  <programme start="20260802061910 +0000" stop="20260802064045 +0000" channel="amouzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>علمی طور </sub-title>
+    <length units="seconds">1295</length>
+  </programme>
+  <programme start="20260802060310 +0000" stop="20260802061850 +0000" channel="amouzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">940</length>
+  </programme>
+  <programme start="20260802054550 +0000" stop="20260802055625 +0000" channel="amouzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ده دقیقه </sub-title>
+    <length units="seconds">634</length>
+  </programme>
+  <programme start="20260802050100 +0000" stop="20260802054200 +0000" channel="amouzesh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خشت بهشت (آموزش)</sub-title>
+    <length units="seconds">2460</length>
+  </programme>
   <programme start="20260802015115 +0000" stop="20260802015405 +0000" channel="amouzesh">
     <title>جفیر در آتش - ۱۱ مرداد ۱۴۰۵</title>
     <sub-title>روایت اصابت</sub-title>
@@ -93,9 +693,39 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260802110611 +0000" stop="20260802111430 +0000" channel="salamat">
+    <title>۱۱ مرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">499</length>
+  </programme>
+  <programme start="20260802090255 +0000" stop="20260802094612 +0000" channel="salamat">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2537</length>
+  </programme>
+  <programme start="20260802083152 +0000" stop="20260802084850 +0000" channel="salamat">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">995</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260802080039 +0000" stop="20260802085212 +0000" channel="ofogh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3092</length>
+  </programme>
+  <programme start="20260802041201 +0000" stop="20260802050251 +0000" channel="ofogh">
+    <title>خانه حاج فیروز زیرک کار - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خانه های نورانی (افق)</sub-title>
+    <length units="seconds">3050</length>
+  </programme>
+  <programme start="20260802000345 +0000" stop="20260802005840 +0000" channel="ofogh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سر به راه (محرم 1405)</sub-title>
+    <length units="seconds">3294</length>
+  </programme>
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
@@ -105,18 +735,58 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260802101515 +0000" stop="20260802110337 +0000" channel="irinn2">
+    <title>نشست خبری رئیس جهاد دانشگاهی - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">2902</length>
+  </programme>
+  <programme start="20260802095040 +0000" stop="20260802095904 +0000" channel="irinn2">
+    <title>11 مرداد 1405 - بخش 2</title>
+    <sub-title>پیاده روی اربعین (خبر 2)</sub-title>
+    <length units="seconds">504</length>
+  </programme>
+  <programme start="20260802063015 +0000" stop="20260802081016 +0000" channel="irinn2">
+    <title>11 مرداد 1405 - بخش 1</title>
+    <sub-title>پیاده روی اربعین (خبر 2)</sub-title>
+    <length units="seconds">6000</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260802102010 +0000" stop="20260802110030 +0000" channel="sahand">
+    <title>۱۱ مرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">2398</length>
+  </programme>
+  <programme start="20260802080005 +0000" stop="20260802085305 +0000" channel="sahand">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">3178</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260802105140 +0000" stop="20260802110149 +0000" channel="esfahan">
+    <title>پایانه مرزی خسروی - 11 مرداد 1405</title>
+    <sub-title>ویژه اربعین  (اصفهان)</sub-title>
+    <length units="seconds">608</length>
+  </programme>
+  <programme start="20260802090058 +0000" stop="20260802095040 +0000" channel="esfahan">
+    <title>11 مرداد 1405</title>
+    <sub-title>میثاق</sub-title>
+    <length units="seconds">2982</length>
+  </programme>
+  <programme start="20260802061855 +0000" stop="20260802065907 +0000" channel="esfahan">
+    <title>حجت الاسلام راجی - 11 مرداد 1405</title>
+    <sub-title>سخنرانی (اصفهان)</sub-title>
+    <length units="seconds">2412</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -135,18 +805,118 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260802105955 +0000" stop="20260802111018 +0000" channel="khorasanrazavi">
+    <title>11 مرداد 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">616</length>
+  </programme>
+  <programme start="20260802105205 +0000" stop="20260802105527 +0000" channel="khorasanrazavi">
+    <title>11 مرداد 1405</title>
+    <sub-title>راویوم</sub-title>
+    <length units="seconds">184</length>
+  </programme>
+  <programme start="20260802055927 +0000" stop="20260802062733 +0000" channel="khorasanrazavi">
+    <title>11 مرداد 1405</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">1686</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260802105955 +0000" stop="20260802112035 +0000" channel="atrak">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">1240</length>
+  </programme>
+  <programme start="20260802095941 +0000" stop="20260802105220 +0000" channel="atrak">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (اترک)</sub-title>
+    <length units="seconds">3160</length>
+  </programme>
+  <programme start="20260802092245 +0000" stop="20260802095510 +0000" channel="atrak">
+    <title>مراسم تشییع جانباز شهید قربانعلی مرگان - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1946</length>
+  </programme>
+  <programme start="20260802090028 +0000" stop="20260802090354 +0000" channel="atrak">
+    <title>خاطرات کربلا - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (اترک)</sub-title>
+    <length units="seconds">206</length>
+  </programme>
+  <programme start="20260802070011 +0000" stop="20260802075950 +0000" channel="atrak">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3580</length>
+  </programme>
+  <programme start="20260802031925 +0000" stop="20260802032752 +0000" channel="atrak">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (اترک)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260802025818 +0000" stop="20260802030051 +0000" channel="atrak">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>نجوا (اترک)</sub-title>
+    <length units="seconds">152</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260802104705 +0000" stop="20260802105552 +0000" channel="khoozestan">
+    <title>ارتباط با مرز چذابه - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>پایتخت موکب ها </sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260802095027 +0000" stop="20260802100024 +0000" channel="khoozestan">
+    <title>پایانه مرزی شلمچه - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین (خوزستان)</sub-title>
+    <length units="seconds">573</length>
+  </programme>
+  <programme start="20260802092048 +0000" stop="20260802095022 +0000" channel="khoozestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">1764</length>
+  </programme>
+  <programme start="20260802083013 +0000" stop="20260802091907 +0000" channel="khoozestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>یه روز تازه (خوزستان)</sub-title>
+    <length units="seconds">2868</length>
+  </programme>
+  <programme start="20260802072112 +0000" stop="20260802074001 +0000" channel="khoozestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>زاویه </sub-title>
+    <length units="seconds">1095</length>
+  </programme>
+  <programme start="20260802042859 +0000" stop="20260802043724 +0000" channel="khoozestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">494</length>
+  </programme>
+  <programme start="20260802034325 +0000" stop="20260802035645 +0000" channel="khoozestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مناجات امیرالمومنین (خوزستان) </sub-title>
+    <length units="seconds">788</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260802110000 +0000" stop="20260802111325 +0000" channel="eshragh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">804</length>
+  </programme>
+  <programme start="20260802095225 +0000" stop="20260802095730 +0000" channel="eshragh">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خیابان</sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260802073445 +0000" stop="20260802075410 +0000" channel="eshragh">
+    <title>جان فدا - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1166</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
@@ -156,12 +926,57 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260802110100 +0000" stop="20260802111120 +0000" channel="fars">
+    <title>ارتباط مستقیم با پایانه مرزی شلمچه - 11 مرداد 1405</title>
+    <sub-title>ویژه اربعین 1405 (فارس)</sub-title>
+    <length units="seconds">630</length>
+  </programme>
+  <programme start="20260802100030 +0000" stop="20260802110040 +0000" channel="fars">
+    <title>11 مرداد 1405</title>
+    <sub-title>کاشانه مهر (فارس)</sub-title>
+    <length units="seconds">3610</length>
+  </programme>
+  <programme start="20260802061530 +0000" stop="20260802064050 +0000" channel="fars">
+    <title>11 مرداد 1405</title>
+    <sub-title>کوله پشتی (فارس)</sub-title>
+    <length units="seconds">1520</length>
+  </programme>
+  <programme start="20260802060600 +0000" stop="20260802061130 +0000" channel="fars">
+    <title>11 مرداد 1405</title>
+    <sub-title>چهل تیکه (فارس)</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260802053530 +0000" stop="20260802055800 +0000" channel="fars">
+    <title>11 مرداد 1405</title>
+    <sub-title>دلشدگان</sub-title>
+    <length units="seconds">1350</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260802100732 +0000" stop="20260802105759 +0000" channel="noor">
+    <title>11 مرداد 1405</title>
+    <sub-title>دکتر سلام (نور)</sub-title>
+    <length units="seconds">3028</length>
+  </programme>
+  <programme start="20260802061912 +0000" stop="20260802070542 +0000" channel="noor">
+    <title>11 مرداد 1405</title>
+    <sub-title>مدار</sub-title>
+    <length units="seconds">2790</length>
+  </programme>
+  <programme start="20260802061442 +0000" stop="20260802061843 +0000" channel="noor">
+    <title>11 مرداد 1405</title>
+    <sub-title>زیارت حضرت معصومه (نور)</sub-title>
+    <length units="seconds">242</length>
+  </programme>
+  <programme start="20260802060546 +0000" stop="20260802061415 +0000" channel="noor">
+    <title>11 مرداد 1405</title>
+    <sub-title>دعای عهد (نور)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -183,9 +998,54 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260802113102 +0000" stop="20260802114000 +0000" channel="baran">
+    <title>ارتباط با مرز شلمچه - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه اربعین (باران)</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20260802100031 +0000" stop="20260802110228 +0000" channel="baran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3601</length>
+  </programme>
+  <programme start="20260802090033 +0000" stop="20260802095509 +0000" channel="baran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>رادیو شهر ما (باران)</sub-title>
+    <length units="seconds">3191</length>
+  </programme>
+  <programme start="20260802073013 +0000" stop="20260802085100 +0000" channel="baran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4703</length>
+  </programme>
+  <programme start="20260802040621 +0000" stop="20260802041448 +0000" channel="baran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">449</length>
+  </programme>
+  <programme start="20260802025951 +0000" stop="20260802032304 +0000" channel="baran">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">1347</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260802105225 +0000" stop="20260802110255 +0000" channel="kordestan">
+    <title>موکب رسانه ای فجر - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه کردستان)</sub-title>
+    <length units="seconds">630</length>
+  </programme>
+  <programme start="20260802095915 +0000" stop="20260802101555 +0000" channel="kordestan">
+    <title>ارتباط مستقیم - مرز باشماق - ۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های محرم 1405 (شبکه کردستان)</sub-title>
+    <length units="seconds">1000</length>
+  </programme>
+  <programme start="20260802090045 +0000" stop="20260802095125 +0000" channel="kordestan">
+    <title>۱۱ مرداد ۱۴۰۵</title>
+    <sub-title>روژمان (کردستان)</sub-title>
+    <length units="seconds">3040</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
@@ -195,6 +1055,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260802094425 +0000" stop="20260802100735 +0000" channel="aftab">
+    <title>عمود 1090 - 11 مرداد 1405</title>
+    <sub-title>ویژه اربعین (آفتاب)</sub-title>
+    <length units="seconds">1390</length>
+  </programme>
+  <programme start="20260802080203 +0000" stop="20260802093221 +0000" channel="aftab">
+    <title>11 مرداد 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5418</length>
+  </programme>
+  <programme start="20260802060805 +0000" stop="20260802061755 +0000" channel="aftab">
+    <title>11 مرداد 1405</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">590</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -204,6 +1079,26 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260802073000 +0000" stop="20260802083500 +0000" channel="khavaran">
+    <title>11 مرداد 1405</title>
+    <sub-title>صبحانه (خاوران)</sub-title>
+    <length units="seconds">3900</length>
+  </programme>
+  <programme start="20260802070430 +0000" stop="20260802072900 +0000" channel="khavaran">
+    <title>11 مرداد 1405</title>
+    <sub-title>کوچه باغ (خاوران)</sub-title>
+    <length units="seconds">1470</length>
+  </programme>
+  <programme start="20260802060605 +0000" stop="20260802062300 +0000" channel="khavaran">
+    <title>خانه پدری - 11 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">1014</length>
+  </programme>
+  <programme start="20260802060230 +0000" stop="20260802060550 +0000" channel="khavaran">
+    <title>11 مرداد 1405</title>
+    <sub-title>با خبرنگاران (خاوران)</sub-title>
+    <length units="seconds">200</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
