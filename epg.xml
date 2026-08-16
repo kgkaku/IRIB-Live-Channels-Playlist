@@ -3,6 +3,41 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260816140000 +0000" stop="20260816145842 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3522</length>
+  </programme>
+  <programme start="20260816124530 +0000" stop="20260816133100 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>سیمای خانواده 1405</sub-title>
+    <length units="seconds">2466</length>
+  </programme>
+  <programme start="20260816122030 +0000" stop="20260816123921 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">1132</length>
+  </programme>
+  <programme start="20260816110015 +0000" stop="20260816115340 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>ایران از بالا (شبکه 1)</sub-title>
+    <length units="seconds">3204</length>
+  </programme>
+  <programme start="20260816085900 +0000" stop="20260816105755 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">6866</length>
+  </programme>
+  <programme start="20260816084530 +0000" stop="20260816084906 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260816083135 +0000" stop="20260816084530 +0000" channel="tv1">
+    <title>25 مرداد 1405</title>
+    <sub-title>بی کرانه (شبکه ۱)</sub-title>
+    <length units="seconds">834</length>
+  </programme>
   <programme start="20260816080000 +0000" stop="20260816082849 +0000" channel="tv1">
     <title>25 مرداد 1405</title>
     <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
@@ -21,6 +56,21 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260816141833 +0000" stop="20260816144033 +0000" channel="tv2">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1320</length>
+  </programme>
+  <programme start="20260816130253 +0000" stop="20260816135517 +0000" channel="tv2">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">3142</length>
+  </programme>
+  <programme start="20260816122544 +0000" stop="20260816130138 +0000" channel="tv2">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">2154</length>
+  </programme>
   <programme start="20260816070033 +0000" stop="20260816095307 +0000" channel="tv2">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
@@ -69,6 +119,31 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260816130136 +0000" stop="20260816135400 +0000" channel="tv3">
+    <title>25 مرداد 1405 - حجت الاسلام رفیعی</title>
+    <sub-title>سمت خدا 1405</sub-title>
+    <length units="seconds">3144</length>
+  </programme>
+  <programme start="20260816123948 +0000" stop="20260816125512 +0000" channel="tv3">
+    <title>پیشنهاد سرآشپز - جامبو شلز</title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">922</length>
+  </programme>
+  <programme start="20260816122409 +0000" stop="20260816123211 +0000" channel="tv3">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>محفل (شبکه 3)</sub-title>
+    <length units="seconds">482</length>
+  </programme>
+  <programme start="20260816120244 +0000" stop="20260816122401 +0000" channel="tv3">
+    <title>۲5 مرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1276</length>
+  </programme>
+  <programme start="20260816110730 +0000" stop="20260816120240 +0000" channel="tv3">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>طبیب 1405</sub-title>
+    <length units="seconds">2982</length>
+  </programme>
   <programme start="20260816075958 +0000" stop="20260816094119 +0000" channel="tv3">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>سلام صبح بخیر 1405</sub-title>
@@ -102,6 +177,11 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260816115912 +0000" stop="20260816120310 +0000" channel="tv4">
+    <title>۲5 مرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">238</length>
+  </programme>
   <programme start="20260816061448 +0000" stop="20260816064355 +0000" channel="tv4">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>سحاب رحمت</sub-title>
@@ -111,6 +191,11 @@
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
     <length units="seconds">528</length>
+  </programme>
+  <programme start="20260816060116 +0000" stop="20260816060307 +0000" channel="tv4">
+    <title>25 مرداد 1405</title>
+    <sub-title>از باران تا ایمان</sub-title>
+    <length units="seconds">110</length>
   </programme>
   <programme start="20260816034146 +0000" stop="20260816034523 +0000" channel="tv4">
     <title>25 مرداد 1405 - بخش 1</title>
@@ -125,9 +210,119 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260816110200 +0000" stop="20260816115225 +0000" channel="nasim">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">3024</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260816153507 +0000" stop="20260816155825 +0000" channel="irinn">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>آقای فرهنگ دوست</sub-title>
+    <length units="seconds">1398</length>
+  </programme>
+  <programme start="20260816153011 +0000" stop="20260816153505 +0000" channel="irinn">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 15:30</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20260816152535 +0000" stop="20260816152900 +0000" channel="irinn">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>تیتر خبر</sub-title>
+    <length units="seconds">204</length>
+  </programme>
+  <programme start="20260816145851 +0000" stop="20260816152525 +0000" channel="irinn">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>میز اقتصاد (خبر)</sub-title>
+    <length units="seconds">1594</length>
+  </programme>
+  <programme start="20260816135945 +0000" stop="20260816145845 +0000" channel="irinn">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3540</length>
+  </programme>
+  <programme start="20260816133050 +0000" stop="20260816135658 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1568</length>
+  </programme>
+  <programme start="20260816131231 +0000" stop="20260816132815 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵ - سید نظام الدین موسوی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">944</length>
+  </programme>
+  <programme start="20260816130216 +0000" stop="20260816131229 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">614</length>
+  </programme>
+  <programme start="20260816124535 +0000" stop="20260816125643 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">668</length>
+  </programme>
+  <programme start="20260816123923 +0000" stop="20260816124150 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>بوم بیدار</sub-title>
+    <length units="seconds">146</length>
+  </programme>
+  <programme start="20260816123012 +0000" stop="20260816123419 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260816121159 +0000" stop="20260816121712 +0000" channel="irinn">
+    <title>هم نشین - ۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260816120008 +0000" stop="20260816120743 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">456</length>
+  </programme>
+  <programme start="20260816113450 +0000" stop="20260816115720 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1348</length>
+  </programme>
+  <programme start="20260816113030 +0000" stop="20260816113450 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260816111940 +0000" stop="20260816113030 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵ - کبری آسوپار</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">650</length>
+  </programme>
+  <programme start="20260816111355 +0000" stop="20260816111745 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (خبر)</sub-title>
+    <length units="seconds">230</length>
+  </programme>
+  <programme start="20260816110015 +0000" stop="20260816110845 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
+  <programme start="20260816103035 +0000" stop="20260816103435 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20260816100845 +0000" stop="20260816102935 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1250</length>
+  </programme>
+  <programme start="20260816100015 +0000" stop="20260816100845 +0000" channel="irinn">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <programme start="20260816095320 +0000" stop="20260816095935 +0000" channel="irinn">
     <title>۲۵ مرداد ۱۴۰۵</title>
     <sub-title>حرف دیگران</sub-title>
@@ -231,6 +426,31 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260816153625 +0000" stop="20260816155522 +0000" channel="varzesh">
+    <title>25 مرداد 1405</title>
+    <sub-title>ورزش ملل (ورزش)</sub-title>
+    <length units="seconds">1138</length>
+  </programme>
+  <programme start="20260816113237 +0000" stop="20260816114213 +0000" channel="varzesh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>وقت استراحت (ورزش)</sub-title>
+    <length units="seconds">576</length>
+  </programme>
+  <programme start="20260816105718 +0000" stop="20260816112523 +0000" channel="varzesh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>تک به تک</sub-title>
+    <length units="seconds">1684</length>
+  </programme>
+  <programme start="20260816100038 +0000" stop="20260816103004 +0000" channel="varzesh">
+    <title>25 مرداد 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1768</length>
+  </programme>
+  <programme start="20260816094656 +0000" stop="20260816095628 +0000" channel="varzesh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>این تیم ایرانه</sub-title>
+    <length units="seconds">572</length>
+  </programme>
   <programme start="20260816080551 +0000" stop="20260816085024 +0000" channel="varzesh">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>کوه گشت (شبکه ورزش)</sub-title>
@@ -247,6 +467,51 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260816133025 +0000" stop="20260816133853 +0000" channel="pooya">
+    <title>قسمت ۱۵</title>
+    <sub-title>لنا و علی</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20260816132342 +0000" stop="20260816132932 +0000" channel="pooya">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">352</length>
+  </programme>
+  <programme start="20260816130017 +0000" stop="20260816132220 +0000" channel="pooya">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>وقت قصه</sub-title>
+    <length units="seconds">1322</length>
+  </programme>
+  <programme start="20260816123722 +0000" stop="20260816124541 +0000" channel="pooya">
+    <title>قسمت ۵۶</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">498</length>
+  </programme>
+  <programme start="20260816121454 +0000" stop="20260816122054 +0000" channel="pooya">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">362</length>
+  </programme>
+  <programme start="20260816114443 +0000" stop="20260816114830 +0000" channel="pooya">
+    <title>قسمت ۸۶</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260816113557 +0000" stop="20260816114443 +0000" channel="pooya">
+    <title>قسمت ۵۱</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">526</length>
+  </programme>
+  <programme start="20260816110015 +0000" stop="20260816113515 +0000" channel="pooya">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>پاشو پاشو قهرمان</sub-title>
+    <length units="seconds">2100</length>
+  </programme>
+  <programme start="20260816105755 +0000" stop="20260816110015 +0000" channel="pooya">
+    <title>قسمت ۶۸۷</title>
+    <sub-title>روکی رباته</sub-title>
+    <length units="seconds">140</length>
+  </programme>
   <programme start="20260816085605 +0000" stop="20260816085925 +0000" channel="pooya">
     <title>۲۵ مرداد ۱۴۰۵</title>
     <sub-title>نقاشی مهدپویا</sub-title>
@@ -266,6 +531,11 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260816123253 +0000" stop="20260816132221 +0000" channel="tehran">
+    <title>25 مرداد 1405</title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">2968</length>
+  </programme>
   <programme start="20260816070100 +0000" stop="20260816090040 +0000" channel="tehran">
     <title>25 مرداد 1405</title>
     <sub-title>سلام تهران 1405</sub-title>
@@ -297,6 +567,56 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260816152734 +0000" stop="20260816160107 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">2013</length>
+  </programme>
+  <programme start="20260816150755 +0000" stop="20260816152100 +0000" channel="quran">
+    <title>مهدی غلام نژاد - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">784</length>
+  </programme>
+  <programme start="20260816145051 +0000" stop="20260816145752 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>مکتب رهبر شهید</sub-title>
+    <length units="seconds">422</length>
+  </programme>
+  <programme start="20260816144554 +0000" stop="20260816145049 +0000" channel="quran">
+    <title>شاعر مقبول محمد شیخا مقبل کاشانی - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>تربت ما (قرآن)</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20260816130336 +0000" stop="20260816140230 +0000" channel="quran">
+    <title>جزء ۲۵ - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3534</length>
+  </programme>
+  <programme start="20260816122030 +0000" stop="20260816122208 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دعای نادعلی</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260816115124 +0000" stop="20260816120835 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1030</length>
+  </programme>
+  <programme start="20260816114951 +0000" stop="20260816115104 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>احکام </sub-title>
+    <length units="seconds">74</length>
+  </programme>
+  <programme start="20260816113956 +0000" stop="20260816114928 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">572</length>
+  </programme>
+  <programme start="20260816102958 +0000" stop="20260816113934 +0000" channel="quran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">4176</length>
+  </programme>
   <programme start="20260816095516 +0000" stop="20260816100013 +0000" channel="quran">
     <title>تنبلی در عبادت - ۲5 مرداد ۱۴۰۵</title>
     <sub-title>آیات زندگی</sub-title>
@@ -425,6 +745,56 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260816130048 +0000" stop="20260816135232 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>دکتر سلام ۱۴۰۵</sub-title>
+    <length units="seconds">2989</length>
+  </programme>
+  <programme start="20260816125330 +0000" stop="20260816125710 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>آزمایش های شیمی</sub-title>
+    <length units="seconds">219</length>
+  </programme>
+  <programme start="20260816124220 +0000" stop="20260816125330 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>زنگ آموزش</sub-title>
+    <length units="seconds">669</length>
+  </programme>
+  <programme start="20260816122820 +0000" stop="20260816123935 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>زنگ آموزش</sub-title>
+    <length units="seconds">673</length>
+  </programme>
+  <programme start="20260816115515 +0000" stop="20260816120105 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>مواهب (آموزش)</sub-title>
+    <length units="seconds">350</length>
+  </programme>
+  <programme start="20260816114500 +0000" stop="20260816114835 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>خون دلی که لعل شد</sub-title>
+    <length units="seconds">214</length>
+  </programme>
+  <programme start="20260816101535 +0000" stop="20260816102550 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵ - بخش ۲</title>
+    <sub-title>اکلیل</sub-title>
+    <length units="seconds">616</length>
+  </programme>
+  <programme start="20260816100220 +0000" stop="20260816101200 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اینجا ایران است (آموزش)</sub-title>
+    <length units="seconds">581</length>
+  </programme>
+  <programme start="20260816095745 +0000" stop="20260816095940 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>میدان آموزش</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260816094815 +0000" stop="20260816095625 +0000" channel="amouzesh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>ماهر شو (آموزش)</sub-title>
+    <length units="seconds">491</length>
+  </programme>
   <programme start="20260816091525 +0000" stop="20260816092545 +0000" channel="amouzesh">
     <title>۲۵ مرداد ۱۴۰۵</title>
     <sub-title>ده دقیقه </sub-title>
@@ -463,6 +833,26 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260816154659 +0000" stop="20260816155714 +0000" channel="salamat">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>ایده های ارزشمند </sub-title>
+    <length units="seconds">606</length>
+  </programme>
+  <programme start="20260816141440 +0000" stop="20260816142520 +0000" channel="salamat">
+    <title>۲5 مرداد ۱۴۰۵ - بخش ۳</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">640</length>
+  </programme>
+  <programme start="20260816131310 +0000" stop="20260816132620 +0000" channel="salamat">
+    <title>۲5 مرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">789</length>
+  </programme>
+  <programme start="20260816105656 +0000" stop="20260816111010 +0000" channel="salamat">
+    <title>۲5 مرداد ۱۴۰۵ - بخش ۱</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">786</length>
+  </programme>
   <programme start="20260816095234 +0000" stop="20260816095724 +0000" channel="salamat">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>ایده های ارزشمند </sub-title>
@@ -486,6 +876,31 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260816155046 +0000" stop="20260816155842 +0000" channel="ofogh">
+    <title>خانه شهید</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">476</length>
+  </programme>
+  <programme start="20260816153232 +0000" stop="20260816154712 +0000" channel="ofogh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>مردم میدان </sub-title>
+    <length units="seconds">880</length>
+  </programme>
+  <programme start="20260816152400 +0000" stop="20260816152607 +0000" channel="ofogh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>روایت افق</sub-title>
+    <length units="seconds">127</length>
+  </programme>
+  <programme start="20260816100404 +0000" stop="20260816105300 +0000" channel="ofogh">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>انارستان 1404</sub-title>
+    <length units="seconds">2936</length>
+  </programme>
+  <programme start="20260816095553 +0000" stop="20260816095800 +0000" channel="ofogh">
+    <title>نبرد استراتژی مشخص برای نجات آمریکا درجنگ با ایران - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>ذره بین</sub-title>
+    <length units="seconds">128</length>
+  </programme>
   <programme start="20260816080033 +0000" stop="20260816085058 +0000" channel="ofogh">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>سمت خدا (افق)</sub-title>
@@ -534,12 +949,32 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260816143200 +0000" stop="20260816152742 +0000" channel="omid">
+    <title>25 مرداد 1405</title>
+    <sub-title>شبکه بازی: فصل 3 </sub-title>
+    <length units="seconds">3342</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260816104504 +0000" stop="20260816121505 +0000" channel="irinn2">
+    <title>شورای اداری استان گلستان با حضور وزیر ارتباطات و فناوری اطلاعات - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">5386</length>
+  </programme>
+  <programme start="20260816102717 +0000" stop="20260816104456 +0000" channel="irinn2">
+    <title>دومین نشست ستاد مرکزی دولت مردان شهید - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">1060</length>
+  </programme>
+  <programme start="20260816093227 +0000" stop="20260816102453 +0000" channel="irinn2">
+    <title>نشست خبری مراسم اربعین آقای شهید ایران - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">3146</length>
+  </programme>
   <programme start="20260816085644 +0000" stop="20260816093213 +0000" channel="irinn2">
     <title>آیین بهره برداری از ۲۳ طرح در منطقه ۲۰ تهران - ۲5 مرداد ۱۴۰۵</title>
     <sub-title>گزارش خبری </sub-title>
@@ -556,12 +991,52 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260816133005 +0000" stop="20260816133520 +0000" channel="sahand">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:30 (سهند)</sub-title>
+    <length units="seconds">314</length>
+  </programme>
+  <programme start="20260816124550 +0000" stop="20260816131735 +0000" channel="sahand">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>ثقلین</sub-title>
+    <length units="seconds">1906</length>
+  </programme>
+  <programme start="20260816095950 +0000" stop="20260816100700 +0000" channel="sahand">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>با خبرنگاران (سهند)</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20260816093054 +0000" stop="20260816095629 +0000" channel="sahand">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>مزرعه دوستی</sub-title>
+    <length units="seconds">1536</length>
+  </programme>
+  <programme start="20260816075952 +0000" stop="20260816093005 +0000" channel="sahand">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">5414</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260816122659 +0000" stop="20260816130655 +0000" channel="esfahan">
+    <title>25 مرداد 1405</title>
+    <sub-title>میعاد آدینه</sub-title>
+    <length units="seconds">2396</length>
+  </programme>
+  <programme start="20260816114740 +0000" stop="20260816120231 +0000" channel="esfahan">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا (اصفهان)</sub-title>
+    <length units="seconds">890</length>
+  </programme>
+  <programme start="20260816112620 +0000" stop="20260816113354 +0000" channel="esfahan">
+    <title>آواز خیابان - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">454</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -580,6 +1055,26 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260816131711 +0000" stop="20260816134717 +0000" channel="khorasanrazavi">
+    <title>25 مرداد 1405</title>
+    <sub-title>الماس ها ماندگارند (خراسان رضوی)</sub-title>
+    <length units="seconds">1806</length>
+  </programme>
+  <programme start="20260816120252 +0000" stop="20260816130259 +0000" channel="khorasanrazavi">
+    <title>25 مرداد 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3608</length>
+  </programme>
+  <programme start="20260816105750 +0000" stop="20260816110540 +0000" channel="khorasanrazavi">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">470</length>
+  </programme>
+  <programme start="20260816095918 +0000" stop="20260816105748 +0000" channel="khorasanrazavi">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>ملت بیدارتر (خراسان رضوی)</sub-title>
+    <length units="seconds">3510</length>
+  </programme>
   <programme start="20260816083141 +0000" stop="20260816093320 +0000" channel="khorasanrazavi">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>خانواده خراسانی </sub-title>
@@ -598,6 +1093,16 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260816110000 +0000" stop="20260816112053 +0000" channel="atrak">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">1253</length>
+  </programme>
+  <programme start="20260816100015 +0000" stop="20260816105229 +0000" channel="atrak">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (اترک)</sub-title>
+    <length units="seconds">3133</length>
+  </programme>
   <programme start="20260816070005 +0000" stop="20260816075936 +0000" channel="atrak">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>صبح اترک (اترک)</sub-title>
@@ -614,6 +1119,26 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260816120850 +0000" stop="20260816121430 +0000" channel="khoozestan">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">340</length>
+  </programme>
+  <programme start="20260816113302 +0000" stop="20260816120206 +0000" channel="khoozestan">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>مستند جلگه</sub-title>
+    <length units="seconds">1745</length>
+  </programme>
+  <programme start="20260816105445 +0000" stop="20260816110139 +0000" channel="khoozestan">
+    <title>یک خانواده ایم - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">414</length>
+  </programme>
+  <programme start="20260816085836 +0000" stop="20260816095625 +0000" channel="khoozestan">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دشمن ملت ها </sub-title>
+    <length units="seconds">3470</length>
+  </programme>
   <programme start="20260816082822 +0000" stop="20260816085755 +0000" channel="khoozestan">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>رنگین کمان (خوزستان)</sub-title>
@@ -637,15 +1162,75 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260816115735 +0000" stop="20260816120110 +0000" channel="eshragh">
+    <title>شهید محمدحسین رحیمی - ۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260816111915 +0000" stop="20260816115330 +0000" channel="eshragh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>مستند ایران (اشراق)</sub-title>
+    <length units="seconds">2056</length>
+  </programme>
+  <programme start="20260816110000 +0000" stop="20260816111505 +0000" channel="eshragh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">904</length>
+  </programme>
+  <programme start="20260816095305 +0000" stop="20260816095750 +0000" channel="eshragh">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>خیابان</sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260816094210 +0000" stop="20260816095305 +0000" channel="eshragh">
+    <title>قدرت در دریاها - ۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی و تاریخی (اشراق)</sub-title>
+    <length units="seconds">654</length>
+  </programme>
+  <programme start="20260816075955 +0000" stop="20260816085415 +0000" channel="eshragh">
+    <title>در مرز غبارآلود - ۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی و تاریخی (اشراق)</sub-title>
+    <length units="seconds">3260</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260816150315 +0000" stop="20260816160118 +0000" channel="hamoon">
+    <title>25 مرداد 1405</title>
+    <sub-title>مل ترمی (هامون)</sub-title>
+    <length units="seconds">3484</length>
+  </programme>
+  <programme start="20260816060319 +0000" stop="20260816061148 +0000" channel="hamoon">
+    <title>25 مرداد 1405</title>
+    <sub-title>دعای عهد (هامون)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260816121800 +0000" stop="20260816124600 +0000" channel="fars">
+    <title>آیت الله ملک حسینی - 25 مرداد 1405</title>
+    <sub-title>سخنرانی (فارس)</sub-title>
+    <length units="seconds">1694</length>
+  </programme>
+  <programme start="20260816111230 +0000" stop="20260816115200 +0000" channel="fars">
+    <title>25 مرداد 1405</title>
+    <sub-title>نسیم حرم (فارس)</sub-title>
+    <length units="seconds">2364</length>
+  </programme>
+  <programme start="20260816100130 +0000" stop="20260816110110 +0000" channel="fars">
+    <title>25 مرداد 1405</title>
+    <sub-title>کاشانه مهر (فارس)</sub-title>
+    <length units="seconds">3576</length>
+  </programme>
+  <programme start="20260816085900 +0000" stop="20260816092800 +0000" channel="fars">
+    <title>25 مرداد 1405</title>
+    <sub-title>پای کار</sub-title>
+    <length units="seconds">1731</length>
+  </programme>
   <programme start="20260816062100 +0000" stop="20260816064410 +0000" channel="fars">
     <title>25 مرداد 1405</title>
     <sub-title>کوله پشتی (فارس)</sub-title>
@@ -662,6 +1247,31 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260816124850 +0000" stop="20260816132917 +0000" channel="noor">
+    <title>حجت الاسلام تراشیون - 25 مرداد 1405</title>
+    <sub-title>سخنرانی (نور)</sub-title>
+    <length units="seconds">2428</length>
+  </programme>
+  <programme start="20260816123147 +0000" stop="20260816124739 +0000" channel="noor">
+    <title>25 مرداد 1405</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">952</length>
+  </programme>
+  <programme start="20260816100115 +0000" stop="20260816105137 +0000" channel="noor">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دکتر سلام (نور)</sub-title>
+    <length units="seconds">3022</length>
+  </programme>
+  <programme start="20260816061347 +0000" stop="20260816062334 +0000" channel="noor">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>زیارت حضرت معصومه (نور)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260816060451 +0000" stop="20260816061321 +0000" channel="noor">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (نور)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -677,12 +1287,62 @@
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
+  <programme start="20260816105544 +0000" stop="20260816113915 +0000" channel="kish">
+    <title>25 مرداد 1405</title>
+    <sub-title>کیش و زندگی (کیش)</sub-title>
+    <length units="seconds">2603</length>
+  </programme>
+  <programme start="20260816090149 +0000" stop="20260816094912 +0000" channel="kish">
+    <title>25 مرداد 1405</title>
+    <sub-title>پزشک جزیره (کیش)</sub-title>
+    <length units="seconds">2842</length>
+  </programme>
+  <programme start="20260816082635 +0000" stop="20260816090000 +0000" channel="kish">
+    <title>25 مرداد 1405</title>
+    <sub-title>صدای جزیره (کیش)</sub-title>
+    <length units="seconds">2003</length>
+  </programme>
+  <programme start="20260816034308 +0000" stop="20260816035849 +0000" channel="kish">
+    <title>24 مرداد 1405</title>
+    <sub-title>حدیث کساء (کیش)</sub-title>
+    <length units="seconds">940</length>
+  </programme>
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260816100041 +0000" stop="20260816105017 +0000" channel="sabz">
+    <title>25 مرداد 1405</title>
+    <sub-title>پزشک شما (سبز)</sub-title>
+    <length units="seconds">2964</length>
+  </programme>
+  <programme start="20260816080138 +0000" stop="20260816085525 +0000" channel="sabz">
+    <title>25 مرداد 1405</title>
+    <sub-title>صبح عالی (سبز)</sub-title>
+    <length units="seconds">3226</length>
+  </programme>
+  <programme start="20260816032614 +0000" stop="20260816033540 +0000" channel="sabz">
+    <title>25 مرداد 1405</title>
+    <sub-title>تلاوت قرآن (سبز)</sub-title>
+    <length units="seconds">567</length>
+  </programme>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260816115317 +0000" stop="20260816120500 +0000" channel="baran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">703</length>
+  </programme>
+  <programme start="20260816100103 +0000" stop="20260816110256 +0000" channel="baran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3703</length>
+  </programme>
+  <programme start="20260816090033 +0000" stop="20260816095532 +0000" channel="baran">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">3281</length>
+  </programme>
   <programme start="20260816073034 +0000" stop="20260816084535 +0000" channel="baran">
     <title>۲5 مرداد ۱۴۰۵</title>
     <sub-title>صبح تازه</sub-title>
@@ -701,15 +1361,105 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260816115942 +0000" stop="20260816121553 +0000" channel="kordestan">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>به ره و رووناکی (کردستان)</sub-title>
+    <length units="seconds">972</length>
+  </programme>
+  <programme start="20260816103402 +0000" stop="20260816105459 +0000" channel="kordestan">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>ژیانی لادی (کردستان)</sub-title>
+    <length units="seconds">1258</length>
+  </programme>
+  <programme start="20260816102924 +0000" stop="20260816103400 +0000" channel="kordestan">
+    <title>میخک - ۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>نماهنگ (کردستان)</sub-title>
+    <length units="seconds">276</length>
+  </programme>
+  <programme start="20260816085934 +0000" stop="20260816095402 +0000" channel="kordestan">
+    <title>۲۵ مرداد ۱۴۰۵</title>
+    <sub-title>روژمان (کردستان)</sub-title>
+    <length units="seconds">3268</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260816070044 +0000" stop="20260816075544 +0000" channel="tabarestan">
+    <title>25 مرداد 1405</title>
+    <sub-title>صواحی</sub-title>
+    <length units="seconds">3300</length>
+  </programme>
+  <programme start="20260816040606 +0000" stop="20260816041644 +0000" channel="tabarestan">
+    <title>ضیافت وحی - 25 مرداد 1405</title>
+    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
+    <length units="seconds">638</length>
+  </programme>
+  <programme start="20260816035737 +0000" stop="20260816040606 +0000" channel="tabarestan">
+    <title>25 مرداد 1405</title>
+    <sub-title>دعای عهد (تبرستان)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260816151543 +0000" stop="20260816154147 +0000" channel="aftab">
+    <title>ریاضی چهارم ابتدایی - 25 مرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1564</length>
+  </programme>
+  <programme start="20260816145100 +0000" stop="20260816151506 +0000" channel="aftab">
+    <title>فارسی چهارم ابتدایی - 25 مرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1448</length>
+  </programme>
+  <programme start="20260816142639 +0000" stop="20260816145024 +0000" channel="aftab">
+    <title>ریاضی پنجم ابتدایی - 25 مرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1426</length>
+  </programme>
+  <programme start="20260816135527 +0000" stop="20260816142602 +0000" channel="aftab">
+    <title>فارسی پنجم ابتدایی - 25 مرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1761</length>
+  </programme>
+  <programme start="20260816132515 +0000" stop="20260816135434 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 25 مرداد 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1760</length>
+  </programme>
+  <programme start="20260816130000 +0000" stop="20260816132126 +0000" channel="aftab">
+    <title>25 مرداد 1405</title>
+    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
+    <length units="seconds">1286</length>
+  </programme>
+  <programme start="20260816113929 +0000" stop="20260816120702 +0000" channel="aftab">
+    <title>فارسی ششم ابتدایی - ۲5 مرداد ۱۴۰۵</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1654</length>
+  </programme>
+  <programme start="20260816095903 +0000" stop="20260816105200 +0000" channel="aftab">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>12 روی 8 (آفتاب)</sub-title>
+    <length units="seconds">3180</length>
+  </programme>
+  <programme start="20260816093604 +0000" stop="20260816095100 +0000" channel="aftab">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
+    <length units="seconds">896</length>
+  </programme>
+  <programme start="20260816080147 +0000" stop="20260816093457 +0000" channel="aftab">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5590</length>
+  </programme>
+  <programme start="20260816060152 +0000" stop="20260816061144 +0000" channel="aftab">
+    <title>۲5 مرداد ۱۴۰۵</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">592</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -719,6 +1469,31 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260816125735 +0000" stop="20260816125905 +0000" channel="khavaran">
+    <title>25 مرداد 1405</title>
+    <sub-title>با خبرنگاران (خاوران)</sub-title>
+    <length units="seconds">90</length>
+  </programme>
+  <programme start="20260816120000 +0000" stop="20260816125700 +0000" channel="khavaran">
+    <title>25 مرداد 1405</title>
+    <sub-title>سیمای سلامت (خاوران)</sub-title>
+    <length units="seconds">3420</length>
+  </programme>
+  <programme start="20260816110810 +0000" stop="20260816113224 +0000" channel="khavaran">
+    <title>حجت الاسلام رفیعی - 25 مرداد 1405</title>
+    <sub-title>سخنرانی (خاوران)</sub-title>
+    <length units="seconds">1454</length>
+  </programme>
+  <programme start="20260816110000 +0000" stop="20260816110530 +0000" channel="khavaran">
+    <title>25 مرداد 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خاوران)</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20260816094500 +0000" stop="20260816095530 +0000" channel="khavaran">
+    <title>25 مرداد 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">630</length>
+  </programme>
   <programme start="20260816072900 +0000" stop="20260816083444 +0000" channel="khavaran">
     <title>25 مرداد 1405</title>
     <sub-title>صبحانه (خاوران)</sub-title>
