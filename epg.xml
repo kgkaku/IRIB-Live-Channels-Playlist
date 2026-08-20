@@ -3,9 +3,64 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260820135956 +0000" stop="20260820145336 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3220</length>
+  </programme>
+  <programme start="20260820133931 +0000" stop="20260820134307 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260820122014 +0000" stop="20260820123810 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">1076</length>
+  </programme>
+  <programme start="20260820103640 +0000" stop="20260820105653 +0000" channel="tv1">
+    <title>مراسم روز جهانی مسجد - مصلی امام خمینی (ره) شهرکرد - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 1)</sub-title>
+    <length units="seconds">1212</length>
+  </programme>
+  <programme start="20260820100135 +0000" stop="20260820103559 +0000" channel="tv1">
+    <title>تاریخ در تکرار - 29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (شبکه 1)</sub-title>
+    <length units="seconds">2062</length>
+  </programme>
+  <programme start="20260820090001 +0000" stop="20260820095549 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">3348</length>
+  </programme>
+  <programme start="20260820075957 +0000" stop="20260820083025 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260820075810 +0000" stop="20260820075955 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>صلوات خاصه امام رضا (ع)</sub-title>
+    <length units="seconds">106</length>
+  </programme>
+  <programme start="20260820060420 +0000" stop="20260820075523 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">6408</length>
+  </programme>
+  <programme start="20260820032445 +0000" stop="20260820041135 +0000" channel="tv1">
+    <title>29 مرداد 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">2808</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260820122548 +0000" stop="20260820134805 +0000" channel="tv2">
+    <title>29 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">4874</length>
+  </programme>
   <programme start="20260820070047 +0000" stop="20260820095630 +0000" channel="tv2">
     <title>29 مرداد 1405</title>
     <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
@@ -24,6 +79,21 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260820130213 +0000" stop="20260820135630 +0000" channel="tv3">
+    <title>29 مرداد 1405 - حجت الاسلام والمسلمین عاملی </title>
+    <sub-title>سمت خدا 1405</sub-title>
+    <length units="seconds">3256</length>
+  </programme>
+  <programme start="20260820123656 +0000" stop="20260820125657 +0000" channel="tv3">
+    <title>پیشنهاد سرآشپز -  لازانیا</title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">1202</length>
+  </programme>
+  <programme start="20260820120211 +0000" stop="20260820122037 +0000" channel="tv3">
+    <title>29 مرداد 1405 - بخش 1</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">1104</length>
+  </programme>
   <programme start="20260820094259 +0000" stop="20260820095052 +0000" channel="tv3">
     <title>اجتماع بزرگ مسجدی ها - 29 مرداد 1405</title>
     <sub-title>برنامه اجتماعی (شبکه 3)</sub-title>
@@ -62,6 +132,11 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260820150330 +0000" stop="20260820155659 +0000" channel="tv4">
+    <title>29 مرداد 1405</title>
+    <sub-title>ایران ما (شبکه 4)</sub-title>
+    <length units="seconds">3209</length>
+  </programme>
   <programme start="20260820061425 +0000" stop="20260820064623 +0000" channel="tv4">
     <title>29 مرداد 1405</title>
     <sub-title>سحاب رحمت</sub-title>
@@ -80,74 +155,14 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260820110837 +0000" stop="20260820114103 +0000" channel="nasim">
+    <title>29 مرداد 1405  </title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">1946</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
-  <programme start="20260820100031 +0000" stop="20260820101008 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 10:00 </sub-title>
-    <length units="seconds">578</length>
-  </programme>
-  <programme start="20260820093016 +0000" stop="20260820094237 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
-    <length units="seconds">740</length>
-  </programme>
-  <programme start="20260820091050 +0000" stop="20260820092854 +0000" channel="irinn">
-    <title>29 مرداد 1405 - احسان صالحی</title>
-    <sub-title>نبرد هرمز</sub-title>
-    <length units="seconds">1084</length>
-  </programme>
-  <programme start="20260820090016 +0000" stop="20260820091048 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">632</length>
-  </programme>
-  <programme start="20260820083041 +0000" stop="20260820085838 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">1678</length>
-  </programme>
-  <programme start="20260820080001 +0000" stop="20260820083030 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1830</length>
-  </programme>
-  <programme start="20260820073438 +0000" stop="20260820075551 +0000" channel="irinn">
-    <title>29 مرداد 1405 - مجد</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">1272</length>
-  </programme>
-  <programme start="20260820073006 +0000" stop="20260820073431 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">264</length>
-  </programme>
-  <programme start="20260820071118 +0000" stop="20260820073003 +0000" channel="irinn">
-    <title>29 مرداد 1405 - صفر نجات</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">1124</length>
-  </programme>
-  <programme start="20260820070014 +0000" stop="20260820071116 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">662</length>
-  </programme>
-  <programme start="20260820060014 +0000" stop="20260820060917 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">542</length>
-  </programme>
-  <programme start="20260820050015 +0000" stop="20260820050937 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">562</length>
-  </programme>
-  <programme start="20260820040013 +0000" stop="20260820040929 +0000" channel="irinn">
-    <title>29 مرداد 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">558</length>
-  </programme>
   <programme start="20260820030014 +0000" stop="20260820031033 +0000" channel="irinn">
     <title>29 مرداد 1405</title>
     <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
@@ -177,6 +192,16 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260820084134 +0000" stop="20260820084523 +0000" channel="pooya">
+    <title>قسمت 90</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260820082621 +0000" stop="20260820082920 +0000" channel="pooya">
+    <title>29 مرداد 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">180</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -186,6 +211,11 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260820125347 +0000" stop="20260820131830 +0000" channel="tehran">
+    <title>29 مرداد 1405  </title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">1482</length>
+  </programme>
   <programme start="20260820070007 +0000" stop="20260820090005 +0000" channel="tehran">
     <title>29 مرداد 1405</title>
     <sub-title>سلام تهران 1405</sub-title>
@@ -212,57 +242,137 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260820153118 +0000" stop="20260820160021 +0000" channel="quran">
+    <title>ببر زنده - 29 مرداد 1405  </title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">1744</length>
+  </programme>
+  <programme start="20260820151706 +0000" stop="20260820153014 +0000" channel="quran">
+    <title>راغب مصطفی غلوش - 29 مرداد 1405  </title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">788</length>
+  </programme>
+  <programme start="20260820151145 +0000" stop="20260820151703 +0000" channel="quran">
+    <title>29 مرداد 1405  </title>
+    <sub-title>اسوه حسنه</sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20260820140048 +0000" stop="20260820145521 +0000" channel="quran">
+    <title>29 مرداد 1405  </title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">3274</length>
+  </programme>
+  <programme start="20260820114743 +0000" stop="20260820120750 +0000" channel="quran">
+    <title>ارتباط مستقیم با حرم طهر - 29 مرداد 1405  </title>
+    <sub-title>برنامه مذهبی (قرآن)</sub-title>
+    <length units="seconds">1206</length>
+  </programme>
+  <programme start="20260820085015 +0000" stop="20260820111546 +0000" channel="quran">
+    <title>همایش جایگاه و کارکرد علوم اسللمی - 29 مرداد 1405   - بخش 2</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">8730</length>
+  </programme>
+  <programme start="20260820081334 +0000" stop="20260820085015 +0000" channel="quran">
+    <title>همایش جایگاه و کارکرد علوم اسللمی - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">2202</length>
+  </programme>
+  <programme start="20260820080600 +0000" stop="20260820081315 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>زندگی روشن</sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20260820080037 +0000" stop="20260820080557 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>اسوه حسنه</sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260820072503 +0000" stop="20260820080003 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">2100</length>
+  </programme>
+  <programme start="20260820065709 +0000" stop="20260820071124 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">856</length>
+  </programme>
+  <programme start="20260820053340 +0000" stop="20260820060104 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1644</length>
+  </programme>
+  <programme start="20260820042955 +0000" stop="20260820053306 +0000" channel="quran">
+    <title>جز 29 - 29 مرداد 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3790</length>
+  </programme>
+  <programme start="20260820042619 +0000" stop="20260820042955 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260820041907 +0000" stop="20260820042619 +0000" channel="quran">
+    <title>صفحه 122 - 29 مرداد 1405</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">432</length>
+  </programme>
+  <programme start="20260820024952 +0000" stop="20260820030259 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">786</length>
+  </programme>
+  <programme start="20260820023520 +0000" stop="20260820024725 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">724</length>
+  </programme>
+  <programme start="20260820022159 +0000" stop="20260820023455 +0000" channel="quran">
+    <title>29 مرداد 1405</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">776</length>
+  </programme>
+  <programme start="20260820005954 +0000" stop="20260820020949 +0000" channel="quran">
+    <title>جز 29 - 29 مرداد 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">4194</length>
+  </programme>
+  <programme start="20260820001208 +0000" stop="20260820005339 +0000" channel="quran">
+    <title>صد قافله دل - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">2490</length>
+  </programme>
+  <programme start="20260820000233 +0000" stop="20260820001143 +0000" channel="quran">
+    <title>سوره مطففین آیات 14 تا 16 - 29 مرداد 1405</title>
+    <sub-title>پویش حفظ جزء ۳۰ قرآن کریم </sub-title>
+    <length units="seconds">550</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
-  <programme start="20260820093745 +0000" stop="20260820095432 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>شبکه ماه </sub-title>
-    <length units="seconds">1008</length>
-  </programme>
-  <programme start="20260820092222 +0000" stop="20260820093303 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>ده دقیقه </sub-title>
-    <length units="seconds">641</length>
-  </programme>
-  <programme start="20260820090045 +0000" stop="20260820092021 +0000" channel="amouzesh">
-    <title>صابون سازی سنتی - 29 مرداد 1405</title>
-    <sub-title>شبکه ماه </sub-title>
-    <length units="seconds">1176</length>
-  </programme>
-  <programme start="20260820062238 +0000" stop="20260820064300 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>ورزش و مهارت</sub-title>
-    <length units="seconds">1222</length>
-  </programme>
-  <programme start="20260820060225 +0000" stop="20260820062227 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>پویآموز </sub-title>
-    <length units="seconds">1203</length>
-  </programme>
-  <programme start="20260820051511 +0000" stop="20260820055506 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>خشت بهشت (آموزش)</sub-title>
-    <length units="seconds">2395</length>
-  </programme>
-  <programme start="20260820034105 +0000" stop="20260820034841 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>مواهب (آموزش)</sub-title>
-    <length units="seconds">456</length>
-  </programme>
-  <programme start="20260820013055 +0000" stop="20260820020018 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>بیا بریم سفر</sub-title>
-    <length units="seconds">1763</length>
-  </programme>
-  <programme start="20260820005050 +0000" stop="20260820012617 +0000" channel="amouzesh">
-    <title>29 مرداد 1405</title>
-    <sub-title>باشگاه تولید</sub-title>
-    <length units="seconds">2127</length>
-  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260820145636 +0000" stop="20260820150659 +0000" channel="salamat">
+    <title>29 مرداد 1405  </title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">622</length>
+  </programme>
+  <programme start="20260820131705 +0000" stop="20260820132658 +0000" channel="salamat">
+    <title>29 مرداد 1405  </title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">592</length>
+  </programme>
+  <programme start="20260820105722 +0000" stop="20260820111033 +0000" channel="salamat">
+    <title>29 مرداد 1405  </title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">791</length>
+  </programme>
+  <programme start="20260820090052 +0000" stop="20260820094528 +0000" channel="salamat">
+    <title>29 مرداد 1405  </title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2676</length>
+  </programme>
   <programme start="20260820082802 +0000" stop="20260820085041 +0000" channel="salamat">
     <title>29 مرداد 1405</title>
     <sub-title>ایران فعال </sub-title>
@@ -276,6 +386,16 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260820121453 +0000" stop="20260820131200 +0000" channel="ofogh">
+    <title>29 مرداد 1405</title>
+    <sub-title>روشنا (افق)</sub-title>
+    <length units="seconds">3426</length>
+  </programme>
+  <programme start="20260820100053 +0000" stop="20260820105431 +0000" channel="ofogh">
+    <title>29 مرداد 1405</title>
+    <sub-title>انارستان</sub-title>
+    <length units="seconds">3218</length>
+  </programme>
   <programme start="20260820090833 +0000" stop="20260820094536 +0000" channel="ofogh">
     <title>اجتماع بزرگ مسجدی ها- 29 مرداد 1405</title>
     <sub-title>برنامه اجتماعی (افق)</sub-title>
@@ -305,6 +425,26 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260820141323 +0000" stop="20260820155720 +0000" channel="irinn2">
+    <title>مراسم افتتاح برخط طرح های هفته دولت با حضور وزیر جهاد کشاورزی - 29 مرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">6238</length>
+  </programme>
+  <programme start="20260820140025 +0000" stop="20260820140405 +0000" channel="irinn2">
+    <title>29 مرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">220</length>
+  </programme>
+  <programme start="20260820110900 +0000" stop="20260820120806 +0000" channel="irinn2">
+    <title>آیین روز جهانی مسجد - 29 مرداد 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3546</length>
+  </programme>
+  <programme start="20260820092842 +0000" stop="20260820101313 +0000" channel="irinn2">
+    <title>اجتماع بزرگ مسجدی ها - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خبر ۲)</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
@@ -351,18 +491,118 @@
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260820103617 +0000" stop="20260820113146 +0000" channel="bushehr">
+    <title>مراسم تجلیل از آزادگان هشت دفاع مقدس - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">3315</length>
+  </programme>
+  <programme start="20260820080019 +0000" stop="20260820090007 +0000" channel="bushehr">
+    <title>مستند اقیانوسی استرالیا - 29 مرداد 1405</title>
+    <sub-title>برنامه علمی</sub-title>
+    <length units="seconds">3577</length>
+  </programme>
+  <programme start="20260820060814 +0000" stop="20260820064001 +0000" channel="bushehr">
+    <title>29 مرداد 1405</title>
+    <sub-title>صهبای تسنیم </sub-title>
+    <length units="seconds">1872</length>
+  </programme>
+  <programme start="20260820044429 +0000" stop="20260820055837 +0000" channel="bushehr">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (بوشهر)</sub-title>
+    <length units="seconds">4413</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260820110126 +0000" stop="20260820120056 +0000" channel="abadan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">3570</length>
+  </programme>
+  <programme start="20260820074046 +0000" stop="20260820082324 +0000" channel="abadan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (آبادان)</sub-title>
+    <length units="seconds">2556</length>
+  </programme>
+  <programme start="20260820045030 +0000" stop="20260820052456 +0000" channel="abadan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (آبادان)</sub-title>
+    <length units="seconds">2065</length>
+  </programme>
+  <programme start="20260820033122 +0000" stop="20260820041559 +0000" channel="abadan">
+    <title>سعادتمندان - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">2675</length>
+  </programme>
+  <programme start="20260820021404 +0000" stop="20260820032442 +0000" channel="abadan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (آبادان)</sub-title>
+    <length units="seconds">4238</length>
+  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260820121709 +0000" stop="20260820131200 +0000" channel="khorasanrazavi">
+    <title>29 مرداد 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3290</length>
+  </programme>
+  <programme start="20260820120757 +0000" stop="20260820121709 +0000" channel="khorasanrazavi">
+    <title>حجت الاسلام یعقوبی - 29 مرداد 1405</title>
+    <sub-title>سخنرانی (خراسان رضوی)</sub-title>
+    <length units="seconds">552</length>
+  </programme>
+  <programme start="20260820105826 +0000" stop="20260820110619 +0000" channel="khorasanrazavi">
+    <title>بند بند خاطره ها - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">474</length>
+  </programme>
+  <programme start="20260820103022 +0000" stop="20260820104006 +0000" channel="khorasanrazavi">
+    <title>29 مرداد 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20260820095629 +0000" stop="20260820103017 +0000" channel="khorasanrazavi">
+    <title>29 مرداد 1405</title>
+    <sub-title>ترنم آبادی</sub-title>
+    <length units="seconds">2028</length>
+  </programme>
+  <programme start="20260820092822 +0000" stop="20260820094500 +0000" channel="khorasanrazavi">
+    <title>جایگاه و کارگرد علوم اسلامی - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">998</length>
+  </programme>
+  <programme start="20260820074335 +0000" stop="20260820082136 +0000" channel="khorasanrazavi">
+    <title>آیین بهره برداری از دوربرگردان غیر همسطح شرقی ابوطالب - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">2280</length>
+  </programme>
+  <programme start="20260820063139 +0000" stop="20260820073617 +0000" channel="khorasanrazavi">
+    <title>29 مرداد 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3878</length>
+  </programme>
+  <programme start="20260820060223 +0000" stop="20260820062931 +0000" channel="khorasanrazavi">
+    <title>29 مرداد 1405</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">1628</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260820105956 +0000" stop="20260820111640 +0000" channel="atrak">
+    <title>29 مرداد 1405</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">1004</length>
+  </programme>
+  <programme start="20260820095813 +0000" stop="20260820105224 +0000" channel="atrak">
+    <title>کهن پیشه ها - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">3238</length>
+  </programme>
   <programme start="20260820034145 +0000" stop="20260820035128 +0000" channel="atrak">
     <title>29 مرداد 1405</title>
     <sub-title>دعای عهد (اترک)</sub-title>
@@ -379,6 +619,21 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260820120822 +0000" stop="20260820121419 +0000" channel="khoozestan">
+    <title>29 مرداد 1405</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20260820110056 +0000" stop="20260820120030 +0000" channel="khoozestan">
+    <title>29 مرداد 1405</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">3575</length>
+  </programme>
+  <programme start="20260820085934 +0000" stop="20260820095430 +0000" channel="khoozestan">
+    <title>دشمن ملت ها - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">3284</length>
+  </programme>
   <programme start="20260820082250 +0000" stop="20260820085629 +0000" channel="khoozestan">
     <title>29 مرداد 1405</title>
     <sub-title>رنگین کمان (خوزستان)</sub-title>
@@ -432,9 +687,59 @@
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260820060114 +0000" stop="20260820061126 +0000" channel="eshragh">
+    <title>29 مرداد 1405</title>
+    <sub-title>دعای عهد (اشراق)</sub-title>
+    <length units="seconds">612</length>
+  </programme>
+  <programme start="20260820043523 +0000" stop="20260820050508 +0000" channel="eshragh">
+    <title>امین فارسی - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">1784</length>
+  </programme>
+  <programme start="20260820034505 +0000" stop="20260820034900 +0000" channel="eshragh">
+    <title>29 مرداد 1405</title>
+    <sub-title>تقویم عزت (اشراق)</sub-title>
+    <length units="seconds">234</length>
+  </programme>
+  <programme start="20260820033147 +0000" stop="20260820034454 +0000" channel="eshragh">
+    <title>29 مرداد 1405</title>
+    <sub-title>نگاتیو</sub-title>
+    <length units="seconds">786</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
+  <programme start="20260820080135 +0000" stop="20260820084415 +0000" channel="semnan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
+    <length units="seconds">2558</length>
+  </programme>
+  <programme start="20260820062943 +0000" stop="20260820071528 +0000" channel="semnan">
+    <title>آن یار سفر کرده - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
+    <length units="seconds">2733</length>
+  </programme>
+  <programme start="20260820042750 +0000" stop="20260820053016 +0000" channel="semnan">
+    <title>29 مرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (سمنان)</sub-title>
+    <length units="seconds">3746</length>
+  </programme>
+  <programme start="20260820032709 +0000" stop="20260820040904 +0000" channel="semnan">
+    <title>29 مرداد 1405</title>
+    <sub-title>تا فلق (سمنان)</sub-title>
+    <length units="seconds">2501</length>
+  </programme>
+  <programme start="20260820025759 +0000" stop="20260820032707 +0000" channel="semnan">
+    <title>نیمه پنهان ماه - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
+    <length units="seconds">1749</length>
+  </programme>
+  <programme start="20260820002550 +0000" stop="20260820010445 +0000" channel="semnan">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (سمنان)</sub-title>
+    <length units="seconds">2322</length>
+  </programme>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
@@ -444,6 +749,36 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260820054340 +0000" stop="20260820055249 +0000" channel="qazvin">
+    <title>29 مرداد 1405</title>
+    <sub-title>مواهب (قزوین)</sub-title>
+    <length units="seconds">549</length>
+  </programme>
+  <programme start="20260820041601 +0000" stop="20260820052006 +0000" channel="qazvin">
+    <title>29 مرداد 1405</title>
+    <sub-title>تلاوت نور</sub-title>
+    <length units="seconds">3834</length>
+  </programme>
+  <programme start="20260820032731 +0000" stop="20260820034759 +0000" channel="qazvin">
+    <title>29 مرداد 1405</title>
+    <sub-title>دل افروزان (قزوین)</sub-title>
+    <length units="seconds">1228</length>
+  </programme>
+  <programme start="20260820023135 +0000" stop="20260820031349 +0000" channel="qazvin">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">2510</length>
+  </programme>
+  <programme start="20260820003922 +0000" stop="20260820011020 +0000" channel="qazvin">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (قزوین)</sub-title>
+    <length units="seconds">1848</length>
+  </programme>
+  <programme start="20260820000644 +0000" stop="20260820003620 +0000" channel="qazvin">
+    <title>مستند ایران قم - 29 مرداد 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (قزوین)</sub-title>
+    <length units="seconds">1776</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
@@ -468,6 +803,56 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260820124658 +0000" stop="20260820130354 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>روزگاری ایران (باران)</sub-title>
+    <length units="seconds">1016</length>
+  </programme>
+  <programme start="20260820105251 +0000" stop="20260820121233 +0000" channel="baran">
+    <title>مراسم اربعین رهبر مجاهد شهید - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">4782</length>
+  </programme>
+  <programme start="20260820090023 +0000" stop="20260820095540 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>رادیو شهر ما (باران)</sub-title>
+    <length units="seconds">3317</length>
+  </programme>
+  <programme start="20260820060832 +0000" stop="20260820063549 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>حدیث سرو</sub-title>
+    <length units="seconds">1624</length>
+  </programme>
+  <programme start="20260820055353 +0000" stop="20260820060342 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>صبح ظهور (باران)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260820043832 +0000" stop="20260820055117 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">4365</length>
+  </programme>
+  <programme start="20260820042711 +0000" stop="20260820043706 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">595</length>
+  </programme>
+  <programme start="20260820041828 +0000" stop="20260820042709 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>فراز 1 تا 21 دعای 47 صحیفه سجادیه</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260820033508 +0000" stop="20260820034825 +0000" channel="baran">
+    <title>29 مرداد 1405</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">798</length>
+  </programme>
+  <programme start="20260820021244 +0000" stop="20260820025330 +0000" channel="baran">
+    <title>اروپا از بالا - 29 مرداد 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (باران)</sub-title>
+    <length units="seconds">2434</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
@@ -480,6 +865,31 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260820144704 +0000" stop="20260820151721 +0000" channel="aftab">
+    <title>ریاضی چهارم - 29 مرداد 1405</title>
+    <sub-title>الف (آفتاب)</sub-title>
+    <length units="seconds">1816</length>
+  </programme>
+  <programme start="20260820142222 +0000" stop="20260820144610 +0000" channel="aftab">
+    <title>ریاضی پنجم ابتدایی - 29 مرداد 1405</title>
+    <sub-title>الف (آفتاب)</sub-title>
+    <length units="seconds">1359</length>
+  </programme>
+  <programme start="20260820134943 +0000" stop="20260820142152 +0000" channel="aftab">
+    <title>فارسی پنجم ابتدایی - 29 مرداد 1405</title>
+    <sub-title>الف (آفتاب)</sub-title>
+    <length units="seconds">1928</length>
+  </programme>
+  <programme start="20260820131921 +0000" stop="20260820134907 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 29 مرداد 1405</title>
+    <sub-title>الف (آفتاب)</sub-title>
+    <length units="seconds">1786</length>
+  </programme>
+  <programme start="20260820113835 +0000" stop="20260820120840 +0000" channel="aftab">
+    <title>فارسی ششم ابتدایی - 29 مرداد 1405</title>
+    <sub-title>الف (آفتاب)</sub-title>
+    <length units="seconds">1804</length>
+  </programme>
   <programme start="20260820093756 +0000" stop="20260820095001 +0000" channel="aftab">
     <title>29 مرداد 1405 - بخش 2</title>
     <sub-title>فضای مجازی صدا و سیمای استان مرکزی</sub-title>
@@ -536,6 +946,31 @@
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20260820064743 +0000" stop="20260820065630 +0000" channel="sina">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه مذهبی (همدان)</sub-title>
+    <length units="seconds">527</length>
+  </programme>
+  <programme start="20260820060335 +0000" stop="20260820064641 +0000" channel="sina">
+    <title>29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">2586</length>
+  </programme>
+  <programme start="20260820053236 +0000" stop="20260820055841 +0000" channel="sina">
+    <title>29 مرداد 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">1565</length>
+  </programme>
+  <programme start="20260820043059 +0000" stop="20260820053213 +0000" channel="sina">
+    <title>29 مرداد 1405</title>
+    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
+    <length units="seconds">3673</length>
+  </programme>
+  <programme start="20260820031503 +0000" stop="20260820032924 +0000" channel="sina">
+    <title>جهان گرد - 29 مرداد 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">860</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
