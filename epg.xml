@@ -3,9 +3,99 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260831140012 +0000" stop="20260831150046 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3632</length>
+  </programme>
+  <programme start="20260831124521 +0000" stop="20260831133254 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>سیمای خانواده 1405</sub-title>
+    <length units="seconds">2584</length>
+  </programme>
+  <programme start="20260831121722 +0000" stop="20260831123053 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">812</length>
+  </programme>
+  <programme start="20260831115911 +0000" stop="20260831115958 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">48</length>
+  </programme>
+  <programme start="20260831115547 +0000" stop="20260831115907 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260831090019 +0000" stop="20260831105533 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">6692</length>
+  </programme>
+  <programme start="20260831080022 +0000" stop="20260831083015 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1792</length>
+  </programme>
+  <programme start="20260831060518 +0000" stop="20260831075404 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">6190</length>
+  </programme>
+  <programme start="20260831042743 +0000" stop="20260831045518 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>بی کرانه (شبکه ۱)</sub-title>
+    <length units="seconds">1656</length>
+  </programme>
+  <programme start="20260831033720 +0000" stop="20260831035828 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">1266</length>
+  </programme>
+  <programme start="20260831025005 +0000" stop="20260831033620 +0000" channel="tv1">
+    <title>9 شهریور 1405</title>
+    <sub-title>قرآن و جامعه (رمضان 1404)</sub-title>
+    <length units="seconds">2776</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260831144635 +0000" stop="20260831145107 +0000" channel="tv2">
+    <title>کاروانسرا شاه عباسی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (شبکه 2)</sub-title>
+    <length units="seconds">272</length>
+  </programme>
+  <programme start="20260831142720 +0000" stop="20260831144634 +0000" channel="tv2">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1154</length>
+  </programme>
+  <programme start="20260831142013 +0000" stop="20260831142332 +0000" channel="tv2">
+    <title>روستای طرزک - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (شبکه 2)</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260831140307 +0000" stop="20260831142011 +0000" channel="tv2">
+    <title>بعثت واژه ها - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">1024</length>
+  </programme>
+  <programme start="20260831132804 +0000" stop="20260831135831 +0000" channel="tv2">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260831122638 +0000" stop="20260831132753 +0000" channel="tv2">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">3574</length>
+  </programme>
+  <programme start="20260831070037 +0000" stop="20260831095324 +0000" channel="tv2">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">9826</length>
+  </programme>
   <programme start="20260831065001 +0000" stop="20260831065400 +0000" channel="tv2">
     <title>آخرین بهانه - ۹ شهریور ۱۴۰۵</title>
     <sub-title>نماهنگ (شبکه 2)</sub-title>
@@ -57,6 +147,16 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260831150045 +0000" stop="20260831155103 +0000" channel="tv4">
+    <title>9 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه 4)</sub-title>
+    <length units="seconds">3018</length>
+  </programme>
+  <programme start="20260831115701 +0000" stop="20260831120032 +0000" channel="tv4">
+    <title>9 شهریور 1405 - بخش 2</title>
+    <sub-title>زلال اندیشه 1405 (شبکه ۴)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
   <programme start="20260831061744 +0000" stop="20260831065150 +0000" channel="tv4">
     <title>9 شهریور 1405</title>
     <sub-title>سحاب رحمت</sub-title>
@@ -85,9 +185,189 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260831110208 +0000" stop="20260831115032 +0000" channel="nasim">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2904</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260831155957 +0000" stop="20260831160930 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 16:00 </sub-title>
+    <length units="seconds">572</length>
+  </programme>
+  <programme start="20260831150033 +0000" stop="20260831155956 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>میز اقتصاد (خبر)</sub-title>
+    <length units="seconds">3554</length>
+  </programme>
+  <programme start="20260831140001 +0000" stop="20260831150028 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3628</length>
+  </programme>
+  <programme start="20260831133013 +0000" stop="20260831135455 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1482</length>
+  </programme>
+  <programme start="20260831132711 +0000" stop="20260831132940 +0000" channel="irinn">
+    <title>چرا اردن؟ - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>روایت اصابت</sub-title>
+    <length units="seconds">150</length>
+  </programme>
+  <programme start="20260831130853 +0000" stop="20260831132703 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - حمیدرضا حاجی بابایی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1090</length>
+  </programme>
+  <programme start="20260831130017 +0000" stop="20260831130848 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">512</length>
+  </programme>
+  <programme start="20260831124516 +0000" stop="20260831125810 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">774</length>
+  </programme>
+  <programme start="20260831123017 +0000" stop="20260831123453 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">276</length>
+  </programme>
+  <programme start="20260831121307 +0000" stop="20260831122750 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>وفاق ملی</sub-title>
+    <length units="seconds">884</length>
+  </programme>
+  <programme start="20260831120016 +0000" stop="20260831121304 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">596</length>
+  </programme>
+  <programme start="20260831113339 +0000" stop="20260831115847 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1508</length>
+  </programme>
+  <programme start="20260831113013 +0000" stop="20260831113315 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260831110944 +0000" stop="20260831112855 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - مجید عباسی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1150</length>
+  </programme>
+  <programme start="20260831110014 +0000" stop="20260831110940 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">566</length>
+  </programme>
+  <programme start="20260831103011 +0000" stop="20260831103517 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260831101000 +0000" stop="20260831102906 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1146</length>
+  </programme>
+  <programme start="20260831100012 +0000" stop="20260831100959 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">586</length>
+  </programme>
+  <programme start="20260831093011 +0000" stop="20260831094119 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">668</length>
+  </programme>
+  <programme start="20260831091004 +0000" stop="20260831092849 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - حسین کنعانی مقدم</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1124</length>
+  </programme>
+  <programme start="20260831090010 +0000" stop="20260831090959 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260831085725 +0000" stop="20260831090007 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>راه</sub-title>
+    <length units="seconds">160</length>
+  </programme>
+  <programme start="20260831085431 +0000" stop="20260831085722 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۲</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260831083418 +0000" stop="20260831085429 +0000" channel="irinn">
+    <title>عوامل اصلی تهدید جنگل و راه‌های مقابله با آن - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1210</length>
+  </programme>
+  <programme start="20260831082957 +0000" stop="20260831083414 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان</sub-title>
+    <length units="seconds">258</length>
+  </programme>
+  <programme start="20260831080000 +0000" stop="20260831082952 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1792</length>
+  </programme>
+  <programme start="20260831075710 +0000" stop="20260831075935 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">144</length>
+  </programme>
+  <programme start="20260831074918 +0000" stop="20260831075710 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - رضا معممی مقدم</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260831074354 +0000" stop="20260831074918 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - سید محمدتقی آقایان</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">324</length>
+  </programme>
+  <programme start="20260831073939 +0000" stop="20260831074353 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۲</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">254</length>
+  </programme>
+  <programme start="20260831073402 +0000" stop="20260831073937 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - فرامرز حربری مقدم</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">334</length>
+  </programme>
+  <programme start="20260831073013 +0000" stop="20260831073401 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260831072320 +0000" stop="20260831073007 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - خادم جعفری</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">406</length>
+  </programme>
+  <programme start="20260831071120 +0000" stop="20260831072318 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵ - مهدی ضیایی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">718</length>
+  </programme>
+  <programme start="20260831070009 +0000" stop="20260831071114 +0000" channel="irinn">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">666</length>
+  </programme>
   <programme start="20260831060009 +0000" stop="20260831061129 +0000" channel="irinn">
     <title>9 شهریور 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -131,6 +411,36 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260831154558 +0000" stop="20260831155608 +0000" channel="varzesh">
+    <title>گل های برتر لائوتارو مارتینز - 9 شهریور 1405</title>
+    <sub-title>توی دروازه</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260831150021 +0000" stop="20260831151359 +0000" channel="varzesh">
+    <title>9 شهریور 1405</title>
+    <sub-title>وقت استراحت (ورزش)</sub-title>
+    <length units="seconds">818</length>
+  </programme>
+  <programme start="20260831142757 +0000" stop="20260831145301 +0000" channel="varzesh">
+    <title>9 شهریور 1405</title>
+    <sub-title>مستند رالی قهرمانی جهان</sub-title>
+    <length units="seconds">1504</length>
+  </programme>
+  <programme start="20260831105359 +0000" stop="20260831115450 +0000" channel="varzesh">
+    <title>9 شهریور 1405</title>
+    <sub-title>کاپیتان</sub-title>
+    <length units="seconds">3498</length>
+  </programme>
+  <programme start="20260831100007 +0000" stop="20260831104105 +0000" channel="varzesh">
+    <title>9 شهریور 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">2458</length>
+  </programme>
+  <programme start="20260831075229 +0000" stop="20260831085045 +0000" channel="varzesh">
+    <title>9 شهریور 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">3348</length>
+  </programme>
   <programme start="20260831060144 +0000" stop="20260831063133 +0000" channel="varzesh">
     <title>9 شهریور 1405</title>
     <sub-title>پهلوون</sub-title>
@@ -151,16 +461,226 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260831151018 +0000" stop="20260831153339 +0000" channel="tehran">
+    <title>9 شهریور 1405</title>
+    <sub-title>دلبرونه </sub-title>
+    <length units="seconds">1402</length>
+  </programme>
+  <programme start="20260831123237 +0000" stop="20260831132719 +0000" channel="tehran">
+    <title>9 شهریور 1405</title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">3282</length>
+  </programme>
+  <programme start="20260831100529 +0000" stop="20260831105747 +0000" channel="tehran">
+    <title>مستند آکو به سوی یهشت - 9 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه تهران)</sub-title>
+    <length units="seconds">3138</length>
+  </programme>
+  <programme start="20260831070017 +0000" stop="20260831085927 +0000" channel="tehran">
+    <title>9 شهریور 1405</title>
+    <sub-title>سلام تهران 1405</sub-title>
+    <length units="seconds">6742</length>
+  </programme>
+  <programme start="20260831063115 +0000" stop="20260831065612 +0000" channel="tehran">
+    <title>9 شهریور 1405</title>
+    <sub-title>شهر امن </sub-title>
+    <length units="seconds">1498</length>
+  </programme>
+  <programme start="20260831005433 +0000" stop="20260831014636 +0000" channel="tehran">
+    <title>استوا از آسمان - 9 شهریور 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">3124</length>
+  </programme>
+  <programme start="20260831000133 +0000" stop="20260831004553 +0000" channel="tehran">
+    <title>9 شهریور 1405</title>
+    <sub-title>مسابقه پنج ستاره</sub-title>
+    <length units="seconds">2660</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260831155642 +0000" stop="20260831155847 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مکتب (قرآن)</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20260831140110 +0000" stop="20260831145652 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">3342</length>
+  </programme>
+  <programme start="20260831130110 +0000" stop="20260831140027 +0000" channel="quran">
+    <title>جزء ۹ - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3556</length>
+  </programme>
+  <programme start="20260831114509 +0000" stop="20260831115357 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20260831114153 +0000" stop="20260831114449 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">176</length>
+  </programme>
+  <programme start="20260831103148 +0000" stop="20260831114112 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">4164</length>
+  </programme>
+  <programme start="20260831095024 +0000" stop="20260831095819 +0000" channel="quran">
+    <title>مرد بهتره یا زن - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>نوجواب (فصل دوم)</sub-title>
+    <length units="seconds">476</length>
+  </programme>
+  <programme start="20260831083409 +0000" stop="20260831084109 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>تجوید قرآن (قرائت صحیح)</sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20260831081421 +0000" stop="20260831082208 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>طب سنتی (قرآن)</sub-title>
+    <length units="seconds">466</length>
+  </programme>
+  <programme start="20260831080906 +0000" stop="20260831081401 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>زندگی روشن</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260831080005 +0000" stop="20260831080749 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مکتب رهبر شهید</sub-title>
+    <length units="seconds">464</length>
+  </programme>
+  <programme start="20260831075640 +0000" stop="20260831080005 +0000" channel="quran">
+    <title>مکتب قزوین - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (قرآن)</sub-title>
+    <length units="seconds">206</length>
+  </programme>
+  <programme start="20260831071932 +0000" stop="20260831075633 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">2222</length>
+  </programme>
+  <programme start="20260831071011 +0000" stop="20260831071848 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دعای عهد (قرآن)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
+  <programme start="20260831070554 +0000" stop="20260831071009 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260831064902 +0000" stop="20260831070449 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">948</length>
+  </programme>
+  <programme start="20260831063354 +0000" stop="20260831064638 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">764</length>
+  </programme>
+  <programme start="20260831061811 +0000" stop="20260831063205 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">834</length>
+  </programme>
+  <programme start="20260831061041 +0000" stop="20260831061803 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">442</length>
+  </programme>
+  <programme start="20260831053702 +0000" stop="20260831060536 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1714</length>
+  </programme>
+  <programme start="20260831043821 +0000" stop="20260831053357 +0000" channel="quran">
+    <title>جزء ۹ - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3336</length>
+  </programme>
+  <programme start="20260831043408 +0000" stop="20260831043816 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260831042707 +0000" stop="20260831043404 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">416</length>
+  </programme>
+  <programme start="20260831042418 +0000" stop="20260831042706 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دعای نادعلی</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260831035448 +0000" stop="20260831040127 +0000" channel="quran">
+    <title>حجت الاسلام موسوی درچه ای - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">400</length>
+  </programme>
+  <programme start="20260831035214 +0000" stop="20260831035432 +0000" channel="quran">
+    <title>شیخ بهایی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (قرآن)</sub-title>
+    <length units="seconds">138</length>
+  </programme>
+  <programme start="20260831034829 +0000" stop="20260831035213 +0000" channel="quran">
+    <title>حاج محمود کریمی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">224</length>
+  </programme>
+  <programme start="20260831033643 +0000" stop="20260831034828 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">704</length>
+  </programme>
+  <programme start="20260831024637 +0000" stop="20260831025930 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">772</length>
+  </programme>
+  <programme start="20260831024332 +0000" stop="20260831024524 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>قصه های زندگی</sub-title>
+    <length units="seconds">114</length>
+  </programme>
+  <programme start="20260831023234 +0000" stop="20260831024330 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">656</length>
+  </programme>
+  <programme start="20260831022825 +0000" stop="20260831023207 +0000" channel="quran">
+    <title>امام موسی صدر - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه سیاسی تاریخی (قرآن)</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260831021221 +0000" stop="20260831022700 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">878</length>
+  </programme>
+  <programme start="20260831010204 +0000" stop="20260831015848 +0000" channel="quran">
+    <title>جزء ۹ - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3402</length>
+  </programme>
+  <programme start="20260831005552 +0000" stop="20260831010153 +0000" channel="quran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نکات ناب (قرآن)</sub-title>
+    <length units="seconds">362</length>
+  </programme>
   <programme start="20260831005032 +0000" stop="20260831005527 +0000" channel="quran">
     <title>بهاء الدین ولد - ۹ شهریور ۱۴۰۵</title>
     <sub-title>تربت ما (قرآن)</sub-title>
-    <length units="seconds">295</length>
+    <length units="seconds">294</length>
   </programme>
   <programme start="20260831001113 +0000" stop="20260831004242 +0000" channel="quran">
     <title>ضیاء الدین - ۹ شهریور ۱۴۰۵</title>
@@ -170,6 +690,126 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260831144012 +0000" stop="20260831145754 +0000" channel="amouzesh">
+    <title>پایه سوم - فارسی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">1064</length>
+  </programme>
+  <programme start="20260831142118 +0000" stop="20260831144010 +0000" channel="amouzesh">
+    <title>پایه دوم - فارسی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">1132</length>
+  </programme>
+  <programme start="20260831140238 +0000" stop="20260831142116 +0000" channel="amouzesh">
+    <title>پایه اول - فارسی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه تلویزیونی ایران ۱۴۰۵ (مقطع ابتدایی)</sub-title>
+    <length units="seconds">1118</length>
+  </programme>
+  <programme start="20260831130112 +0000" stop="20260831135342 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دکتر سلام ۱۴۰۵</sub-title>
+    <length units="seconds">3000</length>
+  </programme>
+  <programme start="20260831114100 +0000" stop="20260831114728 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نوجواب</sub-title>
+    <length units="seconds">388</length>
+  </programme>
+  <programme start="20260831112812 +0000" stop="20260831114029 +0000" channel="amouzesh">
+    <title>مکتب قزوین - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">737</length>
+  </programme>
+  <programme start="20260831110644 +0000" stop="20260831112716 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>باهوش (آموزش)</sub-title>
+    <length units="seconds">1231</length>
+  </programme>
+  <programme start="20260831104919 +0000" stop="20260831110305 +0000" channel="amouzesh">
+    <title>ادبیات فارسی - پایه یازدهم درس هشتم - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه دانش آموزان با نیازهای ویژه</sub-title>
+    <length units="seconds">825</length>
+  </programme>
+  <programme start="20260831103054 +0000" stop="20260831104918 +0000" channel="amouzesh">
+    <title>ادبیات فارسی - پایه دهم درس هشتم - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه دانش آموزان با نیازهای ویژه</sub-title>
+    <length units="seconds">1103</length>
+  </programme>
+  <programme start="20260831100316 +0000" stop="20260831103055 +0000" channel="amouzesh">
+    <title>کارگاه خیاطی - پایه یازدهم و دوازدهم - درس دهم بخش دوم - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>مدرسه دانش آموزان با نیازهای ویژه</sub-title>
+    <length units="seconds">1661</length>
+  </programme>
+  <programme start="20260831100024 +0000" stop="20260831100243 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>میدان آموزش</sub-title>
+    <length units="seconds">138</length>
+  </programme>
+  <programme start="20260831094015 +0000" stop="20260831095752 +0000" channel="amouzesh">
+    <title>آموزش پایتون - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">1057</length>
+  </programme>
+  <programme start="20260831093514 +0000" stop="20260831094005 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۶</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260831090954 +0000" stop="20260831093509 +0000" channel="amouzesh">
+    <title>کولر گازی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">1514</length>
+  </programme>
+  <programme start="20260831090213 +0000" stop="20260831090710 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۵</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260831085750 +0000" stop="20260831090153 +0000" channel="amouzesh">
+    <title>در جستجوی خوشبختی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>موشن گرافیک</sub-title>
+    <length units="seconds">242</length>
+  </programme>
+  <programme start="20260831064421 +0000" stop="20260831064839 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۴</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20260831063119 +0000" stop="20260831064417 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ورزش های ناشناخته</sub-title>
+    <length units="seconds">776</length>
+  </programme>
+  <programme start="20260831062517 +0000" stop="20260831063106 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۳</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">348</length>
+  </programme>
+  <programme start="20260831062117 +0000" stop="20260831062305 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۲</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">108</length>
+  </programme>
+  <programme start="20260831060117 +0000" stop="20260831062114 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1198</length>
+  </programme>
+  <programme start="20260831055239 +0000" stop="20260831055843 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">363</length>
+  </programme>
+  <programme start="20260831051500 +0000" stop="20260831054806 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>خشت بهشت (آموزش)</sub-title>
+    <length units="seconds">1987</length>
+  </programme>
+  <programme start="20260831032528 +0000" stop="20260831035507 +0000" channel="amouzesh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>بر آستان جانان</sub-title>
+    <length units="seconds">1780</length>
+  </programme>
   <programme start="20260831013128 +0000" stop="20260831015650 +0000" channel="amouzesh">
     <title>۹ شهریور ۱۴۰۵</title>
     <sub-title>بیا بریم سفر</sub-title>
@@ -183,9 +823,89 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260831155552 +0000" stop="20260831155821 +0000" channel="salamat">
+    <title>تغذیه در فصول گرم - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>تغذیه و تندرستی</sub-title>
+    <length units="seconds">148</length>
+  </programme>
+  <programme start="20260831143050 +0000" stop="20260831150707 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>راز داران </sub-title>
+    <length units="seconds">2158</length>
+  </programme>
+  <programme start="20260831141826 +0000" stop="20260831142822 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۳</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">596</length>
+  </programme>
+  <programme start="20260831131527 +0000" stop="20260831132603 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۲</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">618</length>
+  </programme>
+  <programme start="20260831105914 +0000" stop="20260831111018 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵ - بخش ۱</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">663</length>
+  </programme>
+  <programme start="20260831090112 +0000" stop="20260831094601 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
+  <programme start="20260831082845 +0000" stop="20260831085122 +0000" channel="salamat">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1330</length>
+  </programme>
+  <programme start="20260831080423 +0000" stop="20260831082422 +0000" channel="salamat">
+    <title>غیبت کردن - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ناسلامتی</sub-title>
+    <length units="seconds">1182</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260831141504 +0000" stop="20260831142555 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نقطه زن</sub-title>
+    <length units="seconds">652</length>
+  </programme>
+  <programme start="20260831140420 +0000" stop="20260831140738 +0000" channel="ofogh">
+    <title>جان دلم - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ</sub-title>
+    <length units="seconds">196</length>
+  </programme>
+  <programme start="20260831134813 +0000" stop="20260831140328 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>به افق مردم </sub-title>
+    <length units="seconds">914</length>
+  </programme>
+  <programme start="20260831124938 +0000" stop="20260831125233 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>تو بگو</sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20260831100006 +0000" stop="20260831105341 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>انارستان</sub-title>
+    <length units="seconds">3214</length>
+  </programme>
+  <programme start="20260831095417 +0000" stop="20260831095539 +0000" channel="ofogh">
+    <title>کف میدون - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">82</length>
+  </programme>
+  <programme start="20260831075957 +0000" stop="20260831084721 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">2844</length>
+  </programme>
+  <programme start="20260831075346 +0000" stop="20260831075741 +0000" channel="ofogh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>عهد</sub-title>
+    <length units="seconds">234</length>
+  </programme>
   <programme start="20260831071703 +0000" stop="20260831072945 +0000" channel="ofogh">
     <title>بج بینی - ۹ شهریور ۱۴۰۵</title>
     <sub-title>گیلان جان (افق)</sub-title>
@@ -219,18 +939,73 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260831143158 +0000" stop="20260831153156 +0000" channel="omid">
+    <title>9 شهریور 1405</title>
+    <sub-title>شبکه بازی: فصل 3 </sub-title>
+    <length units="seconds">3590</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260831154144 +0000" stop="20260831160908 +0000" channel="irinn2">
+    <title>نشست خبری مدیر کل اوقاف و امور خیریه استان تهران - 9 شهریور 1405</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">1636</length>
+  </programme>
+  <programme start="20260831151257 +0000" stop="20260831151548 +0000" channel="irinn2">
+    <title>دیدار دکتر پزشکیان با رئیس جمهور قرقیزستان - 9 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">170</length>
+  </programme>
+  <programme start="20260831143722 +0000" stop="20260831144745 +0000" channel="irinn2">
+    <title>افتتاحیه نمایشگاه الکامپ - 9 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">624</length>
+  </programme>
+  <programme start="20260831103351 +0000" stop="20260831105507 +0000" channel="irinn2">
+    <title>نشست خبری رئیس دانشگاه تهران درباره راه اندازی بورس نخبگان - 9 شهریور 1405</title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">1276</length>
+  </programme>
+  <programme start="20260831102209 +0000" stop="20260831103347 +0000" channel="irinn2">
+    <title>مراسم ارکستر سمفونیک جان جهان ها - 9 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">698</length>
+  </programme>
+  <programme start="20260831073840 +0000" stop="20260831074710 +0000" channel="irinn2">
+    <title>برداشت محصولات گلخانه ای - 9 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260831110021 +0000" stop="20260831120153 +0000" channel="sahand">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>محبت اوجاغی</sub-title>
+    <length units="seconds">3660</length>
+  </programme>
+  <programme start="20260831100046 +0000" stop="20260831100730 +0000" channel="sahand">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>با خبرنگاران (سهند)</sub-title>
+    <length units="seconds">404</length>
+  </programme>
+  <programme start="20260831093733 +0000" stop="20260831095959 +0000" channel="sahand">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مزرعه دوستی</sub-title>
+    <length units="seconds">1326</length>
+  </programme>
+  <programme start="20260831075956 +0000" stop="20260831093605 +0000" channel="sahand">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">5652</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
@@ -240,6 +1015,26 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20260831105951 +0000" stop="20260831112834 +0000" channel="sabalan">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">1589</length>
+  </programme>
+  <programme start="20260831100010 +0000" stop="20260831104955 +0000" channel="sabalan">
+    <title>9 شهریور 1405</title>
+    <sub-title>ائویم قراریم (سبلان)</sub-title>
+    <length units="seconds">2819</length>
+  </programme>
+  <programme start="20260831080029 +0000" stop="20260831085034 +0000" channel="sabalan">
+    <title>9 شهریور 1405</title>
+    <sub-title>تزه گون (سبلان)</sub-title>
+    <length units="seconds">2790</length>
+  </programme>
+  <programme start="20260831043118 +0000" stop="20260831043940 +0000" channel="sabalan">
+    <title>9 شهریور 1405</title>
+    <sub-title>دعای عهد (سبلان)</sub-title>
+    <length units="seconds">441</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
@@ -249,30 +1044,215 @@
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
+  <programme start="20260831121831 +0000" stop="20260831123319 +0000" channel="jahanbin">
+    <title>9 شهریور 1405</title>
+    <sub-title>حدیث کسا </sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20260831110021 +0000" stop="20260831111955 +0000" channel="jahanbin">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (جهانبین)</sub-title>
+    <length units="seconds">1174</length>
+  </programme>
+  <programme start="20260831043316 +0000" stop="20260831044147 +0000" channel="jahanbin">
+    <title>9 شهریور 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">511</length>
+  </programme>
+  <programme start="20260831034540 +0000" stop="20260831040749 +0000" channel="jahanbin">
+    <title>9 شهریور 1405</title>
+    <sub-title>مناجات امیرالمومنین (ع) (جهانبین)</sub-title>
+    <length units="seconds">1329</length>
+  </programme>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260831160000 +0000" stop="20260831161952 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
+    <length units="seconds">1192</length>
+  </programme>
+  <programme start="20260831120035 +0000" stop="20260831130200 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3684</length>
+  </programme>
+  <programme start="20260831105343 +0000" stop="20260831110238 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">534</length>
+  </programme>
+  <programme start="20260831100240 +0000" stop="20260831105332 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>پزشک شما (خراسان رضوی)</sub-title>
+    <length units="seconds">3052</length>
+  </programme>
+  <programme start="20260831083042 +0000" stop="20260831093059 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>خانواده خراسانی </sub-title>
+    <length units="seconds">3618</length>
+  </programme>
+  <programme start="20260831060155 +0000" stop="20260831062550 +0000" channel="khorasanrazavi">
+    <title>9 شهریور 1405</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">1434</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260831120039 +0000" stop="20260831122045 +0000" channel="atrak">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>قرار (اترک)</sub-title>
+    <length units="seconds">1191</length>
+  </programme>
+  <programme start="20260831111505 +0000" stop="20260831113512 +0000" channel="atrak">
+    <title>همایش یاوران وقف استانی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1197</length>
+  </programme>
+  <programme start="20260831110013 +0000" stop="20260831111432 +0000" channel="atrak">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">835</length>
+  </programme>
+  <programme start="20260831102248 +0000" stop="20260831105524 +0000" channel="atrak">
+    <title>همایش یاوران وقف استانی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1934</length>
+  </programme>
+  <programme start="20260831092645 +0000" stop="20260831095714 +0000" channel="atrak">
+    <title>تشیع پیکر شهید مدافع امنیت علی اصغر نورانی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اترک)</sub-title>
+    <length units="seconds">1818</length>
+  </programme>
+  <programme start="20260831070011 +0000" stop="20260831075929 +0000" channel="atrak">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3533</length>
+  </programme>
+  <programme start="20260831035355 +0000" stop="20260831040344 +0000" channel="atrak">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دعای عهد (اترک)</sub-title>
+    <length units="seconds">578</length>
+  </programme>
+  <programme start="20260831033113 +0000" stop="20260831033410 +0000" channel="atrak">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>نجوا (اترک)</sub-title>
+    <length units="seconds">177</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260831100117 +0000" stop="20260831110113 +0000" channel="khalijefars">
+    <title>9 شهریور 1405</title>
+    <sub-title>سر پناه (خلیج فارس)</sub-title>
+    <length units="seconds">3564</length>
+  </programme>
+  <programme start="20260831074517 +0000" stop="20260831090024 +0000" channel="khalijefars">
+    <title>9 شهریور 1405</title>
+    <sub-title>گاه گمن (خلیج فارس)</sub-title>
+    <length units="seconds">4452</length>
+  </programme>
+  <programme start="20260831053504 +0000" stop="20260831054829 +0000" channel="khalijefars">
+    <title>9 شهریور 1405</title>
+    <sub-title>گل های بهشتی (خلیج فارس)</sub-title>
+    <length units="seconds">806</length>
+  </programme>
+  <programme start="20260831035158 +0000" stop="20260831040450 +0000" channel="khalijefars">
+    <title>9 شهریور 1405</title>
+    <sub-title>تا آسمان (خلیج فارس)</sub-title>
+    <length units="seconds">772</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260831130305 +0000" stop="20260831140515 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>بیت الهنا</sub-title>
+    <length units="seconds">3677</length>
+  </programme>
+  <programme start="20260831124251 +0000" stop="20260831130035 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>در جریان باشید</sub-title>
+    <length units="seconds">1054</length>
+  </programme>
+  <programme start="20260831120737 +0000" stop="20260831121343 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">355</length>
+  </programme>
+  <programme start="20260831110920 +0000" stop="20260831120344 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">3231</length>
+  </programme>
+  <programme start="20260831093232 +0000" stop="20260831101120 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">2295</length>
+  </programme>
+  <programme start="20260831083216 +0000" stop="20260831093052 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>یه روز تازه (خوزستان)</sub-title>
+    <length units="seconds">3452</length>
+  </programme>
+  <programme start="20260831045429 +0000" stop="20260831050300 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">507</length>
+  </programme>
+  <programme start="20260831040805 +0000" stop="20260831042138 +0000" channel="khoozestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مناجات امیرالمومنین (خوزستان) </sub-title>
+    <length units="seconds">814</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260831111722 +0000" stop="20260831115353 +0000" channel="eshragh">
+    <title>ساعت عاشقی - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان (اشراق)</sub-title>
+    <length units="seconds">2190</length>
+  </programme>
+  <programme start="20260831110003 +0000" stop="20260831111442 +0000" channel="eshragh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">880</length>
+  </programme>
+  <programme start="20260831100008 +0000" stop="20260831105503 +0000" channel="eshragh">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>سیمای زندگی (اشراق)</sub-title>
+    <length units="seconds">3294</length>
+  </programme>
+  <programme start="20260831080000 +0000" stop="20260831085442 +0000" channel="eshragh">
+    <title>طارم زیبا - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">3282</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260831114226 +0000" stop="20260831115426 +0000" channel="hamoon">
+    <title>صبح ظهور - 9 شهریور 1405</title>
+    <sub-title>برنامه مذهبی (هامون)</sub-title>
+    <length units="seconds">720</length>
+  </programme>
+  <programme start="20260831073042 +0000" stop="20260831083045 +0000" channel="hamoon">
+    <title>9 شهریور 1405</title>
+    <sub-title>مهرستان (هامون)</sub-title>
+    <length units="seconds">3604</length>
+  </programme>
+  <programme start="20260831060421 +0000" stop="20260831061252 +0000" channel="hamoon">
+    <title>9 شهریور 1405</title>
+    <sub-title>دعای عهد (هامون)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
@@ -282,6 +1262,36 @@
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260831125807 +0000" stop="20260831133033 +0000" channel="noor">
+    <title>حرم مطهر حضرت فاطمه معصومه (س) - 9 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">1946</length>
+  </programme>
+  <programme start="20260831125000 +0000" stop="20260831125125 +0000" channel="noor">
+    <title>9 شهریور 1405</title>
+    <sub-title>عصر خمینی (نور)</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260831123406 +0000" stop="20260831124957 +0000" channel="noor">
+    <title>9 شهریور 1405</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">950</length>
+  </programme>
+  <programme start="20260831080045 +0000" stop="20260831090055 +0000" channel="noor">
+    <title>9 شهریور 1405</title>
+    <sub-title>صبحانه (نور)</sub-title>
+    <length units="seconds">3610</length>
+  </programme>
+  <programme start="20260831061342 +0000" stop="20260831062232 +0000" channel="noor">
+    <title>9 شهریور 1405</title>
+    <sub-title>زیارت حضرت معصومه (نور)</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20260831060446 +0000" stop="20260831061316 +0000" channel="noor">
+    <title>9 شهریور 1405</title>
+    <sub-title>دعای عهد (نور)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -300,21 +1310,176 @@
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
+  <programme start="20260831135142 +0000" stop="20260831142409 +0000" channel="sabz">
+    <title>ایران از بالا - 9 شهریور 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (سبز)</sub-title>
+    <length units="seconds">1947</length>
+  </programme>
+  <programme start="20260831100028 +0000" stop="20260831105226 +0000" channel="sabz">
+    <title>9 شهریور 1405</title>
+    <sub-title>خانه محبت (سبز)</sub-title>
+    <length units="seconds">3104</length>
+  </programme>
+  <programme start="20260831092355 +0000" stop="20260831095732 +0000" channel="sabz">
+    <title>مراسم تشییع پیکر شهید مدافع امنیت - 9 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (سبز)</sub-title>
+    <length units="seconds">2018</length>
+  </programme>
+  <programme start="20260831080132 +0000" stop="20260831085650 +0000" channel="sabz">
+    <title>9 شهریور 1405</title>
+    <sub-title>صبح عالی (سبز)</sub-title>
+    <length units="seconds">3318</length>
+  </programme>
+  <programme start="20260831035715 +0000" stop="20260831040300 +0000" channel="sabz">
+    <title>دعای روز دوشنبه - 9 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (سبز)</sub-title>
+    <length units="seconds">346</length>
+  </programme>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260831125842 +0000" stop="20260831130552 +0000" channel="baran">
+    <title>گیلان گرد - ۹ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">428</length>
+  </programme>
+  <programme start="20260831114406 +0000" stop="20260831115935 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">928</length>
+  </programme>
+  <programme start="20260831095909 +0000" stop="20260831110124 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3672</length>
+  </programme>
+  <programme start="20260831090035 +0000" stop="20260831095421 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">3139</length>
+  </programme>
+  <programme start="20260831072942 +0000" stop="20260831084525 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4543</length>
+  </programme>
+  <programme start="20260831043829 +0000" stop="20260831044825 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">597</length>
+  </programme>
+  <programme start="20260831033236 +0000" stop="20260831035551 +0000" channel="baran">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">1372</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20260831105938 +0000" stop="20260831115923 +0000" channel="kordestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ژین وئه وین (کردستان)</sub-title>
+    <length units="seconds">3584</length>
+  </programme>
+  <programme start="20260831102909 +0000" stop="20260831105053 +0000" channel="kordestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>ژیانی لادی (کردستان)</sub-title>
+    <length units="seconds">1304</length>
+  </programme>
+  <programme start="20260831095701 +0000" stop="20260831102700 +0000" channel="kordestan">
+    <title>۸ شهریور ۱۴۰۵</title>
+    <sub-title>بیره وه ری</sub-title>
+    <length units="seconds">1800</length>
+  </programme>
+  <programme start="20260831063428 +0000" stop="20260831071644 +0000" channel="kordestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>تفسیر قرآن کریم (کردستان)</sub-title>
+    <length units="seconds">2536</length>
+  </programme>
+  <programme start="20260831060123 +0000" stop="20260831063422 +0000" channel="kordestan">
+    <title>۹ شهریور ۱۴۰۵</title>
+    <sub-title>دمی با قرآن (کردستان)</sub-title>
+    <length units="seconds">1980</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260831130030 +0000" stop="20260831135638 +0000" channel="tabarestan">
+    <title>9 شهریور 1405</title>
+    <sub-title>خانواده و زندگی (تبرستان)</sub-title>
+    <length units="seconds">3347</length>
+  </programme>
+  <programme start="20260831111557 +0000" stop="20260831112959 +0000" channel="tabarestan">
+    <title>9 شهریور 1405</title>
+    <sub-title>پرس و جو </sub-title>
+    <length units="seconds">832</length>
+  </programme>
+  <programme start="20260831110020 +0000" stop="20260831111526 +0000" channel="tabarestan">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (تبرستان)</sub-title>
+    <length units="seconds">894</length>
+  </programme>
+  <programme start="20260831090034 +0000" stop="20260831095338 +0000" channel="tabarestan">
+    <title>9 شهریور 1405</title>
+    <sub-title>افتاب سو</sub-title>
+    <length units="seconds">3130</length>
+  </programme>
+  <programme start="20260831070030 +0000" stop="20260831075605 +0000" channel="tabarestan">
+    <title>9 شهریور 1405</title>
+    <sub-title>صواحی</sub-title>
+    <length units="seconds">3269</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260831152901 +0000" stop="20260831155730 +0000" channel="aftab">
+    <title>فارسی اول دبستان - 9 شهریور 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1708</length>
+  </programme>
+  <programme start="20260831145938 +0000" stop="20260831152858 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 9 شهریور 1405 - بخش 4</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1760</length>
+  </programme>
+  <programme start="20260831143143 +0000" stop="20260831145934 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 9 شهریور 1405 - بخش 3</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1670</length>
+  </programme>
+  <programme start="20260831135806 +0000" stop="20260831143141 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 9 شهریور 1405</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1940</length>
+  </programme>
+  <programme start="20260831132518 +0000" stop="20260831135804 +0000" channel="aftab">
+    <title>ریاضی ششم ابتدایی - 9 شهریور 1405 - بخش 1</title>
+    <sub-title>الف مثل آموزش  (آفتاب)</sub-title>
+    <length units="seconds">1966</length>
+  </programme>
+  <programme start="20260831130000 +0000" stop="20260831132352 +0000" channel="aftab">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
+  <programme start="20260831100002 +0000" stop="20260831105249 +0000" channel="aftab">
+    <title>9 شهریور 1405</title>
+    <sub-title>12 روی 8 (آفتاب)</sub-title>
+    <length units="seconds">3166</length>
+  </programme>
+  <programme start="20260831080201 +0000" stop="20260831093209 +0000" channel="aftab">
+    <title>9 شهریور 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5408</length>
+  </programme>
+  <programme start="20260831055840 +0000" stop="20260831060833 +0000" channel="aftab">
+    <title>9 شهریور 1405</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -324,6 +1489,36 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260831120011 +0000" stop="20260831130308 +0000" channel="khavaran">
+    <title>9 شهریور 1405</title>
+    <sub-title>زندگی سلام (خاوران)</sub-title>
+    <length units="seconds">3778</length>
+  </programme>
+  <programme start="20260831110004 +0000" stop="20260831110640 +0000" channel="khavaran">
+    <title>9 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خاوران)</sub-title>
+    <length units="seconds">396</length>
+  </programme>
+  <programme start="20260831094624 +0000" stop="20260831095641 +0000" channel="khavaran">
+    <title>9 شهریور 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">616</length>
+  </programme>
+  <programme start="20260831084214 +0000" stop="20260831091731 +0000" channel="khavaran">
+    <title>شهر من الوند - 9 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">2116</length>
+  </programme>
+  <programme start="20260831073401 +0000" stop="20260831083512 +0000" channel="khavaran">
+    <title>9 شهریور 1405</title>
+    <sub-title>صبحانه (خاوران)</sub-title>
+    <length units="seconds">3672</length>
+  </programme>
+  <programme start="20260831065300 +0000" stop="20260831072544 +0000" channel="khavaran">
+    <title>9 شهریور 1405</title>
+    <sub-title>کوچه باغ (خاوران)</sub-title>
+    <length units="seconds">1964</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
