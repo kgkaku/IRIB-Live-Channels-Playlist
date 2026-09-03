@@ -6,9 +6,69 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20260903130350 +0000" stop="20260903135001 +0000" channel="tv2">
+    <title>12 شهریور 1405</title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">2772</length>
+  </programme>
+  <programme start="20260903122140 +0000" stop="20260903130346 +0000" channel="tv2">
+    <title>12 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">2524</length>
+  </programme>
+  <programme start="20260903071605 +0000" stop="20260903094847 +0000" channel="tv2">
+    <title>12 شهریور 1405</title>
+    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
+    <length units="seconds">8309</length>
+  </programme>
+  <programme start="20260903041542 +0000" stop="20260903041920 +0000" channel="tv2">
+    <title>12 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">216</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260903130756 +0000" stop="20260903135943 +0000" channel="tv3">
+    <title>12 شهریور 1405 - حجت الاسلام والمسلمین عاملی</title>
+    <sub-title>سمت خدا 1405</sub-title>
+    <length units="seconds">3108</length>
+  </programme>
+  <programme start="20260903123452 +0000" stop="20260903130030 +0000" channel="tv3">
+    <title>پیشنهاد سرآشپز-  اسپرینگ رول </title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">1538</length>
+  </programme>
+  <programme start="20260903120407 +0000" stop="20260903121812 +0000" channel="tv3">
+    <title>12 شهریور 1405 - بخش 1</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">844</length>
+  </programme>
+  <programme start="20260903082813 +0000" stop="20260903095658 +0000" channel="tv3">
+    <title>12 شهریور 1405</title>
+    <sub-title>سلام صبح بخیر 1405</sub-title>
+    <length units="seconds">5120</length>
+  </programme>
+  <programme start="20260903075504 +0000" stop="20260903081933 +0000" channel="tv3">
+    <title>12 شهریور 1405</title>
+    <sub-title>صبح و نشاط 1405</sub-title>
+    <length units="seconds">1468</length>
+  </programme>
+  <programme start="20260903064649 +0000" stop="20260903075133 +0000" channel="tv3">
+    <title>12 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۳)</sub-title>
+    <length units="seconds">3884</length>
+  </programme>
+  <programme start="20260903060942 +0000" stop="20260903064258 +0000" channel="tv3">
+    <title>12 شهریور 1405</title>
+    <sub-title>زلال سخن 1405</sub-title>
+    <length units="seconds">1996</length>
+  </programme>
+  <programme start="20260903060118 +0000" stop="20260903060940 +0000" channel="tv3">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای عهد (شبکه ۳)</sub-title>
+    <length units="seconds">502</length>
+  </programme>
   <programme start="20260903031831 +0000" stop="20260903040353 +0000" channel="tv3">
     <title>12 شهریور 1405</title>
     <sub-title>ضیافت دوست 1405</sub-title>
@@ -22,6 +82,11 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260903061403 +0000" stop="20260903070220 +0000" channel="tv4">
+    <title>12 شهریور 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">2889</length>
+  </programme>
   <programme start="20260903060225 +0000" stop="20260903061114 +0000" channel="tv4">
     <title>12 شهریور 1405</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
@@ -35,9 +100,144 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260903110300 +0000" stop="20260903115150 +0000" channel="nasim">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2930</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260903133008 +0000" stop="20260903135447 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1478</length>
+  </programme>
+  <programme start="20260903131039 +0000" stop="20260903132612 +0000" channel="irinn">
+    <title>12 شهریور 1405 - دکتر محمود رشنواز</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">932</length>
+  </programme>
+  <programme start="20260903130016 +0000" stop="20260903131035 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">618</length>
+  </programme>
+  <programme start="20260903124415 +0000" stop="20260903125701 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">766</length>
+  </programme>
+  <programme start="20260903123350 +0000" stop="20260903123834 +0000" channel="irinn">
+    <title>در صحن - 12 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">284</length>
+  </programme>
+  <programme start="20260903123012 +0000" stop="20260903123348 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 12:30 </sub-title>
+    <length units="seconds">216</length>
+  </programme>
+  <programme start="20260903121023 +0000" stop="20260903123009 +0000" channel="irinn">
+    <title>اسماعیل بقایی، سخنگوی وزارت امور خارجه - 12 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">1186</length>
+  </programme>
+  <programme start="20260903120011 +0000" stop="20260903121013 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">414</length>
+  </programme>
+  <programme start="20260903113505 +0000" stop="20260903115851 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1426</length>
+  </programme>
+  <programme start="20260903113010 +0000" stop="20260903113457 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">286</length>
+  </programme>
+  <programme start="20260903110919 +0000" stop="20260903112833 +0000" channel="irinn">
+    <title>12 شهریور 1405 - عباس حاجی نجاری</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1154</length>
+  </programme>
+  <programme start="20260903110011 +0000" stop="20260903110916 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260903103443 +0000" stop="20260903105703 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>آقای فرهنگ دوست</sub-title>
+    <length units="seconds">1340</length>
+  </programme>
+  <programme start="20260903103009 +0000" stop="20260903103437 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">268</length>
+  </programme>
+  <programme start="20260903101127 +0000" stop="20260903102900 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1054</length>
+  </programme>
+  <programme start="20260903100010 +0000" stop="20260903101123 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">672</length>
+  </programme>
+  <programme start="20260903094413 +0000" stop="20260903095905 +0000" channel="irinn">
+    <title>12 شهریور 1405 - گفتگو با غلامرضا نوری</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">892</length>
+  </programme>
+  <programme start="20260903093011 +0000" stop="20260903094401 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">830</length>
+  </programme>
+  <programme start="20260903090915 +0000" stop="20260903092927 +0000" channel="irinn">
+    <title>12 شهریور 1405 - رضا صارمی راد</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1212</length>
+  </programme>
+  <programme start="20260903090011 +0000" stop="20260903090910 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20260903083248 +0000" stop="20260903085223 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1174</length>
+  </programme>
+  <programme start="20260903080004 +0000" stop="20260903083019 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1814</length>
+  </programme>
+  <programme start="20260903073524 +0000" stop="20260903075451 +0000" channel="irinn">
+    <title>12 شهریور 1405 - دکتر آقاییان</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1166</length>
+  </programme>
+  <programme start="20260903073014 +0000" stop="20260903073520 +0000" channel="irinn">
+    <title>12 شهریور 1405 </title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20260903070805 +0000" stop="20260903073010 +0000" channel="irinn">
+    <title>12 شهریور 1405 - آقای کریمی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1326</length>
+  </programme>
+  <programme start="20260903070013 +0000" stop="20260903070759 +0000" channel="irinn">
+    <title>12 شهریور 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">466</length>
+  </programme>
   <programme start="20260903060007 +0000" stop="20260903061159 +0000" channel="irinn">
     <title>12 شهریور 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -81,12 +281,92 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260903100027 +0000" stop="20260903103017 +0000" channel="varzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1790</length>
+  </programme>
+  <programme start="20260903080457 +0000" stop="20260903084510 +0000" channel="varzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2414</length>
+  </programme>
+  <programme start="20260903060143 +0000" stop="20260903063138 +0000" channel="varzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1796</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260903135420 +0000" stop="20260903140005 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>سفرهای شگفت انگیز </sub-title>
+    <length units="seconds">344</length>
+  </programme>
+  <programme start="20260903133049 +0000" stop="20260903134001 +0000" channel="pooya">
+    <title>قسمت 7</title>
+    <sub-title>ببعی</sub-title>
+    <length units="seconds">552</length>
+  </programme>
+  <programme start="20260903132651 +0000" stop="20260903132959 +0000" channel="pooya">
+    <title>خرگوش کوچولو - 12 شهریور 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">188</length>
+  </programme>
+  <programme start="20260903130037 +0000" stop="20260903131220 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>فضایی ها</sub-title>
+    <length units="seconds">704</length>
+  </programme>
+  <programme start="20260903124219 +0000" stop="20260903124517 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">180</length>
+  </programme>
+  <programme start="20260903123857 +0000" stop="20260903124218 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260903123039 +0000" stop="20260903123855 +0000" channel="pooya">
+    <title>قسمت 74</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">498</length>
+  </programme>
+  <programme start="20260903120952 +0000" stop="20260903121607 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">374</length>
+  </programme>
+  <programme start="20260903115626 +0000" stop="20260903115828 +0000" channel="pooya">
+    <title>بچه های آسمان - 12 شهریور 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260903113045 +0000" stop="20260903113854 +0000" channel="pooya">
+    <title>قسمت 69</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">490</length>
+  </programme>
+  <programme start="20260903110047 +0000" stop="20260903112726 +0000" channel="pooya">
+    <title>12 شهریور 1405</title>
+    <sub-title>اعجوبه ها </sub-title>
+    <length units="seconds">1598</length>
+  </programme>
+  <programme start="20260903092647 +0000" stop="20260903093032 +0000" channel="pooya">
+    <title>قسمت 105</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">224</length>
+  </programme>
+  <programme start="20260903085653 +0000" stop="20260903090000 +0000" channel="pooya">
+    <title>عینک من - 12 شهریور 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">186</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -102,15 +382,235 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260903130015 +0000" stop="20260903140338 +0000" channel="quran">
+    <title>جز ۱۲ - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3802</length>
+  </programme>
+  <programme start="20260903114309 +0000" stop="20260903120947 +0000" channel="quran">
+    <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (قرآن)</sub-title>
+    <length units="seconds">1598</length>
+  </programme>
+  <programme start="20260903103130 +0000" stop="20260903114049 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">4160</length>
+  </programme>
+  <programme start="20260903084358 +0000" stop="20260903090036 +0000" channel="quran">
+    <title>آقای سبحان قاری - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">998</length>
+  </programme>
+  <programme start="20260903082537 +0000" stop="20260903083309 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نکات ناب (قرآن)</sub-title>
+    <length units="seconds">452</length>
+  </programme>
+  <programme start="20260903081500 +0000" stop="20260903082043 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>زندگی روشن</sub-title>
+    <length units="seconds">342</length>
+  </programme>
+  <programme start="20260903080659 +0000" stop="20260903081347 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>زندگی روشن</sub-title>
+    <length units="seconds">408</length>
+  </programme>
+  <programme start="20260903080044 +0000" stop="20260903080252 +0000" channel="quran">
+    <title>حاج میثم مطیعی - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>مداحی های محرم ۱۴۰5 (شبکه قرآن)</sub-title>
+    <length units="seconds">130</length>
+  </programme>
+  <programme start="20260903075031 +0000" stop="20260903075944 +0000" channel="quran">
+    <title>آقای طه عسگرنژاد - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260903072334 +0000" stop="20260903075031 +0000" channel="quran">
+    <title>11 شهریور 1405</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">1616</length>
+  </programme>
+  <programme start="20260903071419 +0000" stop="20260903072308 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>عهد</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20260903061042 +0000" stop="20260903061647 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>تربت ما (قرآن)</sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20260903054033 +0000" stop="20260903061036 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1804</length>
+  </programme>
+  <programme start="20260903043848 +0000" stop="20260903054008 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵ - سرداب حرم امام حسین (ع)</title>
+    <sub-title>ترتیل قرآن کریم (قرآن)</sub-title>
+    <length units="seconds">3680</length>
+  </programme>
+  <programme start="20260903043542 +0000" stop="20260903043848 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">186</length>
+  </programme>
+  <programme start="20260903042844 +0000" stop="20260903043542 +0000" channel="quran">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">418</length>
+  </programme>
+  <programme start="20260903035808 +0000" stop="20260903040533 +0000" channel="quran">
+    <title>آقای امین عبدی - 11 شهریور 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">444</length>
+  </programme>
+  <programme start="20260903035521 +0000" stop="20260903035808 +0000" channel="quran">
+    <title> 11 شهریور 1405</title>
+    <sub-title>امت امام </sub-title>
+    <length units="seconds">166</length>
+  </programme>
+  <programme start="20260903034326 +0000" stop="20260903035520 +0000" channel="quran">
+    <title>مناجات حضرت امیر (ع) - 11 شهریور 1405</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">714</length>
+  </programme>
+  <programme start="20260903024302 +0000" stop="20260903025615 +0000" channel="quran">
+    <title>11 شهریور 1405</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">792</length>
+  </programme>
+  <programme start="20260903022910 +0000" stop="20260903023808 +0000" channel="quran">
+    <title>11 شهریور 1405</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20260903021456 +0000" stop="20260903022848 +0000" channel="quran">
+    <title>11 شهریور 1405</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">832</length>
+  </programme>
+  <programme start="20260903020037 +0000" stop="20260903021055 +0000" channel="quran">
+    <title>11 شهریور 1405</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">618</length>
+  </programme>
+  <programme start="20260903010107 +0000" stop="20260903020035 +0000" channel="quran">
+    <title>جز 12 - 11 شهریور 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3566</length>
+  </programme>
+  <programme start="20260903005738 +0000" stop="20260903010107 +0000" channel="quran">
+    <title>مکتب قزوین - 11 شهریور 1405</title>
+    <sub-title>ایران جان (قرآن)</sub-title>
+    <length units="seconds">210</length>
+  </programme>
+  <programme start="20260903001144 +0000" stop="20260903005654 +0000" channel="quran">
+    <title>آن یار سفر کرده - 11 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">2710</length>
+  </programme>
+  <programme start="20260903000240 +0000" stop="20260903000916 +0000" channel="quran">
+    <title>پویش حفظ جز 30 - آیات 1 تا 6 سوره اعلی - 11 شهریور 1405</title>
+    <sub-title>محفل (شبکه قرآن)</sub-title>
+    <length units="seconds">396</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260903091647 +0000" stop="20260903093857 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">1330</length>
+  </programme>
+  <programme start="20260903090328 +0000" stop="20260903091325 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>ده دقیقه </sub-title>
+    <length units="seconds">597</length>
+  </programme>
+  <programme start="20260903065545 +0000" stop="20260903072056 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>باهوش (آموزش)</sub-title>
+    <length units="seconds">1510</length>
+  </programme>
+  <programme start="20260903064404 +0000" stop="20260903065329 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>ورزش و مهارت</sub-title>
+    <length units="seconds">566</length>
+  </programme>
+  <programme start="20260903060154 +0000" stop="20260903064352 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">2517</length>
+  </programme>
+  <programme start="20260903041816 +0000" stop="20260903042500 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">404</length>
+  </programme>
+  <programme start="20260903033247 +0000" stop="20260903035909 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>بر آستان جانان</sub-title>
+    <length units="seconds">1583</length>
+  </programme>
+  <programme start="20260903013102 +0000" stop="20260903015803 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>بیا بریم سفر</sub-title>
+    <length units="seconds">1621</length>
+  </programme>
+  <programme start="20260903012855 +0000" stop="20260903013042 +0000" channel="amouzesh">
+    <title>قزوین ایران - 12 شهریور 1405</title>
+    <sub-title>ایران جان (آموزش)</sub-title>
+    <length units="seconds">107</length>
+  </programme>
+  <programme start="20260903005117 +0000" stop="20260903012840 +0000" channel="amouzesh">
+    <title>12 شهریور 1405</title>
+    <sub-title>باشگاه تولید</sub-title>
+    <length units="seconds">2245</length>
+  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260903131257 +0000" stop="20260903132341 +0000" channel="salamat">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">642</length>
+  </programme>
+  <programme start="20260903105602 +0000" stop="20260903110711 +0000" channel="salamat">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">659</length>
+  </programme>
+  <programme start="20260903090052 +0000" stop="20260903094536 +0000" channel="salamat">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2640</length>
+  </programme>
+  <programme start="20260903082518 +0000" stop="20260903084422 +0000" channel="salamat">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1126</length>
+  </programme>
+  <programme start="20260903080425 +0000" stop="20260903082059 +0000" channel="salamat">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ناسلامتی</sub-title>
+    <length units="seconds">983</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260903100037 +0000" stop="20260903105418 +0000" channel="ofogh">
+    <title>12 شهریور 1405</title>
+    <sub-title>انارستان</sub-title>
+    <length units="seconds">3222</length>
+  </programme>
+  <programme start="20260903080043 +0000" stop="20260903085054 +0000" channel="ofogh">
+    <title>12 شهریور 1405</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3010</length>
+  </programme>
   <programme start="20260903043329 +0000" stop="20260903050430 +0000" channel="ofogh">
     <title>12 شهریور 1405</title>
     <sub-title>حدیث سرو</sub-title>
@@ -130,12 +630,52 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260903094900 +0000" stop="20260903105624 +0000" channel="irinn2">
+    <title>اجلاسیه ملی شهدای خدمت - 12 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4134</length>
+  </programme>
+  <programme start="20260903094557 +0000" stop="20260903094851 +0000" channel="irinn2">
+    <title>تشییع شهدای حمله تروریستی - 12 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20260903093737 +0000" stop="20260903094543 +0000" channel="irinn2">
+    <title>سفر رئیس قوه قضائیه به هند - 12 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">486</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260903093701 +0000" stop="20260903095600 +0000" channel="sahand">
+    <title>12 شهریور 1405</title>
+    <sub-title>مزرعه دوستی</sub-title>
+    <length units="seconds">1117</length>
+  </programme>
+  <programme start="20260903080013 +0000" stop="20260903093649 +0000" channel="sahand">
+    <title>12 شهریور 1405</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">5684</length>
+  </programme>
+  <programme start="20260903070649 +0000" stop="20260903074821 +0000" channel="sahand">
+    <title>سازه ها - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">2449</length>
+  </programme>
+  <programme start="20260903064619 +0000" stop="20260903070250 +0000" channel="sahand">
+    <title>قرآن و عطرت - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">956</length>
+  </programme>
+  <programme start="20260903063615 +0000" stop="20260903064618 +0000" channel="sahand">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">592</length>
+  </programme>
   <programme start="20260903050934 +0000" stop="20260903053321 +0000" channel="sahand">
     <title>چله دعای عهد - 12 شهریور 1405</title>
     <sub-title>سخنرانی (سهند)</sub-title>
@@ -164,9 +704,84 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260903132502 +0000" stop="20260903133253 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">472</length>
+  </programme>
+  <programme start="20260903122443 +0000" stop="20260903123207 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">444</length>
+  </programme>
+  <programme start="20260903121823 +0000" stop="20260903122439 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">376</length>
+  </programme>
+  <programme start="20260903120102 +0000" stop="20260903120558 +0000" channel="alborz">
+    <title>آقای امیرحسین جعفرزاده - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن (البرز)</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260903115445 +0000" stop="20260903120050 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20260903114257 +0000" stop="20260903115034 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">456</length>
+  </programme>
+  <programme start="20260903110149 +0000" stop="20260903111114 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">564</length>
+  </programme>
+  <programme start="20260903095227 +0000" stop="20260903100402 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">694</length>
+  </programme>
+  <programme start="20260903080147 +0000" stop="20260903095002 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>امروز البرز (البرز)</sub-title>
+    <length units="seconds">6494</length>
+  </programme>
+  <programme start="20260903075028 +0000" stop="20260903080015 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260903074531 +0000" stop="20260903075028 +0000" channel="alborz">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">296</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260903123340 +0000" stop="20260903130102 +0000" channel="esfahan">
+    <title>12 شهریور 1405</title>
+    <sub-title>درس هایی از نهج البلاغه</sub-title>
+    <length units="seconds">1640</length>
+  </programme>
+  <programme start="20260903112958 +0000" stop="20260903114001 +0000" channel="esfahan">
+    <title>سالروز شهادت رئیسعلی دلواری - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">561</length>
+  </programme>
+  <programme start="20260903105754 +0000" stop="20260903112744 +0000" channel="esfahan">
+    <title>12 شهریور 1405</title>
+    <sub-title>بچه های فیروزه ای</sub-title>
+    <length units="seconds">1759</length>
+  </programme>
+  <programme start="20260903100051 +0000" stop="20260903105552 +0000" channel="esfahan">
+    <title>12 شهریور 1405</title>
+    <sub-title>از اون خونه به این خونه</sub-title>
+    <length units="seconds">3239</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -194,6 +809,21 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260903105944 +0000" stop="20260903115601 +0000" channel="khoozestan">
+    <title>12 شهریور 1405</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">3307</length>
+  </programme>
+  <programme start="20260903091617 +0000" stop="20260903095208 +0000" channel="khoozestan">
+    <title>12 شهریور 1405</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">2117</length>
+  </programme>
+  <programme start="20260903082504 +0000" stop="20260903091435 +0000" channel="khoozestan">
+    <title>12 شهریور 1405</title>
+    <sub-title>یه روز تازه (خوزستان)</sub-title>
+    <length units="seconds">2925</length>
+  </programme>
   <programme start="20260903052331 +0000" stop="20260903055600 +0000" channel="khoozestan">
     <title>ایران از بالا - 12 شهریور 1405</title>
     <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
@@ -236,12 +866,92 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260903121645 +0000" stop="20260903123537 +0000" channel="fars">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>جهان گرد (فارس)</sub-title>
+    <length units="seconds">1132</length>
+  </programme>
+  <programme start="20260903111739 +0000" stop="20260903115551 +0000" channel="fars">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نسیم حرم (فارس)</sub-title>
+    <length units="seconds">2292</length>
+  </programme>
+  <programme start="20260903111018 +0000" stop="20260903111544 +0000" channel="fars">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>روایت ها (فارس)</sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260903110640 +0000" stop="20260903110950 +0000" channel="fars">
+    <title>فجر شهید سپاسی - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (فارس)</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20260903110345 +0000" stop="20260903110637 +0000" channel="fars">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ته چین</sub-title>
+    <length units="seconds">172</length>
+  </programme>
+  <programme start="20260903095958 +0000" stop="20260903110340 +0000" channel="fars">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>کاشانه مهر (فارس)</sub-title>
+    <length units="seconds">1424</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260903125611 +0000" stop="20260903130107 +0000" channel="noor">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>جهان گرد (نور)</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260903125430 +0000" stop="20260903125611 +0000" channel="noor">
+    <title>وصیتنامه شهدا - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (نور)</sub-title>
+    <length units="seconds">102</length>
+  </programme>
+  <programme start="20260903125255 +0000" stop="20260903125429 +0000" channel="noor">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">94</length>
+  </programme>
+  <programme start="20260903123659 +0000" stop="20260903125255 +0000" channel="noor">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>حدیث کسا (نور)</sub-title>
+    <length units="seconds">956</length>
+  </programme>
+  <programme start="20260903114820 +0000" stop="20260903122645 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">2306</length>
+  </programme>
+  <programme start="20260903114437 +0000" stop="20260903114820 +0000" channel="noor">
+    <title>از کریمان - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (نور)</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260903114234 +0000" stop="20260903114436 +0000" channel="noor">
+    <title>کشور دوست - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (نور)</sub-title>
+    <length units="seconds">122</length>
+  </programme>
+  <programme start="20260903100153 +0000" stop="20260903105118 +0000" channel="noor">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>دکتر سلام (نور)</sub-title>
+    <length units="seconds">2964</length>
+  </programme>
+  <programme start="20260903023745 +0000" stop="20260903031643 +0000" channel="noor">
+    <title>زیارت جامعه کبیره - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>ادعیه و زیارت (نور)</sub-title>
+    <length units="seconds">2338</length>
+  </programme>
+  <programme start="20260903023625 +0000" stop="20260903023743 +0000" channel="noor">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>عصر خمینی (نور)</sub-title>
+    <length units="seconds">78</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -263,6 +973,56 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260903114425 +0000" stop="20260903115910 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20260903095909 +0000" stop="20260903105602 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>دوازده روی هشت (باران)</sub-title>
+    <length units="seconds">3414</length>
+  </programme>
+  <programme start="20260903090032 +0000" stop="20260903095511 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>رادیو شهر ما (باران)</sub-title>
+    <length units="seconds">3278</length>
+  </programme>
+  <programme start="20260903060356 +0000" stop="20260903063627 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>سرو قامتان</sub-title>
+    <length units="seconds">1950</length>
+  </programme>
+  <programme start="20260903045543 +0000" stop="20260903060340 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">4078</length>
+  </programme>
+  <programme start="20260903044311 +0000" stop="20260903045309 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">598</length>
+  </programme>
+  <programme start="20260903043428 +0000" stop="20260903044309 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>فراز 1 تا 21 دعای 47 صحیفه سجادیه</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260903034447 +0000" stop="20260903035805 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">798</length>
+  </programme>
+  <programme start="20260903024136 +0000" stop="20260903025030 +0000" channel="baran">
+    <title>12 شهریور 1405</title>
+    <sub-title>ایران جان (باران)</sub-title>
+    <length units="seconds">534</length>
+  </programme>
+  <programme start="20260903015802 +0000" stop="20260903024118 +0000" channel="baran">
+    <title>سازه های بزرگ با ریچارد هموند - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">2596</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
@@ -275,6 +1035,31 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260903100142 +0000" stop="20260903110009 +0000" channel="aftab">
+    <title>12 شهریور 1405</title>
+    <sub-title>پزشک شما (آفتاب)</sub-title>
+    <length units="seconds">3506</length>
+  </programme>
+  <programme start="20260903093822 +0000" stop="20260903094455 +0000" channel="aftab">
+    <title>12 شهریور 1405 - بخش 2</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">394</length>
+  </programme>
+  <programme start="20260903080010 +0000" stop="20260903093501 +0000" channel="aftab">
+    <title>12 شهریور 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5690</length>
+  </programme>
+  <programme start="20260903062236 +0000" stop="20260903063604 +0000" channel="aftab">
+    <title>12 شهریور 1405 - بخش 1</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">808</length>
+  </programme>
+  <programme start="20260903060831 +0000" stop="20260903061824 +0000" channel="aftab">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
   <programme start="20260903044250 +0000" stop="20260903051805 +0000" channel="aftab">
     <title>سهاب رحمت - 12 شهریور 1405</title>
     <sub-title>سخنرانی (آفتاب)</sub-title>
@@ -293,12 +1078,82 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260903125925 +0000" stop="20260903130313 +0000" channel="mahabad">
+    <title>وعده حق - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (مهاباد)</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20260903121711 +0000" stop="20260903125925 +0000" channel="mahabad">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>به خته وه ری (مهاباد)</sub-title>
+    <length units="seconds">2534</length>
+  </programme>
+  <programme start="20260903121357 +0000" stop="20260903121709 +0000" channel="mahabad">
+    <title>طواف - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (مهاباد)</sub-title>
+    <length units="seconds">192</length>
+  </programme>
+  <programme start="20260903105853 +0000" stop="20260903121355 +0000" channel="mahabad">
+    <title>۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>خاووخیزان (مهاباد)</sub-title>
+    <length units="seconds">4502</length>
+  </programme>
+  <programme start="20260903103649 +0000" stop="20260903104000 +0000" channel="mahabad">
+    <title>من و ما - ۱۲ شهریور ۱۴۰۵</title>
+    <sub-title>نماهنگ (مهاباد)</sub-title>
+    <length units="seconds">192</length>
+  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260903113636 +0000" stop="20260903115148 +0000" channel="khavaran">
+    <title>جهاد خدمت - 12 شهریور 1405 - بخش 3</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">912</length>
+  </programme>
+  <programme start="20260903095944 +0000" stop="20260903113302 +0000" channel="khavaran">
+    <title>جهاد خدمت - 12 شهریور 1405 - بخش 2</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">5598</length>
+  </programme>
+  <programme start="20260903084108 +0000" stop="20260903095944 +0000" channel="khavaran">
+    <title>جهاد خدمت - 12 شهریور 1405 - بخش 1</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">4716</length>
+  </programme>
+  <programme start="20260903082423 +0000" stop="20260903083754 +0000" channel="khavaran">
+    <title>12 شهریور 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">812</length>
+  </programme>
+  <programme start="20260903070101 +0000" stop="20260903072620 +0000" channel="khavaran">
+    <title>12 شهریور 1405</title>
+    <sub-title>کوچه باغ (خاوران)</sub-title>
+    <length units="seconds">1520</length>
+  </programme>
+  <programme start="20260903053417 +0000" stop="20260903061436 +0000" channel="khavaran">
+    <title>ایران از بالا- قزوین - 12 شهریور 1405</title>
+    <sub-title>ایران جان (شبکه خاوران)</sub-title>
+    <length units="seconds">2420</length>
+  </programme>
+  <programme start="20260903050221 +0000" stop="20260903051046 +0000" channel="khavaran">
+    <title>12 شهریور 1405</title>
+    <sub-title>دعای عهد (خاوران)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260903035938 +0000" stop="20260903050050 +0000" channel="khavaran">
+    <title>12 شهریور 1405</title>
+    <sub-title>گلشن وحی (خاوران)</sub-title>
+    <length units="seconds">3672</length>
+  </programme>
+  <programme start="20260903025321 +0000" stop="20260903032802 +0000" channel="khavaran">
+    <title>ابرماشین ها - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خاوران)</sub-title>
+    <length units="seconds">2082</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
