@@ -3,20 +3,6 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
-  <programme start="20260904161639 +0000" stop="20260904180133 +0000" channel="tv1">
-    <title>در مسیر تندباد</title>
-    <length units="seconds">6072</length>
-  </programme>
-  <programme start="20260904161137 +0000" stop="20260904161638 +0000" channel="tv1">
-    <title>معرفی و بررسی فیلم سینمایی در مسیر تندباد - 13 شهریور 1405</title>
-    <sub-title>در مسیر تندباد</sub-title>
-    <length units="seconds">302</length>
-  </programme>
-  <programme start="20260904140028 +0000" stop="20260904145703 +0000" channel="tv1">
-    <title>13 شهریور 1405</title>
-    <sub-title>اخبار نیمروزی </sub-title>
-    <length units="seconds">3394</length>
-  </programme>
   <programme start="20260904124454 +0000" stop="20260904134411 +0000" channel="tv1">
     <title>13 شهریور 1405</title>
     <sub-title>طرحی برای فردا </sub-title>
@@ -70,53 +56,49 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
-  <programme start="20260904170149 +0000" stop="20260904184017 +0000" channel="tv2">
-    <title>سفر جادویی</title>
-    <length units="seconds">5670</length>
-  </programme>
-  <programme start="20260904140945 +0000" stop="20260904142703 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>روایت حضور </sub-title>
-    <length units="seconds">1038</length>
-  </programme>
-  <programme start="20260904131529 +0000" stop="20260904140208 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>برش طلایی </sub-title>
-    <length units="seconds">2800</length>
-  </programme>
-  <programme start="20260904122543 +0000" stop="20260904131245 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>ایران ما (شبکه ۲)</sub-title>
-    <length units="seconds">2822</length>
-  </programme>
-  <programme start="20260904090051 +0000" stop="20260904112154 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>صبحانه ایرانی ۱۴۰۵</sub-title>
-    <length units="seconds">7866</length>
-  </programme>
-  <programme start="20260904070102 +0000" stop="20260904075815 +0000" channel="tv2">
-    <title>دعای ندبه - 13 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
-    <length units="seconds">3432</length>
-  </programme>
-  <programme start="20260904044032 +0000" stop="20260904044411 +0000" channel="tv2">
-    <title>دعای نادعلی - 13 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
-    <length units="seconds">218</length>
-  </programme>
-  <programme start="20260904042912 +0000" stop="20260904043439 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>دعای هفتم صحیفه سجادیه</sub-title>
-    <length units="seconds">326</length>
-  </programme>
-  <programme start="20260904041620 +0000" stop="20260904042448 +0000" channel="tv2">
-    <title>13 شهریور 1405</title>
-    <sub-title>دعای عهد</sub-title>
-    <length units="seconds">508</length>
-  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260904184608 +0000" stop="20260904185831 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>اذان و نماز (شبکه ۳)</sub-title>
+    <length units="seconds">744</length>
+  </programme>
+  <programme start="20260904180852 +0000" stop="20260904183917 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>سیاست خارجی ۱۴۰5</sub-title>
+    <length units="seconds">1826</length>
+  </programme>
+  <programme start="20260904173730 +0000" stop="20260904180648 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>محفل ستاره ها</sub-title>
+    <length units="seconds">1758</length>
+  </programme>
+  <programme start="20260904164533 +0000" stop="20260904173110 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>شوک</sub-title>
+    <length units="seconds">2736</length>
+  </programme>
+  <programme start="20260904111625 +0000" stop="20260904115602 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>یک ماه مانده</sub-title>
+    <length units="seconds">2378</length>
+  </programme>
+  <programme start="20260904083900 +0000" stop="20260904100615 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>صبح و نشاط 1405</sub-title>
+    <length units="seconds">5234</length>
+  </programme>
+  <programme start="20260904082512 +0000" stop="20260904083045 +0000" channel="tv3">
+    <title>نمایشگاه بین المللی تکنولوژی نوین - 13 شهریور 1405</title>
+    <sub-title>گزارش روز ۱۴0۵ (شبکه ۳)</sub-title>
+    <length units="seconds">332</length>
+  </programme>
+  <programme start="20260904060939 +0000" stop="20260904063713 +0000" channel="tv3">
+    <title>13 شهریور 1405</title>
+    <sub-title>عطر صبح 1405</sub-title>
+    <length units="seconds">1654</length>
+  </programme>
   <programme start="20260904060115 +0000" stop="20260904060939 +0000" channel="tv3">
     <title>13 شهریور 1405</title>
     <sub-title>دعای عهد (شبکه ۳)</sub-title>
@@ -130,31 +112,6 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
-  <programme start="20260904180514 +0000" stop="20260904182922 +0000" channel="tv4">
-    <title>پژوهش و کشاورزی - 13 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (شبکه 4)</sub-title>
-    <length units="seconds">1448</length>
-  </programme>
-  <programme start="20260904175030 +0000" stop="20260904180050 +0000" channel="tv4">
-    <title>پارک فناوری - 13 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (شبکه 4)</sub-title>
-    <length units="seconds">621</length>
-  </programme>
-  <programme start="20260904160000 +0000" stop="20260904165543 +0000" channel="tv4">
-    <title>13 شهریور 1405</title>
-    <sub-title>چند دقیقه برای تفکر</sub-title>
-    <length units="seconds">3343</length>
-  </programme>
-  <programme start="20260904150232 +0000" stop="20260904154946 +0000" channel="tv4">
-    <title>13 شهریور 1405</title>
-    <sub-title>ایران ما (شبکه 4)</sub-title>
-    <length units="seconds">2834</length>
-  </programme>
-  <programme start="20260904060653 +0000" stop="20260904064000 +0000" channel="tv4">
-    <title>13 شهریور 1405</title>
-    <sub-title>سحاب رحمت</sub-title>
-    <length units="seconds">1988</length>
-  </programme>
   <programme start="20260904060113 +0000" stop="20260904060156 +0000" channel="tv4">
     <title>13 شهریور 1405</title>
     <sub-title>از باران تا ایمان</sub-title>
@@ -163,9 +120,74 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260904220051 +0000" stop="20260904225516 +0000" channel="nasim">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>قصه های هومن و جناب خان</sub-title>
+    <length units="seconds">2906</length>
+  </programme>
+  <programme start="20260904200521 +0000" stop="20260904210226 +0000" channel="nasim">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>هزار داستان ۱۴۰۵</sub-title>
+    <length units="seconds">3272</length>
+  </programme>
+  <programme start="20260904190700 +0000" stop="20260904195917 +0000" channel="nasim">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>بی حاشیه</sub-title>
+    <length units="seconds">2956</length>
+  </programme>
+  <programme start="20260904180056 +0000" stop="20260904183150 +0000" channel="nasim">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>نسیم آوا (جدید)</sub-title>
+    <length units="seconds">1854</length>
+  </programme>
+  <programme start="20260904110300 +0000" stop="20260904115014 +0000" channel="nasim">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2834</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260904232954 +0000" stop="20260904233357 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 23:30 (خبر)</sub-title>
+    <length units="seconds">244</length>
+  </programme>
+  <programme start="20260904230012 +0000" stop="20260904230859 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 23:00 (خبر)</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20260904224523 +0000" stop="20260904224910 +0000" channel="irinn">
+    <title>میلیونر زاغه نشین</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">226</length>
+  </programme>
+  <programme start="20260904215904 +0000" stop="20260904224520 +0000" channel="irinn">
+    <title>13 شهریور 1405 - دکتر امانی</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">2774</length>
+  </programme>
+  <programme start="20260904205956 +0000" stop="20260904215902 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3544</length>
+  </programme>
+  <programme start="20260904203525 +0000" stop="20260904205015 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">890</length>
+  </programme>
+  <programme start="20260904191010 +0000" stop="20260904203521 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">5110</length>
+  </programme>
+  <programme start="20260904190011 +0000" stop="20260904191000 +0000" channel="irinn">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">590</length>
+  </programme>
   <programme start="20260904183010 +0000" stop="20260904183531 +0000" channel="irinn">
     <title>13 شهریور 1405</title>
     <sub-title>اخبار ساعت 18:30 </sub-title>
@@ -376,29 +398,14 @@
     <sub-title>اخبار ساعت 4:00 </sub-title>
     <length units="seconds">704</length>
   </programme>
-  <programme start="20260904030010 +0000" stop="20260904031141 +0000" channel="irinn">
-    <title>12 شهریور 1405</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">692</length>
-  </programme>
-  <programme start="20260904020010 +0000" stop="20260904021107 +0000" channel="irinn">
-    <title>13 شهریور 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">658</length>
-  </programme>
-  <programme start="20260904010009 +0000" stop="20260904010857 +0000" channel="irinn">
-    <title>13 شهریور 1405</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">528</length>
-  </programme>
-  <programme start="20260904000001 +0000" stop="20260904003516 +0000" channel="irinn">
-    <title>13 شهریور 1405</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">2114</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260904192600 +0000" stop="20260904221935 +0000" channel="varzesh">
+    <title>13 شهریور 1404</title>
+    <sub-title>شب های فوتبالی 06-05</sub-title>
+    <length units="seconds">10416</length>
+  </programme>
   <programme start="20260904170032 +0000" stop="20260904183740 +0000" channel="varzesh">
     <title>گیتی پسند - فولاد زرند</title>
     <sub-title>لیگ برتر فوتسال</sub-title>
@@ -427,68 +434,153 @@
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
-  <programme start="20260904021610 +0000" stop="20260904031852 +0000" channel="hdtest">
-    <title>قسمت 4</title>
-    <sub-title>لوپن 2</sub-title>
-    <length units="seconds">3762</length>
-  </programme>
-  <programme start="20260904012710 +0000" stop="20260904021610 +0000" channel="hdtest">
-    <title>قسمت 3</title>
-    <sub-title>لوپن 2</sub-title>
-    <length units="seconds">2940</length>
-  </programme>
-  <programme start="20260904004613 +0000" stop="20260904012710 +0000" channel="hdtest">
-    <title>قسمت 2</title>
-    <sub-title>لوپن 2</sub-title>
-    <length units="seconds">2402</length>
-  </programme>
-  <programme start="20260904000112 +0000" stop="20260904004009 +0000" channel="hdtest">
-    <title>قسمت 1</title>
-    <sub-title>لوپن 2</sub-title>
-    <length units="seconds">2336</length>
-  </programme>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260904195715 +0000" stop="20260904195834 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">78</length>
+  </programme>
+  <programme start="20260904195101 +0000" stop="20260904195712 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>سفرهای شگفت انگیز </sub-title>
+    <length units="seconds">370</length>
+  </programme>
+  <programme start="20260904172208 +0000" stop="20260904180111 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>سلام به آینده</sub-title>
+    <length units="seconds">2344</length>
+  </programme>
+  <programme start="20260904160014 +0000" stop="20260904172137 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>دلیران</sub-title>
+    <length units="seconds">4884</length>
+  </programme>
+  <programme start="20260904153045 +0000" stop="20260904155039 +0000" channel="pooya">
+    <title>قسمت 10</title>
+    <sub-title>شجاعان</sub-title>
+    <length units="seconds">1194</length>
+  </programme>
+  <programme start="20260904151332 +0000" stop="20260904151954 +0000" channel="pooya">
+    <title>بچه های خلیج فارس - 13 شهریور 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">382</length>
+  </programme>
+  <programme start="20260904135454 +0000" stop="20260904140005 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>سفرهای شگفت انگیز </sub-title>
+    <length units="seconds">312</length>
+  </programme>
+  <programme start="20260904133039 +0000" stop="20260904134016 +0000" channel="pooya">
+    <title>قسمت 8</title>
+    <sub-title>ببعی</sub-title>
+    <length units="seconds">576</length>
+  </programme>
+  <programme start="20260904130046 +0000" stop="20260904131525 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>فضایی ها</sub-title>
+    <length units="seconds">880</length>
+  </programme>
+  <programme start="20260904123039 +0000" stop="20260904123937 +0000" channel="pooya">
+    <title>قسمت 75</title>
+    <sub-title>چیا</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20260904120852 +0000" stop="20260904121342 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20260904114048 +0000" stop="20260904114430 +0000" channel="pooya">
+    <title>قسمت 106</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260904113146 +0000" stop="20260904114002 +0000" channel="pooya">
+    <title>قسمت 70</title>
+    <sub-title>آجیلی ها</sub-title>
+    <length units="seconds">496</length>
+  </programme>
+  <programme start="20260904110046 +0000" stop="20260904113108 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>اعجوبه ها </sub-title>
+    <length units="seconds">1822</length>
+  </programme>
+  <programme start="20260904104339 +0000" stop="20260904104504 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20260904103957 +0000" stop="20260904104259 +0000" channel="pooya">
+    <title>گنجشک ها خوبند - 13 شهریور 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260904102315 +0000" stop="20260904102410 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">54</length>
+  </programme>
+  <programme start="20260904100903 +0000" stop="20260904101139 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20260904093856 +0000" stop="20260904094113 +0000" channel="pooya">
+    <title>یک بچه خوب - 13 شهریور 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">136</length>
+  </programme>
+  <programme start="20260904085723 +0000" stop="20260904090020 +0000" channel="pooya">
+    <title>13 شهریور 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">176</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260904220038 +0000" stop="20260904224915 +0000" channel="ifilm">
+    <title>قسمت 17</title>
+    <sub-title>غریبه</sub-title>
+    <length units="seconds">2588</length>
+  </programme>
+  <programme start="20260904210109 +0000" stop="20260904214920 +0000" channel="ifilm">
+    <title>قسمت 1</title>
+    <sub-title>شوق پرواز</sub-title>
+    <length units="seconds">2508</length>
+  </programme>
+  <programme start="20260904200032 +0000" stop="20260904205023 +0000" channel="ifilm">
+    <title>قسمت 19</title>
+    <sub-title>متهم گریخت</sub-title>
+    <length units="seconds">2508</length>
+  </programme>
+  <programme start="20260904190024 +0000" stop="20260904194122 +0000" channel="ifilm">
+    <title>قسمت 21</title>
+    <sub-title>خداحافظ بچه</sub-title>
+    <length units="seconds">2160</length>
+  </programme>
+  <programme start="20260904180025 +0000" stop="20260904184146 +0000" channel="ifilm">
+    <title>قسمت 6</title>
+    <sub-title>هم سایه </sub-title>
+    <length units="seconds">2482</length>
+  </programme>
+  <programme start="20260904170026 +0000" stop="20260904175201 +0000" channel="ifilm">
+    <title>قسمت 20</title>
+    <sub-title>کمربندها را ببندیم</sub-title>
+    <length units="seconds">2742</length>
+  </programme>
+  <programme start="20260904160024 +0000" stop="20260904165225 +0000" channel="ifilm">
+    <title>قسمت 16</title>
+    <sub-title>آیینه</sub-title>
+    <length units="seconds">2816</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
-  <programme start="20260904181031 +0000" stop="20260904183224 +0000" channel="tehran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>تهرانگرد (سری جدید)</sub-title>
-    <length units="seconds">1312</length>
-  </programme>
-  <programme start="20260904180337 +0000" stop="20260904180546 +0000" channel="tehran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>خبرنگار مردمی ، شصت و پنج ثانیه ۱۴۰۳</sub-title>
-    <length units="seconds">128</length>
-  </programme>
-  <programme start="20260904161112 +0000" stop="20260904180152 +0000" channel="tehran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>ورزشگاه (۱۴۰۵)</sub-title>
-    <length units="seconds">6640</length>
-  </programme>
-  <programme start="20260904154443 +0000" stop="20260904154613 +0000" channel="tehran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>شهروند خبرنگار</sub-title>
-    <length units="seconds">90</length>
-  </programme>
-  <programme start="20260904153718 +0000" stop="20260904154443 +0000" channel="tehran">
-    <title>مشکلات عدم وجود فضای سبز - پردیس</title>
-    <sub-title>در استان تهران ۱۴۰5</sub-title>
-    <length units="seconds">446</length>
-  </programme>
-  <programme start="20260904121732 +0000" stop="20260904132419 +0000" channel="tehran">
-    <title>13 شهریور 1405</title>
-    <sub-title>تا نیایش 1405</sub-title>
-    <length units="seconds">4008</length>
-  </programme>
   <programme start="20260904100000 +0000" stop="20260904104448 +0000" channel="tehran">
     <title>13 شهریور 1405</title>
     <sub-title>طهرانشاط </sub-title>
@@ -502,6 +594,66 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20260904224842 +0000" stop="20260904225720 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>دانستنیها (مستند)</sub-title>
+    <length units="seconds">518</length>
+  </programme>
+  <programme start="20260904224442 +0000" stop="20260904224836 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>فرانما (مستند)</sub-title>
+    <length units="seconds">234</length>
+  </programme>
+  <programme start="20260904220030 +0000" stop="20260904223718 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>حیات وحش منوجان</sub-title>
+    <length units="seconds">2208</length>
+  </programme>
+  <programme start="20260904214149 +0000" stop="20260904215640 +0000" channel="mostanad">
+    <title>هنر مستند - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">890</length>
+  </programme>
+  <programme start="20260904213319 +0000" stop="20260904214001 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>دوربین مستند</sub-title>
+    <length units="seconds">402</length>
+  </programme>
+  <programme start="20260904205945 +0000" stop="20260904213125 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>جاری تا بی نهایت (مستند)</sub-title>
+    <length units="seconds">1900</length>
+  </programme>
+  <programme start="20260904205019 +0000" stop="20260904205704 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>برش مستند</sub-title>
+    <length units="seconds">404</length>
+  </programme>
+  <programme start="20260904204817 +0000" stop="20260904205016 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>عطر دمنوش</sub-title>
+    <length units="seconds">118</length>
+  </programme>
+  <programme start="20260904204214 +0000" stop="20260904204803 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایران جان (مستند)</sub-title>
+    <length units="seconds">350</length>
+  </programme>
+  <programme start="20260904200039 +0000" stop="20260904203917 +0000" channel="mostanad">
+    <title>چالش نهایی - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2318</length>
+  </programme>
+  <programme start="20260904193518 +0000" stop="20260904195302 +0000" channel="mostanad">
+    <title>برای یک پرچم - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">1064</length>
+  </programme>
+  <programme start="20260904191000 +0000" stop="20260904193403 +0000" channel="mostanad">
+    <title>13 شهریور 1405</title>
+    <sub-title>تاج و خون</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
   <programme start="20260904165957 +0000" stop="20260904181945 +0000" channel="mostanad">
     <title>13 شهریور 1405</title>
     <sub-title>نردبان 1405</sub-title>
@@ -515,134 +667,19 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
-  <programme start="20260904190828 +0000" stop="20260904191203 +0000" channel="quran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>یک صفحه یک آیه </sub-title>
-    <length units="seconds">216</length>
-  </programme>
-  <programme start="20260904190053 +0000" stop="20260904190827 +0000" channel="quran">
-    <title>صفحه ۱۳۷ - ۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>نور علی نور</sub-title>
-    <length units="seconds">452</length>
-  </programme>
-  <programme start="20260904183437 +0000" stop="20260904184234 +0000" channel="quran">
-    <title>امیرحسین انواری - ۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">476</length>
-  </programme>
-  <programme start="20260904175420 +0000" stop="20260904183436 +0000" channel="quran">
-    <title>۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>یاد خدا </sub-title>
-    <length units="seconds">2416</length>
-  </programme>
-  <programme start="20260904165755 +0000" stop="20260904175353 +0000" channel="quran">
-    <title>جز ۱۳ - ۱۳ شهریور ۱۴۰۵ - مزار مطهر رهبر مجاهد شهید</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3358</length>
-  </programme>
-  <programme start="20260904164015 +0000" stop="20260904165755 +0000" channel="quran">
-    <title>دعای سمات - ۱۳ شهریور ۱۴۰۵</title>
-    <sub-title>ادعیه و زیارت (قرآن)</sub-title>
-    <length units="seconds">1060</length>
-  </programme>
-  <programme start="20260904160127 +0000" stop="20260904162955 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
-    <length units="seconds">1708</length>
-  </programme>
-  <programme start="20260904140701 +0000" stop="20260904150041 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>ایران ما (قرآن)</sub-title>
-    <length units="seconds">3220</length>
-  </programme>
-  <programme start="20260904130020 +0000" stop="20260904135708 +0000" channel="quran">
-    <title>جز 13 - 13 شهریور 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3408</length>
-  </programme>
-  <programme start="20260904103255 +0000" stop="20260904114157 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>آیه</sub-title>
-    <length units="seconds">4142</length>
-  </programme>
-  <programme start="20260904095510 +0000" stop="20260904100324 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>نوجواب (فصل دوم)</sub-title>
-    <length units="seconds">494</length>
-  </programme>
-  <programme start="20260904083452 +0000" stop="20260904085907 +0000" channel="quran">
-    <title>یاسر شرقاوی - 13 شهریور 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">1454</length>
-  </programme>
-  <programme start="20260904070207 +0000" stop="20260904075616 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>دعای ندبه (قرآن)</sub-title>
-    <length units="seconds">3250</length>
-  </programme>
-  <programme start="20260904055026 +0000" stop="20260904062009 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>عبرتهای بنی اسرائیل </sub-title>
-    <length units="seconds">1782</length>
-  </programme>
-  <programme start="20260904044448 +0000" stop="20260904054954 +0000" channel="quran">
-    <title>سرداب حرم مطهر امام حسین (ع) - 13 شهریور 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3906</length>
-  </programme>
-  <programme start="20260904035035 +0000" stop="20260904040103 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>زیارت وارث</sub-title>
-    <length units="seconds">628</length>
-  </programme>
-  <programme start="20260904034556 +0000" stop="20260904035035 +0000" channel="quran">
-    <title>قزوین ایران - 13 شهریور 1405</title>
-    <sub-title>ایران جان (قرآن)</sub-title>
-    <length units="seconds">278</length>
-  </programme>
-  <programme start="20260904030118 +0000" stop="20260904030530 +0000" channel="quran">
-    <title>سوره جمعه - 13 شهریور 1405</title>
-    <sub-title>ترتیل قرآن کریم (قرآن)</sub-title>
-    <length units="seconds">252</length>
-  </programme>
-  <programme start="20260904024815 +0000" stop="20260904030115 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>نشانه ها</sub-title>
-    <length units="seconds">780</length>
-  </programme>
-  <programme start="20260904023228 +0000" stop="20260904024300 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>تفسیر سوره فتح</sub-title>
-    <length units="seconds">632</length>
-  </programme>
-  <programme start="20260904021958 +0000" stop="20260904023205 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
-    <length units="seconds">726</length>
-  </programme>
-  <programme start="20260904020500 +0000" stop="20260904021325 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>آیات و روایات راهبردی </sub-title>
-    <length units="seconds">504</length>
-  </programme>
-  <programme start="20260904003550 +0000" stop="20260904020028 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>نیایش به وقت حاج قاسم</sub-title>
-    <length units="seconds">5078</length>
-  </programme>
-  <programme start="20260904003032 +0000" stop="20260904003525 +0000" channel="quran">
-    <title>13 شهریور 1405</title>
-    <sub-title>تربت ما (قرآن)</sub-title>
-    <length units="seconds">292</length>
-  </programme>
-  <programme start="20260904001756 +0000" stop="20260904002810 +0000" channel="quran">
-    <title>آیات 7 تا 13 سوره اعلی - 13 شهریور 1405</title>
-    <sub-title>پویش حفظ جزء ۳۰ قرآن کریم </sub-title>
-    <length units="seconds">614</length>
-  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260904200451 +0000" stop="20260904202611 +0000" channel="amouzesh">
+    <title>مهمان - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
+    <length units="seconds">1279</length>
+  </programme>
+  <programme start="20260904192524 +0000" stop="20260904200025 +0000" channel="amouzesh">
+    <title>13 شهریور 1405</title>
+    <sub-title>پیشنهاد</sub-title>
+    <length units="seconds">2100</length>
+  </programme>
   <programme start="20260904165635 +0000" stop="20260904173442 +0000" channel="amouzesh">
     <title>13 شهریور 1405</title>
     <sub-title>آموزش نقاشی خط</sub-title>
@@ -756,6 +793,46 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260904225248 +0000" stop="20260904232846 +0000" channel="salamat">
+    <title>فوریت های پزشکی - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>مستند سلامت</sub-title>
+    <length units="seconds">2148</length>
+  </programme>
+  <programme start="20260904220846 +0000" stop="20260904225153 +0000" channel="salamat">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>راز داران </sub-title>
+    <length units="seconds">2575</length>
+  </programme>
+  <programme start="20260904215744 +0000" stop="20260904220508 +0000" channel="salamat">
+    <title>سفر ایمن در  آخرین ماه سال - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">443</length>
+  </programme>
+  <programme start="20260904210954 +0000" stop="20260904215531 +0000" channel="salamat">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>سپهر سلامت</sub-title>
+    <length units="seconds">2735</length>
+  </programme>
+  <programme start="20260904200125 +0000" stop="20260904205733 +0000" channel="salamat">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>استدیو سلامت</sub-title>
+    <length units="seconds">3358</length>
+  </programme>
+  <programme start="20260904183157 +0000" stop="20260904191559 +0000" channel="salamat">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>خانه سلامت</sub-title>
+    <length units="seconds">1471</length>
+  </programme>
+  <programme start="20260904180036 +0000" stop="20260904183032 +0000" channel="salamat">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>مسابقه رمز سلامتی</sub-title>
+    <length units="seconds">1784</length>
+  </programme>
+  <programme start="20260904174409 +0000" stop="20260904175112 +0000" channel="salamat">
+    <title>کودک در خودرو - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">423</length>
+  </programme>
   <programme start="20260904082958 +0000" stop="20260904084831 +0000" channel="salamat">
     <title>13 شهریور 1405</title>
     <sub-title>ایران فعال </sub-title>
@@ -764,6 +841,60 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260904223047 +0000" stop="20260904224507 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>یک روایت ساده </sub-title>
+    <length units="seconds">860</length>
+  </programme>
+  <programme start="20260904220153 +0000" stop="20260904222907 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>میدان </sub-title>
+    <length units="seconds">1634</length>
+  </programme>
+  <programme start="20260904213147 +0000" stop="20260904220118 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>انتقام</sub-title>
+    <length units="seconds">1772</length>
+  </programme>
+  <programme start="20260904205900 +0000" stop="20260904212632 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>سرزمین ستاره ها</sub-title>
+    <length units="seconds">1652</length>
+  </programme>
+  <programme start="20260904202359 +0000" stop="20260904203300 +0000" channel="ofogh">
+    <title>اگر  نبود - 13 شهریور 1405</title>
+    <sub-title>برنامه سیاسی تاریخی (افق)</sub-title>
+    <length units="seconds">542</length>
+  </programme>
+  <programme start="20260904191549 +0000" stop="20260904193030 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>یک روایت ساده </sub-title>
+    <length units="seconds">882</length>
+  </programme>
+  <programme start="20260904190603 +0000" stop="20260904191300 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>مسیر زندگی </sub-title>
+    <length units="seconds">418</length>
+  </programme>
+  <programme start="20260904165225 +0000" stop="20260904183912 +0000" channel="ofogh">
+    <title>آخرین مرحله</title>
+    <length units="seconds">6406</length>
+  </programme>
+  <programme start="20260904160037 +0000" stop="20260904165135 +0000" channel="ofogh">
+    <title>13 شهریور 1405 - گزیده هفته</title>
+    <sub-title>انارستان</sub-title>
+    <length units="seconds">3060</length>
+  </programme>
+  <programme start="20260904123011 +0000" stop="20260904125550 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>راه نو (افق)</sub-title>
+    <length units="seconds">1538</length>
+  </programme>
+  <programme start="20260904080024 +0000" stop="20260904084741 +0000" channel="ofogh">
+    <title>13 شهریور 1405</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">2838</length>
+  </programme>
   <programme start="20260904043804 +0000" stop="20260904051244 +0000" channel="ofogh">
     <title>13 شهریور 1405</title>
     <sub-title>حدیث سرو</sub-title>
@@ -777,36 +908,6 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
-  <programme start="20260904183016 +0000" stop="20260904184033 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>صبح ظهور (امید)</sub-title>
-    <length units="seconds">618</length>
-  </programme>
-  <programme start="20260904160215 +0000" stop="20260904161803 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>هشت</sub-title>
-    <length units="seconds">948</length>
-  </programme>
-  <programme start="20260904152323 +0000" stop="20260904160023 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
-    <length units="seconds">2220</length>
-  </programme>
-  <programme start="20260904151850 +0000" stop="20260904152316 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>بازی بین</sub-title>
-    <length units="seconds">266</length>
-  </programme>
-  <programme start="20260904145628 +0000" stop="20260904151526 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>هشت</sub-title>
-    <length units="seconds">1138</length>
-  </programme>
-  <programme start="20260904143003 +0000" stop="20260904145302 +0000" channel="omid">
-    <title>13 شهریور 1405</title>
-    <sub-title>شبکه بازی: فصل 3 </sub-title>
-    <length units="seconds">1380</length>
-  </programme>
   <programme start="20260904065649 +0000" stop="20260904075505 +0000" channel="omid">
     <title>13 شهریور 1405</title>
     <sub-title>صبکوک (امید)</sub-title>
@@ -818,6 +919,26 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260904211317 +0000" stop="20260904233046 +0000" channel="irinn2">
+    <title>اجتماع مردمی در حمایت از رزمندگان اسلام و خون خواهی امام شهید - 13 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">8248</length>
+  </programme>
+  <programme start="20260904195246 +0000" stop="20260904201131 +0000" channel="irinn2">
+    <title>نشست خبری سخنگوی دبیرکل سازمان ملل -13 شهریور 1405 </title>
+    <sub-title>نشست خبری (خبر 2)</sub-title>
+    <length units="seconds">1126</length>
+  </programme>
+  <programme start="20260904183334 +0000" stop="20260904184334 +0000" channel="irinn2">
+    <title>تجلیل از برگزیدگان مسابقات سراسری قرآن کریم -  13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خبر ۲)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260904155208 +0000" stop="20260904164302 +0000" channel="irinn2">
+    <title>تشییع پیکر شهید مدافع وطن سید مالک موسوی تبار -   13 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3054</length>
+  </programme>
   <programme start="20260904120046 +0000" stop="20260904130149 +0000" channel="irinn2">
     <title>خطبه های نماز جمعه - 13 شهریور 1405</title>
     <sub-title>گزارش خبری </sub-title>
@@ -836,9 +957,44 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20260904133415 +0000" stop="20260904141520 +0000" channel="azarbayjangharbi">
+    <title>13 شهریور 1405</title>
+    <sub-title>جهان گرد (آذربایجان غربی)</sub-title>
+    <length units="seconds">2465</length>
+  </programme>
+  <programme start="20260904114000 +0000" stop="20260904121000 +0000" channel="azarbayjangharbi">
+    <title>ساعت عاشقی - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1800</length>
+  </programme>
+  <programme start="20260904070200 +0000" stop="20260904075800 +0000" channel="azarbayjangharbi">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (آذربایجان غربی)</sub-title>
+    <length units="seconds">3359</length>
+  </programme>
+  <programme start="20260904061855 +0000" stop="20260904070154 +0000" channel="azarbayjangharbi">
+    <title>جاسوسان صنعتی - 13 شهریور 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (آذربایجان غربی)</sub-title>
+    <length units="seconds">2579</length>
+  </programme>
+  <programme start="20260904060203 +0000" stop="20260904061029 +0000" channel="azarbayjangharbi">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای عهد (آذربایجان غربی)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260904044945 +0000" stop="20260904051830 +0000" channel="azarbayjangharbi">
+    <title>تاریخ شفاهی ایران - 13 شهریور 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1724</length>
+  </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260904193001 +0000" stop="20260904195211 +0000" channel="sahand">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1330</length>
+  </programme>
   <programme start="20260904180400 +0000" stop="20260904190416 +0000" channel="sahand">
     <title>13 شهریور 1405</title>
     <sub-title>پیام جمعه</sub-title>
@@ -912,6 +1068,51 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260904222711 +0000" stop="20260904231600 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1262</length>
+  </programme>
+  <programme start="20260904211243 +0000" stop="20260904222540 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">4378</length>
+  </programme>
+  <programme start="20260904203724 +0000" stop="20260904204621 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">536</length>
+  </programme>
+  <programme start="20260904200014 +0000" stop="20260904203431 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (البرز)</sub-title>
+    <length units="seconds">2056</length>
+  </programme>
+  <programme start="20260904180859 +0000" stop="20260904183751 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>ارسی (البرز)</sub-title>
+    <length units="seconds">1732</length>
+  </programme>
+  <programme start="20260904170021 +0000" stop="20260904180857 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>میدان دار</sub-title>
+    <length units="seconds">4116</length>
+  </programme>
+  <programme start="20260904154357 +0000" stop="20260904165738 +0000" channel="alborz">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>ارسی (البرز)</sub-title>
+    <length units="seconds">4422</length>
+  </programme>
+  <programme start="20260904115514 +0000" stop="20260904132701 +0000" channel="alborz">
+    <title>13 شهریور 1405</title>
+    <sub-title>خطبه های نماز جمعه (البرز)</sub-title>
+    <length units="seconds">5506</length>
+  </programme>
+  <programme start="20260904070138 +0000" stop="20260904075730 +0000" channel="alborz">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (البرز)</sub-title>
+    <length units="seconds">3352</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
@@ -1012,62 +1213,47 @@
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
-  <programme start="20260904112815 +0000" stop="20260904113935 +0000" channel="jahanbin">
-    <title>تمدار - 12 شهریور 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (جهانبین)</sub-title>
-    <length units="seconds">681</length>
-  </programme>
-  <programme start="20260904090243 +0000" stop="20260904093530 +0000" channel="jahanbin">
-    <title>ایران از بالا - 12 شهریور 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (جهانبین)</sub-title>
-    <length units="seconds">1966</length>
-  </programme>
-  <programme start="20260904070635 +0000" stop="20260904075430 +0000" channel="jahanbin">
-    <title>دعای ندبه - 12 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (جهانبین)</sub-title>
-    <length units="seconds">2875</length>
-  </programme>
-  <programme start="20260904060110 +0000" stop="20260904060545 +0000" channel="jahanbin">
-    <title>فرازی از مناجات خمس عشر - 12 شهریور 1405</title>
-    <sub-title>ادعیه و زیارت (جهانبین)</sub-title>
-    <length units="seconds">274</length>
-  </programme>
-  <programme start="20260904043524 +0000" stop="20260904044400 +0000" channel="jahanbin">
-    <title>12 شهریور 1405</title>
-    <sub-title>دعای عهد</sub-title>
-    <length units="seconds">517</length>
-  </programme>
-  <programme start="20260904034950 +0000" stop="20260904041200 +0000" channel="jahanbin">
-    <title>12 شهریور 1405</title>
-    <sub-title>مناجات امیرالمومنین (ع) (جهانبین)</sub-title>
-    <length units="seconds">1331</length>
-  </programme>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
-  <programme start="20260904072737 +0000" stop="20260904075722 +0000" channel="abadan">
-    <title>13 شهریور 1405</title>
-    <sub-title>برنامه طبیعت و حیات وحش (آبادان)</sub-title>
-    <length units="seconds">1783</length>
-  </programme>
-  <programme start="20260904050842 +0000" stop="20260904055555 +0000" channel="abadan">
-    <title>13 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">2822</length>
-  </programme>
-  <programme start="20260904025746 +0000" stop="20260904042219 +0000" channel="abadan">
-    <title>13 شهریور 1405</title>
-    <sub-title>برنامه سیاسی و تاریخی (آبادان)</sub-title>
-    <length units="seconds">5072</length>
-  </programme>
-  <programme start="20260904014509 +0000" stop="20260904024416 +0000" channel="abadan">
-    <title>روستا گرد - 13 شهریور 1405</title>
-    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
-    <length units="seconds">3546</length>
-  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260904210036 +0000" stop="20260904215311 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>شمیم آدینه (خراسان رضوی)</sub-title>
+    <length units="seconds">3156</length>
+  </programme>
+  <programme start="20260904202702 +0000" stop="20260904205102 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>ترنم آبادی</sub-title>
+    <length units="seconds">1440</length>
+  </programme>
+  <programme start="20260904195954 +0000" stop="20260904202230 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">1356</length>
+  </programme>
+  <programme start="20260904193631 +0000" stop="20260904194830 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>خراسان قدیم (خراسان رضوی)</sub-title>
+    <length units="seconds">718</length>
+  </programme>
+  <programme start="20260904184050 +0000" stop="20260904184615 +0000" channel="khorasanrazavi">
+    <title>مجازیوم - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">326</length>
+  </programme>
+  <programme start="20260904183329 +0000" stop="20260904183924 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>مادرانه</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20260904175556 +0000" stop="20260904180850 +0000" channel="khorasanrazavi">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای سمات (خراسان رضوی)</sub-title>
+    <length units="seconds">774</length>
+  </programme>
   <programme start="20260904172840 +0000" stop="20260904174733 +0000" channel="khorasanrazavi">
     <title>13 شهریور 1405</title>
     <sub-title>کافی شات</sub-title>
@@ -1089,6 +1275,36 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20260904095704 +0000" stop="20260904105830 +0000" channel="khalijefars">
+    <title>13 شهریور 1405</title>
+    <sub-title>سر پناه (خلیج فارس)</sub-title>
+    <length units="seconds">3687</length>
+  </programme>
+  <programme start="20260904090200 +0000" stop="20260904095230 +0000" channel="khalijefars">
+    <title>13 شهریور 1405</title>
+    <sub-title>گنج آبی </sub-title>
+    <length units="seconds">3030</length>
+  </programme>
+  <programme start="20260904080400 +0000" stop="20260904084430 +0000" channel="khalijefars">
+    <title>شجره طیبه - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">2428</length>
+  </programme>
+  <programme start="20260904071930 +0000" stop="20260904080025 +0000" channel="khalijefars">
+    <title>غیر رسمی - 13 شهریور 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (خلیج فارس)</sub-title>
+    <length units="seconds">2454</length>
+  </programme>
+  <programme start="20260904061625 +0000" stop="20260904065705 +0000" channel="khalijefars">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (خلیج فارس)</sub-title>
+    <length units="seconds">2440</length>
+  </programme>
+  <programme start="20260904060315 +0000" stop="20260904061150 +0000" channel="khalijefars">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای عهد (خلیج فارس)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
@@ -1201,9 +1417,44 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20260904163010 +0000" stop="20260904165005 +0000" channel="hamoon">
+    <title>13 شهریور 1405</title>
+    <sub-title>اخبار ساعت 16:30 (هامون)</sub-title>
+    <length units="seconds">1194</length>
+  </programme>
+  <programme start="20260904115449 +0000" stop="20260904123830 +0000" channel="hamoon">
+    <title>لاله خیز - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (هامون)</sub-title>
+    <length units="seconds">2622</length>
+  </programme>
+  <programme start="20260904113156 +0000" stop="20260904113641 +0000" channel="hamoon">
+    <title>13 شهریور 1405</title>
+    <sub-title>تلاوت قرآن (هامون)</sub-title>
+    <length units="seconds">284</length>
+  </programme>
+  <programme start="20260904091820 +0000" stop="20260904095945 +0000" channel="hamoon">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایرانگرد (هامون)</sub-title>
+    <length units="seconds">2484</length>
+  </programme>
+  <programme start="20260904070116 +0000" stop="20260904075628 +0000" channel="hamoon">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (هامون)</sub-title>
+    <length units="seconds">3312</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260904225940 +0000" stop="20260904231654 +0000" channel="fars">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (فارس)</sub-title>
+    <length units="seconds">1034</length>
+  </programme>
+  <programme start="20260904195952 +0000" stop="20260904202455 +0000" channel="fars">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">1504</length>
+  </programme>
   <programme start="20260904120347 +0000" stop="20260904125750 +0000" channel="fars">
     <title>13 شهریور 1405</title>
     <sub-title>خطبه های نماز جمعه (فارس)</sub-title>
@@ -1217,9 +1468,139 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260904225954 +0000" stop="20260904231714 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (قزوین)</sub-title>
+    <length units="seconds">1027</length>
+  </programme>
+  <programme start="20260904210049 +0000" stop="20260904225053 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>ایران جان </sub-title>
+    <length units="seconds">6603</length>
+  </programme>
+  <programme start="20260904202541 +0000" stop="20260904205129 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اردوگاه صاحب الامر عج (قزوین)</sub-title>
+    <length units="seconds">1546</length>
+  </programme>
+  <programme start="20260904202239 +0000" stop="20260904202530 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>قاب مینودری (قزوین)</sub-title>
+    <length units="seconds">170</length>
+  </programme>
+  <programme start="20260904200004 +0000" stop="20260904201850 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">1125</length>
+  </programme>
+  <programme start="20260904191130 +0000" stop="20260904195401 +0000" channel="qazvin">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>شاعرانه </sub-title>
+    <length units="seconds">2550</length>
+  </programme>
+  <programme start="20260904174121 +0000" stop="20260904183349 +0000" channel="qazvin">
+    <title>بوم و بر - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">3147</length>
+  </programme>
+  <programme start="20260904170133 +0000" stop="20260904173425 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایران جان </sub-title>
+    <length units="seconds">1971</length>
+  </programme>
+  <programme start="20260904145900 +0000" stop="20260904153835 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>سلام ایران</sub-title>
+    <length units="seconds">2373</length>
+  </programme>
+  <programme start="20260904134609 +0000" stop="20260904145657 +0000" channel="qazvin">
+    <title>سیردان - 13 شهریور 1405</title>
+    <sub-title>ایران جان </sub-title>
+    <length units="seconds">4247</length>
+  </programme>
+  <programme start="20260904121725 +0000" stop="20260904130629 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>در آدینه</sub-title>
+    <length units="seconds">2943</length>
+  </programme>
+  <programme start="20260904112250 +0000" stop="20260904115527 +0000" channel="qazvin">
+    <title>در باغ شهادت - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">1958</length>
+  </programme>
+  <programme start="20260904090018 +0000" stop="20260904101922 +0000" channel="qazvin">
+    <title>صبحانه ایرانی - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">4743</length>
+  </programme>
+  <programme start="20260904083055 +0000" stop="20260904085712 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">1577</length>
+  </programme>
+  <programme start="20260904080940 +0000" stop="20260904081925 +0000" channel="qazvin">
+    <title>ترنم - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20260904080502 +0000" stop="20260904080936 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایران جان </sub-title>
+    <length units="seconds">274</length>
+  </programme>
+  <programme start="20260904060156 +0000" stop="20260904075308 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (قزوین)</sub-title>
+    <length units="seconds">6671</length>
+  </programme>
+  <programme start="20260904053710 +0000" stop="20260904055620 +0000" channel="qazvin">
+    <title>روایت حضور - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">1152</length>
+  </programme>
+  <programme start="20260904053535 +0000" stop="20260904053646 +0000" channel="qazvin">
+    <title>13 شهریور 1405</title>
+    <sub-title>ایران جان </sub-title>
+    <length units="seconds">71</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260904230025 +0000" stop="20260904232524 +0000" channel="noor">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (قم)</sub-title>
+    <length units="seconds">1475</length>
+  </programme>
+  <programme start="20260904220042 +0000" stop="20260904225900 +0000" channel="noor">
+    <title>مردم در میدان -  ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3498</length>
+  </programme>
+  <programme start="20260904210224 +0000" stop="20260904215100 +0000" channel="noor">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>صلای وحدت (نور)</sub-title>
+    <length units="seconds">2904</length>
+  </programme>
+  <programme start="20260904195942 +0000" stop="20260904202115 +0000" channel="noor">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1293</length>
+  </programme>
+  <programme start="20260904192434 +0000" stop="20260904195808 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">2002</length>
+  </programme>
+  <programme start="20260904183642 +0000" stop="20260904190933 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">1960</length>
+  </programme>
+  <programme start="20260904160514 +0000" stop="20260904165528 +0000" channel="noor">
+    <title>افق روشن - ۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">2989</length>
+  </programme>
   <programme start="20260904061923 +0000" stop="20260904080420 +0000" channel="noor">
     <title>13 شهریور 1405</title>
     <sub-title>دعای ندبه (نور)</sub-title>
@@ -1367,12 +1748,112 @@
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
+  <programme start="20260904134358 +0000" stop="20260904135007 +0000" channel="taban">
+    <title>12 شهریور 1405</title>
+    <sub-title>قاب عاشقی (یزد)</sub-title>
+    <length units="seconds">370</length>
+  </programme>
+  <programme start="20260904123100 +0000" stop="20260904131400 +0000" channel="taban">
+    <title>12 شهریور 1405</title>
+    <sub-title>خوشا روستا (یزد)</sub-title>
+    <length units="seconds">2580</length>
+  </programme>
+  <programme start="20260904120000 +0000" stop="20260904120850 +0000" channel="taban">
+    <title>زیارت آل یاسین - 12 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (یزد)</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20260904100025 +0000" stop="20260904110630 +0000" channel="taban">
+    <title>12 شهریور 1405</title>
+    <sub-title>یزدونه</sub-title>
+    <length units="seconds">3955</length>
+  </programme>
+  <programme start="20260904070305 +0000" stop="20260904075225 +0000" channel="taban">
+    <title>12 شهریور 1405</title>
+    <sub-title>ایرانگرد (یزد)</sub-title>
+    <length units="seconds">2960</length>
+  </programme>
+  <programme start="20260904061706 +0000" stop="20260904070110 +0000" channel="taban">
+    <title>دعای ندبه -12 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (یزد)</sub-title>
+    <length units="seconds">2645</length>
+  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20260904130530 +0000" stop="20260904134014 +0000" channel="tabarestan">
+    <title>13 شهریور 1405</title>
+    <sub-title>جامعه فرهنگ اقتصاد</sub-title>
+    <length units="seconds">2084</length>
+  </programme>
+  <programme start="20260904120500 +0000" stop="20260904125900 +0000" channel="tabarestan">
+    <title>13 شهریور 1405</title>
+    <sub-title>بهشت پنهان (تبرستان)</sub-title>
+    <length units="seconds">3240</length>
+  </programme>
+  <programme start="20260904101550 +0000" stop="20260904113020 +0000" channel="tabarestan">
+    <title>خنده یار - 13 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">4458</length>
+  </programme>
+  <programme start="20260904070025 +0000" stop="20260904074917 +0000" channel="tabarestan">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (تبرستان)</sub-title>
+    <length units="seconds">2931</length>
+  </programme>
+  <programme start="20260904060200 +0000" stop="20260904065325 +0000" channel="tabarestan">
+    <title>خونه مونه - 12 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">3084</length>
+  </programme>
+  <programme start="20260904045545 +0000" stop="20260904055110 +0000" channel="tabarestan">
+    <title>13 شهریور 1405</title>
+    <sub-title>چهار سوی علم (تبرستان)</sub-title>
+    <length units="seconds">3325</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260904175020 +0000" stop="20260904182548 +0000" channel="aftab">
+    <title>13 شهریور 1405</title>
+    <sub-title>بارگاه قدس</sub-title>
+    <length units="seconds">2128</length>
+  </programme>
+  <programme start="20260904170535 +0000" stop="20260904172142 +0000" channel="aftab">
+    <title>13 شهریور 1405 - بخش 2</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">966</length>
+  </programme>
+  <programme start="20260904160300 +0000" stop="20260904170011 +0000" channel="aftab">
+    <title>13 شهریور 1405 - مسجد جامع قزوین</title>
+    <sub-title>ایران جان</sub-title>
+    <length units="seconds">3432</length>
+  </programme>
+  <programme start="20260904120741 +0000" stop="20260904120803 +0000" channel="aftab">
+    <title>ذکر روز جمعه - 13 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (آفتاب)</sub-title>
+    <length units="seconds">22</length>
+  </programme>
+  <programme start="20260904115148 +0000" stop="20260904120738 +0000" channel="aftab">
+    <title>حدیث کساء - 13 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (آفتاب)</sub-title>
+    <length units="seconds">950</length>
+  </programme>
+  <programme start="20260904100955 +0000" stop="20260904104400 +0000" channel="aftab">
+    <title>قله ها - 13 شهریور 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (آفتاب)</sub-title>
+    <length units="seconds">2044</length>
+  </programme>
+  <programme start="20260904072759 +0000" stop="20260904074013 +0000" channel="aftab">
+    <title>13 شهریور 1405</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">734</length>
+  </programme>
+  <programme start="20260904061920 +0000" stop="20260904072402 +0000" channel="aftab">
+    <title>13 شهریور 1405</title>
+    <sub-title>دعای ندبه (آفتاب)</sub-title>
+    <length units="seconds">3882</length>
+  </programme>
   <programme start="20260904044523 +0000" stop="20260904051559 +0000" channel="aftab">
     <title>صهبای تسنیم - 13 شهریور 1405</title>
     <sub-title>سخنرانی (آفتاب)</sub-title>
@@ -1401,6 +1882,26 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
+  <programme start="20260904222838 +0000" stop="20260904225225 +0000" channel="mahabad">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30 (مهاباد)</sub-title>
+    <length units="seconds">1426</length>
+  </programme>
+  <programme start="20260904195932 +0000" stop="20260904204356 +0000" channel="mahabad">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>به ره و ئاوایی (مهاباد)</sub-title>
+    <length units="seconds">2664</length>
+  </programme>
+  <programme start="20260904192858 +0000" stop="20260904195523 +0000" channel="mahabad">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30 (مهاباد)</sub-title>
+    <length units="seconds">1584</length>
+  </programme>
+  <programme start="20260904121626 +0000" stop="20260904125933 +0000" channel="mahabad">
+    <title>۱۳ شهریور ۱۴۰۵</title>
+    <sub-title>به خته وه ری (مهاباد)</sub-title>
+    <length units="seconds">2586</length>
+  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
