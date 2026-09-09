@@ -3,12 +3,82 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260909124351 +0000" stop="20260909133202 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>سیمای خانواده 1405</sub-title>
+    <length units="seconds">2666</length>
+  </programme>
+  <programme start="20260909121246 +0000" stop="20260909122638 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">830</length>
+  </programme>
+  <programme start="20260909115223 +0000" stop="20260909115552 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">208</length>
+  </programme>
+  <programme start="20260909090155 +0000" stop="20260909105546 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">6552</length>
+  </programme>
+  <programme start="20260909080027 +0000" stop="20260909082921 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1734</length>
+  </programme>
+  <programme start="20260909075836 +0000" stop="20260909080018 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>صلوات خاصه امام رضا (ع)</sub-title>
+    <length units="seconds">100</length>
+  </programme>
+  <programme start="20260909060401 +0000" stop="20260909075359 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبح بخیر ایران 1405</sub-title>
+    <length units="seconds">6222</length>
+  </programme>
+  <programme start="20260909034659 +0000" stop="20260909043316 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">2776</length>
+  </programme>
+  <programme start="20260909031642 +0000" stop="20260909034511 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>قرآن و جامعه (رمضان 1404)</sub-title>
+    <length units="seconds">1708</length>
+  </programme>
+  <programme start="20260909014208 +0000" stop="20260909023722 +0000" channel="tv1">
+    <title>18 شهریور 1405</title>
+    <sub-title>ایران از بالا (شبکه 1)</sub-title>
+    <length units="seconds">3312</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260909100901 +0000" stop="20260909110613 +0000" channel="tv3">
+    <title>18 شهریور 1405</title>
+    <sub-title>طبیب 1405</sub-title>
+    <length units="seconds">3072</length>
+  </programme>
+  <programme start="20260909094517 +0000" stop="20260909095021 +0000" channel="tv3">
+    <title>محفل انس با قرآن - 18 شهریور 1405</title>
+    <sub-title>گزارش روز ۱۴03 (شبکه ۳)</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20260909081530 +0000" stop="20260909094344 +0000" channel="tv3">
+    <title>18 شهریور 1405</title>
+    <sub-title>سلام صبح بخیر 1405</sub-title>
+    <length units="seconds">4739</length>
+  </programme>
+  <programme start="20260909064834 +0000" stop="20260909075230 +0000" channel="tv3">
+    <title>18 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۳)</sub-title>
+    <length units="seconds">3836</length>
+  </programme>
   <programme start="20260909060941 +0000" stop="20260909064307 +0000" channel="tv3">
     <title>18 شهریور 1405</title>
     <sub-title>زلال سخن 1405</sub-title>
@@ -40,9 +110,149 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260909105636 +0000" stop="20260909114828 +0000" channel="nasim">
+    <title>18 شهریور 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">3112</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260909133012 +0000" stop="20260909135356 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1422</length>
+  </programme>
+  <programme start="20260909132718 +0000" stop="20260909133005 +0000" channel="irinn">
+    <title>مرواریدهای جنوب - 18 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">168</length>
+  </programme>
+  <programme start="20260909131129 +0000" stop="20260909132714 +0000" channel="irinn">
+    <title>18 شهریور 1405 - علیرضا کوهکن</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">944</length>
+  </programme>
+  <programme start="20260909130009 +0000" stop="20260909131119 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">670</length>
+  </programme>
+  <programme start="20260909124509 +0000" stop="20260909125659 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">710</length>
+  </programme>
+  <programme start="20260909123630 +0000" stop="20260909123844 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">136</length>
+  </programme>
+  <programme start="20260909122935 +0000" stop="20260909123343 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20260909120010 +0000" stop="20260909121150 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">468</length>
+  </programme>
+  <programme start="20260909113547 +0000" stop="20260909115843 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1376</length>
+  </programme>
+  <programme start="20260909113012 +0000" stop="20260909113541 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">328</length>
+  </programme>
+  <programme start="20260909111003 +0000" stop="20260909112700 +0000" channel="irinn">
+    <title>18 شهریور 1405 - علیرضا کمیلی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1016</length>
+  </programme>
+  <programme start="20260909110010 +0000" stop="20260909110958 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">588</length>
+  </programme>
+  <programme start="20260909105824 +0000" stop="20260909105946 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">82</length>
+  </programme>
+  <programme start="20260909103329 +0000" stop="20260909105717 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>آقای فرهنگ دوست</sub-title>
+    <length units="seconds">1428</length>
+  </programme>
+  <programme start="20260909103008 +0000" stop="20260909103325 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">196</length>
+  </programme>
+  <programme start="20260909100924 +0000" stop="20260909102800 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1116</length>
+  </programme>
+  <programme start="20260909100012 +0000" stop="20260909100920 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">548</length>
+  </programme>
+  <programme start="20260909094239 +0000" stop="20260909095815 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">936</length>
+  </programme>
+  <programme start="20260909093009 +0000" stop="20260909094227 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">738</length>
+  </programme>
+  <programme start="20260909091002 +0000" stop="20260909092553 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">950</length>
+  </programme>
+  <programme start="20260909090014 +0000" stop="20260909090951 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">576</length>
+  </programme>
+  <programme start="20260909082908 +0000" stop="20260909085411 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1502</length>
+  </programme>
+  <programme start="20260909080003 +0000" stop="20260909082905 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1742</length>
+  </programme>
+  <programme start="20260909073359 +0000" stop="20260909075528 +0000" channel="irinn">
+    <title>18 شهریور 1405 - مهدی ضیایی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1290</length>
+  </programme>
+  <programme start="20260909073024 +0000" stop="20260909073358 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">214</length>
+  </programme>
+  <programme start="20260909070957 +0000" stop="20260909073021 +0000" channel="irinn">
+    <title>18 شهریور 1405 - خانم سلیمانی</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">1224</length>
+  </programme>
+  <programme start="20260909070018 +0000" stop="20260909070955 +0000" channel="irinn">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">576</length>
+  </programme>
   <programme start="20260909060020 +0000" stop="20260909060750 +0000" channel="irinn">
     <title>18 شهریور 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -116,6 +326,11 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260909102536 +0000" stop="20260909104812 +0000" channel="varzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1356</length>
+  </programme>
   <programme start="20260909060421 +0000" stop="20260909063421 +0000" channel="varzesh">
     <title>18 شهریور 1405</title>
     <sub-title>پهلوون</sub-title>
@@ -136,21 +351,236 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260909123008 +0000" stop="20260909132340 +0000" channel="tehran">
+    <title>18 شهریور 1405</title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">3212</length>
+  </programme>
+  <programme start="20260909070004 +0000" stop="20260909090011 +0000" channel="tehran">
+    <title>18 شهریور 1405</title>
+    <sub-title>سلام تهران 1405</sub-title>
+    <length units="seconds">6998</length>
+  </programme>
+  <programme start="20260909063116 +0000" stop="20260909065613 +0000" channel="tehran">
+    <title>18 شهریور 1405</title>
+    <sub-title>شهر امن </sub-title>
+    <length units="seconds">1496</length>
+  </programme>
+  <programme start="20260909060315 +0000" stop="20260909062857 +0000" channel="tehran">
+    <title>راس کمپ - 18 شهریور 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">1542</length>
+  </programme>
+  <programme start="20260909005920 +0000" stop="20260909013904 +0000" channel="tehran">
+    <title>18 شهریور 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">2242</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260909114243 +0000" stop="20260909120204 +0000" channel="quran">
+    <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - 18 شهریور 1405</title>
+    <sub-title>برنامه مذهبی (قرآن)</sub-title>
+    <length units="seconds">1160</length>
+  </programme>
+  <programme start="20260909103106 +0000" stop="20260909113932 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>آیه</sub-title>
+    <length units="seconds">4106</length>
+  </programme>
+  <programme start="20260909091432 +0000" stop="20260909092109 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>نوجواب (فصل دوم)</sub-title>
+    <length units="seconds">398</length>
+  </programme>
+  <programme start="20260909090159 +0000" stop="20260909091430 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>زندگی روشن</sub-title>
+    <length units="seconds">750</length>
+  </programme>
+  <programme start="20260909072434 +0000" stop="20260909075814 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>سحاب رحمت (قرآن)</sub-title>
+    <length units="seconds">2020</length>
+  </programme>
+  <programme start="20260909054725 +0000" stop="20260909061600 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1714</length>
+  </programme>
+  <programme start="20260909044357 +0000" stop="20260909054703 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3786</length>
+  </programme>
+  <programme start="20260909044014 +0000" stop="20260909044356 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260909043320 +0000" stop="20260909044012 +0000" channel="quran">
+    <title>صفحه 142 - 18 شهریور 1405</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">412</length>
+  </programme>
+  <programme start="20260909040339 +0000" stop="20260909040929 +0000" channel="quran">
+    <title>رسول تمجید - 18 شهریور 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">350</length>
+  </programme>
+  <programme start="20260909040105 +0000" stop="20260909040337 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">152</length>
+  </programme>
+  <programme start="20260909034249 +0000" stop="20260909035906 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>زیارت آل یاسین (قرآن) </sub-title>
+    <length units="seconds">976</length>
+  </programme>
+  <programme start="20260909025653 +0000" stop="20260909025918 +0000" channel="quran">
+    <title>حاج محمود کریمی - 18 شهریور 1405</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">144</length>
+  </programme>
+  <programme start="20260909024346 +0000" stop="20260909025653 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">786</length>
+  </programme>
+  <programme start="20260909023005 +0000" stop="20260909024207 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">722</length>
+  </programme>
+  <programme start="20260909021431 +0000" stop="20260909022740 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">788</length>
+  </programme>
+  <programme start="20260909020905 +0000" stop="20260909021430 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>تربت ما (قرآن)</sub-title>
+    <length units="seconds">324</length>
+  </programme>
+  <programme start="20260909015652 +0000" stop="20260909020820 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">690</length>
+  </programme>
+  <programme start="20260909010101 +0000" stop="20260909015652 +0000" channel="quran">
+    <title>جز 18 - 18 شهریور 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3350</length>
+  </programme>
+  <programme start="20260909005142 +0000" stop="20260909010101 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>تجوید قرآن (قرائت صحیح)</sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20260909001237 +0000" stop="20260909004939 +0000" channel="quran">
+    <title>شهید سرمد - 18 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">2222</length>
+  </programme>
+  <programme start="20260909000812 +0000" stop="20260909001235 +0000" channel="quran">
+    <title>18 شهریور 1405</title>
+    <sub-title>مکتب (قرآن)</sub-title>
+    <length units="seconds">262</length>
+  </programme>
+  <programme start="20260909000139 +0000" stop="20260909000812 +0000" channel="quran">
+    <title>آیات 21 تا 26 سوره غاشیه - 18 شهریور 1405</title>
+    <sub-title>محفل انس با قرآن کریم</sub-title>
+    <length units="seconds">394</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260909102537 +0000" stop="20260909103946 +0000" channel="amouzesh">
+    <title>پایه دهم - فارسی - درس دهم - 18 شهریور 1405</title>
+    <sub-title>مدرسه دانش آموزان با نیازهای ویژه</sub-title>
+    <length units="seconds">849</length>
+  </programme>
+  <programme start="20260909092537 +0000" stop="20260909093924 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">827</length>
+  </programme>
+  <programme start="20260909090506 +0000" stop="20260909092210 +0000" channel="amouzesh">
+    <title>نقاشی کودکان - 18 شهریور 1405</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">1023</length>
+  </programme>
+  <programme start="20260909062905 +0000" stop="20260909064436 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>ورزش و مهارت</sub-title>
+    <length units="seconds">929</length>
+  </programme>
+  <programme start="20260909060302 +0000" stop="20260909062634 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1412</length>
+  </programme>
+  <programme start="20260909043755 +0000" stop="20260909045627 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>بومیران (آموزش)</sub-title>
+    <length units="seconds">1111</length>
+  </programme>
+  <programme start="20260909042032 +0000" stop="20260909042839 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">486</length>
+  </programme>
+  <programme start="20260909005043 +0000" stop="20260909005856 +0000" channel="amouzesh">
+    <title>18 شهریور 1405</title>
+    <sub-title>اینجا ایران است (آموزش)</sub-title>
+    <length units="seconds">491</length>
+  </programme>
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260909130929 +0000" stop="20260909132042 +0000" channel="salamat">
+    <title>18 شهریور 1405</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">674</length>
+  </programme>
+  <programme start="20260909105743 +0000" stop="20260909110922 +0000" channel="salamat">
+    <title>18 شهریور 1405</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">700</length>
+  </programme>
+  <programme start="20260909103013 +0000" stop="20260909105625 +0000" channel="salamat">
+    <title>18 شهریور 1405</title>
+    <sub-title>پنجره باز (سری جدید)</sub-title>
+    <length units="seconds">1561</length>
+  </programme>
+  <programme start="20260909090056 +0000" stop="20260909094515 +0000" channel="salamat">
+    <title>18 شهریور 1405</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2659</length>
+  </programme>
+  <programme start="20260909083919 +0000" stop="20260909085748 +0000" channel="salamat">
+    <title>18 شهریور 1405</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1108</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260909100126 +0000" stop="20260909105616 +0000" channel="ofogh">
+    <title>18 شهریور 1405</title>
+    <sub-title>انارستان</sub-title>
+    <length units="seconds">3290</length>
+  </programme>
+  <programme start="20260909080044 +0000" stop="20260909085306 +0000" channel="ofogh">
+    <title>18 شهریور 1405</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3142</length>
+  </programme>
   <programme start="20260909043849 +0000" stop="20260909050700 +0000" channel="ofogh">
     <title>18 شهریور 1405</title>
     <sub-title>حدیث سرو</sub-title>
@@ -164,6 +594,11 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260909120712 +0000" stop="20260909121714 +0000" channel="omid">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">602</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
@@ -176,6 +611,26 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260909105957 +0000" stop="20260909120205 +0000" channel="sahand">
+    <title>18 شهریور 1405</title>
+    <sub-title>خانواده (سهند)</sub-title>
+    <length units="seconds">3728</length>
+  </programme>
+  <programme start="20260909093757 +0000" stop="20260909100057 +0000" channel="sahand">
+    <title>18 شهریور 1405</title>
+    <sub-title>مزرعه دوستی</sub-title>
+    <length units="seconds">1380</length>
+  </programme>
+  <programme start="20260909075946 +0000" stop="20260909093450 +0000" channel="sahand">
+    <title>18 شهریور 1405</title>
+    <sub-title>سحر لر</sub-title>
+    <length units="seconds">5691</length>
+  </programme>
+  <programme start="20260909064933 +0000" stop="20260909075207 +0000" channel="sahand">
+    <title>18 شهریور 1405</title>
+    <sub-title>سلام ایران (سهند)</sub-title>
+    <length units="seconds">3754</length>
+  </programme>
   <programme start="20260909063331 +0000" stop="20260909064158 +0000" channel="sahand">
     <title>18 شهریور 1405</title>
     <sub-title>دعای عهد (سهند)</sub-title>
@@ -204,9 +659,44 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20260909095707 +0000" stop="20260909110337 +0000" channel="alborz">
+    <title>18 شهریور 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">3990</length>
+  </programme>
+  <programme start="20260909095530 +0000" stop="20260909095707 +0000" channel="alborz">
+    <title>18 شهریور 1405</title>
+    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20260909080112 +0000" stop="20260909095054 +0000" channel="alborz">
+    <title>18 شهریور 1405</title>
+    <sub-title>امروز البرز (البرز)</sub-title>
+    <length units="seconds">6582</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260909130954 +0000" stop="20260909135125 +0000" channel="esfahan">
+    <title>18 شهریور 1405</title>
+    <sub-title>صدای شهر (اصفهان)</sub-title>
+    <length units="seconds">2490</length>
+  </programme>
+  <programme start="20260909122643 +0000" stop="20260909125949 +0000" channel="esfahan">
+    <title>18 شهریور 1405</title>
+    <sub-title>شرح صحیفه سجادیه (اصفهان)</sub-title>
+    <length units="seconds">1986</length>
+  </programme>
+  <programme start="20260909105926 +0000" stop="20260909112643 +0000" channel="esfahan">
+    <title>18 شهریور 1405</title>
+    <sub-title>بچه های فیروزه ای</sub-title>
+    <length units="seconds">1636</length>
+  </programme>
+  <programme start="20260909083008 +0000" stop="20260909092852 +0000" channel="esfahan">
+    <title>18 شهریور 1405</title>
+    <sub-title>اصفهان من (اصفهان)</sub-title>
+    <length units="seconds">3524</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -225,15 +715,85 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260909120012 +0000" stop="20260909130026 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>تا آسمان (خراسان رضوی)</sub-title>
+    <length units="seconds">3614</length>
+  </programme>
+  <programme start="20260909105900 +0000" stop="20260909110418 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>روایت مردم</sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20260909100216 +0000" stop="20260909105809 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>پزشک شما (خراسان رضوی)</sub-title>
+    <length units="seconds">3352</length>
+  </programme>
+  <programme start="20260909094215 +0000" stop="20260909095749 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>گنجینه جام جم</sub-title>
+    <length units="seconds">934</length>
+  </programme>
+  <programme start="20260909083143 +0000" stop="20260909093248 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>خانواده خراسانی </sub-title>
+    <length units="seconds">3666</length>
+  </programme>
+  <programme start="20260909054810 +0000" stop="20260909061929 +0000" channel="khorasanrazavi">
+    <title>18 شهریور 1405</title>
+    <sub-title>تفسیر قرآن (خراسان رضوی)</sub-title>
+    <length units="seconds">1878</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260909120225 +0000" stop="20260909122649 +0000" channel="atrak">
+    <title>18 شهریور 1405</title>
+    <sub-title>قرار (اترک)</sub-title>
+    <length units="seconds">1463</length>
+  </programme>
+  <programme start="20260909105956 +0000" stop="20260909111612 +0000" channel="atrak">
+    <title>18 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">975</length>
+  </programme>
+  <programme start="20260909100103 +0000" stop="20260909105245 +0000" channel="atrak">
+    <title>18 شهریور 1405</title>
+    <sub-title>پزشک شما (اترک)</sub-title>
+    <length units="seconds">3103</length>
+  </programme>
+  <programme start="20260909070017 +0000" stop="20260909075957 +0000" channel="atrak">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3579</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260909093515 +0000" stop="20260909100452 +0000" channel="khoozestan">
+    <title>18 شهریور 1405</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">1776</length>
+  </programme>
+  <programme start="20260909083145 +0000" stop="20260909093448 +0000" channel="khoozestan">
+    <title>18 شهریور 1405</title>
+    <sub-title>یه روز تازه (خوزستان)</sub-title>
+    <length units="seconds">3781</length>
+  </programme>
+  <programme start="20260909070930 +0000" stop="20260909075024 +0000" channel="khoozestan">
+    <title>18 شهریور 1405</title>
+    <sub-title>چگونه ساخته شده (خوزستان)</sub-title>
+    <length units="seconds">2453</length>
+  </programme>
+  <programme start="20260909060554 +0000" stop="20260909070323 +0000" channel="khoozestan">
+    <title>18 شهریور 1405</title>
+    <sub-title>دریاها و اقیانوس ها 2</sub-title>
+    <length units="seconds">3450</length>
+  </programme>
   <programme start="20260909052212 +0000" stop="20260909055800 +0000" channel="khoozestan">
     <title>18 شهریور 1405</title>
     <sub-title>ایرانگرد (خوزستان)</sub-title>
@@ -271,12 +831,22 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20260909081421 +0000" stop="20260909090846 +0000" channel="fars">
+    <title>18 شهریور 1405</title>
+    <sub-title>روز بخیر فارس</sub-title>
+    <length units="seconds">3266</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260909080056 +0000" stop="20260909090036 +0000" channel="noor">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبحانه (نور)</sub-title>
+    <length units="seconds">3567</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
@@ -298,6 +868,61 @@
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260909110133 +0000" stop="20260909111715 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>گیلان جان (باران)</sub-title>
+    <length units="seconds">942</length>
+  </programme>
+  <programme start="20260909100250 +0000" stop="20260909105624 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>دوازده روی هشت (باران)</sub-title>
+    <length units="seconds">3214</length>
+  </programme>
+  <programme start="20260909090032 +0000" stop="20260909095550 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">3318</length>
+  </programme>
+  <programme start="20260909085034 +0000" stop="20260909085926 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">532</length>
+  </programme>
+  <programme start="20260909072949 +0000" stop="20260909084708 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4638</length>
+  </programme>
+  <programme start="20260909055748 +0000" stop="20260909063532 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>حدیث سرو</sub-title>
+    <length units="seconds">2264</length>
+  </programme>
+  <programme start="20260909044455 +0000" stop="20260909055604 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>ترتیل قرآن کریم (باران)</sub-title>
+    <length units="seconds">4268</length>
+  </programme>
+  <programme start="20260909043330 +0000" stop="20260909044155 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20260909034404 +0000" stop="20260909040717 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">1394</length>
+  </programme>
+  <programme start="20260909033217 +0000" stop="20260909034359 +0000" channel="baran">
+    <title>18 شهریور 1405</title>
+    <sub-title>سیر آفاقی (باران)</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20260909013733 +0000" stop="20260909023530 +0000" channel="baran">
+    <title>سفر بزرگ - 18 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">3476</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
@@ -310,6 +935,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260909100016 +0000" stop="20260909105219 +0000" channel="aftab">
+    <title>18 شهریور 1405</title>
+    <sub-title>پزشک شما (آفتاب)</sub-title>
+    <length units="seconds">3122</length>
+  </programme>
+  <programme start="20260909094100 +0000" stop="20260909095019 +0000" channel="aftab">
+    <title>18 شهریور 1405 - بخش 2</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">558</length>
+  </programme>
+  <programme start="20260909080100 +0000" stop="20260909093500 +0000" channel="aftab">
+    <title>18 شهریور 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5640</length>
+  </programme>
   <programme start="20260909062746 +0000" stop="20260909064228 +0000" channel="aftab">
     <title>18 شهریور 1405 - بخش 1</title>
     <sub-title>مجازی نما</sub-title>
