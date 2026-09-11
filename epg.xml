@@ -3,18 +3,82 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260911124141 +0000" stop="20260911134221 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>طرحی برای فردا </sub-title>
+    <length units="seconds">3640</length>
+  </programme>
+  <programme start="20260911120701 +0000" stop="20260911122225 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">924</length>
+  </programme>
+  <programme start="20260911100031 +0000" stop="20260911114734 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>ورزش و مردم 1405</sub-title>
+    <length units="seconds">6166</length>
+  </programme>
+  <programme start="20260911090102 +0000" stop="20260911095202 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">3060</length>
+  </programme>
+  <programme start="20260911080037 +0000" stop="20260911083048 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1810</length>
+  </programme>
+  <programme start="20260911075816 +0000" stop="20260911075958 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>صلوات خاصه امام رضا (ع)</sub-title>
+    <length units="seconds">104</length>
+  </programme>
+  <programme start="20260911060145 +0000" stop="20260911075336 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>منتظران ظهور</sub-title>
+    <length units="seconds">6712</length>
+  </programme>
+  <programme start="20260911034402 +0000" stop="20260911043413 +0000" channel="tv1">
+    <title>20 شهریور 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">3010</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
-  <programme start="20260911042638 +0000" stop="20260911043208 +0000" channel="tv2">
-    <title>ذعای صحیفه سجادیه - 20 شهریور 1405</title>
+  <programme start="20260911131544 +0000" stop="20260911140224 +0000" channel="tv2">
+    <title>20 شهریور 1405</title>
+    <sub-title>برش طلایی </sub-title>
+    <length units="seconds">2800</length>
+  </programme>
+  <programme start="20260911122612 +0000" stop="20260911131305 +0000" channel="tv2">
+    <title>20 شهریور 1405</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">2812</length>
+  </programme>
+  <programme start="20260911100104 +0000" stop="20260911113440 +0000" channel="tv2">
+    <title>دنیای آرمان</title>
+    <length units="seconds">5450</length>
+  </programme>
+  <programme start="20260911043800 +0000" stop="20260911044135 +0000" channel="tv2">
+    <title>دعای نادعلی - 20 شهریور 1405</title>
     <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">214</length>
+  </programme>
+  <programme start="20260911042638 +0000" stop="20260911043208 +0000" channel="tv2">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای هفتم صحیفه سجادیه</sub-title>
     <length units="seconds">330</length>
   </programme>
   <programme start="20260911042257 +0000" stop="20260911042638 +0000" channel="tv2">
-    <title>دعای نادعلی - 20 شهریور 1405</title>
+    <title>دعای امام زمان - 20 شهریور 1405</title>
     <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
     <length units="seconds">220</length>
+  </programme>
+  <programme start="20260911041045 +0000" stop="20260911041208 +0000" channel="tv2">
+    <title>20 شهریور 1405</title>
+    <sub-title>جرعه</sub-title>
+    <length units="seconds">82</length>
   </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
@@ -32,6 +96,16 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260911080237 +0000" stop="20260911085349 +0000" channel="tv4">
+    <title>دکتر الهی قمشه ای - 20 شهریور 1405</title>
+    <sub-title>سخنرانی (شبکه 4)</sub-title>
+    <length units="seconds">3072</length>
+  </programme>
+  <programme start="20260911061545 +0000" stop="20260911065315 +0000" channel="tv4">
+    <title>20 شهریور 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">2250</length>
+  </programme>
   <programme start="20260911060214 +0000" stop="20260911061103 +0000" channel="tv4">
     <title>20 شهریور 1405</title>
     <sub-title>دعای عهد (شبکه ۴)</sub-title>
@@ -45,9 +119,124 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20260911110118 +0000" stop="20260911114816 +0000" channel="nasim">
+    <title>20 شهریور 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2818</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260911132957 +0000" stop="20260911135008 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>کتاب هفته (خبر)</sub-title>
+    <length units="seconds">1210</length>
+  </programme>
+  <programme start="20260911131214 +0000" stop="20260911132950 +0000" channel="irinn">
+    <title>20 شهریور 1405 - محمدمهدی عباسی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1056</length>
+  </programme>
+  <programme start="20260911130013 +0000" stop="20260911131211 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">718</length>
+  </programme>
+  <programme start="20260911124510 +0000" stop="20260911125720 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">730</length>
+  </programme>
+  <programme start="20260911121532 +0000" stop="20260911123035 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">902</length>
+  </programme>
+  <programme start="20260911120401 +0000" stop="20260911121247 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">526</length>
+  </programme>
+  <programme start="20260911113818 +0000" stop="20260911120032 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1334</length>
+  </programme>
+  <programme start="20260911113010 +0000" stop="20260911113508 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">298</length>
+  </programme>
+  <programme start="20260911110845 +0000" stop="20260911112821 +0000" channel="irinn">
+    <title>20 شهریور 1405 - سیدهادی سیدافقهی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1176</length>
+  </programme>
+  <programme start="20260911110010 +0000" stop="20260911110841 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
+  <programme start="20260911103508 +0000" stop="20260911105920 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">1452</length>
+  </programme>
+  <programme start="20260911103013 +0000" stop="20260911103505 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">292</length>
+  </programme>
+  <programme start="20260911100012 +0000" stop="20260911100931 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">558</length>
+  </programme>
+  <programme start="20260911093011 +0000" stop="20260911094506 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">896</length>
+  </programme>
+  <programme start="20260911091051 +0000" stop="20260911092848 +0000" channel="irinn">
+    <title>20 شهریور 1405 - دکتر حسین کنعانی مقدم</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1078</length>
+  </programme>
+  <programme start="20260911090011 +0000" stop="20260911091048 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">638</length>
+  </programme>
+  <programme start="20260911083334 +0000" stop="20260911084901 +0000" channel="irinn">
+    <title>20 شهریور 1405 - بخش 2</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">926</length>
+  </programme>
+  <programme start="20260911080004 +0000" stop="20260911083021 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1816</length>
+  </programme>
+  <programme start="20260911074718 +0000" stop="20260911075316 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>حرف دیگران</sub-title>
+    <length units="seconds">358</length>
+  </programme>
+  <programme start="20260911073508 +0000" stop="20260911074717 +0000" channel="irinn">
+    <title>جهان گرد - 20 شهریور 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">728</length>
+  </programme>
+  <programme start="20260911073008 +0000" stop="20260911073504 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260911070012 +0000" stop="20260911070959 +0000" channel="irinn">
+    <title>20 شهریور 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">586</length>
+  </programme>
   <programme start="20260911060010 +0000" stop="20260911061028 +0000" channel="irinn">
     <title>20 شهریور 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -86,6 +275,26 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20260911123016 +0000" stop="20260911135344 +0000" channel="varzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>فوتبال پایه</sub-title>
+    <length units="seconds">5008</length>
+  </programme>
+  <programme start="20260911100102 +0000" stop="20260911103033 +0000" channel="varzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1771</length>
+  </programme>
+  <programme start="20260911080148 +0000" stop="20260911085447 +0000" channel="varzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">3178</length>
+  </programme>
+  <programme start="20260911060505 +0000" stop="20260911063503 +0000" channel="varzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>پهلوون</sub-title>
+    <length units="seconds">1798</length>
+  </programme>
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
@@ -101,15 +310,220 @@
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260911125436 +0000" stop="20260911131450 +0000" channel="tehran">
+    <title>20 شهریور 1405</title>
+    <sub-title>برگی از تاریخ</sub-title>
+    <length units="seconds">1214</length>
+  </programme>
+  <programme start="20260911061335 +0000" stop="20260911064555 +0000" channel="tehran">
+    <title>زندگی در یخبندان - 20 شهریور 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">1862</length>
+  </programme>
+  <programme start="20260911041119 +0000" stop="20260911041653 +0000" channel="tehran">
+    <title>سوره مبارکه اعراف - 20 شهریور 1405</title>
+    <sub-title>برنامه مذهبی (شبکه تهران)</sub-title>
+    <length units="seconds">334</length>
+  </programme>
+  <programme start="20260911014253 +0000" stop="20260911015750 +0000" channel="tehran">
+    <title>20 شهریور 1405</title>
+    <sub-title>جهان گرد (شبکه تهران)</sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260911010226 +0000" stop="20260911013553 +0000" channel="tehran">
+    <title>20 شهریور 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">2008</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260911125450 +0000" stop="20260911135904 +0000" channel="quran">
+    <title>جز 20 - 20 شهریور 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3854</length>
+  </programme>
+  <programme start="20260911114427 +0000" stop="20260911115655 +0000" channel="quran">
+    <title>آقای علیرضا مهدی زاده - 20 شهریور 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">748</length>
+  </programme>
+  <programme start="20260911101950 +0000" stop="20260911102924 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">574</length>
+  </programme>
+  <programme start="20260911094322 +0000" stop="20260911095054 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>نوجواب (فصل دوم)</sub-title>
+    <length units="seconds">452</length>
+  </programme>
+  <programme start="20260911084736 +0000" stop="20260911093307 +0000" channel="quran">
+    <title>مستند ابرار - 20 شهریور 1405</title>
+    <sub-title>برنامه مذهبی (قرآن)</sub-title>
+    <length units="seconds">2732</length>
+  </programme>
+  <programme start="20260911083548 +0000" stop="20260911083908 +0000" channel="quran">
+    <title>نماز جمعه - 20 شهریور 1405</title>
+    <sub-title>نماهنگ (قرآن)</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20260911081907 +0000" stop="20260911083547 +0000" channel="quran">
+    <title>آقای مهدی غلام نژاد - 20 شهریور 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">998</length>
+  </programme>
+  <programme start="20260911080954 +0000" stop="20260911081907 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>تجوید قرآن (قرائت صحیح)</sub-title>
+    <length units="seconds">554</length>
+  </programme>
+  <programme start="20260911080153 +0000" stop="20260911080713 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>آیه های باران</sub-title>
+    <length units="seconds">320</length>
+  </programme>
+  <programme start="20260911070131 +0000" stop="20260911075826 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای ندبه (قرآن)</sub-title>
+    <length units="seconds">3414</length>
+  </programme>
+  <programme start="20260911064807 +0000" stop="20260911065954 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>حدیث کساء</sub-title>
+    <length units="seconds">706</length>
+  </programme>
+  <programme start="20260911055151 +0000" stop="20260911062015 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>عبرتهای بنی اسرائیل </sub-title>
+    <length units="seconds">1704</length>
+  </programme>
+  <programme start="20260911045202 +0000" stop="20260911055054 +0000" channel="quran">
+    <title>جز 20 - 20 شهریور 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3532</length>
+  </programme>
+  <programme start="20260911044720 +0000" stop="20260911045200 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>یک صفحه یک آیه </sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260911044002 +0000" stop="20260911044717 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20260911040849 +0000" stop="20260911041436 +0000" channel="quran">
+    <title>آقای قاسم رضیعی - 20 شهریور 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">346</length>
+  </programme>
+  <programme start="20260911040545 +0000" stop="20260911040847 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>مکتب (قرآن)</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20260911040333 +0000" stop="20260911040543 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">130</length>
+  </programme>
+  <programme start="20260911035829 +0000" stop="20260911040332 +0000" channel="quran">
+    <title>حاج محمود کریمی - 20 شهریور 1405</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">302</length>
+  </programme>
+  <programme start="20260911034519 +0000" stop="20260911035829 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>زیارت وارث</sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260911025747 +0000" stop="20260911030157 +0000" channel="quran">
+    <title>سوره جمعه - 20 شهریور 1405</title>
+    <sub-title>ترتیل قرآن کریم (قرآن)</sub-title>
+    <length units="seconds">250</length>
+  </programme>
+  <programme start="20260911024436 +0000" stop="20260911025745 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">790</length>
+  </programme>
+  <programme start="20260911023112 +0000" stop="20260911024256 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>تفسیر سوره فتح</sub-title>
+    <length units="seconds">704</length>
+  </programme>
+  <programme start="20260911021639 +0000" stop="20260911023048 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>ترتیل خوانی سوره مبارکه فتح</sub-title>
+    <length units="seconds">848</length>
+  </programme>
+  <programme start="20260911015842 +0000" stop="20260911020812 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">570</length>
+  </programme>
+  <programme start="20260911003423 +0000" stop="20260911015748 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>نیایش به وقت حاج قاسم</sub-title>
+    <length units="seconds">5004</length>
+  </programme>
+  <programme start="20260911003234 +0000" stop="20260911003403 +0000" channel="quran">
+    <title>20 شهریور 1405</title>
+    <sub-title>نکات ناب (قرآن)</sub-title>
+    <length units="seconds">90</length>
+  </programme>
+  <programme start="20260911001804 +0000" stop="20260911003031 +0000" channel="quran">
+    <title>سوره فجر آیات 9 تا 14 - 20 شهریور 1405</title>
+    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
+    <length units="seconds">748</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260911095532 +0000" stop="20260911103710 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>خانه ما</sub-title>
+    <length units="seconds">2498</length>
+  </programme>
+  <programme start="20260911094208 +0000" stop="20260911095200 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>ده دقیقه </sub-title>
+    <length units="seconds">591</length>
+  </programme>
+  <programme start="20260911092447 +0000" stop="20260911094002 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">914</length>
+  </programme>
+  <programme start="20260911090104 +0000" stop="20260911092054 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>شبکه ماه </sub-title>
+    <length units="seconds">1188</length>
+  </programme>
+  <programme start="20260911085032 +0000" stop="20260911085802 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>ماهر شو (آموزش)</sub-title>
+    <length units="seconds">451</length>
+  </programme>
+  <programme start="20260911063008 +0000" stop="20260911064442 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>ورزش و مهارت</sub-title>
+    <length units="seconds">874</length>
+  </programme>
+  <programme start="20260911060430 +0000" stop="20260911062749 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>پویآموز </sub-title>
+    <length units="seconds">1397</length>
+  </programme>
+  <programme start="20260911043700 +0000" stop="20260911045536 +0000" channel="amouzesh">
+    <title>20 شهریور 1405</title>
+    <sub-title>سرزمین ستاره ها (آموزش)</sub-title>
+    <length units="seconds">1116</length>
+  </programme>
   <programme start="20260911021500 +0000" stop="20260911024028 +0000" channel="amouzesh">
     <title>20 شهریور 1405</title>
     <sub-title>باهوش (آموزش)</sub-title>
@@ -128,9 +542,29 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260911100044 +0000" stop="20260911102310 +0000" channel="salamat">
+    <title>20 شهریور 1405</title>
+    <sub-title>من یک مادرم</sub-title>
+    <length units="seconds">1344</length>
+  </programme>
+  <programme start="20260911083408 +0000" stop="20260911085256 +0000" channel="salamat">
+    <title>20 شهریور 1405</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1128</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260911123019 +0000" stop="20260911130800 +0000" channel="ofogh">
+    <title>20 شهریور 1405</title>
+    <sub-title>راه نو (افق)</sub-title>
+    <length units="seconds">2260</length>
+  </programme>
+  <programme start="20260911080054 +0000" stop="20260911085552 +0000" channel="ofogh">
+    <title>20 شهریور 1405</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">3298</length>
+  </programme>
   <programme start="20260911044156 +0000" stop="20260911050925 +0000" channel="ofogh">
     <title>20 شهریور 1405</title>
     <sub-title>حدیث سرو</sub-title>
@@ -144,18 +578,88 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20260911121036 +0000" stop="20260911122200 +0000" channel="omid">
+    <title>20 شهریور 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">684</length>
+  </programme>
+  <programme start="20260911070047 +0000" stop="20260911075552 +0000" channel="omid">
+    <title>20 شهریور 1405</title>
+    <sub-title>صبکوک (امید)</sub-title>
+    <length units="seconds">3304</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20260911121229 +0000" stop="20260911131803 +0000" channel="irinn2">
+    <title>خطبه های نماز جمعه - 20 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3934</length>
+  </programme>
+  <programme start="20260911093700 +0000" stop="20260911095131 +0000" channel="irinn2">
+    <title>اختتامیه همایش اتحادیه انجمن های اسلامی  - 20 شهریور 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">870</length>
+  </programme>
+  <programme start="20260911063146 +0000" stop="20260911075255 +0000" channel="irinn2">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای ندبه (خبر ۲)</sub-title>
+    <length units="seconds">4868</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260911122615 +0000" stop="20260911132500 +0000" channel="sahand">
+    <title>خطبه های نمازجمعه - 20 شهریور 1405</title>
+    <sub-title>پیام جمعه</sub-title>
+    <length units="seconds">3513</length>
+  </programme>
+  <programme start="20260911120756 +0000" stop="20260911121359 +0000" channel="sahand">
+    <title>نکات ناب - 20 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (سهند)</sub-title>
+    <length units="seconds">363</length>
+  </programme>
+  <programme start="20260911082320 +0000" stop="20260911085330 +0000" channel="sahand">
+    <title>روزگاری - 20 شهریور 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (سهند)</sub-title>
+    <length units="seconds">1811</length>
+  </programme>
+  <programme start="20260911074632 +0000" stop="20260911081805 +0000" channel="sahand">
+    <title>20 شهریور 1405</title>
+    <sub-title>صبح ظهور </sub-title>
+    <length units="seconds">1895</length>
+  </programme>
+  <programme start="20260911065006 +0000" stop="20260911074209 +0000" channel="sahand">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای ندبه (سهند)</sub-title>
+    <length units="seconds">3113</length>
+  </programme>
+  <programme start="20260911063709 +0000" stop="20260911064713 +0000" channel="sahand">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">604</length>
+  </programme>
+  <programme start="20260911050913 +0000" stop="20260911053631 +0000" channel="sahand">
+    <title>حجت الاسلام طباطباییان - 20 شهریور 1405</title>
+    <sub-title>سخنرانی (سهند)</sub-title>
+    <length units="seconds">1627</length>
+  </programme>
+  <programme start="20260911034833 +0000" stop="20260911042112 +0000" channel="sahand">
+    <title>20 شهریور 1405</title>
+    <sub-title>ثقلین</sub-title>
+    <length units="seconds">1935</length>
+  </programme>
+  <programme start="20260911014958 +0000" stop="20260911023430 +0000" channel="sahand">
+    <title>ایران از بالا - 20 شهریور 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (سهند)</sub-title>
+    <length units="seconds">2671</length>
+  </programme>
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
@@ -189,6 +693,46 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260911120002 +0000" stop="20260911120615 +0000" channel="khoozestan">
+    <title>20 شهریور 1405</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">372</length>
+  </programme>
+  <programme start="20260911114819 +0000" stop="20260911120000 +0000" channel="khoozestan">
+    <title>20 شهریور 1405</title>
+    <sub-title>حدیث سرو</sub-title>
+    <length units="seconds">700</length>
+  </programme>
+  <programme start="20260911092016 +0000" stop="20260911095223 +0000" channel="khoozestan">
+    <title>20 شهریور 1405</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">1926</length>
+  </programme>
+  <programme start="20260911080133 +0000" stop="20260911090200 +0000" channel="khoozestan">
+    <title>قاف لرستان - 20 شهریور 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (خوزستان)</sub-title>
+    <length units="seconds">3628</length>
+  </programme>
+  <programme start="20260911070817 +0000" stop="20260911075257 +0000" channel="khoozestan">
+    <title>همه یا هیچ تاتنهام - 20 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">2679</length>
+  </programme>
+  <programme start="20260911065000 +0000" stop="20260911070156 +0000" channel="khoozestan">
+    <title>درس اخلاق - 20 شهریور 1405</title>
+    <sub-title>سخنرانی (خوزستان)</sub-title>
+    <length units="seconds">706</length>
+  </programme>
+  <programme start="20260911060803 +0000" stop="20260911065032 +0000" channel="khoozestan">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای کمیل (خوزستان)</sub-title>
+    <length units="seconds">2547</length>
+  </programme>
+  <programme start="20260911060247 +0000" stop="20260911060801 +0000" channel="khoozestan">
+    <title>دعای امام زمان - 20 شهریور 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">314</length>
+  </programme>
   <programme start="20260911050207 +0000" stop="20260911051035 +0000" channel="khoozestan">
     <title>20 شهریور 1405</title>
     <sub-title>دعای عهد (خوزستان)</sub-title>
@@ -229,6 +773,51 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260911111207 +0000" stop="20260911120040 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">2911</length>
+  </programme>
+  <programme start="20260911083303 +0000" stop="20260911092917 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">3375</length>
+  </programme>
+  <programme start="20260911072615 +0000" stop="20260911082027 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">3251</length>
+  </programme>
+  <programme start="20260911065537 +0000" stop="20260911072329 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>مستند قزوین (قزوین)</sub-title>
+    <length units="seconds">1671</length>
+  </programme>
+  <programme start="20260911064638 +0000" stop="20260911065424 +0000" channel="qazvin">
+    <title>صبح ظهور - 20 شهریور 1405</title>
+    <sub-title>برنامه مذهبی (قزوین)</sub-title>
+    <length units="seconds">466</length>
+  </programme>
+  <programme start="20260911060150 +0000" stop="20260911064635 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>دعای ندبه (قزوین)</sub-title>
+    <length units="seconds">2685</length>
+  </programme>
+  <programme start="20260911043842 +0000" stop="20260911054048 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>ترتیل قرآن کریم (قزوین)</sub-title>
+    <length units="seconds">3724</length>
+  </programme>
+  <programme start="20260911034220 +0000" stop="20260911041227 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>دل افروزان (قزوین)</sub-title>
+    <length units="seconds">1806</length>
+  </programme>
+  <programme start="20260911024648 +0000" stop="20260911033635 +0000" channel="qazvin">
+    <title>20 شهریور 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (قزوین)</sub-title>
+    <length units="seconds">2978</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
