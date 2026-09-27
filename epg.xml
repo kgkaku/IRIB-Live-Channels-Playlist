@@ -3,6 +3,26 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20260927221524 +0000" stop="20260927230839 +0000" channel="tv1">
+    <title>قسمت 7</title>
+    <sub-title>آسباد</sub-title>
+    <length units="seconds">2824</length>
+  </programme>
+  <programme start="20260927210017 +0000" stop="20260927220142 +0000" channel="tv1">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار سراسری </sub-title>
+    <length units="seconds">3686</length>
+  </programme>
+  <programme start="20260927200003 +0000" stop="20260927204526 +0000" channel="tv1">
+    <title>5 مهر 1405</title>
+    <sub-title>هشت درصد (شبکه 1)</sub-title>
+    <length units="seconds">2724</length>
+  </programme>
+  <programme start="20260927192535 +0000" stop="20260927195002 +0000" channel="tv1">
+    <title>5 مهر 1405</title>
+    <sub-title>زنگ امید</sub-title>
+    <length units="seconds">1468</length>
+  </programme>
   <programme start="20260927185949 +0000" stop="20260927192533 +0000" channel="tv1">
     <title>5 مهر 1405</title>
     <sub-title>ایران امروز</sub-title>
@@ -159,6 +179,31 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20260927222618 +0000" stop="20260927233602 +0000" channel="tv3">
+    <title>گزیده قسمت 1 و 2 - فصل چهارم</title>
+    <sub-title>سرآشپز</sub-title>
+    <length units="seconds">3848</length>
+  </programme>
+  <programme start="20260927220030 +0000" stop="20260927221527 +0000" channel="tv3">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 22:00 (۱۴05)</sub-title>
+    <length units="seconds">898</length>
+  </programme>
+  <programme start="20260927212315 +0000" stop="20260927215421 +0000" channel="tv3">
+    <title>5 مهر 1405</title>
+    <sub-title>میداندار</sub-title>
+    <length units="seconds">1866</length>
+  </programme>
+  <programme start="20260927202807 +0000" stop="20260927212258 +0000" channel="tv3">
+    <title>قسمت 10</title>
+    <sub-title>دیوار دفاعی</sub-title>
+    <length units="seconds">2848</length>
+  </programme>
+  <programme start="20260927193713 +0000" stop="20260927201601 +0000" channel="tv3">
+    <title>5 مهر 1405</title>
+    <sub-title>کشور دوست</sub-title>
+    <length units="seconds">2328</length>
+  </programme>
   <programme start="20260927183716 +0000" stop="20260927193646 +0000" channel="tv3">
     <title>5 مهر 1405</title>
     <sub-title>مسابقه قهرمان (تابستان 1405)</sub-title>
@@ -232,6 +277,41 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
+  <programme start="20260927234724 +0000" stop="20260927235901 +0000" channel="tv4">
+    <title>5 مهر 1405</title>
+    <sub-title>سیاحت غرب</sub-title>
+    <length units="seconds">689</length>
+  </programme>
+  <programme start="20260927224617 +0000" stop="20260927234700 +0000" channel="tv4">
+    <title>5 مهر 1405 - میز جهان اسلام</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">3644</length>
+  </programme>
+  <programme start="20260927220122 +0000" stop="20260927224148 +0000" channel="tv4">
+    <title>5 مهر 1405 - میز سیاحت غرب</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">2418</length>
+  </programme>
+  <programme start="20260927213301 +0000" stop="20260927215658 +0000" channel="tv4">
+    <title>5 مهر 1405 - میز انتشارات</title>
+    <sub-title>سوره 1405</sub-title>
+    <length units="seconds">1435</length>
+  </programme>
+  <programme start="20260927205841 +0000" stop="20260927212643 +0000" channel="tv4">
+    <title>5 مهر 1405</title>
+    <sub-title>درس گفتار</sub-title>
+    <length units="seconds">1682</length>
+  </programme>
+  <programme start="20260927195445 +0000" stop="20260927205534 +0000" channel="tv4">
+    <title>5 مهر 1405 - بخش 4</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">3648</length>
+  </programme>
+  <programme start="20260927190500 +0000" stop="20260927195102 +0000" channel="tv4">
+    <title>5 مهر 1405 - بخش 3</title>
+    <sub-title>چاووش</sub-title>
+    <length units="seconds">2763</length>
+  </programme>
   <programme start="20260927181813 +0000" stop="20260927190014 +0000" channel="tv4">
     <title>5 مهر 1405 - بخش 2</title>
     <sub-title>چاووش</sub-title>
@@ -333,6 +413,51 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20260927233334 +0000" stop="20260927235509 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵ - بخش ۲</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">1294</length>
+  </programme>
+  <programme start="20260927233013 +0000" stop="20260927233334 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:30 (خبر)</sub-title>
+    <length units="seconds">202</length>
+  </programme>
+  <programme start="20260927230724 +0000" stop="20260927232948 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵ - بخش ۱</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">1344</length>
+  </programme>
+  <programme start="20260927230014 +0000" stop="20260927230723 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (خبر)</sub-title>
+    <length units="seconds">428</length>
+  </programme>
+  <programme start="20260927220152 +0000" stop="20260927225603 +0000" channel="irinn">
+    <title>دانشگاه، آغاز یک سال تازه در مسیر علم - ۵ مهر ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">3250</length>
+  </programme>
+  <programme start="20260927210006 +0000" stop="20260927220150 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3704</length>
+  </programme>
+  <programme start="20260927205316 +0000" stop="20260927205658 +0000" channel="irinn">
+    <title>دشمن شناس واقعی - ۵ مهر ۱۴۰۵</title>
+    <sub-title>موشن گرافیک</sub-title>
+    <length units="seconds">222</length>
+  </programme>
+  <programme start="20260927202944 +0000" stop="20260927205030 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">1246</length>
+  </programme>
+  <programme start="20260927191928 +0000" stop="20260927202941 +0000" channel="irinn">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">4212</length>
+  </programme>
   <programme start="20260927190012 +0000" stop="20260927191528 +0000" channel="irinn">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>اخبار ساعت 19:00 </sub-title>
@@ -538,51 +663,6 @@
     <sub-title>حرف دیگران</sub-title>
     <length units="seconds">122</length>
   </programme>
-  <programme start="20260927080005 +0000" stop="20260927082931 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1766</length>
-  </programme>
-  <programme start="20260927075459 +0000" stop="20260927075830 +0000" channel="irinn">
-    <title>راز محبوبیت - ۵ مهر ۱۴۰۵</title>
-    <sub-title>موشن گرافیک</sub-title>
-    <length units="seconds">210</length>
-  </programme>
-  <programme start="20260927074457 +0000" stop="20260927075455 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵ - محمد احمدی</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">598</length>
-  </programme>
-  <programme start="20260927073339 +0000" stop="20260927074457 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵ - سیار پیش بهار</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">678</length>
-  </programme>
-  <programme start="20260927073018 +0000" stop="20260927073339 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
-    <length units="seconds">202</length>
-  </programme>
-  <programme start="20260927072615 +0000" stop="20260927073019 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵ - سید مهدی پورحسینی</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">244</length>
-  </programme>
-  <programme start="20260927071002 +0000" stop="20260927072616 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵ - امیر سرتیپ علیرضا شیخ</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">974</length>
-  </programme>
-  <programme start="20260927070014 +0000" stop="20260927070958 +0000" channel="irinn">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">586</length>
-  </programme>
-  <programme start="20260927062825 +0000" stop="20260927065711 +0000" channel="irinn">
-    <title>رد هویت - ۵ مهر ۱۴۰۵</title>
-    <sub-title>مستند خبر</sub-title>
-    <length units="seconds">1726</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
@@ -617,6 +697,21 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20260927220003 +0000" stop="20260927222917 +0000" channel="pooya">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>شب بخیر بچه‌ ها</sub-title>
+    <length units="seconds">1754</length>
+  </programme>
+  <programme start="20260927194922 +0000" stop="20260927195229 +0000" channel="pooya">
+    <title>برای ایران برای مدرسه - ۵ مهر ۱۴۰۵</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">188</length>
+  </programme>
+  <programme start="20260927191930 +0000" stop="20260927192238 +0000" channel="pooya">
+    <title>آیین بدرقه فرزندان شهدای فراجا در آغاز سال تحصیلی ۱۴۰۵ - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (پویا)</sub-title>
+    <length units="seconds">188</length>
+  </programme>
   <programme start="20260927183020 +0000" stop="20260927185516 +0000" channel="pooya">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>کتاب شیرین</sub-title>
@@ -730,6 +825,26 @@
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20260927230037 +0000" stop="20260927234837 +0000" channel="ifilm">
+    <title>قسمت ۱۳</title>
+    <sub-title>در حاشیه</sub-title>
+    <length units="seconds">2366</length>
+  </programme>
+  <programme start="20260927220125 +0000" stop="20260927224854 +0000" channel="ifilm">
+    <title>قسمت ۱</title>
+    <sub-title>خواب و بیدار </sub-title>
+    <length units="seconds">2518</length>
+  </programme>
+  <programme start="20260927210044 +0000" stop="20260927214612 +0000" channel="ifilm">
+    <title>قسمت ۲۴</title>
+    <sub-title>شوق پرواز</sub-title>
+    <length units="seconds">2298</length>
+  </programme>
+  <programme start="20260927200111 +0000" stop="20260927205057 +0000" channel="ifilm">
+    <title>قسمت ۱۲</title>
+    <sub-title>نوروز رنگی </sub-title>
+    <length units="seconds">2558</length>
+  </programme>
   <programme start="20260927190035 +0000" stop="20260927195050 +0000" channel="ifilm">
     <title>قسمت ۱۷</title>
     <sub-title>خاک سرخ</sub-title>
@@ -758,9 +873,87 @@
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20260927210001 +0000" stop="20260927222644 +0000" channel="namayesh">
+    <title>پاتک</title>
+    <length units="seconds">4816</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20260927221551 +0000" stop="20260927230142 +0000" channel="tehran">
+    <title>آشکارسازی کلمبیای وحشی - 5 مهر 1405</title>
+    <sub-title>مستند 5 </sub-title>
+    <length units="seconds">2750</length>
+  </programme>
+  <programme start="20260927220630 +0000" stop="20260927221242 +0000" channel="tehran">
+    <title>دستگیری سورداگران مرگ و کشف 4ونیم کیلو شیشه - 5 مهر 1405</title>
+    <sub-title>در شهر 1405 (شبکه تهران)</sub-title>
+    <length units="seconds">372</length>
+  </programme>
+  <programme start="20260927210140 +0000" stop="20260927220304 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>میدان یار</sub-title>
+    <length units="seconds">3684</length>
+  </programme>
+  <programme start="20260927200014 +0000" stop="20260927205512 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">3298</length>
+  </programme>
+  <programme start="20260927185847 +0000" stop="20260927195508 +0000" channel="tehran">
+    <title>قسمت 22</title>
+    <sub-title>باغ سرهنگ</sub-title>
+    <length units="seconds">3160</length>
+  </programme>
+  <programme start="20260927182936 +0000" stop="20260927185259 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>گلوله در قاب</sub-title>
+    <length units="seconds">1404</length>
+  </programme>
+  <programme start="20260927161547 +0000" stop="20260927173833 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>به خانه بر می گردیم 1405</sub-title>
+    <length units="seconds">4644</length>
+  </programme>
+  <programme start="20260927155628 +0000" stop="20260927160303 +0000" channel="tehran">
+    <title>سالروز شکست حصر آبادان - 5 مهر 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">396</length>
+  </programme>
+  <programme start="20260927150823 +0000" stop="20260927155105 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>بچه ها بیایید تماشا </sub-title>
+    <length units="seconds">2562</length>
+  </programme>
+  <programme start="20260927133003 +0000" stop="20260927150226 +0000" channel="tehran">
+    <title>آبادان یازده 60</title>
+    <length units="seconds">5408</length>
+  </programme>
+  <programme start="20260927122901 +0000" stop="20260927131855 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>تا نیایش 1405</sub-title>
+    <length units="seconds">2994</length>
+  </programme>
+  <programme start="20260927070019 +0000" stop="20260927085924 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>سلام تهران 1405</sub-title>
+    <length units="seconds">6760</length>
+  </programme>
+  <programme start="20260927060431 +0000" stop="20260927065212 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>طبیعت پنهان آفریقا</sub-title>
+    <length units="seconds">2862</length>
+  </programme>
+  <programme start="20260927044034 +0000" stop="20260927044447 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>خانه های نور</sub-title>
+    <length units="seconds">252</length>
+  </programme>
+  <programme start="20260927000739 +0000" stop="20260927020649 +0000" channel="tehran">
+    <title>5 مهر 1405</title>
+    <sub-title>سدره </sub-title>
+    <length units="seconds">7150</length>
+  </programme>
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
@@ -782,6 +975,71 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20260927184553 +0000" stop="20260927193252 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">2820</length>
+  </programme>
+  <programme start="20260927182751 +0000" stop="20260927183302 +0000" channel="quran">
+    <title>حق شیعه بر گردن ما واجب تر است - ۵ مهر ۱۴۰۵</title>
+    <sub-title>عطر ماندگار</sub-title>
+    <length units="seconds">310</length>
+  </programme>
+  <programme start="20260927180018 +0000" stop="20260927181028 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20260927175213 +0000" stop="20260927175654 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>چشم و چراغ (قرآن)</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20260927172022 +0000" stop="20260927175122 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">1860</length>
+  </programme>
+  <programme start="20260927171239 +0000" stop="20260927171905 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>نکات ناب (قرآن)</sub-title>
+    <length units="seconds">384</length>
+  </programme>
+  <programme start="20260927163924 +0000" stop="20260927171144 +0000" channel="quran">
+    <title>جزء ۵ - ۵ مهر ۱۴۰۵</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">1940</length>
+  </programme>
+  <programme start="20260927162904 +0000" stop="20260927163324 +0000" channel="quran">
+    <title>یاران تهران - ۵ مهر ۱۴۰۵</title>
+    <sub-title>نماهنگ (قرآن)</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20260927160024 +0000" stop="20260927162904 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">1720</length>
+  </programme>
+  <programme start="20260927153830 +0000" stop="20260927155950 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>سلام بر ابراهیم </sub-title>
+    <length units="seconds">1280</length>
+  </programme>
+  <programme start="20260927152820 +0000" stop="20260927153744 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">564</length>
+  </programme>
+  <programme start="20260927151622 +0000" stop="20260927152753 +0000" channel="quran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>نگاتیو</sub-title>
+    <length units="seconds">692</length>
+  </programme>
+  <programme start="20260927145646 +0000" stop="20260927151538 +0000" channel="quran">
+    <title>حسام قانعی - ۵ مهر ۱۴۰۵</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1132</length>
+  </programme>
   <programme start="20260927140205 +0000" stop="20260927145527 +0000" channel="quran">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>ایران ما (قرآن)</sub-title>
@@ -950,6 +1208,36 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20260927234132 +0000" stop="20260927235255 +0000" channel="amouzesh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مهرواره</sub-title>
+    <length units="seconds">682</length>
+  </programme>
+  <programme start="20260927231624 +0000" stop="20260927233834 +0000" channel="amouzesh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مسابقه نابغه</sub-title>
+    <length units="seconds">1331</length>
+  </programme>
+  <programme start="20260927210009 +0000" stop="20260927212312 +0000" channel="amouzesh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>باهوش (آموزش)</sub-title>
+    <length units="seconds">1385</length>
+  </programme>
+  <programme start="20260927205011 +0000" stop="20260927205522 +0000" channel="amouzesh">
+    <title>مسافر - ۵ مهر ۱۴۰۵</title>
+    <sub-title>فیلم کوتاه</sub-title>
+    <length units="seconds">310</length>
+  </programme>
+  <programme start="20260927204307 +0000" stop="20260927205007 +0000" channel="amouzesh">
+    <title>۵ مهر ۱۴۰۵ - بخش ۲</title>
+    <sub-title>دوربین هفت ۱۴۰۵</sub-title>
+    <length units="seconds">419</length>
+  </programme>
+  <programme start="20260927190101 +0000" stop="20260927194952 +0000" channel="amouzesh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>رویش ۱۴۰۵</sub-title>
+    <length units="seconds">2932</length>
+  </programme>
   <programme start="20260927184244 +0000" stop="20260927185553 +0000" channel="amouzesh">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>دستانه</sub-title>
@@ -1088,6 +1376,31 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20260927224156 +0000" stop="20260927232348 +0000" channel="salamat">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مستند ژن</sub-title>
+    <length units="seconds">2484</length>
+  </programme>
+  <programme start="20260927220043 +0000" stop="20260927223852 +0000" channel="salamat">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>راز داران </sub-title>
+    <length units="seconds">2272</length>
+  </programme>
+  <programme start="20260927210055 +0000" stop="20260927214156 +0000" channel="salamat">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>حال خوب </sub-title>
+    <length units="seconds">2442</length>
+  </programme>
+  <programme start="20260927200515 +0000" stop="20260927205645 +0000" channel="salamat">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>کشیک سلامت </sub-title>
+    <length units="seconds">3060</length>
+  </programme>
+  <programme start="20260927191050 +0000" stop="20260927195530 +0000" channel="salamat">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>دل آوا</sub-title>
+    <length units="seconds">2647</length>
+  </programme>
   <programme start="20260927183047 +0000" stop="20260927185637 +0000" channel="salamat">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>مسابقه رمز سلامتی</sub-title>
@@ -1161,6 +1474,46 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20260927230114 +0000" stop="20260928000030 +0000" channel="ofogh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>قرارگاه جنگ</sub-title>
+    <length units="seconds">3556</length>
+  </programme>
+  <programme start="20260927224339 +0000" stop="20260927225834 +0000" channel="ofogh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>خیابان با ما </sub-title>
+    <length units="seconds">896</length>
+  </programme>
+  <programme start="20260927220014 +0000" stop="20260927223859 +0000" channel="ofogh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>کشور دوست</sub-title>
+    <length units="seconds">2326</length>
+  </programme>
+  <programme start="20260927215436 +0000" stop="20260927215935 +0000" channel="ofogh">
+    <title>هم نشین - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">300</length>
+  </programme>
+  <programme start="20260927210047 +0000" stop="20260927215105 +0000" channel="ofogh">
+    <title>شهید ثالث - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">3018</length>
+  </programme>
+  <programme start="20260927203134 +0000" stop="20260927205610 +0000" channel="ofogh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>نامیران</sub-title>
+    <length units="seconds">1478</length>
+  </programme>
+  <programme start="20260927202340 +0000" stop="20260927202838 +0000" channel="ofogh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">298</length>
+  </programme>
+  <programme start="20260927193142 +0000" stop="20260927201755 +0000" channel="ofogh">
+    <title>قسمت آخر </title>
+    <sub-title>بیدار باش </sub-title>
+    <length units="seconds">2772</length>
+  </programme>
   <programme start="20260927190046 +0000" stop="20260927192210 +0000" channel="ofogh">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>آرزم</sub-title>
@@ -1242,39 +1595,14 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
-  <programme start="20260927172905 +0000" stop="20260927174914 +0000" channel="omid">
-    <title>5 مهر 1405</title>
-    <sub-title>دفتر طراحی</sub-title>
-    <length units="seconds">1210</length>
-  </programme>
-  <programme start="20260927172406 +0000" stop="20260927172850 +0000" channel="omid">
-    <title>5 مهر 1405</title>
-    <sub-title>جان فدا</sub-title>
-    <length units="seconds">284</length>
-  </programme>
-  <programme start="20260927170039 +0000" stop="20260927171641 +0000" channel="omid">
-    <title>قسمت 2</title>
-    <sub-title>راز شهر سوخته</sub-title>
-    <length units="seconds">962</length>
-  </programme>
-  <programme start="20260927160404 +0000" stop="20260927162631 +0000" channel="omid">
-    <title>5 مهر 1405</title>
-    <sub-title>هشت</sub-title>
-    <length units="seconds">1346</length>
-  </programme>
-  <programme start="20260927152730 +0000" stop="20260927160402 +0000" channel="omid">
-    <title>5 مهر 1405</title>
-    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
-    <length units="seconds">2192</length>
-  </programme>
-  <programme start="20260927142743 +0000" stop="20260927152715 +0000" channel="omid">
-    <title>5 مهر 1405</title>
-    <sub-title>شبکه بازی: فصل 3 </sub-title>
-    <length units="seconds">3535</length>
-  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
+  <programme start="20260927230013 +0000" stop="20260928000050 +0000" channel="faratar">
+    <title>قسمت ۱۰</title>
+    <sub-title>پایتخت 7</sub-title>
+    <length units="seconds">3636</length>
+  </programme>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
@@ -1364,6 +1692,41 @@
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20260927230302 +0000" stop="20260928001635 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>موج فوتبال</sub-title>
+    <length units="seconds">4359</length>
+  </programme>
+  <programme start="20260927222956 +0000" stop="20260927230203 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 22:30 (سهند)</sub-title>
+    <length units="seconds">1917</length>
+  </programme>
+  <programme start="20260927210433 +0000" stop="20260927222002 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">4482</length>
+  </programme>
+  <programme start="20260927192955 +0000" stop="20260927195720 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1621</length>
+  </programme>
+  <programme start="20260927175518 +0000" stop="20260927182358 +0000" channel="sahand">
+    <title>شهر در محاصره - ۵ مهر ۱۴۰۵</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (سهند)</sub-title>
+    <length units="seconds">1700</length>
+  </programme>
+  <programme start="20260927172951 +0000" stop="20260927174540 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
+    <length units="seconds">938</length>
+  </programme>
+  <programme start="20260927160327 +0000" stop="20260927165420 +0000" channel="sahand">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>ناز بالالار</sub-title>
+    <length units="seconds">3011</length>
+  </programme>
   <programme start="20260927093720 +0000" stop="20260927100400 +0000" channel="sahand">
     <title>۵ مهر ۱۴۰۵</title>
     <sub-title>مزرعه دوستی</sub-title>
@@ -1390,39 +1753,104 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20260927232103 +0000" stop="20260927235722 +0000" channel="esfahan">
+    <title>حریم مهرورزی - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">2160</length>
+  </programme>
+  <programme start="20260927230000 +0000" stop="20260927231621 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 23:00 (اصفهان)</sub-title>
+    <length units="seconds">982</length>
+  </programme>
+  <programme start="20260927221406 +0000" stop="20260927223040 +0000" channel="esfahan">
+    <title>نمایش مقاومت - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">984</length>
+  </programme>
+  <programme start="20260927220442 +0000" stop="20260927221251 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>ساعت صفر </sub-title>
+    <length units="seconds">488</length>
+  </programme>
+  <programme start="20260927210008 +0000" stop="20260927215510 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>سنگر ایران</sub-title>
+    <length units="seconds">3302</length>
+  </programme>
+  <programme start="20260927204156 +0000" stop="20260927205010 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>به احترام مردم اصفهان</sub-title>
+    <length units="seconds">494</length>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927203638 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">2176</length>
+  </programme>
+  <programme start="20260927183107 +0000" stop="20260927185914 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>میدانیار</sub-title>
+    <length units="seconds">1676</length>
+  </programme>
+  <programme start="20260927170049 +0000" stop="20260927180014 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>گفتگوی پزشکی سیب (اصفهان)</sub-title>
+    <length units="seconds">3564</length>
+  </programme>
+  <programme start="20260927163516 +0000" stop="20260927170046 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>زیر گنبد کبود (اصفهان)</sub-title>
+    <length units="seconds">1485</length>
+  </programme>
+  <programme start="20260927162200 +0000" stop="20260927163513 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>روایت حماسه</sub-title>
+    <length units="seconds">782</length>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927161815 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 16:00 (اصفهان)</sub-title>
+    <length units="seconds">1084</length>
+  </programme>
+  <programme start="20260927152152 +0000" stop="20260927155113 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>روستاگرد (اصفهان)</sub-title>
+    <length units="seconds">1762</length>
+  </programme>
+  <programme start="20260927150600 +0000" stop="20260927152008 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>میدان دار</sub-title>
+    <length units="seconds">848</length>
+  </programme>
+  <programme start="20260927123046 +0000" stop="20260927131114 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>میعاد آدینه</sub-title>
+    <length units="seconds">2428</length>
+  </programme>
+  <programme start="20260927121455 +0000" stop="20260927123005 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>با مردم (اصفهان)</sub-title>
+    <length units="seconds">888</length>
+  </programme>
+  <programme start="20260927111848 +0000" stop="20260927113223 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>تا پای جان برای ایران</sub-title>
+    <length units="seconds">814</length>
+  </programme>
+  <programme start="20260927100054 +0000" stop="20260927105809 +0000" channel="esfahan">
+    <title>5 مهر 1405</title>
+    <sub-title>از اون خونه به این خونه</sub-title>
+    <length units="seconds">3414</length>
+  </programme>
+  <programme start="20260927074701 +0000" stop="20260927075316 +0000" channel="esfahan">
+    <title>زیر یک پرچم - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">376</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
-  <programme start="20260927161405 +0000" stop="20260927164858 +0000" channel="sabalan">
-    <title>نمایشگاه هفته دفاع مقدس - 5 مهر 1405</title>
-    <sub-title>ویژه برنامه های دفاع مقدس (سبلان)</sub-title>
-    <length units="seconds">2033</length>
-  </programme>
-  <programme start="20260927155939 +0000" stop="20260927161028 +0000" channel="sabalan">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار 16:00 </sub-title>
-    <length units="seconds">601</length>
-  </programme>
-  <programme start="20260927122230 +0000" stop="20260927123411 +0000" channel="sabalan">
-    <title>حدیث کسا - 5 مهر 1405</title>
-    <sub-title>ادعیه و زیارت (سبلان)</sub-title>
-    <length units="seconds">674</length>
-  </programme>
-  <programme start="20260927105953 +0000" stop="20260927111421 +0000" channel="sabalan">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار اردبیل (سبلان)</sub-title>
-    <length units="seconds">759</length>
-  </programme>
-  <programme start="20260927080055 +0000" stop="20260927085131 +0000" channel="sabalan">
-    <title>5 مهر 1405</title>
-    <sub-title>تزه گون (سبلان)</sub-title>
-    <length units="seconds">2839</length>
-  </programme>
-  <programme start="20260927045854 +0000" stop="20260927050737 +0000" channel="sabalan">
-    <title>5 مهر 1405</title>
-    <sub-title>دعای عهد (سبلان)</sub-title>
-    <length units="seconds">499</length>
-  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
@@ -1454,6 +1882,11 @@
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20260927200007 +0000" stop="20260927202300 +0000" channel="bushehr">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00 (بوشهر)</sub-title>
+    <length units="seconds">1352</length>
+  </programme>
   <programme start="20260927170008 +0000" stop="20260927172026 +0000" channel="bushehr">
     <title>5 مهر 1405</title>
     <sub-title>اخبار ساعت 17:00 (بوشهر)</sub-title>
@@ -1497,12 +1930,152 @@
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
+  <programme start="20260927170009 +0000" stop="20260927172707 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 17:00 (جهانبین)</sub-title>
+    <length units="seconds">1615</length>
+  </programme>
+  <programme start="20260927160406 +0000" stop="20260927164526 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>چگونه ساخته شده (جهانبین)</sub-title>
+    <length units="seconds">2480</length>
+  </programme>
+  <programme start="20260927154106 +0000" stop="20260927155817 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>تابستان پرماجرا</sub-title>
+    <length units="seconds">1031</length>
+  </programme>
+  <programme start="20260927120837 +0000" stop="20260927122326 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>حدیث کسا </sub-title>
+    <length units="seconds">888</length>
+  </programme>
+  <programme start="20260927112302 +0000" stop="20260927115111 +0000" channel="jahanbin">
+    <title>نخستین همایش ملی ماهیان - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (جهانبین)</sub-title>
+    <length units="seconds">1688</length>
+  </programme>
+  <programme start="20260927110012 +0000" stop="20260927112109 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (جهانبین)</sub-title>
+    <length units="seconds">1257</length>
+  </programme>
+  <programme start="20260927095855 +0000" stop="20260927105613 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>زیر یک سقف (جهانبین)</sub-title>
+    <length units="seconds">3437</length>
+  </programme>
+  <programme start="20260927093550 +0000" stop="20260927095603 +0000" channel="jahanbin">
+    <title>نخستین همایش ملی ماهیان - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (جهانبین)</sub-title>
+    <length units="seconds">1201</length>
+  </programme>
+  <programme start="20260927045429 +0000" stop="20260927050426 +0000" channel="jahanbin">
+    <title>5 مهر 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">598</length>
+  </programme>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20260927200002 +0000" stop="20260927201132 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آبادان)</sub-title>
+    <length units="seconds">690</length>
+  </programme>
+  <programme start="20260927185934 +0000" stop="20260927195427 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>ساعة خیر</sub-title>
+    <length units="seconds">3292</length>
+  </programme>
+  <programme start="20260927170019 +0000" stop="20260927172239 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
+    <length units="seconds">1338</length>
+  </programme>
+  <programme start="20260927124552 +0000" stop="20260927130044 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>خبر رادیو آبادان</sub-title>
+    <length units="seconds">891</length>
+  </programme>
+  <programme start="20260927120305 +0000" stop="20260927120803 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>تلاوت قرآن (آبادان)</sub-title>
+    <length units="seconds">298</length>
+  </programme>
+  <programme start="20260927093005 +0000" stop="20260927103156 +0000" channel="abadan">
+    <title>رژه دریایی به مناسبت سالروز شکست حصر آبادان - 5 مهر 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (آبادان)</sub-title>
+    <length units="seconds">3685</length>
+  </programme>
+  <programme start="20260927084709 +0000" stop="20260927091656 +0000" channel="abadan">
+    <title>سالروز شکست حصر آبادان - 5 مهر 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (آبادان)</sub-title>
+    <length units="seconds">1777</length>
+  </programme>
+  <programme start="20260927080319 +0000" stop="20260927084704 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>ایرانگرد (آبادان)</sub-title>
+    <length units="seconds">2624</length>
+  </programme>
+  <programme start="20260927050125 +0000" stop="20260927051129 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>دعای عهد (آبادان)</sub-title>
+    <length units="seconds">604</length>
+  </programme>
+  <programme start="20260927044545 +0000" stop="20260927044907 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>تلاوت قرآن (آبادان)</sub-title>
+    <length units="seconds">194</length>
+  </programme>
+  <programme start="20260927042840 +0000" stop="20260927044235 +0000" channel="abadan">
+    <title>5 مهر 1405</title>
+    <sub-title>ترنم صبحگاهی (آبادان)</sub-title>
+    <length units="seconds">836</length>
+  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20260927230057 +0000" stop="20260927230552 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>مروری بر خبرها</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20260927222541 +0000" stop="20260927230054 +0000" channel="khorasanrazavi">
+    <title>عقیق سرخ - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (خراسان رضوی)</sub-title>
+    <length units="seconds">2114</length>
+  </programme>
+  <programme start="20260927221633 +0000" stop="20260927222538 +0000" channel="khorasanrazavi">
+    <title>روایت مقدس - 5 مهر 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (خراسان رضوی)</sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20260927220618 +0000" stop="20260927221630 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>میدان یار</sub-title>
+    <length units="seconds">612</length>
+  </programme>
+  <programme start="20260927210603 +0000" stop="20260927220416 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>شب شرقی</sub-title>
+    <length units="seconds">3494</length>
+  </programme>
+  <programme start="20260927202912 +0000" stop="20260927210056 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">1904</length>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927202655 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20</sub-title>
+    <length units="seconds">1614</length>
+  </programme>
+  <programme start="20260927194951 +0000" stop="20260927195507 +0000" channel="khorasanrazavi">
+    <title>5 مهر 1405</title>
+    <sub-title>راویوم</sub-title>
+    <length units="seconds">316</length>
+  </programme>
   <programme start="20260927180418 +0000" stop="20260927185835 +0000" channel="khorasanrazavi">
     <title>5 مهر 1405</title>
     <sub-title>مدرسه ایران</sub-title>
@@ -1556,61 +2129,161 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20260927225959 +0000" stop="20260927231508 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (اترک)</sub-title>
+    <length units="seconds">899</length>
+  </programme>
+  <programme start="20260927221110 +0000" stop="20260927225223 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>ترنم شبانه (اترک)</sub-title>
+    <length units="seconds">2440</length>
+  </programme>
+  <programme start="20260927210125 +0000" stop="20260927220235 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>سنگر ایران</sub-title>
+    <length units="seconds">3638</length>
+  </programme>
+  <programme start="20260927203034 +0000" stop="20260927205225 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>نوروز دانش</sub-title>
+    <length units="seconds">1309</length>
+  </programme>
+  <programme start="20260927200013 +0000" stop="20260927202536 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (اترک)</sub-title>
+    <length units="seconds">1514</length>
+  </programme>
+  <programme start="20260927181028 +0000" stop="20260927190353 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>سلام آبادی (اترک)</sub-title>
+    <length units="seconds">3184</length>
+  </programme>
+  <programme start="20260927105958 +0000" stop="20260927111601 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
+    <length units="seconds">938</length>
+  </programme>
+  <programme start="20260927100013 +0000" stop="20260927105231 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>خانه مهر (اترک)</sub-title>
+    <length units="seconds">3136</length>
+  </programme>
+  <programme start="20260927070027 +0000" stop="20260927080001 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>صبح اترک (اترک)</sub-title>
+    <length units="seconds">3573</length>
+  </programme>
+  <programme start="20260927041931 +0000" stop="20260927042958 +0000" channel="atrak">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>دعای عهد (اترک)</sub-title>
+    <length units="seconds">618</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
-  <programme start="20260927160201 +0000" stop="20260927174248 +0000" channel="khalijefars">
-    <title>رزمایش جان فدایان ایران - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
-    <length units="seconds">5975</length>
-  </programme>
-  <programme start="20260927054147 +0000" stop="20260927055554 +0000" channel="khalijefars">
-    <title>5 مهر 1405</title>
-    <sub-title>گل های بهشتی (خلیج فارس)</sub-title>
-    <length units="seconds">847</length>
-  </programme>
-  <programme start="20260927040959 +0000" stop="20260927041857 +0000" channel="khalijefars">
-    <title>5 مهر 1405</title>
-    <sub-title>تا آسمان (خلیج فارس)</sub-title>
-    <length units="seconds">538</length>
-  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20260927233457 +0000" stop="20260927235943 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>تراز</sub-title>
+    <length units="seconds">1460</length>
+  </programme>
+  <programme start="20260927225953 +0000" stop="20260927233109 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (خوزستان)</sub-title>
+    <length units="seconds">1859</length>
+  </programme>
+  <programme start="20260927212857 +0000" stop="20260927223957 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>تا پای جان</sub-title>
+    <length units="seconds">4213</length>
+  </programme>
+  <programme start="20260927200136 +0000" stop="20260927203525 +0000" channel="khoozestan">
+    <title>میدان یار - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">2017</length>
+  </programme>
+  <programme start="20260927185724 +0000" stop="20260927195654 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مراحب</sub-title>
+    <length units="seconds">3558</length>
+  </programme>
+  <programme start="20260927183013 +0000" stop="20260927184104 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 18:30 (خوزستان)</sub-title>
+    <length units="seconds">641</length>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927173049 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 17:00 (خوزستان)</sub-title>
+    <length units="seconds">1811</length>
+  </programme>
+  <programme start="20260927130022 +0000" stop="20260927135415 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>بیت الهنا</sub-title>
+    <length units="seconds">3189</length>
+  </programme>
+  <programme start="20260927115634 +0000" stop="20260927120239 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">355</length>
+  </programme>
+  <programme start="20260927095112 +0000" stop="20260927102633 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>رنگین کمان (خوزستان)</sub-title>
+    <length units="seconds">2108</length>
+  </programme>
+  <programme start="20260927090016 +0000" stop="20260927095038 +0000" channel="khoozestan">
+    <title>فرداساز - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">2945</length>
+  </programme>
+  <programme start="20260927050143 +0000" stop="20260927051008 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>دعای عهد (خوزستان)</sub-title>
+    <length units="seconds">503</length>
+  </programme>
+  <programme start="20260927042816 +0000" stop="20260927044148 +0000" channel="khoozestan">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مناجات امیرالمومنین (خوزستان) </sub-title>
+    <length units="seconds">812</length>
+  </programme>
   <channel id="eshragh">
     <display-name>eshragh</display-name>
   </channel>
+  <programme start="20260927122520 +0000" stop="20260927123159 +0000" channel="eshragh">
+    <title>خبرنگار افتخاری - ۵ مهر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">398</length>
+  </programme>
+  <programme start="20260927115035 +0000" stop="20260927115219 +0000" channel="eshragh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (اشراق)</sub-title>
+    <length units="seconds">104</length>
+  </programme>
+  <programme start="20260927112342 +0000" stop="20260927115033 +0000" channel="eshragh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>ائل یار (اشراق)</sub-title>
+    <length units="seconds">1610</length>
+  </programme>
+  <programme start="20260927105957 +0000" stop="20260927111211 +0000" channel="eshragh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 11:00 (اشراق)</sub-title>
+    <length units="seconds">734</length>
+  </programme>
+  <programme start="20260927095220 +0000" stop="20260927095736 +0000" channel="eshragh">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">316</length>
+  </programme>
   <channel id="semnan">
     <display-name>channel semnan</display-name>
   </channel>
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
-  <programme start="20260927162941 +0000" stop="20260927164521 +0000" channel="hamoon">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت 16:30 (هامون)</sub-title>
-    <length units="seconds">940</length>
-  </programme>
-  <programme start="20260927150025 +0000" stop="20260927155429 +0000" channel="hamoon">
-    <title>5 مهر 1405</title>
-    <sub-title>مل ترمی (هامون)</sub-title>
-    <length units="seconds">3244</length>
-  </programme>
-  <programme start="20260927105911 +0000" stop="20260927111318 +0000" channel="hamoon">
-    <title>5 مهر 1405</title>
-    <sub-title>خبر هامون</sub-title>
-    <length units="seconds">848</length>
-  </programme>
-  <programme start="20260927095055 +0000" stop="20260927100102 +0000" channel="hamoon">
-    <title>سالروز شکست حصر آبادان - 5 مهر 1405</title>
-    <sub-title>ویژه برنامه های دفاع مقدس (هامون)</sub-title>
-    <length units="seconds">608</length>
-  </programme>
-  <programme start="20260927060552 +0000" stop="20260927061550 +0000" channel="hamoon">
-    <title>5 مهر 1405</title>
-    <sub-title>دعای عهد (هامون)</sub-title>
-    <length units="seconds">598</length>
-  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
@@ -1662,9 +2335,99 @@
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20260927203036 +0000" stop="20260927211214 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>سروش آسمانی</sub-title>
+    <length units="seconds">2464</length>
+  </programme>
+  <programme start="20260927195959 +0000" stop="20260927202345 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">1413</length>
+  </programme>
+  <programme start="20260927185841 +0000" stop="20260927192923 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>162 (قزوین)</sub-title>
+    <length units="seconds">1841</length>
+  </programme>
+  <programme start="20260927170007 +0000" stop="20260927170249 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>خبر روز (قزوین)</sub-title>
+    <length units="seconds">163</length>
+  </programme>
+  <programme start="20260927090128 +0000" stop="20260927091939 +0000" channel="qazvin">
+    <title>قصه های باغستان - 5 مهر 1405</title>
+    <sub-title>برنامه کودک و نوجوان (قزوین)</sub-title>
+    <length units="seconds">1078</length>
+  </programme>
+  <programme start="20260927070123 +0000" stop="20260927080603 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>صبح نو </sub-title>
+    <length units="seconds">3878</length>
+  </programme>
+  <programme start="20260927063055 +0000" stop="20260927065454 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>زندگی سلام (قزوین)</sub-title>
+    <length units="seconds">1428</length>
+  </programme>
+  <programme start="20260927045129 +0000" stop="20260927055358 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>ترتیل قرآن کریم (قزوین)</sub-title>
+    <length units="seconds">3738</length>
+  </programme>
+  <programme start="20260927034811 +0000" stop="20260927041924 +0000" channel="qazvin">
+    <title>5 مهر 1405</title>
+    <sub-title>دل افروزان (قزوین)</sub-title>
+    <length units="seconds">1874</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20260927230000 +0000" stop="20260927232752 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (قم)</sub-title>
+    <length units="seconds">1659</length>
+  </programme>
+  <programme start="20260927223200 +0000" stop="20260927224535 +0000" channel="noor">
+    <title>اجتماع مردمی در حمایت از رزمندگان اسلام و خون خواهی امام شهید - 5 مهر 1405 - بخش 2</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">804</length>
+  </programme>
+  <programme start="20260927220530 +0000" stop="20260927223200 +0000" channel="noor">
+    <title>اجتماع مردمی در حمایت از رزمندگان اسلام و خون خواهی امام شهید - 5 مهر 1405 - بخش 1</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1565</length>
+  </programme>
+  <programme start="20260927210046 +0000" stop="20260927220205 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>فانوس</sub-title>
+    <length units="seconds">3594</length>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927202153 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1312</length>
+  </programme>
+  <programme start="20260927184034 +0000" stop="20260927185511 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>برگ اول (نور)</sub-title>
+    <length units="seconds">853</length>
+  </programme>
+  <programme start="20260927171546 +0000" stop="20260927180038 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>نشانی خدمت </sub-title>
+    <length units="seconds">2648</length>
+  </programme>
+  <programme start="20260927165953 +0000" stop="20260927170954 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 17:00</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20260927150300 +0000" stop="20260927152351 +0000" channel="noor">
+    <title>5 مهر 1405</title>
+    <sub-title>قندون (نور)</sub-title>
+    <length units="seconds">1251</length>
+  </programme>
   <programme start="20260927124530 +0000" stop="20260927124655 +0000" channel="noor">
     <title>5 مهر 1405</title>
     <sub-title>راه امام (نور)</sub-title>
@@ -1713,97 +2476,47 @@
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
-  <programme start="20260927170112 +0000" stop="20260927172356 +0000" channel="aflak">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت 17:00 (لرستان)</sub-title>
-    <length units="seconds">1352</length>
-  </programme>
-  <programme start="20260927122800 +0000" stop="20260927125553 +0000" channel="aflak">
-    <title>5 مهر 1405</title>
-    <sub-title>سند افتخار (لرستان)</sub-title>
-    <length units="seconds">1650</length>
-  </programme>
-  <programme start="20260927122425 +0000" stop="20260927122748 +0000" channel="aflak">
-    <title>5 مهر 1405</title>
-    <sub-title>گنجینه احکام (لرستان)</sub-title>
-    <length units="seconds">201</length>
-  </programme>
-  <programme start="20260927114749 +0000" stop="20260927114859 +0000" channel="aflak">
-    <title>آیین برافراشته شدن پرچم - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
-    <length units="seconds">68</length>
-  </programme>
-  <programme start="20260927112411 +0000" stop="20260927114735 +0000" channel="aflak">
-    <title>آیین اختتامیه جشنواره ملی داستان رضوی - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
-    <length units="seconds">1379</length>
-  </programme>
-  <programme start="20260927053106 +0000" stop="20260927062155 +0000" channel="aflak">
-    <title>5 مهر 1405</title>
-    <sub-title>روایت فتح (لرستان)</sub-title>
-    <length units="seconds">3038</length>
-  </programme>
-  <programme start="20260927044035 +0000" stop="20260927044559 +0000" channel="aflak">
-    <title>5 مهر 1405</title>
-    <sub-title>تلاوت قرآن (لرستان)</sub-title>
-    <length units="seconds">324</length>
-  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
-  <programme start="20260927170423 +0000" stop="20260927172049 +0000" channel="kerman">
-    <title>نوروز دانش - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">986</length>
-  </programme>
-  <programme start="20260927164444 +0000" stop="20260927170126 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت ۱۶:۴۵ (کرمان)</sub-title>
-    <length units="seconds">1004</length>
-  </programme>
-  <programme start="20260927140047 +0000" stop="20260927142602 +0000" channel="kerman">
-    <title>عملیات آزادسازی حصر آبادان - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">1514</length>
-  </programme>
-  <programme start="20260927120143 +0000" stop="20260927123301 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>ره عشق (کرمان)</sub-title>
-    <length units="seconds">1878</length>
-  </programme>
-  <programme start="20260927115015 +0000" stop="20260927120109 +0000" channel="kerman">
-    <title>تا پای جان - 5 مهر 1405</title>
-    <sub-title>ویژه برنامه های دفاع مقدس (کرمان)</sub-title>
-    <length units="seconds">654</length>
-  </programme>
-  <programme start="20260927111557 +0000" stop="20260927112737 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>حدیث کسا (کرمان)</sub-title>
-    <length units="seconds">700</length>
-  </programme>
-  <programme start="20260927101153 +0000" stop="20260927111144 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>زندگی زیباست (کرمان)</sub-title>
-    <length units="seconds">3590</length>
-  </programme>
-  <programme start="20260927084911 +0000" stop="20260927100604 +0000" channel="kerman">
-    <title>سومین همایش ملی رویش امید - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
-    <length units="seconds">4612</length>
-  </programme>
-  <programme start="20260927071017 +0000" stop="20260927075501 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>کرمان سلام</sub-title>
-    <length units="seconds">2684</length>
-  </programme>
-  <programme start="20260927060134 +0000" stop="20260927061009 +0000" channel="kerman">
-    <title>5 مهر 1405</title>
-    <sub-title>دعای عهد (کرمان)</sub-title>
-    <length units="seconds">516</length>
-  </programme>
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20260927165908 +0000" stop="20260927172302 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>روایت (زاگرس)</sub-title>
+    <length units="seconds">1421</length>
+  </programme>
+  <programme start="20260927130006 +0000" stop="20260927132208 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار 13 </sub-title>
+    <length units="seconds">1313</length>
+  </programme>
+  <programme start="20260927115237 +0000" stop="20260927115834 +0000" channel="zagros">
+    <title>آیین روز پرچم - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">358</length>
+  </programme>
+  <programme start="20260927080552 +0000" stop="20260927085416 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>سلام کرمانشاه (زاگرس)</sub-title>
+    <length units="seconds">2892</length>
+  </programme>
+  <programme start="20260927070130 +0000" stop="20260927074842 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>روند</sub-title>
+    <length units="seconds">2832</length>
+  </programme>
+  <programme start="20260927060137 +0000" stop="20260927061018 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">520</length>
+  </programme>
+  <programme start="20260927043951 +0000" stop="20260927045137 +0000" channel="zagros">
+    <title>5 مهر 1405</title>
+    <sub-title>تلاوت قرآن (زاگرس)</sub-title>
+    <length units="seconds">696</length>
+  </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
@@ -1863,105 +2576,85 @@
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
-  <programme start="20260927170006 +0000" stop="20260927170856 +0000" channel="sabz">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت 17:00 (سبز)</sub-title>
-    <length units="seconds">529</length>
-  </programme>
-  <programme start="20260927160006 +0000" stop="20260927161511 +0000" channel="sabz">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت 16:00 (سبز)</sub-title>
-    <length units="seconds">904</length>
-  </programme>
-  <programme start="20260927112028 +0000" stop="20260927113048 +0000" channel="sabz">
-    <title>آیین گرامیداشت روز پرچم - 5 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (سبز)</sub-title>
-    <length units="seconds">620</length>
-  </programme>
-  <programme start="20260927100051 +0000" stop="20260927105138 +0000" channel="sabz">
-    <title>5 مهر 1405</title>
-    <sub-title>پزشک شما (سبز)</sub-title>
-    <length units="seconds">3045</length>
-  </programme>
-  <programme start="20260927080125 +0000" stop="20260927085651 +0000" channel="sabz">
-    <title>5 مهر 1405</title>
-    <sub-title>صبح عالی (سبز)</sub-title>
-    <length units="seconds">3324</length>
-  </programme>
-  <programme start="20260927042320 +0000" stop="20260927042744 +0000" channel="sabz">
-    <title>دعای روز یکشنبه - 5 مهر 1405</title>
-    <sub-title>ادعیه و زیارت (سبز)</sub-title>
-    <length units="seconds">264</length>
-  </programme>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20260927230023 +0000" stop="20260927232919 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 23:00 (باران)</sub-title>
+    <length units="seconds">1736</length>
+  </programme>
+  <programme start="20260927220251 +0000" stop="20260927225230 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">2980</length>
+  </programme>
+  <programme start="20260927205329 +0000" stop="20260927211036 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>لوجنک (باران)</sub-title>
+    <length units="seconds">1028</length>
+  </programme>
+  <programme start="20260927203647 +0000" stop="20260927205315 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>گفتگوی ویژه خبری (باران)</sub-title>
+    <length units="seconds">988</length>
+  </programme>
+  <programme start="20260927200035 +0000" stop="20260927203647 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">2172</length>
+  </programme>
+  <programme start="20260927190309 +0000" stop="20260927195338 +0000" channel="baran">
+    <title>میدان یار - ۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">3030</length>
+  </programme>
+  <programme start="20260927172437 +0000" stop="20260927175359 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>نماز آدینه (باران)</sub-title>
+    <length units="seconds">1762</length>
+  </programme>
+  <programme start="20260927164942 +0000" stop="20260927170802 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>برنامه کودک (باران)</sub-title>
+    <length units="seconds">1100</length>
+  </programme>
+  <programme start="20260927122552 +0000" stop="20260927125720 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>تفسیر قرآن کریم(شبکه باران)</sub-title>
+    <length units="seconds">1888</length>
+  </programme>
+  <programme start="20260927100117 +0000" stop="20260927110218 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>خانه مهر (باران)</sub-title>
+    <length units="seconds">3662</length>
+  </programme>
+  <programme start="20260927090021 +0000" stop="20260927095611 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>دریچه (باران)</sub-title>
+    <length units="seconds">3350</length>
+  </programme>
+  <programme start="20260927073000 +0000" stop="20260927084519 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>صبح تازه</sub-title>
+    <length units="seconds">4520</length>
+  </programme>
+  <programme start="20260927050122 +0000" stop="20260927051119 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">598</length>
+  </programme>
+  <programme start="20260927040257 +0000" stop="20260927042612 +0000" channel="baran">
+    <title>۵ مهر ۱۴۰۵</title>
+    <sub-title>مناجات حضرت امیرالمومنین (ع) (باران)</sub-title>
+    <length units="seconds">1394</length>
+  </programme>
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
-  <programme start="20260927124013 +0000" stop="20260927124250 +0000" channel="kordestan">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>آئینه آفتاب (کردستان)</sub-title>
-    <length units="seconds">156</length>
-  </programme>
-  <programme start="20260927122157 +0000" stop="20260927124013 +0000" channel="kordestan">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>به ره و رووناکی (کردستان)</sub-title>
-    <length units="seconds">1096</length>
-  </programme>
-  <programme start="20260927103636 +0000" stop="20260927104258 +0000" channel="kordestan">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
-    <length units="seconds">382</length>
-  </programme>
-  <programme start="20260927100143 +0000" stop="20260927103243 +0000" channel="kordestan">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>ژیوان و ژیوار (کردستان)</sub-title>
-    <length units="seconds">1860</length>
-  </programme>
-  <programme start="20260927095450 +0000" stop="20260927095730 +0000" channel="kordestan">
-    <title>ده نگی یار - ۵ مهر ۱۴۰۵</title>
-    <sub-title>نماهنگ (کردستان)</sub-title>
-    <length units="seconds">160</length>
-  </programme>
-  <programme start="20260927090014 +0000" stop="20260927095448 +0000" channel="kordestan">
-    <title>۵ مهر ۱۴۰۵</title>
-    <sub-title>روژمان (کردستان)</sub-title>
-    <length units="seconds">3274</length>
-  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
-  <programme start="20260927170114 +0000" stop="20260927173200 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>گفتمان (یزد)</sub-title>
-    <length units="seconds">1825</length>
-  </programme>
-  <programme start="20260927164459 +0000" stop="20260927165944 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت 16:45 (یزد)</sub-title>
-    <length units="seconds">863</length>
-  </programme>
-  <programme start="20260927132956 +0000" stop="20260927134438 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>اخبار ساعت ۱۳:۳۰ (یزد)</sub-title>
-    <length units="seconds">881</length>
-  </programme>
-  <programme start="20260927080008 +0000" stop="20260927085551 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>صبح و زندگی (یزد)</sub-title>
-    <length units="seconds">3321</length>
-  </programme>
-  <programme start="20260927060452 +0000" stop="20260927061119 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>آن روزها (یزد)</sub-title>
-    <length units="seconds">386</length>
-  </programme>
-  <programme start="20260927042821 +0000" stop="20260927043818 +0000" channel="taban">
-    <title>5 مهر 1405</title>
-    <sub-title>دعای عهد (یزد)</sub-title>
-    <length units="seconds">584</length>
-  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
@@ -1998,6 +2691,51 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20260927192855 +0000" stop="20260927194424 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">930</length>
+  </programme>
+  <programme start="20260927183934 +0000" stop="20260927185109 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>در استان (آفتاب)</sub-title>
+    <length units="seconds">694</length>
+  </programme>
+  <programme start="20260927172400 +0000" stop="20260927181357 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>جهان پناه</sub-title>
+    <length units="seconds">2996</length>
+  </programme>
+  <programme start="20260927170917 +0000" stop="20260927172158 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>با خبرنگاران (آفتاب)</sub-title>
+    <length units="seconds">762</length>
+  </programme>
+  <programme start="20260927162401 +0000" stop="20260927170914 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>گلدونه ها</sub-title>
+    <length units="seconds">2714</length>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927132420 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
+    <length units="seconds">1438</length>
+  </programme>
+  <programme start="20260927122232 +0000" stop="20260927124924 +0000" channel="aftab">
+    <title>فانوس عاشقی - 5 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
+    <length units="seconds">1600</length>
+  </programme>
+  <programme start="20260927080420 +0000" stop="20260927093710 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>صبح و زندگی (آفتاب)</sub-title>
+    <length units="seconds">5570</length>
+  </programme>
+  <programme start="20260927062231 +0000" stop="20260927063059 +0000" channel="aftab">
+    <title>5 مهر 1405</title>
+    <sub-title>دعای عهد (آفتاب)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -2007,6 +2745,21 @@
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20260927200013 +0000" stop="20260927203001 +0000" channel="khavaran">
+    <title>5 مهر 1405</title>
+    <sub-title>اخبار ساعت 20:00 (خاوران)</sub-title>
+    <length units="seconds">1788</length>
+  </programme>
+  <programme start="20260927190043 +0000" stop="20260927191318 +0000" channel="khavaran">
+    <title>5 مهر 1405</title>
+    <sub-title>کنترل نامحسوس</sub-title>
+    <length units="seconds">756</length>
+  </programme>
+  <programme start="20260927175700 +0000" stop="20260927185647 +0000" channel="khavaran">
+    <title>دفاع ادامه دارد - 5 مهر 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (خاوران)</sub-title>
+    <length units="seconds">3586</length>
+  </programme>
   <programme start="20260927163019 +0000" stop="20260927164457 +0000" channel="khavaran">
     <title>5 مهر 1405</title>
     <sub-title>به روایت مردم</sub-title>
