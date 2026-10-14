@@ -3,6 +3,31 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20261014192415 +0000" stop="20261014195411 +0000" channel="tv1">
+    <title>22 مهر 1405</title>
+    <sub-title>ابر سازه های ایران</sub-title>
+    <length units="seconds">1796</length>
+  </programme>
+  <programme start="20261014185622 +0000" stop="20261014191949 +0000" channel="tv1">
+    <title>22 مهر 1405</title>
+    <sub-title>ایران امروز</sub-title>
+    <length units="seconds">1408</length>
+  </programme>
+  <programme start="20261014180048 +0000" stop="20261014185041 +0000" channel="tv1">
+    <title>خلاصه قسمت های هفتم و هشتم</title>
+    <sub-title>آنسوی دیوار چین</sub-title>
+    <length units="seconds">2992</length>
+  </programme>
+  <programme start="20261014172507 +0000" stop="20261014174416 +0000" channel="tv1">
+    <title>22 مهر 1405</title>
+    <sub-title>میدان یار</sub-title>
+    <length units="seconds">1148</length>
+  </programme>
+  <programme start="20261014140005 +0000" stop="20261014145501 +0000" channel="tv1">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3296</length>
+  </programme>
   <programme start="20261014124311 +0000" stop="20261014132931 +0000" channel="tv1">
     <title>22 مهر 1405</title>
     <sub-title>سیمای خانواده 1405</sub-title>
@@ -51,6 +76,16 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20261014180328 +0000" stop="20261014193814 +0000" channel="tv2">
+    <title>22 مهر 1405</title>
+    <sub-title>عصر خانواده </sub-title>
+    <length units="seconds">5334</length>
+  </programme>
+  <programme start="20261014143344 +0000" stop="20261014145518 +0000" channel="tv2">
+    <title>22 مهر 1405</title>
+    <sub-title>روایت حضور </sub-title>
+    <length units="seconds">1294</length>
+  </programme>
   <programme start="20261014125823 +0000" stop="20261014134416 +0000" channel="tv2">
     <title>22 مهر 1405</title>
     <sub-title>برش طلایی </sub-title>
@@ -84,6 +119,21 @@
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
+  <programme start="20261014170426 +0000" stop="20261014190245 +0000" channel="tv3">
+    <title>خیبر خرم‌آباد - پرسپولیس</title>
+    <sub-title>لیگ برتر 05-06</sub-title>
+    <length units="seconds">6134</length>
+  </programme>
+  <programme start="20261014161645 +0000" stop="20261014162400 +0000" channel="tv3">
+    <title>22 مهر 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20261014150610 +0000" stop="20261014150921 +0000" channel="tv3">
+    <title>گرشا رضایی-دریا نمیرم- 22 مهر 1405</title>
+    <sub-title>نماهنگ (شبکه 3)</sub-title>
+    <length units="seconds">192</length>
+  </programme>
   <programme start="20261014130258 +0000" stop="20261014135303 +0000" channel="tv3">
     <title>22 مهر 1405 - حجت الاسلام عابدینی</title>
     <sub-title>سمت خدا 1405</sub-title>
@@ -137,182 +187,42 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
-  <programme start="20261014061533 +0000" stop="20261014065727 +0000" channel="tv4">
-    <title>22 مهر 1405</title>
-    <sub-title>صهبای تسنیم</sub-title>
-    <length units="seconds">2513</length>
-  </programme>
-  <programme start="20261014060329 +0000" stop="20261014061218 +0000" channel="tv4">
-    <title>22 مهر 1405</title>
-    <sub-title>دعای عهد (شبکه ۴)</sub-title>
-    <length units="seconds">528</length>
-  </programme>
-  <programme start="20261014060112 +0000" stop="20261014060328 +0000" channel="tv4">
-    <title>22 مهر 1405</title>
-    <sub-title>از باران تا ایمان</sub-title>
-    <length units="seconds">136</length>
-  </programme>
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20261014190249 +0000" stop="20261014195152 +0000" channel="nasim">
+    <title>22 مهر 1405</title>
+    <sub-title>بی حاشیه</sub-title>
+    <length units="seconds">2836</length>
+  </programme>
+  <programme start="20261014185347 +0000" stop="20261014185903 +0000" channel="nasim">
+    <title>تبلیغات ماهواره ای - 22 مهر 1405</title>
+    <sub-title>نفس عمیق</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20261014174557 +0000" stop="20261014174853 +0000" channel="nasim">
+    <title>22 مهر 1405</title>
+    <sub-title>نسیم وحی </sub-title>
+    <length units="seconds">176</length>
+  </programme>
+  <programme start="20261014174413 +0000" stop="20261014174556 +0000" channel="nasim">
+    <title>22 مهر 1405</title>
+    <sub-title>در ناب</sub-title>
+    <length units="seconds">102</length>
+  </programme>
+  <programme start="20261014173022 +0000" stop="20261014173920 +0000" channel="nasim">
+    <title>22 مهر 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20261014110059 +0000" stop="20261014113728 +0000" channel="nasim">
+    <title>22 مهر 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2190</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
-  <programme start="20261014133009 +0000" stop="20261014135417 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>سواد رسانه ای</sub-title>
-    <length units="seconds">1448</length>
-  </programme>
-  <programme start="20261014131133 +0000" stop="20261014132659 +0000" channel="irinn">
-    <title>22 مهر 1405 - رضا تقی پور</title>
-    <sub-title>نبرد هرمز</sub-title>
-    <length units="seconds">924</length>
-  </programme>
-  <programme start="20261014130008 +0000" stop="20261014131129 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 13:00 </sub-title>
-    <length units="seconds">682</length>
-  </programme>
-  <programme start="20261014124509 +0000" stop="20261014125835 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
-    <length units="seconds">806</length>
-  </programme>
-  <programme start="20261014121325 +0000" stop="20261014123139 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>بدون مرز (خبر)</sub-title>
-    <length units="seconds">1096</length>
-  </programme>
-  <programme start="20261014121058 +0000" stop="20261014121323 +0000" channel="irinn">
-    <title>بیانیه نیروهای مسلح یمن - 22 مهر 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">146</length>
-  </programme>
-  <programme start="20261014120010 +0000" stop="20261014121020 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 12:00 </sub-title>
-    <length units="seconds">610</length>
-  </programme>
-  <programme start="20261014113403 +0000" stop="20261014115812 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>روایت اقتدار</sub-title>
-    <length units="seconds">1252</length>
-  </programme>
-  <programme start="20261014113011 +0000" stop="20261014113352 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 11:30 </sub-title>
-    <length units="seconds">220</length>
-  </programme>
-  <programme start="20261014111251 +0000" stop="20261014112835 +0000" channel="irinn">
-    <title>22 مهر 1405 - فرهاد پاشاوند</title>
-    <sub-title>نبرد هرمز</sub-title>
-    <length units="seconds">944</length>
-  </programme>
-  <programme start="20261014110011 +0000" stop="20261014111246 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
-    <length units="seconds">754</length>
-  </programme>
-  <programme start="20261014103458 +0000" stop="20261014105844 +0000" channel="irinn">
-    <title>طلوع از غرب - 22 مهر 1405</title>
-    <sub-title>گزارش (خبر)</sub-title>
-    <length units="seconds">1426</length>
-  </programme>
-  <programme start="20261014103010 +0000" stop="20261014103453 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت  10:30 </sub-title>
-    <length units="seconds">284</length>
-  </programme>
-  <programme start="20261014102839 +0000" stop="20261014103007 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>حرف دیگران</sub-title>
-    <length units="seconds">90</length>
-  </programme>
-  <programme start="20261014101005 +0000" stop="20261014102835 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>نگاهی به مطبوعات</sub-title>
-    <length units="seconds">1110</length>
-  </programme>
-  <programme start="20261014100013 +0000" stop="20261014100951 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 10:00 </sub-title>
-    <length units="seconds">578</length>
-  </programme>
-  <programme start="20261014093013 +0000" stop="20261014094027 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
-    <length units="seconds">614</length>
-  </programme>
-  <programme start="20261014090926 +0000" stop="20261014092825 +0000" channel="irinn">
-    <title>22 مهر 1405 - موفق بهروزی</title>
-    <sub-title>نبرد هرمز</sub-title>
-    <length units="seconds">1140</length>
-  </programme>
-  <programme start="20261014090012 +0000" stop="20261014090923 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
-    <length units="seconds">552</length>
-  </programme>
-  <programme start="20261014083236 +0000" stop="20261014085528 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>روی خط خبر</sub-title>
-    <length units="seconds">1372</length>
-  </programme>
-  <programme start="20261014083007 +0000" stop="20261014083230 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>حرف دیگران</sub-title>
-    <length units="seconds">142</length>
-  </programme>
-  <programme start="20261014075940 +0000" stop="20261014082957 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 8:00</sub-title>
-    <length units="seconds">1818</length>
-  </programme>
-  <programme start="20261014074606 +0000" stop="20261014075938 +0000" channel="irinn">
-    <title>22 مهر 1405 - آقای یوسفی</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">812</length>
-  </programme>
-  <programme start="20261014073730 +0000" stop="20261014074605 +0000" channel="irinn">
-    <title>22 مهر 1405 - خانم حامدی </title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">516</length>
-  </programme>
-  <programme start="20261014073428 +0000" stop="20261014073820 +0000" channel="irinn">
-    <title>22 مهر 1405 - محمدرضا دزفولی زاده</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">232</length>
-  </programme>
-  <programme start="20261014072830 +0000" stop="20261014073419 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">350</length>
-  </programme>
-  <programme start="20261014070933 +0000" stop="20261014073010 +0000" channel="irinn">
-    <title>22 مهر 1405 - مهدی ضیایی</title>
-    <sub-title>سلام خبرنگار (خبر)</sub-title>
-    <length units="seconds">1236</length>
-  </programme>
-  <programme start="20261014070017 +0000" stop="20261014070926 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
-    <length units="seconds">548</length>
-  </programme>
-  <programme start="20261014060013 +0000" stop="20261014060916 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
-    <length units="seconds">542</length>
-  </programme>
-  <programme start="20261014050013 +0000" stop="20261014051036 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 5:00 </sub-title>
-    <length units="seconds">622</length>
-  </programme>
-  <programme start="20261014040017 +0000" stop="20261014040937 +0000" channel="irinn">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">560</length>
-  </programme>
   <programme start="20261014030010 +0000" stop="20261014031001 +0000" channel="irinn">
     <title>22 مهر 1405</title>
     <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
@@ -372,9 +282,179 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20261014192743 +0000" stop="20261014192914 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">90</length>
+  </programme>
+  <programme start="20261014183042 +0000" stop="20261014185634 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>کتاب شیرین</sub-title>
+    <length units="seconds">1552</length>
+  </programme>
+  <programme start="20261014173012 +0000" stop="20261014173600 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>سفرهای شگفت انگیز </sub-title>
+    <length units="seconds">348</length>
+  </programme>
+  <programme start="20261014170049 +0000" stop="20261014172425 +0000" channel="pooya">
+    <title>قسمت 8</title>
+    <sub-title>سه برادر</sub-title>
+    <length units="seconds">1416</length>
+  </programme>
+  <programme start="20261014160054 +0000" stop="20261014163254 +0000" channel="pooya">
+    <title>قسمت 10</title>
+    <sub-title>کارآگاهان کوچک</sub-title>
+    <length units="seconds">1920</length>
+  </programme>
+  <programme start="20261014155538 +0000" stop="20261014160027 +0000" channel="pooya">
+    <title>ایران من - 22 مهر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20261014155245 +0000" stop="20261014155332 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>مزه خلاقیت</sub-title>
+    <length units="seconds">46</length>
+  </programme>
+  <programme start="20261014152546 +0000" stop="20261014152917 +0000" channel="pooya">
+    <title>تهران دوست داشتنی - 22 مهر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20261014150040 +0000" stop="20261014152545 +0000" channel="pooya">
+    <title>قسمت 46</title>
+    <sub-title>شجاعان</sub-title>
+    <length units="seconds">1506</length>
+  </programme>
+  <programme start="20261014145440 +0000" stop="20261014145847 +0000" channel="pooya">
+    <title>من دختر ایرانم - 22 مهر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">248</length>
+  </programme>
+  <programme start="20261014141756 +0000" stop="20261014142810 +0000" channel="pooya">
+    <title>قسمت 2</title>
+    <sub-title>گروه فریاد</sub-title>
+    <length units="seconds">614</length>
+  </programme>
+  <programme start="20261014140405 +0000" stop="20261014141658 +0000" channel="pooya">
+    <title>قسمت 15</title>
+    <sub-title>آقا معلم و بچه ها</sub-title>
+    <length units="seconds">772</length>
+  </programme>
+  <programme start="20261014133845 +0000" stop="20261014134512 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>سفرهای شگفت انگیز </sub-title>
+    <length units="seconds">386</length>
+  </programme>
+  <programme start="20261014132939 +0000" stop="20261014133844 +0000" channel="pooya">
+    <title>قسمت 48</title>
+    <sub-title>ببعی</sub-title>
+    <length units="seconds">544</length>
+  </programme>
+  <programme start="20261014132409 +0000" stop="20261014132757 +0000" channel="pooya">
+    <title>قسمت 140</title>
+    <sub-title>پتوی چهل تکه</sub-title>
+    <length units="seconds">228</length>
+  </programme>
+  <programme start="20261014131759 +0000" stop="20261014132117 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>قصه های لینا لونا</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20261014130049 +0000" stop="20261014131756 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>وقت قصه</sub-title>
+    <length units="seconds">1026</length>
+  </programme>
+  <programme start="20261014123049 +0000" stop="20261014123737 +0000" channel="pooya">
+    <title>قسمت 19</title>
+    <sub-title>باباتوتو</sub-title>
+    <length units="seconds">408</length>
+  </programme>
+  <programme start="20261014115552 +0000" stop="20261014120147 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>زیر گنبد فیروزه ای </sub-title>
+    <length units="seconds">356</length>
+  </programme>
+  <programme start="20261014113856 +0000" stop="20261014114340 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20261014113042 +0000" stop="20261014113813 +0000" channel="pooya">
+    <title>قسمت 19</title>
+    <sub-title>کاوان و جیکا</sub-title>
+    <length units="seconds">450</length>
+  </programme>
+  <programme start="20261014112757 +0000" stop="20261014113011 +0000" channel="pooya">
+    <title>گلهای آفتاب گردان - 22 مهر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">134</length>
+  </programme>
+  <programme start="20261014111604 +0000" stop="20261014112755 +0000" channel="pooya">
+    <title>قسمت 14</title>
+    <sub-title>ماموریت آدم آهنی ها</sub-title>
+    <length units="seconds">710</length>
+  </programme>
+  <programme start="20261014110040 +0000" stop="20261014111554 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>نقاشی نقاشی</sub-title>
+    <length units="seconds">914</length>
+  </programme>
+  <programme start="20261014105316 +0000" stop="20261014105438 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">80</length>
+  </programme>
+  <programme start="20261014100709 +0000" stop="20261014101003 +0000" channel="pooya">
+    <title>یک فرصت خوب - 22 مهر 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">174</length>
+  </programme>
+  <programme start="20261014095731 +0000" stop="20261014095953 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">142</length>
+  </programme>
+  <programme start="20261014092153 +0000" stop="20261014092448 +0000" channel="pooya">
+    <title>عروسک قشنگ - 22 مهر 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">176</length>
+  </programme>
+  <programme start="20261014082608 +0000" stop="20261014082948 +0000" channel="pooya">
+    <title>22 مهر 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">220</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20261014194936 +0000" stop="20261014195430 +0000" channel="ifilm">
+    <title>22 مهر 1405</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20261014190020 +0000" stop="20261014194554 +0000" channel="ifilm">
+    <title>قسمت 16</title>
+    <sub-title>نوار زرد</sub-title>
+    <length units="seconds">2326</length>
+  </programme>
+  <programme start="20261014180018 +0000" stop="20261014185025 +0000" channel="ifilm">
+    <title>قسمت 12</title>
+    <sub-title>زندگی از نو</sub-title>
+    <length units="seconds">2776</length>
+  </programme>
+  <programme start="20261014170223 +0000" stop="20261014174243 +0000" channel="ifilm">
+    <title>قسمت 60</title>
+    <sub-title>کمربندها را ببندیم</sub-title>
+    <length units="seconds">2270</length>
+  </programme>
+  <programme start="20261014160025 +0000" stop="20261014170157 +0000" channel="ifilm">
+    <title>قسمت 25</title>
+    <sub-title>آژانس دوستی </sub-title>
+    <length units="seconds">3452</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
@@ -424,9 +504,109 @@
   <channel id="mostanad">
     <display-name>channel mostanad</display-name>
   </channel>
+  <programme start="20261014193025 +0000" stop="20261014195257 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>لیلی من (مستند)</sub-title>
+    <length units="seconds">1352</length>
+  </programme>
+  <programme start="20261014190131 +0000" stop="20261014192436 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>قصه های دهکده</sub-title>
+    <length units="seconds">1384</length>
+  </programme>
+  <programme start="20261014181907 +0000" stop="20261014184856 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>کهن دیار (مستند)</sub-title>
+    <length units="seconds">1788</length>
+  </programme>
+  <programme start="20261014171818 +0000" stop="20261014172649 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>برش مستند</sub-title>
+    <length units="seconds">512</length>
+  </programme>
+  <programme start="20261014170105 +0000" stop="20261014171726 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>ترکان پارسی گوی</sub-title>
+    <length units="seconds">980</length>
+  </programme>
+  <programme start="20261014165158 +0000" stop="20261014165729 +0000" channel="mostanad">
+    <title>22 مهر 1405</title>
+    <sub-title>آوای مستند</sub-title>
+    <length units="seconds">332</length>
+  </programme>
+  <programme start="20261014160053 +0000" stop="20261014164940 +0000" channel="mostanad">
+    <title>سیاره پلاستیک - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (مستند)</sub-title>
+    <length units="seconds">2926</length>
+  </programme>
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20261014192223 +0000" stop="20261014195700 +0000" channel="quran">
+    <title>جز 22 - 22 مهر 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">2076</length>
+  </programme>
+  <programme start="20261014190636 +0000" stop="20261014192022 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای توسل (قرآن)</sub-title>
+    <length units="seconds">826</length>
+  </programme>
+  <programme start="20261014185850 +0000" stop="20261014190551 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20261014182520 +0000" stop="20261014185807 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>شبستان </sub-title>
+    <length units="seconds">1966</length>
+  </programme>
+  <programme start="20261014180241 +0000" stop="20261014180635 +0000" channel="quran">
+    <title>اهمیت خانواده - 22 مهر 1405</title>
+    <sub-title>عطر ماندگار</sub-title>
+    <length units="seconds">234</length>
+  </programme>
+  <programme start="20261014174506 +0000" stop="20261014174830 +0000" channel="quran">
+    <title>آقای امین پویا - 22 مهر 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">204</length>
+  </programme>
+  <programme start="20261014170355 +0000" stop="20261014174505 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>یاد خدا </sub-title>
+    <length units="seconds">2470</length>
+  </programme>
+  <programme start="20261014164528 +0000" stop="20261014170323 +0000" channel="quran">
+    <title>گردهمایی به رسم عقیله - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
+    <length units="seconds">1074</length>
+  </programme>
+  <programme start="20261014160107 +0000" stop="20261014163641 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>منم بچه مسلمان ۱۴۰5</sub-title>
+    <length units="seconds">2134</length>
+  </programme>
+  <programme start="20261014153040 +0000" stop="20261014155955 +0000" channel="quran">
+    <title>دزد اسبها - 22 مهر 1405</title>
+    <sub-title>پهلوانان </sub-title>
+    <length units="seconds">1754</length>
+  </programme>
+  <programme start="20261014152154 +0000" stop="20261014152954 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>جان فدا </sub-title>
+    <length units="seconds">480</length>
+  </programme>
+  <programme start="20261014150058 +0000" stop="20261014152131 +0000" channel="quran">
+    <title>طه نعمانی - 22 مهر 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1232</length>
+  </programme>
+  <programme start="20261014140530 +0000" stop="20261014145353 +0000" channel="quran">
+    <title>22 مهر 1405</title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">2902</length>
+  </programme>
   <programme start="20261014135510 +0000" stop="20261014135814 +0000" channel="quran">
     <title>22 مهر 1405</title>
     <sub-title>چشم و چراغ (قرآن)</sub-title>
@@ -575,6 +755,26 @@
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
+  <programme start="20261014185952 +0000" stop="20261014194546 +0000" channel="amouzesh">
+    <title>22 مهر 1405</title>
+    <sub-title>رویش ۱۴۰۵</sub-title>
+    <length units="seconds">2754</length>
+  </programme>
+  <programme start="20261014182055 +0000" stop="20261014185143 +0000" channel="amouzesh">
+    <title>22 مهر 1405</title>
+    <sub-title>برو پی کارت</sub-title>
+    <length units="seconds">1847</length>
+  </programme>
+  <programme start="20261014154058 +0000" stop="20261014155339 +0000" channel="amouzesh">
+    <title>22 مهر 1405</title>
+    <sub-title>انیمیشن فرآیند (آموزش)</sub-title>
+    <length units="seconds">762</length>
+  </programme>
+  <programme start="20261014144513 +0000" stop="20261014150832 +0000" channel="amouzesh">
+    <title>22 مهر 1405</title>
+    <sub-title>زنگ امید</sub-title>
+    <length units="seconds">1398</length>
+  </programme>
   <programme start="20261014130035 +0000" stop="20261014135135 +0000" channel="amouzesh">
     <title>22 مهر 1405</title>
     <sub-title>دکتر سلام ۱۴۰۵</sub-title>
@@ -663,6 +863,36 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20261014190416 +0000" stop="20261014194936 +0000" channel="salamat">
+    <title>22 مهر 1405</title>
+    <sub-title>دل آوا</sub-title>
+    <length units="seconds">2708</length>
+  </programme>
+  <programme start="20261014182759 +0000" stop="20261014185425 +0000" channel="salamat">
+    <title>22 مهر 1405</title>
+    <sub-title>خانه سلامت</sub-title>
+    <length units="seconds">1586</length>
+  </programme>
+  <programme start="20261014180102 +0000" stop="20261014182720 +0000" channel="salamat">
+    <title>22 مهر 1405</title>
+    <sub-title>مسابقه رمز سلامتی</sub-title>
+    <length units="seconds">1577</length>
+  </programme>
+  <programme start="20261014173641 +0000" stop="20261014174421 +0000" channel="salamat">
+    <title>راهکارهای بازگشت به آرامش پس از بحران - 22 مهر 1405</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">460</length>
+  </programme>
+  <programme start="20261014164714 +0000" stop="20261014165818 +0000" channel="salamat">
+    <title>22 مهر 1405 - بخش 4</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">663</length>
+  </programme>
+  <programme start="20261014160127 +0000" stop="20261014164627 +0000" channel="salamat">
+    <title>22 مهر 1405</title>
+    <sub-title>ضربان ۱۴۰5</sub-title>
+    <length units="seconds">2682</length>
+  </programme>
   <programme start="20261014141525 +0000" stop="20261014142708 +0000" channel="salamat">
     <title>22 مهر 1405 - بخش 3</title>
     <sub-title>مثبت سلامت ۱۴۰5</sub-title>
@@ -729,6 +959,46 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20261014173336 +0000" stop="20261014174542 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>صبح ظهور (امید)</sub-title>
+    <length units="seconds">726</length>
+  </programme>
+  <programme start="20261014170052 +0000" stop="20261014171800 +0000" channel="omid">
+    <title>قسمت 13</title>
+    <sub-title>راز شهر سوخته</sub-title>
+    <length units="seconds">1028</length>
+  </programme>
+  <programme start="20261014161936 +0000" stop="20261014162632 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>پرواز آرزوها</sub-title>
+    <length units="seconds">416</length>
+  </programme>
+  <programme start="20261014155039 +0000" stop="20261014161926 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>هشت</sub-title>
+    <length units="seconds">1726</length>
+  </programme>
+  <programme start="20261014152010 +0000" stop="20261014155034 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">1824</length>
+  </programme>
+  <programme start="20261014150349 +0000" stop="20261014152012 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>دست به توپ</sub-title>
+    <length units="seconds">1242</length>
+  </programme>
+  <programme start="20261014145632 +0000" stop="20261014150347 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>بازی دان</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20261014143047 +0000" stop="20261014145631 +0000" channel="omid">
+    <title>22 مهر 1405</title>
+    <sub-title>گوشی بازی</sub-title>
+    <length units="seconds">1536</length>
+  </programme>
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
@@ -740,12 +1010,102 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20261014151124 +0000" stop="20261014171548 +0000" channel="irinn2">
+    <title>رزمایش جان فدایان ایران - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">7427</length>
+  </programme>
+  <programme start="20261014121047 +0000" stop="20261014121309 +0000" channel="irinn2">
+    <title>بیانیه نیروهای مسلح یمن - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">142</length>
+  </programme>
+  <programme start="20261014120404 +0000" stop="20261014121039 +0000" channel="irinn2">
+    <title>22 مهر 1405</title>
+    <sub-title>خبر روز</sub-title>
+    <length units="seconds">394</length>
+  </programme>
+  <programme start="20261014115435 +0000" stop="20261014120341 +0000" channel="irinn2">
+    <title>رزمایش جان فدایان ایران - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">546</length>
+  </programme>
+  <programme start="20261014112720 +0000" stop="20261014114911 +0000" channel="irinn2">
+    <title>رزمایش جانفدایان ایران بخش 3 - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1310</length>
+  </programme>
+  <programme start="20261014105546 +0000" stop="20261014112718 +0000" channel="irinn2">
+    <title>نشست معاون  اجرایی رئیس جمهور - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1890</length>
+  </programme>
+  <programme start="20261014104441 +0000" stop="20261014105545 +0000" channel="irinn2">
+    <title>رزمایش جانفدایان ایران - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">664</length>
+  </programme>
+  <programme start="20261014101845 +0000" stop="20261014104438 +0000" channel="irinn2">
+    <title>نشست معاون اجرایی رئیس جمهور - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1554</length>
+  </programme>
+  <programme start="20261014101230 +0000" stop="20261014101845 +0000" channel="irinn2">
+    <title>رزمایش جانفدایان ایران - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">374</length>
+  </programme>
+  <programme start="20261014091719 +0000" stop="20261014101252 +0000" channel="irinn2">
+    <title>نشست خبری باشگاه دانش پژوهان - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3312</length>
+  </programme>
+  <programme start="20261014090316 +0000" stop="20261014091717 +0000" channel="irinn2">
+    <title>22 مهر 1405 - نشست تخصصی جهاد تبیین</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">840</length>
+  </programme>
+  <programme start="20261014081420 +0000" stop="20261014090351 +0000" channel="irinn2">
+    <title>نشست هم اندیشی صنعتگران - 22 مهر 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">3032</length>
+  </programme>
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20261014103047 +0000" stop="20261014112915 +0000" channel="azarbayjangharbi">
+    <title>22 مهر 1405</title>
+    <sub-title>ائویمیز (آذربایجان غربی)</sub-title>
+    <length units="seconds">3494</length>
+  </programme>
+  <programme start="20261014070057 +0000" stop="20261014075747 +0000" channel="azarbayjangharbi">
+    <title>22 مهر 1405</title>
+    <sub-title>سلام یاشایش (آذربایجان غربی)</sub-title>
+    <length units="seconds">3408</length>
+  </programme>
+  <programme start="20261014060137 +0000" stop="20261014061013 +0000" channel="azarbayjangharbi">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (آذربایجان غربی)</sub-title>
+    <length units="seconds">516</length>
+  </programme>
+  <programme start="20261014050506 +0000" stop="20261014051013 +0000" channel="azarbayjangharbi">
+    <title>22 مهر 1405</title>
+    <sub-title>تلاوت قرآن (آذربایجان غربی)</sub-title>
+    <length units="seconds">306</length>
+  </programme>
+  <programme start="20261014042729 +0000" stop="20261014045637 +0000" channel="azarbayjangharbi">
+    <title>صهبای تسنیم - 22 مهر 1405</title>
+    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1747</length>
+  </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20261014155529 +0000" stop="20261014164930 +0000" channel="sahand">
+    <title>22 مهر 1405</title>
+    <sub-title>ناز بالالار</sub-title>
+    <length units="seconds">3212</length>
+  </programme>
   <programme start="20261014125037 +0000" stop="20261014130537 +0000" channel="sahand">
     <title>22 مهر 1405</title>
     <sub-title>سکانس برتر (سهند)</sub-title>
@@ -814,9 +1174,64 @@
   <channel id="alborz">
     <display-name>alborz</display-name>
   </channel>
+  <programme start="20261014131213 +0000" stop="20261014133032 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">1100</length>
+  </programme>
+  <programme start="20261014131048 +0000" stop="20261014131213 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
+    <length units="seconds">84</length>
+  </programme>
+  <programme start="20261014130449 +0000" stop="20261014131047 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">358</length>
+  </programme>
+  <programme start="20261014114709 +0000" stop="20261014115200 +0000" channel="alborz">
+    <title>آقای امیرحسین جعفرزاده - 22 مهر 1405</title>
+    <sub-title>تلاوت قرآن (البرز)</sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20261014113750 +0000" stop="20261014114709 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">560</length>
+  </programme>
+  <programme start="20261014110454 +0000" stop="20261014110659 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">126</length>
+  </programme>
+  <programme start="20261014105924 +0000" stop="20261014110453 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>100 ثانیه با خبرنگار مردمی البرز (شبکه البرز)</sub-title>
+    <length units="seconds">330</length>
+  </programme>
+  <programme start="20261014100151 +0000" stop="20261014100754 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>اینجا البرزه </sub-title>
+    <length units="seconds">362</length>
+  </programme>
+  <programme start="20261014080112 +0000" stop="20261014095809 +0000" channel="alborz">
+    <title>22 مهر 1405</title>
+    <sub-title>امروز البرز (البرز)</sub-title>
+    <length units="seconds">7018</length>
+  </programme>
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20261014161734 +0000" stop="20261014163031 +0000" channel="esfahan">
+    <title>رزمایش بزرگ جان فدایان خمینی شهر - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">754</length>
+  </programme>
+  <programme start="20261014155927 +0000" stop="20261014161729 +0000" channel="esfahan">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار ساعت 16:00 (اصفهان)</sub-title>
+    <length units="seconds">1029</length>
+  </programme>
   <programme start="20261014131056 +0000" stop="20261014135307 +0000" channel="esfahan">
     <title>22 مهر 1405</title>
     <sub-title>صدای شهر (اصفهان)</sub-title>
@@ -855,21 +1270,176 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20261014105951 +0000" stop="20261014111413 +0000" channel="sabalan">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">821</length>
+  </programme>
+  <programme start="20261014090802 +0000" stop="20261014105252 +0000" channel="sabalan">
+    <title>ایران جان فدایان - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">6038</length>
+  </programme>
+  <programme start="20261014080014 +0000" stop="20261014085616 +0000" channel="sabalan">
+    <title>22 مهر 1405</title>
+    <sub-title>تزه گون (سبلان)</sub-title>
+    <length units="seconds">3285</length>
+  </programme>
+  <programme start="20261014060659 +0000" stop="20261014062630 +0000" channel="sabalan">
+    <title>22 مهر 1405</title>
+    <sub-title>جهان گرد (سبلان)</sub-title>
+    <length units="seconds">1129</length>
+  </programme>
+  <programme start="20261014052633 +0000" stop="20261014055914 +0000" channel="sabalan">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">1895</length>
+  </programme>
+  <programme start="20261014022700 +0000" stop="20261014030625 +0000" channel="sabalan">
+    <title>دلنوازان - 22 مهر 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (سبلان)</sub-title>
+    <length units="seconds">2315</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20261014110026 +0000" stop="20261014115613 +0000" channel="ilam">
+    <title>22 مهر 1405</title>
+    <sub-title>بنه مال (ایلام)</sub-title>
+    <length units="seconds">3301</length>
+  </programme>
+  <programme start="20261014080425 +0000" stop="20261014083111 +0000" channel="ilam">
+    <title>نسیم آبادی - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">1591</length>
+  </programme>
+  <programme start="20261014070019 +0000" stop="20261014080103 +0000" channel="ilam">
+    <title>22 مهر 1405</title>
+    <sub-title>شه وه کیانه </sub-title>
+    <length units="seconds">3604</length>
+  </programme>
+  <programme start="20261014060522 +0000" stop="20261014064544 +0000" channel="ilam">
+    <title>سعادتمندان - 22 مهر 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (ایلام)</sub-title>
+    <length units="seconds">2388</length>
+  </programme>
+  <programme start="20261014052916 +0000" stop="20261014055719 +0000" channel="ilam">
+    <title>شرح صحیفه سجادیه - 22 مهر 1405</title>
+    <sub-title>برنامه مذهبی (ایلام)</sub-title>
+    <length units="seconds">1683</length>
+  </programme>
+  <programme start="20261014052022 +0000" stop="20261014052849 +0000" channel="ilam">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (ایلام)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
+  <programme start="20261014085007 +0000" stop="20261014094009 +0000" channel="bushehr">
+    <title>آئین رونمایی از پلاک خودروهای منطقه آزاد بوشهر - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">2981</length>
+  </programme>
+  <programme start="20261014060901 +0000" stop="20261014064700 +0000" channel="bushehr">
+    <title>22 مهر 1405</title>
+    <sub-title>سحاب رحمت</sub-title>
+    <length units="seconds">2279</length>
+  </programme>
+  <programme start="20261014054535 +0000" stop="20261014055843 +0000" channel="bushehr">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">788</length>
+  </programme>
+  <programme start="20261014040253 +0000" stop="20261014043943 +0000" channel="bushehr">
+    <title>22 مهر 1405</title>
+    <sub-title>ادعیه و زیارت (بوشهر)</sub-title>
+    <length units="seconds">2210</length>
+  </programme>
+  <programme start="20261014030919 +0000" stop="20261014040005 +0000" channel="bushehr">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (بوشهر)</sub-title>
+    <length units="seconds">3046</length>
+  </programme>
   <channel id="jahanbin">
     <display-name>jahanbin</display-name>
   </channel>
+  <programme start="20261014114805 +0000" stop="20261014115303 +0000" channel="jahanbin">
+    <title>22 مهر 1405</title>
+    <sub-title>تلاوت قرآن (جهانبین)</sub-title>
+    <length units="seconds">298</length>
+  </programme>
+  <programme start="20261014113119 +0000" stop="20261014114657 +0000" channel="jahanbin">
+    <title>اخلاق اسلامی - 22 مهر 1405</title>
+    <sub-title>برنامه مذهبی (جهانبین)</sub-title>
+    <length units="seconds">938</length>
+  </programme>
+  <programme start="20261014110005 +0000" stop="20261014112003 +0000" channel="jahanbin">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار ساعت 11:00 (جهانبین)</sub-title>
+    <length units="seconds">1197</length>
+  </programme>
+  <programme start="20261014085925 +0000" stop="20261014093406 +0000" channel="jahanbin">
+    <title>22 مهر 1405</title>
+    <sub-title>دیار رنگین (جهانبین)</sub-title>
+    <length units="seconds">2080</length>
+  </programme>
+  <programme start="20261014065833 +0000" stop="20261014075429 +0000" channel="jahanbin">
+    <title>کوح - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (جهانبین)</sub-title>
+    <length units="seconds">3354</length>
+  </programme>
+  <programme start="20261014050249 +0000" stop="20261014051134 +0000" channel="jahanbin">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">526</length>
+  </programme>
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20261014110451 +0000" stop="20261014113504 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>ایرانگرد (آبادان)</sub-title>
+    <length units="seconds">1811</length>
+  </programme>
+  <programme start="20261014100012 +0000" stop="20261014110355 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>خونه آفتابی (آبادان)</sub-title>
+    <length units="seconds">3822</length>
+  </programme>
+  <programme start="20261014063846 +0000" stop="20261014075951 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>صبح اروند</sub-title>
+    <length units="seconds">4864</length>
+  </programme>
+  <programme start="20261014043641 +0000" stop="20261014045215 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>ترنم صبحگاهی (آبادان)</sub-title>
+    <length units="seconds">936</length>
+  </programme>
+  <programme start="20261014040336 +0000" stop="20261014043524 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">1907</length>
+  </programme>
+  <programme start="20261014035738 +0000" stop="20261014040332 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>جهان گرد (آبادان)</sub-title>
+    <length units="seconds">354</length>
+  </programme>
+  <programme start="20261014031609 +0000" stop="20261014032437 +0000" channel="abadan">
+    <title>22 مهر 1405</title>
+    <sub-title>ده دقیقه</sub-title>
+    <length units="seconds">508</length>
+  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20261014155950 +0000" stop="20261014161619 +0000" channel="khorasanrazavi">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار ساعت 16:00 (خراسان رضوی)</sub-title>
+    <length units="seconds">988</length>
+  </programme>
   <programme start="20261014115919 +0000" stop="20261014130039 +0000" channel="khorasanrazavi">
     <title>22 مهر 1405</title>
     <sub-title>تا آسمان (خراسان رضوی)</sub-title>
@@ -893,6 +1463,11 @@
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20261014182656 +0000" stop="20261014185752 +0000" channel="atrak">
+    <title>22 مهر 1405</title>
+    <sub-title>یورد (اترک)</sub-title>
+    <length units="seconds">1855</length>
+  </programme>
   <programme start="20261014105956 +0000" stop="20261014111544 +0000" channel="atrak">
     <title>22 مهر 1405</title>
     <sub-title>اخبار ساعت 11:00 (اترک)</sub-title>
@@ -924,6 +1499,11 @@
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20261014152419 +0000" stop="20261014160200 +0000" channel="khoozestan">
+    <title>کهن بیشه ها - 22 مهر 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (خوزستان)</sub-title>
+    <length units="seconds">2249</length>
+  </programme>
   <programme start="20261014130016 +0000" stop="20261014135430 +0000" channel="khoozestan">
     <title>22 مهر 1405</title>
     <sub-title>ترنج (خوزستان)</sub-title>
@@ -998,6 +1578,31 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20261014110204 +0000" stop="20261014110257 +0000" channel="hamoon">
+    <title>22 مهر 1405</title>
+    <sub-title>جهان گرد (هامون)</sub-title>
+    <length units="seconds">54</length>
+  </programme>
+  <programme start="20261014083930 +0000" stop="20261014084107 +0000" channel="hamoon">
+    <title>عصر خمینی - 22 مهر 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (هامون)</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20261014083353 +0000" stop="20261014083927 +0000" channel="hamoon">
+    <title>اشک تمساح - 22 مهر 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (هامون)</sub-title>
+    <length units="seconds">334</length>
+  </programme>
+  <programme start="20261014073043 +0000" stop="20261014083115 +0000" channel="hamoon">
+    <title>22 مهر 1405</title>
+    <sub-title>مهرستان (هامون)</sub-title>
+    <length units="seconds">3632</length>
+  </programme>
+  <programme start="20261014060556 +0000" stop="20261014061425 +0000" channel="hamoon">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (هامون)</sub-title>
+    <length units="seconds">510</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
@@ -1065,15 +1670,135 @@
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20261014115718 +0000" stop="20261014120306 +0000" channel="aflak">
+    <title>22 مهر 1405</title>
+    <sub-title>تلاوت قرآن (لرستان)</sub-title>
+    <length units="seconds">347</length>
+  </programme>
+  <programme start="20261014111718 +0000" stop="20261014115125 +0000" channel="aflak">
+    <title>اسکندر - 22 مهر 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (لرستان)</sub-title>
+    <length units="seconds">2046</length>
+  </programme>
+  <programme start="20261014104823 +0000" stop="20261014111617 +0000" channel="aflak">
+    <title>بلندی های هیرکانی - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
+    <length units="seconds">1674</length>
+  </programme>
+  <programme start="20261014085854 +0000" stop="20261014095959 +0000" channel="aflak">
+    <title>22 مهر 1405</title>
+    <sub-title>صبح عالی</sub-title>
+    <length units="seconds">3643</length>
+  </programme>
+  <programme start="20261014052126 +0000" stop="20261014054056 +0000" channel="aflak">
+    <title>22 مهر 1405</title>
+    <sub-title>سند افتخار (لرستان)</sub-title>
+    <length units="seconds">1160</length>
+  </programme>
+  <programme start="20261014051710 +0000" stop="20261014052124 +0000" channel="aflak">
+    <title>22 مهر 1405</title>
+    <sub-title>گنجینه احکام (لرستان)</sub-title>
+    <length units="seconds">254</length>
+  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
+  <programme start="20261014090206 +0000" stop="20261014095707 +0000" channel="kerman">
+    <title>22 مهر 1405</title>
+    <sub-title>زندگی زیباست (کرمان)</sub-title>
+    <length units="seconds">3300</length>
+  </programme>
+  <programme start="20261014070941 +0000" stop="20261014075609 +0000" channel="kerman">
+    <title>22 مهر 1405</title>
+    <sub-title>کرمان سلام</sub-title>
+    <length units="seconds">2788</length>
+  </programme>
+  <programme start="20261014060113 +0000" stop="20261014061116 +0000" channel="kerman">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (کرمان)</sub-title>
+    <length units="seconds">604</length>
+  </programme>
+  <programme start="20261014051446 +0000" stop="20261014055844 +0000" channel="kerman">
+    <title>جبهه - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
+    <length units="seconds">2638</length>
+  </programme>
+  <programme start="20261014043918 +0000" stop="20261014051318 +0000" channel="kerman">
+    <title>22 مهر 1405</title>
+    <sub-title>ره عشق (کرمان)</sub-title>
+    <length units="seconds">2040</length>
+  </programme>
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20261014130006 +0000" stop="20261014131347 +0000" channel="zagros">
+    <title>22 مهر 1405</title>
+    <sub-title>اخبار 13 </sub-title>
+    <length units="seconds">821</length>
+  </programme>
+  <programme start="20261014102521 +0000" stop="20261014115159 +0000" channel="zagros">
+    <title>حماسه جانقدایان ایران - قصر شیرین - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">5197</length>
+  </programme>
+  <programme start="20261014080600 +0000" stop="20261014085710 +0000" channel="zagros">
+    <title>22 مهر 1405</title>
+    <sub-title>سلام کرمانشاه (زاگرس)</sub-title>
+    <length units="seconds">3071</length>
+  </programme>
+  <programme start="20261014070211 +0000" stop="20261014074557 +0000" channel="zagros">
+    <title>22 مهر 1405</title>
+    <sub-title>روند</sub-title>
+    <length units="seconds">2626</length>
+  </programme>
+  <programme start="20261014060127 +0000" stop="20261014060954 +0000" channel="zagros">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">507</length>
+  </programme>
+  <programme start="20261014052055 +0000" stop="20261014053830 +0000" channel="zagros">
+    <title>سیر آفاقی - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">1041</length>
+  </programme>
+  <programme start="20261014042942 +0000" stop="20261014044301 +0000" channel="zagros">
+    <title>آیت الله العظمی سبحانی - 22 مهر 1405</title>
+    <sub-title>سخنرانی (زاگرس)</sub-title>
+    <length units="seconds">800</length>
+  </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20261014111021 +0000" stop="20261014114246 +0000" channel="dena">
+    <title>22 مهر 1405</title>
+    <sub-title>درس گفتار (دنا)</sub-title>
+    <length units="seconds">1944</length>
+  </programme>
+  <programme start="20261014100021 +0000" stop="20261014104345 +0000" channel="dena">
+    <title>22 مهر 1405</title>
+    <sub-title>حونه مهر (دنا)</sub-title>
+    <length units="seconds">2604</length>
+  </programme>
+  <programme start="20261014080210 +0000" stop="20261014085105 +0000" channel="dena">
+    <title>22 مهر 1405</title>
+    <sub-title>صبح دنا</sub-title>
+    <length units="seconds">2936</length>
+  </programme>
+  <programme start="20261014061037 +0000" stop="20261014063808 +0000" channel="dena">
+    <title>سیری در صحیفه سجادیه - 22 مهر 1405</title>
+    <sub-title>برنامه مذهبی (دنا)</sub-title>
+    <length units="seconds">1650</length>
+  </programme>
+  <programme start="20261014060106 +0000" stop="20261014060933 +0000" channel="dena">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (دنا)</sub-title>
+    <length units="seconds">508</length>
+  </programme>
+  <programme start="20261014045852 +0000" stop="20261014055807 +0000" channel="dena">
+    <title>22 مهر 1405</title>
+    <sub-title>تلاوت قرآن (دنا)</sub-title>
+    <length units="seconds">3556</length>
+  </programme>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
@@ -1175,71 +1900,6 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
-  <programme start="20261014130004 +0000" stop="20261014132546 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>اخبار ساعت 13:00 (آفتاب)</sub-title>
-    <length units="seconds">1425</length>
-  </programme>
-  <programme start="20261014122526 +0000" stop="20261014124757 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>دست ها و نشان ها</sub-title>
-    <length units="seconds">1271</length>
-  </programme>
-  <programme start="20261014121407 +0000" stop="20261014122452 +0000" channel="aftab">
-    <title>صبح ظهور - 22 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">620</length>
-  </programme>
-  <programme start="20261014114229 +0000" stop="20261014115410 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>حدیث کساء (آفتاب)</sub-title>
-    <length units="seconds">690</length>
-  </programme>
-  <programme start="20261014100110 +0000" stop="20261014105118 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>پزشک شما (آفتاب)</sub-title>
-    <length units="seconds">2906</length>
-  </programme>
-  <programme start="20261014072152 +0000" stop="20261014085245 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>سلام ایران (آفتاب)</sub-title>
-    <length units="seconds">5246</length>
-  </programme>
-  <programme start="20261014064818 +0000" stop="20261014065728 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>بارانه (آفتاب)</sub-title>
-    <length units="seconds">527</length>
-  </programme>
-  <programme start="20261014061330 +0000" stop="20261014062602 +0000" channel="aftab">
-    <title>22 مهر 1405 - بخش 1</title>
-    <sub-title>مجازی نما</sub-title>
-    <length units="seconds">725</length>
-  </programme>
-  <programme start="20261014060129 +0000" stop="20261014061123 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>دعای عهد (آفتاب)</sub-title>
-    <length units="seconds">581</length>
-  </programme>
-  <programme start="20261014051445 +0000" stop="20261014055430 +0000" channel="aftab">
-    <title>نان و هنر - 22 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">2254</length>
-  </programme>
-  <programme start="20261014035032 +0000" stop="20261014043845 +0000" channel="aftab">
-    <title>بیان - 22 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">2773</length>
-  </programme>
-  <programme start="20261014025301 +0000" stop="20261014032530 +0000" channel="aftab">
-    <title>بیابان ها - 22 مهر 1405</title>
-    <sub-title>برنامه اجتماعی (آفتاب)</sub-title>
-    <length units="seconds">1900</length>
-  </programme>
-  <programme start="20261014012339 +0000" stop="20261014020540 +0000" channel="aftab">
-    <title>22 مهر 1405</title>
-    <sub-title>چهار سوی علم (آفتاب)</sub-title>
-    <length units="seconds">2471</length>
-  </programme>
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
@@ -1266,9 +1926,64 @@
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20261014105912 +0000" stop="20261014114852 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>خانه و زندگی (همدان)</sub-title>
+    <length units="seconds">2980</length>
+  </programme>
+  <programme start="20261014075914 +0000" stop="20261014085845 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>صبح عالی (همدان)</sub-title>
+    <length units="seconds">3570</length>
+  </programme>
+  <programme start="20261014060316 +0000" stop="20261014065329 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">3011</length>
+  </programme>
+  <programme start="20261014052437 +0000" stop="20261014055509 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">1832</length>
+  </programme>
+  <programme start="20261014031935 +0000" stop="20261014041900 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
+    <length units="seconds">3565</length>
+  </programme>
+  <programme start="20261014021939 +0000" stop="20261014030833 +0000" channel="sina">
+    <title>22 مهر 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">2933</length>
+  </programme>
+  <programme start="20261014021636 +0000" stop="20261014021900 +0000" channel="sina">
+    <title>جهان گرد - 22 مهر 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">143</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
+  <programme start="20261014063052 +0000" stop="20261014064329 +0000" channel="khavaran">
+    <title>22 مهر 1405</title>
+    <sub-title>کمدین (خاوران)</sub-title>
+    <length units="seconds">758</length>
+  </programme>
+  <programme start="20261014053857 +0000" stop="20261014062327 +0000" channel="khavaran">
+    <title>22 مهر 1405</title>
+    <sub-title>خشت بهشت (خاوران)</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
+  <programme start="20261014053005 +0000" stop="20261014053831 +0000" channel="khavaran">
+    <title>22 مهر 1405</title>
+    <sub-title>دعای عهد (خاوران)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20261014042812 +0000" stop="20261014052819 +0000" channel="khavaran">
+    <title>22 مهر 1405</title>
+    <sub-title>گلشن وحی (خاوران)</sub-title>
+    <length units="seconds">3608</length>
+  </programme>
   <channel id="tv1plus">
     <display-name>channel 1 plus</display-name>
   </channel>
