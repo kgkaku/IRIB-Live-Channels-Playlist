@@ -61,6 +61,61 @@
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20261029221626 +0000" stop="20261030005444 +0000" channel="tv2">
+    <title>8 آبان 1405</title>
+    <sub-title>زمانه </sub-title>
+    <length units="seconds">9234</length>
+  </programme>
+  <programme start="20261029211901 +0000" stop="20261029220401 +0000" channel="tv2">
+    <title>قسمت 11</title>
+    <sub-title>بهار شیراز </sub-title>
+    <length units="seconds">2376</length>
+  </programme>
+  <programme start="20261029210712 +0000" stop="20261029210946 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>میدان</sub-title>
+    <length units="seconds">154</length>
+  </programme>
+  <programme start="20261029205854 +0000" stop="20261029210412 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>هست و نیست</sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20261029205544 +0000" stop="20261029205645 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>میدان</sub-title>
+    <length units="seconds">60</length>
+  </programme>
+  <programme start="20261029203003 +0000" stop="20261029205542 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار 20:30 (1405)</sub-title>
+    <length units="seconds">1540</length>
+  </programme>
+  <programme start="20261029202507 +0000" stop="20261029202959 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>چشم و چراغ</sub-title>
+    <length units="seconds">292</length>
+  </programme>
+  <programme start="20261029194207 +0000" stop="20261029200645 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>پاورقی</sub-title>
+    <length units="seconds">1478</length>
+  </programme>
+  <programme start="20261029190450 +0000" stop="20261029192948 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>از خونه شروع کن</sub-title>
+    <length units="seconds">1498</length>
+  </programme>
+  <programme start="20261029184548 +0000" stop="20261029185535 +0000" channel="tv2">
+    <title>7 آبان 1405</title>
+    <sub-title>اینجوریاس!</sub-title>
+    <length units="seconds">586</length>
+  </programme>
+  <programme start="20261029180858 +0000" stop="20261029183950 +0000" channel="tv2">
+    <title>مستند دیدار - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">1852</length>
+  </programme>
   <programme start="20261029142243 +0000" stop="20261029142841 +0000" channel="tv2">
     <title>7 آبان 1405</title>
     <sub-title>هست و نیست</sub-title>
@@ -137,16 +192,6 @@
   <channel id="tv4">
     <display-name>channel 4</display-name>
   </channel>
-  <programme start="20261029150112 +0000" stop="20261029155129 +0000" channel="tv4">
-    <title>7 آبان 1405</title>
-    <sub-title>ایران ما (شبکه 4)</sub-title>
-    <length units="seconds">3017</length>
-  </programme>
-  <programme start="20261029103553 +0000" stop="20261029104029 +0000" channel="tv4">
-    <title>7 آبان 1405 - بخش 1</title>
-    <sub-title>پرچم دار</sub-title>
-    <length units="seconds">276</length>
-  </programme>
   <programme start="20261029061403 +0000" stop="20261029065538 +0000" channel="tv4">
     <title>7 آبان 1405</title>
     <sub-title>صهبای تسنیم</sub-title>
@@ -170,6 +215,56 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20261029232227 +0000" stop="20261029232459 +0000" channel="nasim">
+    <title>7 آبان 1405 - بخش 2</title>
+    <sub-title>بزنگاه</sub-title>
+    <length units="seconds">152</length>
+  </programme>
+  <programme start="20261029223455 +0000" stop="20261029231455 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>قصه های هومن و جناب خان</sub-title>
+    <length units="seconds">1938</length>
+  </programme>
+  <programme start="20261029210355 +0000" stop="20261029222840 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>کودک شو (فصل هشتم)</sub-title>
+    <length units="seconds">4838</length>
+  </programme>
+  <programme start="20261029200055 +0000" stop="20261029205110 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>هزار داستان ۱۴۰۵</sub-title>
+    <length units="seconds">2804</length>
+  </programme>
+  <programme start="20261029190136 +0000" stop="20261029195343 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>بی حاشیه</sub-title>
+    <length units="seconds">2934</length>
+  </programme>
+  <programme start="20261029185133 +0000" stop="20261029185505 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>نفس عمیق</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20261029184857 +0000" stop="20261029185133 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>بزنگاه</sub-title>
+    <length units="seconds">156</length>
+  </programme>
+  <programme start="20261029175533 +0000" stop="20261029184838 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>نسیم آوا (جدید)</sub-title>
+    <length units="seconds">3050</length>
+  </programme>
+  <programme start="20261029172434 +0000" stop="20261029172902 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>در مسیر زندگی</sub-title>
+    <length units="seconds">268</length>
+  </programme>
+  <programme start="20261029170927 +0000" stop="20261029171750 +0000" channel="nasim">
+    <title>7 آبان 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">502</length>
+  </programme>
   <programme start="20261029105819 +0000" stop="20261029113310 +0000" channel="nasim">
     <title>7 آبان 1405</title>
     <sub-title>ایران ما (نسیم)</sub-title>
@@ -178,6 +273,236 @@
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20261029233005 +0000" stop="20261029233313 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:30 (خبر)</sub-title>
+    <length units="seconds">188</length>
+  </programme>
+  <programme start="20261029230629 +0000" stop="20261029235146 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>جهان امروز</sub-title>
+    <length units="seconds">2522</length>
+  </programme>
+  <programme start="20261029230008 +0000" stop="20261029230619 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (خبر)</sub-title>
+    <length units="seconds">372</length>
+  </programme>
+  <programme start="20261029224400 +0000" stop="20261029224815 +0000" channel="irinn">
+    <title>از کوچ تا نسل کشی - 7 آبان 1405</title>
+    <sub-title>درنگ</sub-title>
+    <length units="seconds">256</length>
+  </programme>
+  <programme start="20261029223651 +0000" stop="20261029224357 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">426</length>
+  </programme>
+  <programme start="20261029220031 +0000" stop="20261029223646 +0000" channel="irinn">
+    <title>7 آبان 1405 - محمد قادری</title>
+    <sub-title>گفتگوی ویژه خبری</sub-title>
+    <length units="seconds">2174</length>
+  </programme>
+  <programme start="20261029205959 +0000" stop="20261029220030 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 21:00 </sub-title>
+    <length units="seconds">3630</length>
+  </programme>
+  <programme start="20261029202210 +0000" stop="20261029205418 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت حضور</sub-title>
+    <length units="seconds">1928</length>
+  </programme>
+  <programme start="20261029191931 +0000" stop="20261029201916 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>به وقت ایران</sub-title>
+    <length units="seconds">3584</length>
+  </programme>
+  <programme start="20261029190011 +0000" stop="20261029191525 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 19:00 </sub-title>
+    <length units="seconds">914</length>
+  </programme>
+  <programme start="20261029184509 +0000" stop="20261029185542 +0000" channel="irinn">
+    <title>The Childe</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">632</length>
+  </programme>
+  <programme start="20261029183009 +0000" stop="20261029184420 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>خبر اقتصادی</sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20261029180920 +0000" stop="20261029182938 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت همدلی</sub-title>
+    <length units="seconds">1220</length>
+  </programme>
+  <programme start="20261029180011 +0000" stop="20261029180915 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 18:00 (خبر)</sub-title>
+    <length units="seconds">544</length>
+  </programme>
+  <programme start="20261029175418 +0000" stop="20261029175913 +0000" channel="irinn">
+    <title>پیشرو - 7 آبان 1405</title>
+    <sub-title>گزارش (خبر)</sub-title>
+    <length units="seconds">296</length>
+  </programme>
+  <programme start="20261029174506 +0000" stop="20261029175405 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ورزشی ساعت 17:۴۵ (خبر)</sub-title>
+    <length units="seconds">538</length>
+  </programme>
+  <programme start="20261029171302 +0000" stop="20261029174348 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>صف اول (خبر)</sub-title>
+    <length units="seconds">1652</length>
+  </programme>
+  <programme start="20261029170010 +0000" stop="20261029171256 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 17:00 (خبر)</sub-title>
+    <length units="seconds">768</length>
+  </programme>
+  <programme start="20261029163610 +0000" stop="20261029170007 +0000" channel="irinn">
+    <title>سخنان رهبر انصارالله یمن - 7 آبان 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1436</length>
+  </programme>
+  <programme start="20261029163007 +0000" stop="20261029163457 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 16:30 </sub-title>
+    <length units="seconds">290</length>
+  </programme>
+  <programme start="20261029160942 +0000" stop="20261029162938 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1196</length>
+  </programme>
+  <programme start="20261029160007 +0000" stop="20261029160939 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 16:00 </sub-title>
+    <length units="seconds">572</length>
+  </programme>
+  <programme start="20261029153946 +0000" stop="20261029155954 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>آقای فرهنگ دوست</sub-title>
+    <length units="seconds">1208</length>
+  </programme>
+  <programme start="20261029150039 +0000" stop="20261029153942 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>میز اقتصاد (خبر)</sub-title>
+    <length units="seconds">2344</length>
+  </programme>
+  <programme start="20261029140009 +0000" stop="20261029150032 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3624</length>
+  </programme>
+  <programme start="20261029133007 +0000" stop="20261029135233 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>خبر رسانه</sub-title>
+    <length units="seconds">1346</length>
+  </programme>
+  <programme start="20261029131018 +0000" stop="20261029132635 +0000" channel="irinn">
+    <title>7 آبان 1405 - حسین هوشمند</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">976</length>
+  </programme>
+  <programme start="20261029130011 +0000" stop="20261029131016 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">606</length>
+  </programme>
+  <programme start="20261029124510 +0000" stop="20261029125503 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20261029120006 +0000" stop="20261029121153 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">706</length>
+  </programme>
+  <programme start="20261029113530 +0000" stop="20261029115810 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1168</length>
+  </programme>
+  <programme start="20261029113006 +0000" stop="20261029113525 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">318</length>
+  </programme>
+  <programme start="20261029110952 +0000" stop="20261029112852 +0000" channel="irinn">
+    <title>7 آبان 1405 - دکتر پرچمی</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1140</length>
+  </programme>
+  <programme start="20261029110008 +0000" stop="20261029110946 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">578</length>
+  </programme>
+  <programme start="20261029103009 +0000" stop="20261029103428 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20261029101117 +0000" stop="20261029102838 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>نگاهی به مطبوعات</sub-title>
+    <length units="seconds">1042</length>
+  </programme>
+  <programme start="20261029100008 +0000" stop="20261029101111 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">662</length>
+  </programme>
+  <programme start="20261029093946 +0000" stop="20261029095933 +0000" channel="irinn">
+    <title>بر لبه نظم - 7 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1186</length>
+  </programme>
+  <programme start="20261029093010 +0000" stop="20261029093945 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">574</length>
+  </programme>
+  <programme start="20261029090835 +0000" stop="20261029092906 +0000" channel="irinn">
+    <title>7 آبان 1405 - دکتر زارعان</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1232</length>
+  </programme>
+  <programme start="20261029090007 +0000" stop="20261029090829 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">502</length>
+  </programme>
+  <programme start="20261029082842 +0000" stop="20261029085216 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>روی خط خبر</sub-title>
+    <length units="seconds">1414</length>
+  </programme>
+  <programme start="20261029075957 +0000" stop="20261029082644 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1608</length>
+  </programme>
+  <programme start="20261029074637 +0000" stop="20261029075522 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">526</length>
+  </programme>
+  <programme start="20261029073425 +0000" stop="20261029074620 +0000" channel="irinn">
+    <title>7 آبان 1405 - سعید عسگرزاده</title>
+    <sub-title>سلام خبرنگار (خبر)</sub-title>
+    <length units="seconds">716</length>
+  </programme>
+  <programme start="20261029073008 +0000" stop="20261029073423 +0000" channel="irinn">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت  7:30 (خبر)</sub-title>
+    <length units="seconds">254</length>
+  </programme>
   <programme start="20261029070919 +0000" stop="20261029073008 +0000" channel="irinn">
     <title>7 آبان 1405 - پریسا ایزدی</title>
     <sub-title>سلام خبرنگار (خبر)</sub-title>
@@ -198,34 +523,19 @@
     <sub-title>اخبار ساعت 5:00 </sub-title>
     <length units="seconds">550</length>
   </programme>
-  <programme start="20261029040015 +0000" stop="20261029040951 +0000" channel="irinn">
-    <title>7 آبان 1405</title>
-    <sub-title>اخبار ساعت 4:00 </sub-title>
-    <length units="seconds">576</length>
-  </programme>
-  <programme start="20261029030010 +0000" stop="20261029030948 +0000" channel="irinn">
-    <title>7 آبان 1405</title>
-    <sub-title>اخبار ساعت 3:00 (خبر)</sub-title>
-    <length units="seconds">578</length>
-  </programme>
-  <programme start="20261029020011 +0000" stop="20261029020951 +0000" channel="irinn">
-    <title>7  آبان 1405</title>
-    <sub-title>اخبار ساعت 2:00 (خبر)</sub-title>
-    <length units="seconds">580</length>
-  </programme>
-  <programme start="20261029010009 +0000" stop="20261029011123 +0000" channel="irinn">
-    <title>7  آبان 1405</title>
-    <sub-title>اخبار ساعت 1:00 </sub-title>
-    <length units="seconds">674</length>
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029003119 +0000" channel="irinn">
-    <title>7 آبان 1405</title>
-    <sub-title>اخبار ساعت 24:00 (خبر)</sub-title>
-    <length units="seconds">1880</length>
-  </programme>
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20261029192311 +0000" stop="20261029194144 +0000" channel="varzesh">
+    <title>7 آبان 1405</title>
+    <sub-title>مجله بسکتبال اروپا</sub-title>
+    <length units="seconds">1114</length>
+  </programme>
+  <programme start="20261029164812 +0000" stop="20261029170508 +0000" channel="varzesh">
+    <title>7 آبان 1405</title>
+    <sub-title>مجله کنفرانس اروپا</sub-title>
+    <length units="seconds">1016</length>
+  </programme>
   <programme start="20261029100035 +0000" stop="20261029103448 +0000" channel="varzesh">
     <title>7 آبان 1405</title>
     <sub-title>دست اول 1405</sub-title>
@@ -244,103 +554,136 @@
   <channel id="hdtest">
     <display-name>Tamasha</display-name>
   </channel>
+  <programme start="20261029225118 +0000" stop="20261029225600 +0000" channel="hdtest">
+    <title>7 آبان 1405</title>
+    <sub-title>مستربین</sub-title>
+    <length units="seconds">282</length>
+  </programme>
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
-  <programme start="20261029154159 +0000" stop="20261029154349 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>خمیر بازی</sub-title>
-    <length units="seconds">110</length>
-  </programme>
-  <programme start="20261029152211 +0000" stop="20261029152543 +0000" channel="pooya">
-    <title>ایرانمون - 7 آبان 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">212</length>
-  </programme>
-  <programme start="20261029133958 +0000" stop="20261029134124 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>کاردستی های مهدپویا 2</sub-title>
-    <length units="seconds">86</length>
-  </programme>
-  <programme start="20261029133047 +0000" stop="20261029133958 +0000" channel="pooya">
-    <title>قسمت 62</title>
-    <sub-title>ببعی</sub-title>
-    <length units="seconds">550</length>
-  </programme>
-  <programme start="20261029131538 +0000" stop="20261029132112 +0000" channel="pooya">
-    <title>قسمت 20</title>
-    <sub-title>کو کو </sub-title>
-    <length units="seconds">334</length>
-  </programme>
-  <programme start="20261029131308 +0000" stop="20261029131406 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>کاردستی های مهدپویا 2</sub-title>
-    <length units="seconds">58</length>
-  </programme>
-  <programme start="20261029130054 +0000" stop="20261029131306 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>فضایی ها</sub-title>
-    <length units="seconds">732</length>
-  </programme>
-  <programme start="20261029125730 +0000" stop="20261029125949 +0000" channel="pooya">
-    <title>یک بچه خوب  - 7 آبان 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">138</length>
-  </programme>
-  <programme start="20261029123746 +0000" stop="20261029124049 +0000" channel="pooya">
-    <title>گنجشک ها خوبند - 7 آبان 1405</title>
-    <sub-title>شادمانه (پویا)</sub-title>
-    <length units="seconds">182</length>
-  </programme>
-  <programme start="20261029123054 +0000" stop="20261029123744 +0000" channel="pooya">
-    <title>قسمت 34</title>
-    <sub-title>باباتوتو</sub-title>
-    <length units="seconds">412</length>
-  </programme>
-  <programme start="20261029115352 +0000" stop="20261029120023 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>زیر گنبد فیروزه ای </sub-title>
-    <length units="seconds">392</length>
-  </programme>
-  <programme start="20261029114025 +0000" stop="20261029114227 +0000" channel="pooya">
-    <title>بچه های آسمان - 7 آبان 1405</title>
-    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
-    <length units="seconds">122</length>
-  </programme>
-  <programme start="20261029113032 +0000" stop="20261029113830 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>آنی و مانی</sub-title>
-    <length units="seconds">476</length>
-  </programme>
-  <programme start="20261029111655 +0000" stop="20261029112845 +0000" channel="pooya">
-    <title>قسمت 29</title>
-    <sub-title>ماموریت آدم آهنی ها</sub-title>
-    <length units="seconds">710</length>
-  </programme>
-  <programme start="20261029110030 +0000" stop="20261029111629 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>نقاشی نقاشی</sub-title>
-    <length units="seconds">958</length>
-  </programme>
-  <programme start="20261029104855 +0000" stop="20261029105154 +0000" channel="pooya">
-    <title>7 آبان 1405</title>
-    <sub-title>کاردستی های مهدپویا 2</sub-title>
-    <length units="seconds">178</length>
-  </programme>
-  <programme start="20261029104259 +0000" stop="20261029104519 +0000" channel="pooya">
-    <title>قسمت 737</title>
-    <sub-title>روکی رباته</sub-title>
-    <length units="seconds">140</length>
-  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
+  <programme start="20261029220102 +0000" stop="20261029233038 +0000" channel="ifilm">
+    <title>سجاده آتش</title>
+    <length units="seconds">5072</length>
+  </programme>
+  <programme start="20261029210033 +0000" stop="20261029215044 +0000" channel="ifilm">
+    <title>قسمت 15</title>
+    <sub-title>نجلا 2</sub-title>
+    <length units="seconds">2726</length>
+  </programme>
+  <programme start="20261029200025 +0000" stop="20261029205100 +0000" channel="ifilm">
+    <title>قسمت 3</title>
+    <sub-title>راه در رو </sub-title>
+    <length units="seconds">2662</length>
+  </programme>
+  <programme start="20261029185929 +0000" stop="20261029195044 +0000" channel="ifilm">
+    <title>قسمت 7</title>
+    <sub-title>آسمان همیشه ابری نیست</sub-title>
+    <length units="seconds">2802</length>
+  </programme>
+  <programme start="20261029180054 +0000" stop="20261029185133 +0000" channel="ifilm">
+    <title>قسمت 1</title>
+    <sub-title>بادار</sub-title>
+    <length units="seconds">2894</length>
+  </programme>
+  <programme start="20261029170023 +0000" stop="20261029175958 +0000" channel="ifilm">
+    <title>قسمت 74</title>
+    <sub-title>کمربندها را ببندیم</sub-title>
+    <length units="seconds">2650</length>
+  </programme>
+  <programme start="20261029164920 +0000" stop="20261029165417 +0000" channel="ifilm">
+    <title>7 آبان 1405</title>
+    <sub-title>شما و آی فیلم (سری جدید)</sub-title>
+    <length units="seconds">298</length>
+  </programme>
+  <programme start="20261029160021 +0000" stop="20261029164545 +0000" channel="ifilm">
+    <title>قسمت 40</title>
+    <sub-title>آژانس دوستی </sub-title>
+    <length units="seconds">2450</length>
+  </programme>
   <channel id="namayesh">
     <display-name>channel namayesh</display-name>
   </channel>
+  <programme start="20261029210132 +0000" stop="20261029223650 +0000" channel="namayesh">
+    <title>جهنم سبز</title>
+    <length units="seconds">5342</length>
+  </programme>
+  <programme start="20261029190427 +0000" stop="20261029204532 +0000" channel="namayesh">
+    <title>افتتاحیه جشنواره بین المللی فیلم مقاومت - 7 آبان 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (نمایش)</sub-title>
+    <length units="seconds">6064</length>
+  </programme>
   <channel id="tehran">
     <display-name>channel tehran</display-name>
   </channel>
+  <programme start="20261029223535 +0000" stop="20261029224913 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>اجاق (شبکه تهران)</sub-title>
+    <length units="seconds">818</length>
+  </programme>
+  <programme start="20261029222630 +0000" stop="20261029222755 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>خبرنگار مردمی ، شصت و پنج ثانیه</sub-title>
+    <length units="seconds">86</length>
+  </programme>
+  <programme start="20261029220014 +0000" stop="20261029222630 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>گفتگوی ویژه مردمی</sub-title>
+    <length units="seconds">1576</length>
+  </programme>
+  <programme start="20261029215522 +0000" stop="20261029215828 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>خبرنگار مردمی ، شصت و پنج ثانیه</sub-title>
+    <length units="seconds">186</length>
+  </programme>
+  <programme start="20261029211016 +0000" stop="20261029214623 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>بچه های دیروز</sub-title>
+    <length units="seconds">2050</length>
+  </programme>
+  <programme start="20261029200800 +0000" stop="20261029210011 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>تهران 20 (1405)</sub-title>
+    <length units="seconds">3132</length>
+  </programme>
+  <programme start="20261029185904 +0000" stop="20261029195256 +0000" channel="tehran">
+    <title>قسمت 24</title>
+    <sub-title>داستان یک شهر</sub-title>
+    <length units="seconds">3004</length>
+  </programme>
+  <programme start="20261029184308 +0000" stop="20261029185049 +0000" channel="tehran">
+    <title>مشکلات محله حصارک - 7 آبان 1405</title>
+    <sub-title>در شهر 1405 (شبکه تهران)</sub-title>
+    <length units="seconds">462</length>
+  </programme>
+  <programme start="20261029182354 +0000" stop="20261029184008 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>طوبی</sub-title>
+    <length units="seconds">974</length>
+  </programme>
+  <programme start="20261029180800 +0000" stop="20261029181754 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20261029175419 +0000" stop="20261029180656 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>اجاق (شبکه تهران)</sub-title>
+    <length units="seconds">756</length>
+  </programme>
+  <programme start="20261029160018 +0000" stop="20261029172031 +0000" channel="tehran">
+    <title>7 آبان 1405</title>
+    <sub-title>به خانه بر می گردیم 1405</sub-title>
+    <length units="seconds">4516</length>
+  </programme>
+  <programme start="20261029154749 +0000" stop="20261029155458 +0000" channel="tehran">
+    <title>یادبود شهید آرمان علی وردی - 7 آبان 1405</title>
+    <sub-title>گزارش 5</sub-title>
+    <length units="seconds">428</length>
+  </programme>
   <programme start="20261029154310 +0000" stop="20261029154416 +0000" channel="tehran">
     <title>7 آبان 1405 - بخش 2</title>
     <sub-title>ما ایستاده ایم</sub-title>
@@ -382,281 +725,11 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
-  <programme start="20261029152059 +0000" stop="20261029153132 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>جان فدا </sub-title>
-    <length units="seconds">632</length>
-  </programme>
-  <programme start="20261029150050 +0000" stop="20261029152032 +0000" channel="quran">
-    <title>آقای حمید شاکرنژاد - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">1182</length>
-  </programme>
-  <programme start="20261029145507 +0000" stop="20261029150046 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>آیه های باران</sub-title>
-    <length units="seconds">338</length>
-  </programme>
-  <programme start="20261029140239 +0000" stop="20261029145448 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>ایران ما (قرآن)</sub-title>
-    <length units="seconds">3128</length>
-  </programme>
-  <programme start="20261029133917 +0000" stop="20261029140125 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>بی مرز با حجاب (قرآن)</sub-title>
-    <length units="seconds">1328</length>
-  </programme>
-  <programme start="20261029120822 +0000" stop="20261029121239 +0000" channel="quran">
-    <title>سر مهر اهل تقوا - 7 آبان 1405</title>
-    <sub-title>عطر ماندگار</sub-title>
-    <length units="seconds">258</length>
-  </programme>
-  <programme start="20261029113136 +0000" stop="20261029114720 +0000" channel="quran">
-    <title>ارتباط مستقیم با حرم مطهر حضرت معصومه (س) - 7 آبان 1405</title>
-    <sub-title>برنامه مذهبی (قرآن)</sub-title>
-    <length units="seconds">944</length>
-  </programme>
-  <programme start="20261029093839 +0000" stop="20261029095016 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
-    <length units="seconds">696</length>
-  </programme>
-  <programme start="20261029084504 +0000" stop="20261029093614 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>ابرار</sub-title>
-    <length units="seconds">3070</length>
-  </programme>
-  <programme start="20261029080434 +0000" stop="20261029081259 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>نمادین </sub-title>
-    <length units="seconds">504</length>
-  </programme>
-  <programme start="20261029074826 +0000" stop="20261029075516 +0000" channel="quran">
-    <title>آقای محمدعلی نوران - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">410</length>
-  </programme>
-  <programme start="20261029072536 +0000" stop="20261029074826 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>سحاب رحمت (قرآن)</sub-title>
-    <length units="seconds">1372</length>
-  </programme>
-  <programme start="20261029071420 +0000" stop="20261029072533 +0000" channel="quran">
-    <title>متولی عبدالعال - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">672</length>
-  </programme>
-  <programme start="20261029063214 +0000" stop="20261029064115 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>دعای عهد (قرآن)</sub-title>
-    <length units="seconds">540</length>
-  </programme>
-  <programme start="20261029052614 +0000" stop="20261029063210 +0000" channel="quran">
-    <title>جز 7 - 7 آبان 1405</title>
-    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
-    <length units="seconds">3956</length>
-  </programme>
-  <programme start="20261029052252 +0000" stop="20261029052614 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>یک صفحه یک آیه </sub-title>
-    <length units="seconds">202</length>
-  </programme>
-  <programme start="20261029051743 +0000" stop="20261029052251 +0000" channel="quran">
-    <title>صفحه 192 - 7 آبان 1405</title>
-    <sub-title>نور علی نور</sub-title>
-    <length units="seconds">308</length>
-  </programme>
-  <programme start="20261029044242 +0000" stop="20261029045123 +0000" channel="quran">
-    <title>آقای محمدحسین انواری - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">520</length>
-  </programme>
-  <programme start="20261029044044 +0000" stop="20261029044241 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>امام امت (قرآن)</sub-title>
-    <length units="seconds">116</length>
-  </programme>
-  <programme start="20261029043806 +0000" stop="20261029044042 +0000" channel="quran">
-    <title>حاج محمود کریمی - 7 آبان 1405</title>
-    <sub-title>مناجات خوانی</sub-title>
-    <length units="seconds">156</length>
-  </programme>
-  <programme start="20261029042903 +0000" stop="20261029043806 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>دعای بیست و هفتم صحیفه سجادیه (قرآن) </sub-title>
-    <length units="seconds">544</length>
-  </programme>
-  <programme start="20261029035627 +0000" stop="20261029042543 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>شرح خطبه فدکیه</sub-title>
-    <length units="seconds">1756</length>
-  </programme>
-  <programme start="20261029034325 +0000" stop="20261029035520 +0000" channel="quran">
-    <title>مناجات حضرت امیر (ع) - 7 آبان 1405</title>
-    <sub-title>مناجات خوانی</sub-title>
-    <length units="seconds">716</length>
-  </programme>
-  <programme start="20261029033629 +0000" stop="20261029034251 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>نکات ناب (قرآن)</sub-title>
-    <length units="seconds">382</length>
-  </programme>
-  <programme start="20261029032926 +0000" stop="20261029033629 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
-    <length units="seconds">422</length>
-  </programme>
-  <programme start="20261029030009 +0000" stop="20261029032926 +0000" channel="quran">
-    <title>احمد شحات احمد سید - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">1758</length>
-  </programme>
-  <programme start="20261029025746 +0000" stop="20261029030005 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>صدای شما شنیده می شود</sub-title>
-    <length units="seconds">138</length>
-  </programme>
-  <programme start="20261029025632 +0000" stop="20261029025746 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>فرازی از وصیت نامه</sub-title>
-    <length units="seconds">74</length>
-  </programme>
-  <programme start="20261029023804 +0000" stop="20261029025548 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
-    <length units="seconds">1064</length>
-  </programme>
-  <programme start="20261029022436 +0000" stop="20261029023540 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>نشانه ها</sub-title>
-    <length units="seconds">664</length>
-  </programme>
-  <programme start="20261029021308 +0000" stop="20261029022327 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>آیات و روایات راهبردی </sub-title>
-    <length units="seconds">618</length>
-  </programme>
-  <programme start="20261029020131 +0000" stop="20261029021307 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>گنجینه تلاوت</sub-title>
-    <length units="seconds">696</length>
-  </programme>
-  <programme start="20261029015459 +0000" stop="20261029020130 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>چشم و چراغ (قرآن)</sub-title>
-    <length units="seconds">392</length>
-  </programme>
-  <programme start="20261029014643 +0000" stop="20261029015459 +0000" channel="quran">
-    <title>آقای امین پویا - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">496</length>
-  </programme>
-  <programme start="20261029014024 +0000" stop="20261029014642 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>تربت ما (قرآن)</sub-title>
-    <length units="seconds">378</length>
-  </programme>
-  <programme start="20261029013045 +0000" stop="20261029014022 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>صبح ظهور (قرآن)</sub-title>
-    <length units="seconds">578</length>
-  </programme>
-  <programme start="20261029010028 +0000" stop="20261029013006 +0000" channel="quran">
-    <title>فتحی حسن الملیجی - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">1778</length>
-  </programme>
-  <programme start="20261029005617 +0000" stop="20261029010027 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>مکتب رهبر شهید</sub-title>
-    <length units="seconds">250</length>
-  </programme>
-  <programme start="20261029005415 +0000" stop="20261029005617 +0000" channel="quran">
-    <title>7 آبان 1405</title>
-    <sub-title>اوقات شرعی</sub-title>
-    <length units="seconds">122</length>
-  </programme>
-  <programme start="20261029005219 +0000" stop="20261029005415 +0000" channel="quran">
-    <title>سوره واقعه - 7 آبان 1405</title>
-    <sub-title>تلاوت قرآن</sub-title>
-    <length units="seconds">116</length>
-  </programme>
-  <programme start="20261029000139 +0000" stop="20261029005218 +0000" channel="quran">
-    <title>سعادتمندان - 7 آبان 1405</title>
-    <sub-title>برنامه اجتماعی (قرآن)</sub-title>
-    <length units="seconds">3040</length>
-  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
-  <programme start="20261029153527 +0000" stop="20261029154133 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>کی میگه ریاضی سخته</sub-title>
-    <length units="seconds">366</length>
-  </programme>
-  <programme start="20261029144117 +0000" stop="20261029150439 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>زنگ امید</sub-title>
-    <length units="seconds">1402</length>
-  </programme>
-  <programme start="20261029130101 +0000" stop="20261029135209 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>دکتر سلام ۱۴۰۵</sub-title>
-    <length units="seconds">2674</length>
-  </programme>
-  <programme start="20261029120336 +0000" stop="20261029122500 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>مدرسه ما</sub-title>
-    <length units="seconds">1284</length>
-  </programme>
-  <programme start="20261029110457 +0000" stop="20261029112327 +0000" channel="amouzesh">
-    <title>آیین تکریم شهدای دانش آموز - 7 آبان 1405</title>
-    <sub-title>برنامه اجتماعی (آموزش)</sub-title>
-    <length units="seconds">1111</length>
-  </programme>
-  <programme start="20261029103257 +0000" stop="20261029104335 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>همه به پیش</sub-title>
-    <length units="seconds">637</length>
-  </programme>
-  <programme start="20261029101014 +0000" stop="20261029103235 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>ساحل دوست داشتنی (آموزش)</sub-title>
-    <length units="seconds">1341</length>
-  </programme>
-  <programme start="20261029073624 +0000" stop="20261029075732 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>زنگ پرتقالی کودک (آموزش)</sub-title>
-    <length units="seconds">1267</length>
-  </programme>
-  <programme start="20261029064746 +0000" stop="20261029065651 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>انیمیشن فرآیند (آموزش)</sub-title>
-    <length units="seconds">545</length>
-  </programme>
-  <programme start="20261029062016 +0000" stop="20261029064444 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>پویآموز </sub-title>
-    <length units="seconds">1466</length>
-  </programme>
-  <programme start="20261029060239 +0000" stop="20261029061624 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>ورزش و مهارت</sub-title>
-    <length units="seconds">823</length>
-  </programme>
-  <programme start="20261029043637 +0000" stop="20261029044910 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>صبح ظهور </sub-title>
-    <length units="seconds">754</length>
-  </programme>
-  <programme start="20261029040001 +0000" stop="20261029042059 +0000" channel="amouzesh">
-    <title>7 آبان 1405</title>
-    <sub-title>علمی طور </sub-title>
-    <length units="seconds">1258</length>
-  </programme>
   <programme start="20261029023604 +0000" stop="20261029025122 +0000" channel="amouzesh">
-    <title>پایتون - 7 آبان 1405</title>
+    <title>7 آبان 1405</title>
     <sub-title>شبکه ماه </sub-title>
     <length units="seconds">918</length>
   </programme>
@@ -678,9 +751,144 @@
   <channel id="salamat">
     <display-name>channel salamat</display-name>
   </channel>
+  <programme start="20261029223231 +0000" stop="20261029231800 +0000" channel="salamat">
+    <title>تو همانی هستی که می خوری 4 - 7 آبان 1405</title>
+    <sub-title>مستند سلامت</sub-title>
+    <length units="seconds">2690</length>
+  </programme>
+  <programme start="20261029220117 +0000" stop="20261029223132 +0000" channel="salamat">
+    <title>7 مهر 1405</title>
+    <sub-title>راز داران </sub-title>
+    <length units="seconds">1798</length>
+  </programme>
+  <programme start="20261029215007 +0000" stop="20261029215800 +0000" channel="salamat">
+    <title>مسمویت غذایی و راههای پیشگری از آن - 7 آبان 1405</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">462</length>
+  </programme>
+  <programme start="20261029210800 +0000" stop="20261029214550 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>شریان اصلی</sub-title>
+    <length units="seconds">2252</length>
+  </programme>
+  <programme start="20261029200014 +0000" stop="20261029204945 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>کشیک سلامت </sub-title>
+    <length units="seconds">2919</length>
+  </programme>
+  <programme start="20261029191215 +0000" stop="20261029195535 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>دل آوا</sub-title>
+    <length units="seconds">2591</length>
+  </programme>
+  <programme start="20261029183203 +0000" stop="20261029190535 +0000" channel="salamat">
+    <title>سل تک - 7 آبان 1405</title>
+    <sub-title>مستند سلامت</sub-title>
+    <length units="seconds">1990</length>
+  </programme>
+  <programme start="20261029180240 +0000" stop="20261029183037 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>مسابقه رمز سلامتی</sub-title>
+    <length units="seconds">1656</length>
+  </programme>
+  <programme start="20261029164604 +0000" stop="20261029165730 +0000" channel="salamat">
+    <title>7 آبان 1405 - بخش 4</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">671</length>
+  </programme>
+  <programme start="20261029160046 +0000" stop="20261029164525 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>ضربان ۱۴۰5</sub-title>
+    <length units="seconds">2620</length>
+  </programme>
+  <programme start="20261029154637 +0000" stop="20261029155306 +0000" channel="salamat">
+    <title>گزندگی با جانوران سمی - 7 آبان 1405</title>
+    <sub-title>دوربین سلامت 1405</sub-title>
+    <length units="seconds">389</length>
+  </programme>
+  <programme start="20261029141813 +0000" stop="20261029142807 +0000" channel="salamat">
+    <title>7 آبان 1405 - بخش 3</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20261029132454 +0000" stop="20261029141706 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>نامیرا</sub-title>
+    <length units="seconds">3114</length>
+  </programme>
+  <programme start="20261029131206 +0000" stop="20261029132100 +0000" channel="salamat">
+    <title>7 آبان 1405 - بخش 2</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">524</length>
+  </programme>
+  <programme start="20261029105528 +0000" stop="20261029110540 +0000" channel="salamat">
+    <title>7 آبان 1405 - بخش 1</title>
+    <sub-title>مثبت سلامت ۱۴۰5</sub-title>
+    <length units="seconds">603</length>
+  </programme>
+  <programme start="20261029103145 +0000" stop="20261029105234 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>پنجره باز (سری جدید)</sub-title>
+    <length units="seconds">1248</length>
+  </programme>
+  <programme start="20261029100013 +0000" stop="20261029102825 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>من یک مادرم</sub-title>
+    <length units="seconds">1683</length>
+  </programme>
+  <programme start="20261029090034 +0000" stop="20261029094537 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>مادر کودک (سلامت)</sub-title>
+    <length units="seconds">2678</length>
+  </programme>
+  <programme start="20261029083836 +0000" stop="20261029085723 +0000" channel="salamat">
+    <title>7 آبان 1405</title>
+    <sub-title>ایران فعال </sub-title>
+    <length units="seconds">1116</length>
+  </programme>
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20261029222936 +0000" stop="20261029224443 +0000" channel="ofogh">
+    <title>7 آبان 1405</title>
+    <sub-title>یک روایت ساده </sub-title>
+    <length units="seconds">906</length>
+  </programme>
+  <programme start="20261029213553 +0000" stop="20261029222850 +0000" channel="ofogh">
+    <title>جانسوز - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">3178</length>
+  </programme>
+  <programme start="20261029205702 +0000" stop="20261029213343 +0000" channel="ofogh">
+    <title>7 آبان 1405</title>
+    <sub-title>انتقام</sub-title>
+    <length units="seconds">2200</length>
+  </programme>
+  <programme start="20261029203032 +0000" stop="20261029205037 +0000" channel="ofogh">
+    <title>این سال ها - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">1204</length>
+  </programme>
+  <programme start="20261029201831 +0000" stop="20261029203012 +0000" channel="ofogh">
+    <title>نوزدهمین جشنواره مقاومت - 7 آبان 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (افق)</sub-title>
+    <length units="seconds">702</length>
+  </programme>
+  <programme start="20261029193158 +0000" stop="20261029201715 +0000" channel="ofogh">
+    <title>قسمت 1</title>
+    <sub-title>عملیات مهندسی</sub-title>
+    <length units="seconds">2714</length>
+  </programme>
+  <programme start="20261029175213 +0000" stop="20261029193137 +0000" channel="ofogh">
+    <title>جایی که درختان زیتون گریه می کنند - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (افق)</sub-title>
+    <length units="seconds">5964</length>
+  </programme>
+  <programme start="20261029164310 +0000" stop="20261029172605 +0000" channel="ofogh">
+    <title>7 آبان 1405</title>
+    <sub-title>تجربه ماندگار</sub-title>
+    <length units="seconds">2574</length>
+  </programme>
   <programme start="20261029154130 +0000" stop="20261029154642 +0000" channel="ofogh">
     <title>7 آبان 1405</title>
     <sub-title>جان فدا</sub-title>
@@ -714,9 +922,44 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20261029234150 +0000" stop="20261029235920 +0000" channel="omid">
+    <title>اکلیل - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (امید)</sub-title>
+    <length units="seconds">1050</length>
+  </programme>
+  <programme start="20261029225000 +0000" stop="20261029234105 +0000" channel="omid">
+    <title>همراه با دایناسورها - 7 آبان 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (امید)</sub-title>
+    <length units="seconds">3064</length>
+  </programme>
+  <programme start="20261029211726 +0000" stop="20261029220001 +0000" channel="omid">
+    <title>قسمت 12</title>
+    <sub-title>سامو بندری</sub-title>
+    <length units="seconds">2554</length>
+  </programme>
+  <programme start="20261029200100 +0000" stop="20261029211448 +0000" channel="omid">
+    <title>7 آبان 1405</title>
+    <sub-title>مجرینو (فصل سوم)</sub-title>
+    <length units="seconds">4428</length>
+  </programme>
+  <programme start="20261029174209 +0000" stop="20261029174704 +0000" channel="omid">
+    <title>7 آبان 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">294</length>
+  </programme>
+  <programme start="20261029165757 +0000" stop="20261029171452 +0000" channel="omid">
+    <title>قسمت 28</title>
+    <sub-title>راز شهر سوخته</sub-title>
+    <length units="seconds">1014</length>
+  </programme>
+  <programme start="20261029153317 +0000" stop="20261029161320 +0000" channel="omid">
+    <title>7 آبان 1405</title>
+    <sub-title>بازی ویزیون 1405 (امید)</sub-title>
+    <length units="seconds">2372</length>
+  </programme>
   <programme start="20261029150057 +0000" stop="20261029153004 +0000" channel="omid">
     <title>7 آبان 1405</title>
-    <sub-title>مسابقه قهرمان</sub-title>
+    <sub-title>مسابقه قهرمانان</sub-title>
     <length units="seconds">1748</length>
   </programme>
   <programme start="20261029142906 +0000" stop="20261029145250 +0000" channel="omid">
@@ -737,6 +980,11 @@
   <channel id="faratar">
     <display-name>faratar</display-name>
   </channel>
+  <programme start="20261029124529 +0000" stop="20261029125419 +0000" channel="faratar">
+    <title>قسمت 21</title>
+    <sub-title>ببعی</sub-title>
+    <length units="seconds">530</length>
+  </programme>
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
@@ -773,34 +1021,44 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
-  <programme start="20261029103001 +0000" stop="20261029105334 +0000" channel="azarbayjangharbi">
-    <title>چراغ - 7 آبان 1405</title>
-    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
-    <length units="seconds">1414</length>
-  </programme>
-  <programme start="20261029070017 +0000" stop="20261029075745 +0000" channel="azarbayjangharbi">
-    <title>7 آبان 1405</title>
-    <sub-title>سلام یاشایش (آذربایجان غربی)</sub-title>
-    <length units="seconds">3424</length>
-  </programme>
-  <programme start="20261029060146 +0000" stop="20261029061013 +0000" channel="azarbayjangharbi">
-    <title>7 آبان 1405</title>
-    <sub-title>دعای عهد (آذربایجان غربی)</sub-title>
-    <length units="seconds">506</length>
-  </programme>
-  <programme start="20261029054249 +0000" stop="20261029055900 +0000" channel="azarbayjangharbi">
-    <title>7 آبان 1405</title>
-    <sub-title>سیر آفاقی (آذربایجان غربی)</sub-title>
-    <length units="seconds">970</length>
-  </programme>
-  <programme start="20261029045115 +0000" stop="20261029050658 +0000" channel="azarbayjangharbi">
-    <title>سلسله درس های احکام و اخلاق -  7 آبان 1405</title>
-    <sub-title>برنامه مذهبی (آذربایجان غربی)</sub-title>
-    <length units="seconds">932</length>
-  </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20261029222958 +0000" stop="20261029225951 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 22:30 (سهند)</sub-title>
+    <length units="seconds">1830</length>
+  </programme>
+  <programme start="20261029205958 +0000" stop="20261029221914 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>ایرانیم (سهند)</sub-title>
+    <length units="seconds">4756</length>
+  </programme>
+  <programme start="20261029192730 +0000" stop="20261029195536 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 19:30 (سهند)</sub-title>
+    <length units="seconds">1688</length>
+  </programme>
+  <programme start="20261029182841 +0000" stop="20261029192008 +0000" channel="sahand">
+    <title>ایران از بالا - 7 آبان 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (سهند)</sub-title>
+    <length units="seconds">3082</length>
+  </programme>
+  <programme start="20261029180720 +0000" stop="20261029182130 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>سکانس برتر (سهند)</sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20261029172954 +0000" stop="20261029174531 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 17:30 (سهند)</sub-title>
+    <length units="seconds">938</length>
+  </programme>
+  <programme start="20261029155755 +0000" stop="20261029165240 +0000" channel="sahand">
+    <title>7 آبان 1405</title>
+    <sub-title>ناز بالالار</sub-title>
+    <length units="seconds">3284</length>
+  </programme>
   <programme start="20261029105850 +0000" stop="20261029120200 +0000" channel="sahand">
     <title>7 آبان 1405</title>
     <sub-title>محبت اوجاغی</sub-title>
@@ -852,6 +1110,56 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20261029225930 +0000" stop="20261029231558 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (اصفهان)</sub-title>
+    <length units="seconds">989</length>
+  </programme>
+  <programme start="20261029215534 +0000" stop="20261029225220 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>کی میاد ستاره چینی (اصفهان)</sub-title>
+    <length units="seconds">3375</length>
+  </programme>
+  <programme start="20261029211827 +0000" stop="20261029215220 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>هشت بهشت (اصفهان)</sub-title>
+    <length units="seconds">2022</length>
+  </programme>
+  <programme start="20261029203955 +0000" stop="20261029211645 +0000" channel="esfahan">
+    <title>نوزدهمین جشنواره بین المللی فیلم مقاومت - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">2165</length>
+  </programme>
+  <programme start="20261029200005 +0000" stop="20261029203332 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (اصفهان)</sub-title>
+    <length units="seconds">1976</length>
+  </programme>
+  <programme start="20261029192601 +0000" stop="20261029195646 +0000" channel="esfahan">
+    <title>نوزدهمین جشنواره بین المللی فیلم فجر - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">1844</length>
+  </programme>
+  <programme start="20261029175337 +0000" stop="20261029184042 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>دردانه</sub-title>
+    <length units="seconds">2816</length>
+  </programme>
+  <programme start="20261029171337 +0000" stop="20261029172744 +0000" channel="esfahan">
+    <title>گلستان شهدای اصفهان - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">834</length>
+  </programme>
+  <programme start="20261029161907 +0000" stop="20261029162624 +0000" channel="esfahan">
+    <title>دومین کنگره ملی 4000 شهید استان گلستان -7 آبان 1405 </title>
+    <sub-title>برنامه اجتماعی (اصفهان)</sub-title>
+    <length units="seconds">438</length>
+  </programme>
+  <programme start="20261029155951 +0000" stop="20261029161542 +0000" channel="esfahan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 16:00 (اصفهان)</sub-title>
+    <length units="seconds">928</length>
+  </programme>
   <programme start="20261029122400 +0000" stop="20261029125837 +0000" channel="esfahan">
     <title>7 آبان 1405</title>
     <sub-title>درس هایی از نهج البلاغه</sub-title>
@@ -875,9 +1183,119 @@
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
+  <programme start="20261029230000 +0000" stop="20261029232742 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (سبلان)</sub-title>
+    <length units="seconds">1651</length>
+  </programme>
+  <programme start="20261029214450 +0000" stop="20261029224545 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>خوش و بش (سبلان)</sub-title>
+    <length units="seconds">3650</length>
+  </programme>
+  <programme start="20261029204450 +0000" stop="20261029213451 +0000" channel="sabalan">
+    <title>آقای شهید ایران - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">2967</length>
+  </programme>
+  <programme start="20261029195959 +0000" stop="20261029202937 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (سبلان)</sub-title>
+    <length units="seconds">1772</length>
+  </programme>
+  <programme start="20261029190614 +0000" stop="20261029192620 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1207</length>
+  </programme>
+  <programme start="20261029160001 +0000" stop="20261029161332 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار 16:00 </sub-title>
+    <length units="seconds">813</length>
+  </programme>
+  <programme start="20261029105944 +0000" stop="20261029111624 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار اردبیل (سبلان)</sub-title>
+    <length units="seconds">970</length>
+  </programme>
+  <programme start="20261029080037 +0000" stop="20261029085219 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>تزه گون (سبلان)</sub-title>
+    <length units="seconds">3047</length>
+  </programme>
+  <programme start="20261029071055 +0000" stop="20261029075441 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>ایرانگرد (سبلان)</sub-title>
+    <length units="seconds">2619</length>
+  </programme>
+  <programme start="20261029054006 +0000" stop="20261029055850 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>جهان گرد (سبلان)</sub-title>
+    <length units="seconds">1097</length>
+  </programme>
+  <programme start="20261029040510 +0000" stop="20261029041621 +0000" channel="sabalan">
+    <title>صبح ظهور - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (سبلان)</sub-title>
+    <length units="seconds">666</length>
+  </programme>
+  <programme start="20261029025539 +0000" stop="20261029032033 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>روح الغزل </sub-title>
+    <length units="seconds">1495</length>
+  </programme>
+  <programme start="20261029022202 +0000" stop="20261029024955 +0000" channel="sabalan">
+    <title>نیمه پنهان ماه - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (سبلان)</sub-title>
+    <length units="seconds">1673</length>
+  </programme>
+  <programme start="20261029002132 +0000" stop="20261029002600 +0000" channel="sabalan">
+    <title>7 آبان 1405</title>
+    <sub-title>جهان گرد (سبلان)</sub-title>
+    <length units="seconds">266</length>
+  </programme>
   <channel id="ilam">
     <display-name>ilam</display-name>
   </channel>
+  <programme start="20261029085958 +0000" stop="20261029091219 +0000" channel="ilam">
+    <title>7 آبان 1405</title>
+    <sub-title>مثل نامه (ایلام)</sub-title>
+    <length units="seconds">740</length>
+  </programme>
+  <programme start="20261029082459 +0000" stop="20261029085033 +0000" channel="ilam">
+    <title>مسجد فیروزه ای - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">1522</length>
+  </programme>
+  <programme start="20261029080052 +0000" stop="20261029082100 +0000" channel="ilam">
+    <title>دیده بان - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">1182</length>
+  </programme>
+  <programme start="20261029071601 +0000" stop="20261029075803 +0000" channel="ilam">
+    <title>مستند قدم باد بهار - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">2511</length>
+  </programme>
+  <programme start="20261029055742 +0000" stop="20261029062358 +0000" channel="ilam">
+    <title>مستند علما - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (ایلام)</sub-title>
+    <length units="seconds">1566</length>
+  </programme>
+  <programme start="20261029053211 +0000" stop="20261029055617 +0000" channel="ilam">
+    <title>شرح صحیفه سجادیه - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (ایلام)</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20261029044607 +0000" stop="20261029050811 +0000" channel="ilam">
+    <title>7 آبان 1405</title>
+    <sub-title>مناجات حضرت امیرالمومنین </sub-title>
+    <length units="seconds">1324</length>
+  </programme>
+  <programme start="20261029034725 +0000" stop="20261029044559 +0000" channel="ilam">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (ایلام)</sub-title>
+    <length units="seconds">3505</length>
+  </programme>
   <channel id="bushehr">
     <display-name>bushehr</display-name>
   </channel>
@@ -922,6 +1340,76 @@
   <channel id="abadan">
     <display-name>abadan</display-name>
   </channel>
+  <programme start="20261029230004 +0000" stop="20261029231729 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (آبادان)</sub-title>
+    <length units="seconds">1046</length>
+  </programme>
+  <programme start="20261029215941 +0000" stop="20261029225620 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>باید برخاست </sub-title>
+    <length units="seconds">3398</length>
+  </programme>
+  <programme start="20261029210844 +0000" stop="20261029213920 +0000" channel="abadan">
+    <title>خروش حماسی مردم - 7 آبان 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">1836</length>
+  </programme>
+  <programme start="20261029195959 +0000" stop="20261029200710 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (آبادان)</sub-title>
+    <length units="seconds">430</length>
+  </programme>
+  <programme start="20261029185940 +0000" stop="20261029195429 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>ساعه خیر (آبادان)</sub-title>
+    <length units="seconds">3290</length>
+  </programme>
+  <programme start="20261029170010 +0000" stop="20261029171759 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 17:00 (آبادان)</sub-title>
+    <length units="seconds">1070</length>
+  </programme>
+  <programme start="20261029124541 +0000" stop="20261029125839 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>مثلث</sub-title>
+    <length units="seconds">778</length>
+  </programme>
+  <programme start="20261029110122 +0000" stop="20261029114551 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>ایرانگرد (آبادان)</sub-title>
+    <length units="seconds">2670</length>
+  </programme>
+  <programme start="20261029095959 +0000" stop="20261029105928 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>خونه آفتابی (آبادان)</sub-title>
+    <length units="seconds">3568</length>
+  </programme>
+  <programme start="20261029071009 +0000" stop="20261029080004 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>صبح اروند</sub-title>
+    <length units="seconds">2996</length>
+  </programme>
+  <programme start="20261029053245 +0000" stop="20261029055943 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">1618</length>
+  </programme>
+  <programme start="20261029041036 +0000" stop="20261029044622 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">1913</length>
+  </programme>
+  <programme start="20261029032647 +0000" stop="20261029041000 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آبادان)</sub-title>
+    <length units="seconds">2592</length>
+  </programme>
+  <programme start="20261029015642 +0000" stop="20261029022735 +0000" channel="abadan">
+    <title>7 آبان 1405</title>
+    <sub-title>دل افروزان (آبادان)</sub-title>
+    <length units="seconds">1854</length>
+  </programme>
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
@@ -961,6 +1449,36 @@
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
+  <programme start="20261029114157 +0000" stop="20261029114837 +0000" channel="khalijefars">
+    <title>کلام امام - 7 آبان 1405</title>
+    <sub-title>برنامه سیاسی و تاریخی (خلیج فارس)</sub-title>
+    <length units="seconds">400</length>
+  </programme>
+  <programme start="20261029111443 +0000" stop="20261029111913 +0000" channel="khalijefars">
+    <title>حدیث زندگی - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
+    <length units="seconds">270</length>
+  </programme>
+  <programme start="20261029060112 +0000" stop="20261029061111 +0000" channel="khalijefars">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (خلیج فارس)</sub-title>
+    <length units="seconds">598</length>
+  </programme>
+  <programme start="20261029054502 +0000" stop="20261029055958 +0000" channel="khalijefars">
+    <title>حلقه صالحین - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (خلیج فارس)</sub-title>
+    <length units="seconds">896</length>
+  </programme>
+  <programme start="20261029045414 +0000" stop="20261029054453 +0000" channel="khalijefars">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (خلیج فارس)</sub-title>
+    <length units="seconds">3018</length>
+  </programme>
+  <programme start="20261029045210 +0000" stop="20261029045347 +0000" channel="khalijefars">
+    <title>راه امام - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (خلیج فارس)</sub-title>
+    <length units="seconds">96</length>
+  </programme>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
@@ -1013,36 +1531,436 @@
   <channel id="hamoon">
     <display-name>hamoon</display-name>
   </channel>
+  <programme start="20261029074350 +0000" stop="20261029075157 +0000" channel="hamoon">
+    <title>قاب سفید - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (هامون)</sub-title>
+    <length units="seconds">486</length>
+  </programme>
+  <programme start="20261029064800 +0000" stop="20261029073102 +0000" channel="hamoon">
+    <title>سلام ایران - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (هامون)</sub-title>
+    <length units="seconds">2582</length>
+  </programme>
+  <programme start="20261029060544 +0000" stop="20261029061539 +0000" channel="hamoon">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (هامون)</sub-title>
+    <length units="seconds">594</length>
+  </programme>
+  <programme start="20261029034156 +0000" stop="20261029040948 +0000" channel="hamoon">
+    <title>7 آبان 1405</title>
+    <sub-title>نیمه پنهان ماه (هامون)</sub-title>
+    <length units="seconds">1672</length>
+  </programme>
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20261029225930 +0000" stop="20261029231530 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (فارس)</sub-title>
+    <length units="seconds">960</length>
+  </programme>
+  <programme start="20261029223107 +0000" stop="20261029225618 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>ته چین</sub-title>
+    <length units="seconds">1510</length>
+  </programme>
+  <programme start="20261029212504 +0000" stop="20261029223057 +0000" channel="fars">
+    <title>مردم در میدان - 7 آبان 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3954</length>
+  </programme>
+  <programme start="20261029204552 +0000" stop="20261029212450 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>میدان یار</sub-title>
+    <length units="seconds">2338</length>
+  </programme>
+  <programme start="20261029195958 +0000" stop="20261029202355 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (فارس)</sub-title>
+    <length units="seconds">1438</length>
+  </programme>
+  <programme start="20261029185042 +0000" stop="20261029194116 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>شکرپاره</sub-title>
+    <length units="seconds">3034</length>
+  </programme>
+  <programme start="20261029171120 +0000" stop="20261029172538 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 16:45 (فارس)</sub-title>
+    <length units="seconds">858</length>
+  </programme>
+  <programme start="20261029160100 +0000" stop="20261029183648 +0000" channel="fars">
+    <title>مسابقه بسکتبال نفت زاگرس جهرم - شهرداری گرگان - 7 آبان 1405</title>
+    <sub-title>مسابقات ورزشی (فارس)</sub-title>
+    <length units="seconds">8176</length>
+  </programme>
+  <programme start="20261029141617 +0000" stop="20261029143436 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت خانه</sub-title>
+    <length units="seconds">1098</length>
+  </programme>
+  <programme start="20261029110122 +0000" stop="20261029113705 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>نسیم حرم (فارس)</sub-title>
+    <length units="seconds">2144</length>
+  </programme>
+  <programme start="20261029100304 +0000" stop="20261029105538 +0000" channel="fars">
+    <title>7 آبان 1405</title>
+    <sub-title>کاشانه مهر (فارس)</sub-title>
+    <length units="seconds">3154</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
+  <programme start="20261029230021 +0000" stop="20261029231817 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (قزوین)</sub-title>
+    <length units="seconds">1076</length>
+  </programme>
+  <programme start="20261029210110 +0000" stop="20261029222020 +0000" channel="qazvin">
+    <title>اجتماع مردمی - 7 آبان 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">3032</length>
+  </programme>
+  <programme start="20261029200012 +0000" stop="20261029203411 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (قزوین)</sub-title>
+    <length units="seconds">2038</length>
+  </programme>
+  <programme start="20261029185643 +0000" stop="20261029193552 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>162 (قزوین)</sub-title>
+    <length units="seconds">4707</length>
+  </programme>
+  <programme start="20261029183009 +0000" stop="20261029184754 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>بهینه </sub-title>
+    <length units="seconds">1046</length>
+  </programme>
+  <programme start="20261029161944 +0000" stop="20261029170735 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>بوم و بر</sub-title>
+    <length units="seconds">2684</length>
+  </programme>
+  <programme start="20261029070027 +0000" stop="20261029075841 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>صبح نو </sub-title>
+    <length units="seconds">3494</length>
+  </programme>
+  <programme start="20261029060110 +0000" stop="20261029064550 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (قزوین)</sub-title>
+    <length units="seconds">2680</length>
+  </programme>
+  <programme start="20261029035304 +0000" stop="20261029045557 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت نور</sub-title>
+    <length units="seconds">3772</length>
+  </programme>
+  <programme start="20261029023932 +0000" stop="20261029032959 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (قزوین)</sub-title>
+    <length units="seconds">3026</length>
+  </programme>
+  <programme start="20261029022701 +0000" stop="20261029023711 +0000" channel="qazvin">
+    <title>7 آبان 1405</title>
+    <sub-title>چگونه ساخته شده (قزوین)</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20261029005059 +0000" stop="20261029012045 +0000" channel="qazvin">
+    <title>مستند ایران مشهد - 7 آبان 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (قزوین)</sub-title>
+    <length units="seconds">1786</length>
+  </programme>
   <channel id="noor">
     <display-name>noor</display-name>
   </channel>
+  <programme start="20261029225942 +0000" stop="20261029232700 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت ۲۳:۰۰ (قم)</sub-title>
+    <length units="seconds">1638</length>
+  </programme>
+  <programme start="20261029220348 +0000" stop="20261029224830 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>پلاک 16 (نور)</sub-title>
+    <length units="seconds">2682</length>
+  </programme>
+  <programme start="20261029211214 +0000" stop="20261029220115 +0000" channel="noor">
+    <title>مردم در میدان - 7 آبان 1405</title>
+    <sub-title>جنگ تحمیلی سوم</sub-title>
+    <length units="seconds">2942</length>
+  </programme>
+  <programme start="20261029195938 +0000" stop="20261029202451 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00</sub-title>
+    <length units="seconds">1514</length>
+  </programme>
+  <programme start="20261029181639 +0000" stop="20261029182642 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>قاب مردمی (نور)</sub-title>
+    <length units="seconds">602</length>
+  </programme>
+  <programme start="20261029175821 +0000" stop="20261029180832 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>جان های عاشق (نور)</sub-title>
+    <length units="seconds">610</length>
+  </programme>
+  <programme start="20261029172610 +0000" stop="20261029175345 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">1656</length>
+  </programme>
+  <programme start="20261029170022 +0000" stop="20261029171301 +0000" channel="noor">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 17:00</sub-title>
+    <length units="seconds">760</length>
+  </programme>
+  <programme start="20261029123409 +0000" stop="20261029131135 +0000" channel="noor">
+    <title>حجت الاسلام راجی - 7 آبان 1405</title>
+    <sub-title>سخنرانی (نور)</sub-title>
+    <length units="seconds">2246</length>
+  </programme>
+  <programme start="20261029114935 +0000" stop="20261029120854 +0000" channel="noor">
+    <title>ارتباط مستقیم با حرم مطهر - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (نور)</sub-title>
+    <length units="seconds">1158</length>
+  </programme>
+  <programme start="20261029110540 +0000" stop="20261029114932 +0000" channel="noor">
+    <title>چشم انداز نهاد حوزه و روحانیت - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (نور)</sub-title>
+    <length units="seconds">2632</length>
+  </programme>
   <channel id="aflak">
     <display-name>aflak channel</display-name>
   </channel>
+  <programme start="20261029053841 +0000" stop="20261029062958 +0000" channel="aflak">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت فتح (لرستان)</sub-title>
+    <length units="seconds">3067</length>
+  </programme>
+  <programme start="20261029053130 +0000" stop="20261029053541 +0000" channel="aflak">
+    <title>7 آبان 1405</title>
+    <sub-title>گنجینه احکام (لرستان)</sub-title>
+    <length units="seconds">250</length>
+  </programme>
+  <programme start="20261029052417 +0000" stop="20261029053120 +0000" channel="aflak">
+    <title>دعای چهاردهم صحیفه سجادیه - 7 آبان 1405</title>
+    <sub-title>ادعیه و زیارت (لرستان)</sub-title>
+    <length units="seconds">422</length>
+  </programme>
+  <programme start="20261029050556 +0000" stop="20261029050902 +0000" channel="aflak">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (لرستان)</sub-title>
+    <length units="seconds">184</length>
+  </programme>
+  <programme start="20261029043731 +0000" stop="20261029050142 +0000" channel="aflak">
+    <title>صهبای تسنیم - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (لرستان)</sub-title>
+    <length units="seconds">1428</length>
+  </programme>
+  <programme start="20261029041223 +0000" stop="20261029043525 +0000" channel="aflak">
+    <title>روایت حضور - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (لرستان)</sub-title>
+    <length units="seconds">1382</length>
+  </programme>
   <channel id="kerman">
     <display-name>kerman</display-name>
   </channel>
+  <programme start="20261029132611 +0000" stop="20261029135138 +0000" channel="kerman">
+    <title>مردان مرد - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (کرمان)</sub-title>
+    <length units="seconds">1526</length>
+  </programme>
+  <programme start="20261029071016 +0000" stop="20261029075602 +0000" channel="kerman">
+    <title>7 آبان 1405</title>
+    <sub-title>کرمان سلام</sub-title>
+    <length units="seconds">2746</length>
+  </programme>
+  <programme start="20261029060125 +0000" stop="20261029061124 +0000" channel="kerman">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (کرمان)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20261029053536 +0000" stop="20261029055558 +0000" channel="kerman">
+    <title>دستها و نشان ها - 7 آبان 1405</title>
+    <sub-title>برنامه فرهنگی و هنری (کرمان)</sub-title>
+    <length units="seconds">1222</length>
+  </programme>
+  <programme start="20261029052901 +0000" stop="20261029053444 +0000" channel="kerman">
+    <title>7 آبان 1405</title>
+    <sub-title>جهان گرد (کرمان)</sub-title>
+    <length units="seconds">344</length>
+  </programme>
   <channel id="zagros">
     <display-name>zagros</display-name>
   </channel>
+  <programme start="20261029230000 +0000" stop="20261029232409 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (زاگرس)</sub-title>
+    <length units="seconds">1446</length>
+  </programme>
+  <programme start="20261029210129 +0000" stop="20261029215825 +0000" channel="zagros">
+    <title>تجمعات مردمی - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (زاگرس)</sub-title>
+    <length units="seconds">3406</length>
+  </programme>
+  <programme start="20261029200449 +0000" stop="20261029205413 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>مال و مین</sub-title>
+    <length units="seconds">2938</length>
+  </programme>
+  <programme start="20261029193002 +0000" stop="20261029195655 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 19:30 (زاگرس)</sub-title>
+    <length units="seconds">1613</length>
+  </programme>
+  <programme start="20261029060049 +0000" stop="20261029061053 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (زاگرس)</sub-title>
+    <length units="seconds">457</length>
+  </programme>
+  <programme start="20261029053034 +0000" stop="20261029055100 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>سیر آفاقی (زاگرس)</sub-title>
+    <length units="seconds">1195</length>
+  </programme>
+  <programme start="20261029044721 +0000" stop="20261029045912 +0000" channel="zagros">
+    <title>اخلاق اسلامی - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (زاگرس)</sub-title>
+    <length units="seconds">711</length>
+  </programme>
+  <programme start="20261029044141 +0000" stop="20261029044703 +0000" channel="zagros">
+    <title>7 آبان 1405</title>
+    <sub-title>راوینا</sub-title>
+    <length units="seconds">321</length>
+  </programme>
   <channel id="dena">
     <display-name>dena</display-name>
   </channel>
+  <programme start="20261029061550 +0000" stop="20261029063822 +0000" channel="dena">
+    <title>سیری در صحیفه سجادیه - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (دنا)</sub-title>
+    <length units="seconds">1341</length>
+  </programme>
+  <programme start="20261029060721 +0000" stop="20261029061545 +0000" channel="dena">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (دنا)</sub-title>
+    <length units="seconds">503</length>
+  </programme>
+  <programme start="20261029050750 +0000" stop="20261029060559 +0000" channel="dena">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (دنا)</sub-title>
+    <length units="seconds">3466</length>
+  </programme>
+  <programme start="20261029044328 +0000" stop="20261029045028 +0000" channel="dena">
+    <title>تفسیر آسان قرآن کریم - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (دنا)</sub-title>
+    <length units="seconds">420</length>
+  </programme>
+  <programme start="20261029035241 +0000" stop="20261029043646 +0000" channel="dena">
+    <title>لاله خیز - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (دنا)</sub-title>
+    <length units="seconds">2633</length>
+  </programme>
   <channel id="kish">
     <display-name>kish</display-name>
   </channel>
+  <programme start="20261029104413 +0000" stop="20261029112734 +0000" channel="kish">
+    <title>7 آبان 1405</title>
+    <sub-title>کیش و زندگی (کیش)</sub-title>
+    <length units="seconds">2600</length>
+  </programme>
+  <programme start="20261029090204 +0000" stop="20261029094928 +0000" channel="kish">
+    <title>7 آبان 1405</title>
+    <sub-title>پزشک جزیره (کیش)</sub-title>
+    <length units="seconds">2844</length>
+  </programme>
+  <programme start="20261029083056 +0000" stop="20261029090012 +0000" channel="kish">
+    <title>7 آبان 1405</title>
+    <sub-title>صدای جزیره (کیش)</sub-title>
+    <length units="seconds">1755</length>
+  </programme>
+  <programme start="20261029062809 +0000" stop="20261029063700 +0000" channel="kish">
+    <title>ناشتا - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (کیش)</sub-title>
+    <length units="seconds">529</length>
+  </programme>
+  <programme start="20261029060116 +0000" stop="20261029061116 +0000" channel="kish">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد (کیش)</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20261029054515 +0000" stop="20261029060002 +0000" channel="kish">
+    <title>حلقه  صالحین - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (کیش)</sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20261029045415 +0000" stop="20261029054455 +0000" channel="kish">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (کیش)</sub-title>
+    <length units="seconds">3029</length>
+  </programme>
   <channel id="sabz">
     <display-name>sabz</display-name>
   </channel>
   <channel id="baran">
     <display-name>Baran Channel</display-name>
   </channel>
+  <programme start="20261029230016 +0000" stop="20261029231823 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 23:00 (باران)</sub-title>
+    <length units="seconds">1086</length>
+  </programme>
+  <programme start="20261029214548 +0000" stop="20261029224852 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>باید برخاست</sub-title>
+    <length units="seconds">3784</length>
+  </programme>
+  <programme start="20261029213033 +0000" stop="20261029214239 +0000" channel="baran">
+    <title>نگاتیو - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (باران)</sub-title>
+    <length units="seconds">726</length>
+  </programme>
+  <programme start="20261029200023 +0000" stop="20261029203134 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20:00 (باران)</sub-title>
+    <length units="seconds">1870</length>
+  </programme>
+  <programme start="20261029121752 +0000" stop="20261029122401 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه (باران)</sub-title>
+    <length units="seconds">370</length>
+  </programme>
+  <programme start="20261029112724 +0000" stop="20261029114209 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>حدیث کسا (باران)</sub-title>
+    <length units="seconds">886</length>
+  </programme>
+  <programme start="20261029100146 +0000" stop="20261029105730 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>دوازده روی هشت (باران)</sub-title>
+    <length units="seconds">3344</length>
+  </programme>
+  <programme start="20261029090028 +0000" stop="20261029095553 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>رادیو شهر ما (باران)</sub-title>
+    <length units="seconds">3326</length>
+  </programme>
+  <programme start="20261029055159 +0000" stop="20261029060156 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>دعای عهد</sub-title>
+    <length units="seconds">596</length>
+  </programme>
+  <programme start="20261029052254 +0000" stop="20261029055008 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>حدیث سرو</sub-title>
+    <length units="seconds">1634</length>
+  </programme>
+  <programme start="20261029042935 +0000" stop="20261029045248 +0000" channel="baran">
+    <title>7 آبان 1405</title>
+    <sub-title>ادعیه و مناجات رمضان ۱۴۰۲ (باران)</sub-title>
+    <length units="seconds">1394</length>
+  </programme>
   <programme start="20261029032016 +0000" stop="20261029042847 +0000" channel="baran">
     <title>7 آبان 1405</title>
     <sub-title>ترتیل قرآن کریم (باران)</sub-title>
@@ -1056,12 +1974,137 @@
   <channel id="kordestan">
     <display-name>kordestan channel</display-name>
   </channel>
+  <programme start="20261029231347 +0000" stop="20261029232545 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">718</length>
+  </programme>
+  <programme start="20261029231015 +0000" stop="20261029231347 +0000" channel="kordestan">
+    <title>ایران آماده - 7 آبان 1405</title>
+    <sub-title>نماهنگ (کردستان)</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20261029223349 +0000" stop="20261029231013 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>زانای زه مان (کردستان)</sub-title>
+    <length units="seconds">2184</length>
+  </programme>
+  <programme start="20261029220033 +0000" stop="20261029222130 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 22 (کردستان)</sub-title>
+    <length units="seconds">1256</length>
+  </programme>
+  <programme start="20261029215713 +0000" stop="20261029220033 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>چشمه نوش (کردستان)</sub-title>
+    <length units="seconds">200</length>
+  </programme>
+  <programme start="20261029210140 +0000" stop="20261029213713 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>ریگا (کردستان)</sub-title>
+    <length units="seconds">2134</length>
+  </programme>
+  <programme start="20261029195915 +0000" stop="20261029201709 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 20 (کردستان)</sub-title>
+    <length units="seconds">1074</length>
+  </programme>
+  <programme start="20261029192053 +0000" stop="20261029195212 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>گه شه ی به رهم</sub-title>
+    <length units="seconds">1878</length>
+  </programme>
+  <programme start="20261029184405 +0000" stop="20261029185145 +0000" channel="kordestan">
+    <title>کنگره 4000 شهید استان گرگان - 7 آبان 1405</title>
+    <sub-title>ویژه برنامه های دفاع مقدس (کردستان)</sub-title>
+    <length units="seconds">460</length>
+  </programme>
+  <programme start="20261029181545 +0000" stop="20261029184254 +0000" channel="kordestan">
+    <title>پیشگامان - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (کردستان)</sub-title>
+    <length units="seconds">1628</length>
+  </programme>
+  <programme start="20261029170440 +0000" stop="20261029173759 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>په پوله کانی نیشتمان (کردستان)</sub-title>
+    <length units="seconds">2000</length>
+  </programme>
+  <programme start="20261029164442 +0000" stop="20261029170202 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 16:45 (کردستان)</sub-title>
+    <length units="seconds">1040</length>
+  </programme>
+  <programme start="20261029121413 +0000" stop="20261029123614 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>به ره و رووناکی (کردستان)</sub-title>
+    <length units="seconds">1320</length>
+  </programme>
+  <programme start="20261029090026 +0000" stop="20261029100503 +0000" channel="kordestan">
+    <title>7 آبان 1405</title>
+    <sub-title>روشنای (کردستان)</sub-title>
+    <length units="seconds">3878</length>
+  </programme>
   <channel id="taban">
     <display-name>taban</display-name>
   </channel>
+  <programme start="20261029102330 +0000" stop="20261029104948 +0000" channel="taban">
+    <title>افتتاح مخزن ذخیره آب شهید ابراهیم رئیسی - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (یزد)</sub-title>
+    <length units="seconds">1568</length>
+  </programme>
+  <programme start="20261029061519 +0000" stop="20261029063837 +0000" channel="taban">
+    <title>داستان غذا ها -  7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (یزد)</sub-title>
+    <length units="seconds">1386</length>
+  </programme>
+  <programme start="20261029051246 +0000" stop="20261029055723 +0000" channel="taban">
+    <title>7 آبان 1405</title>
+    <sub-title>آیینه ذکر (یزد)</sub-title>
+    <length units="seconds">2651</length>
+  </programme>
+  <programme start="20261029043535 +0000" stop="20261029044223 +0000" channel="taban">
+    <title>زیارت وارث - 7 آبان 1405</title>
+    <sub-title>ادعیه و زیارت (یزد)</sub-title>
+    <length units="seconds">406</length>
+  </programme>
+  <programme start="20261029041822 +0000" stop="20261029043531 +0000" channel="taban">
+    <title>مباحث احکام و اخلاق - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (یزد)</sub-title>
+    <length units="seconds">1015</length>
+  </programme>
   <channel id="tabarestan">
     <display-name>tabarestan</display-name>
   </channel>
+  <programme start="20261029090030 +0000" stop="20261029095350 +0000" channel="tabarestan">
+    <title>7 آبان 1405</title>
+    <sub-title>افتاب سو</sub-title>
+    <length units="seconds">3165</length>
+  </programme>
+  <programme start="20261029070102 +0000" stop="20261029075502 +0000" channel="tabarestan">
+    <title>7 آبان 1405</title>
+    <sub-title>صواحی</sub-title>
+    <length units="seconds">3216</length>
+  </programme>
+  <programme start="20261029052116 +0000" stop="20261029054359 +0000" channel="tabarestan">
+    <title>از عشق تا صبوری - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (تبرستان)</sub-title>
+    <length units="seconds">1354</length>
+  </programme>
+  <programme start="20261029050600 +0000" stop="20261029051425 +0000" channel="tabarestan">
+    <title>7 آبان 1405</title>
+    <sub-title>تلاوت قرآن (تبرستان)</sub-title>
+    <length units="seconds">493</length>
+  </programme>
+  <programme start="20261029043619 +0000" stop="20261029044156 +0000" channel="tabarestan">
+    <title>زیارت آل یاسین - 7 آبان 1405</title>
+    <sub-title>ادعیه و زیارت (تبرستان)</sub-title>
+    <length units="seconds">338</length>
+  </programme>
+  <programme start="20261029043203 +0000" stop="20261029043619 +0000" channel="tabarestan">
+    <title>نکات ناب - 7 آبان 1405</title>
+    <sub-title>برنامه مذهبی (تبرستان)</sub-title>
+    <length units="seconds">257</length>
+  </programme>
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
@@ -1128,19 +2171,74 @@
   <channel id="mahabad">
     <display-name>mahabad</display-name>
   </channel>
-  <programme start="20261029124630 +0000" stop="20261029125116 +0000" channel="mahabad">
-    <title>7 آبان 1405</title>
-    <sub-title>هاوری یانی هه تاو (مهاباد)</sub-title>
-    <length units="seconds">286</length>
-  </programme>
-  <programme start="20261029120149 +0000" stop="20261029124629 +0000" channel="mahabad">
-    <title>7 آبان 1405</title>
-    <sub-title>به خته وه ری (مهاباد)</sub-title>
-    <length units="seconds">2680</length>
-  </programme>
   <channel id="sina">
     <display-name>hamedan</display-name>
   </channel>
+  <programme start="20261029223439 +0000" stop="20261029225500 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>خیابان با ما</sub-title>
+    <length units="seconds">1220</length>
+  </programme>
+  <programme start="20261029215929 +0000" stop="20261029222645 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 22:00 (همدان)</sub-title>
+    <length units="seconds">1636</length>
+  </programme>
+  <programme start="20261029205935 +0000" stop="20261029215047 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>شب های الوند (همدان)</sub-title>
+    <length units="seconds">3072</length>
+  </programme>
+  <programme start="20261029202936 +0000" stop="20261029205129 +0000" channel="sina">
+    <title>دیده بان - 7 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (همدان)</sub-title>
+    <length units="seconds">1314</length>
+  </programme>
+  <programme start="20261029194435 +0000" stop="20261029201100 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>روایت عشق </sub-title>
+    <length units="seconds">1584</length>
+  </programme>
+  <programme start="20261029185935 +0000" stop="20261029192545 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 19:00 (همدان)</sub-title>
+    <length units="seconds">1570</length>
+  </programme>
+  <programme start="20261029132940 +0000" stop="20261029134614 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>اخبار ساعت 13:30 (همدان)</sub-title>
+    <length units="seconds">994</length>
+  </programme>
+  <programme start="20261029105850 +0000" stop="20261029115234 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>خانه و زندگی (همدان)</sub-title>
+    <length units="seconds">3224</length>
+  </programme>
+  <programme start="20261029075850 +0000" stop="20261029085827 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>صبح عالی (همدان)</sub-title>
+    <length units="seconds">3578</length>
+  </programme>
+  <programme start="20261029060243 +0000" stop="20261029070022 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">3458</length>
+  </programme>
+  <programme start="20261029053459 +0000" stop="20261029055642 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>چشم و چراغ (همدان)</sub-title>
+    <length units="seconds">1302</length>
+  </programme>
+  <programme start="20261029032418 +0000" stop="20261029043024 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>ترتیل قرآن کریم (همدان)</sub-title>
+    <length units="seconds">3966</length>
+  </programme>
+  <programme start="20261029022529 +0000" stop="20261029032254 +0000" channel="sina">
+    <title>7 آبان 1405</title>
+    <sub-title>برنامه طبیعت و حیات وحش (همدان)</sub-title>
+    <length units="seconds">3444</length>
+  </programme>
   <channel id="khavaran">
     <display-name>khavaran</display-name>
   </channel>
