@@ -3,9 +3,88 @@
   <channel id="tv1">
     <display-name>channel 1</display-name>
   </channel>
+  <programme start="20261030140006 +0000" stop="20261030145819 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار نیمروزی </sub-title>
+    <length units="seconds">3494</length>
+  </programme>
+  <programme start="20261030123143 +0000" stop="20261030132459 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>طرحی برای فردا </sub-title>
+    <length units="seconds">3196</length>
+  </programme>
+  <programme start="20261030115355 +0000" stop="20261030120948 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>آفتاب شرقی 1405</sub-title>
+    <length units="seconds">952</length>
+  </programme>
+  <programme start="20261030095754 +0000" stop="20261030114325 +0000" channel="tv1">
+    <title>8 آبان 1405 - ورزش و مردم</title>
+    <sub-title>ورزش و مردم 1405</sub-title>
+    <length units="seconds">5920</length>
+  </programme>
+  <programme start="20261030085846 +0000" stop="20261030094824 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>ایران ما (شبکه ۱)</sub-title>
+    <length units="seconds">2978</length>
+  </programme>
+  <programme start="20261030084838 +0000" stop="20261030085209 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>بلندای همت</sub-title>
+    <length units="seconds">212</length>
+  </programme>
+  <programme start="20261030084712 +0000" stop="20261030084744 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>تیتر یک </sub-title>
+    <length units="seconds">32</length>
+  </programme>
+  <programme start="20261030080002 +0000" stop="20261030082822 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 8:00 (شبکه ۱)</sub-title>
+    <length units="seconds">1700</length>
+  </programme>
+  <programme start="20261030061308 +0000" stop="20261030064730 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>منتظران ظهور</sub-title>
+    <length units="seconds">2062</length>
+  </programme>
+  <programme start="20261030042832 +0000" stop="20261030051732 +0000" channel="tv1">
+    <title>8 آبان 1405</title>
+    <sub-title>تسبیح صبا 1405</sub-title>
+    <length units="seconds">2940</length>
+  </programme>
   <channel id="tv2">
     <display-name>channel 2</display-name>
   </channel>
+  <programme start="20261030140655 +0000" stop="20261030145920 +0000" channel="tv2">
+    <title>کی میاد ستاره چینی - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">2918</length>
+  </programme>
+  <programme start="20261030134441 +0000" stop="20261030134627 +0000" channel="tv2">
+    <title>8 آبان 1405</title>
+    <sub-title>میدان</sub-title>
+    <length units="seconds">106</length>
+  </programme>
+  <programme start="20261030121519 +0000" stop="20261030134422 +0000" channel="tv2">
+    <title>8 آبان 1405</title>
+    <sub-title>ایران ما (شبکه ۲)</sub-title>
+    <length units="seconds">5244</length>
+  </programme>
+  <programme start="20261030115405 +0000" stop="20261030115744 +0000" channel="tv2">
+    <title>دعای نادعلی - 8 آبان 1405</title>
+    <sub-title>ادعیه و زیارت (شبکه 2)</sub-title>
+    <length units="seconds">220</length>
+  </programme>
+  <programme start="20261030100638 +0000" stop="20261030113607 +0000" channel="tv2">
+    <title>جزیره گنج</title>
+    <length units="seconds">5158</length>
+  </programme>
+  <programme start="20261030095024 +0000" stop="20261030100617 +0000" channel="tv2">
+    <title>اجتماع بزرگ لشکر قدس نوجوانان - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (شبکه 2)</sub-title>
+    <length units="seconds">952</length>
+  </programme>
   <channel id="tv3">
     <display-name>channel 3</display-name>
   </channel>
@@ -70,9 +149,124 @@
   <channel id="nasim">
     <display-name>Nasim</display-name>
   </channel>
+  <programme start="20261030110003 +0000" stop="20261030113434 +0000" channel="nasim">
+    <title>8 آبان 1405</title>
+    <sub-title>ایران ما (نسیم)</sub-title>
+    <length units="seconds">2070</length>
+  </programme>
   <channel id="irinn">
     <display-name>channel irinn</display-name>
   </channel>
+  <programme start="20261030140004 +0000" stop="20261030145831 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 14:00</sub-title>
+    <length units="seconds">3506</length>
+  </programme>
+  <programme start="20261030133159 +0000" stop="20261030135157 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>کتاب هفته (خبر)</sub-title>
+    <length units="seconds">1198</length>
+  </programme>
+  <programme start="20261030130950 +0000" stop="20261030132738 +0000" channel="irinn">
+    <title>8 آبان 1405 - علیرضا سالاری شریف</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1068</length>
+  </programme>
+  <programme start="20261030130008 +0000" stop="20261030130946 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 13:00 </sub-title>
+    <length units="seconds">578</length>
+  </programme>
+  <programme start="20261030124510 +0000" stop="20261030125711 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ورزشی ساعت 12:45 </sub-title>
+    <length units="seconds">720</length>
+  </programme>
+  <programme start="20261030123219 +0000" stop="20261030124435 +0000" channel="irinn">
+    <title>تبعید صدای صلح - 8 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">736</length>
+  </programme>
+  <programme start="20261030121034 +0000" stop="20261030123210 +0000" channel="irinn">
+    <title>بر لبه نظم - 8 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1296</length>
+  </programme>
+  <programme start="20261030120010 +0000" stop="20261030121029 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 12:00 </sub-title>
+    <length units="seconds">618</length>
+  </programme>
+  <programme start="20261030115804 +0000" stop="20261030115952 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>نظرخوان</sub-title>
+    <length units="seconds">108</length>
+  </programme>
+  <programme start="20261030113356 +0000" stop="20261030115803 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>روایت اقتدار</sub-title>
+    <length units="seconds">1446</length>
+  </programme>
+  <programme start="20261030113012 +0000" stop="20261030113351 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 11:30 </sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20261030110918 +0000" stop="20261030112827 +0000" channel="irinn">
+    <title>8 آبان 1405 - حامد موفق</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1148</length>
+  </programme>
+  <programme start="20261030110005 +0000" stop="20261030110912 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 11:00 (خبر)</sub-title>
+    <length units="seconds">548</length>
+  </programme>
+  <programme start="20261030103456 +0000" stop="20261030105905 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1448</length>
+  </programme>
+  <programme start="20261030103008 +0000" stop="20261030103451 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت  10:30 </sub-title>
+    <length units="seconds">282</length>
+  </programme>
+  <programme start="20261030100010 +0000" stop="20261030100910 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 10:00 </sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20261030093014 +0000" stop="20261030094249 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ورزشی ساعت 9:30 </sub-title>
+    <length units="seconds">754</length>
+  </programme>
+  <programme start="20261030090959 +0000" stop="20261030092820 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>نبرد هرمز</sub-title>
+    <length units="seconds">1102</length>
+  </programme>
+  <programme start="20261030090009 +0000" stop="20261030090950 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 9:00 (خبر)</sub-title>
+    <length units="seconds">582</length>
+  </programme>
+  <programme start="20261030082959 +0000" stop="20261030085313 +0000" channel="irinn">
+    <title>ابعاد پنهان یازده سپتامبر - 8 آبان 1405</title>
+    <sub-title>مستند خبر</sub-title>
+    <length units="seconds">1394</length>
+  </programme>
+  <programme start="20261030080000 +0000" stop="20261030082831 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 8:00</sub-title>
+    <length units="seconds">1710</length>
+  </programme>
+  <programme start="20261030070007 +0000" stop="20261030070950 +0000" channel="irinn">
+    <title>8 آبان 1405</title>
+    <sub-title>اخبار ساعت 7:00 (خبر)</sub-title>
+    <length units="seconds">584</length>
+  </programme>
   <programme start="20261030060014 +0000" stop="20261030060918 +0000" channel="irinn">
     <title>8 آبان 1405</title>
     <sub-title>اخبار ساعت 6:00 (خبر)</sub-title>
@@ -111,6 +305,21 @@
   <channel id="varzesh">
     <display-name>channel varzesh</display-name>
   </channel>
+  <programme start="20261030100042 +0000" stop="20261030102308 +0000" channel="varzesh">
+    <title>8 آبان 1405</title>
+    <sub-title>دست اول 1405</sub-title>
+    <length units="seconds">1346</length>
+  </programme>
+  <programme start="20261030084410 +0000" stop="20261030085646 +0000" channel="varzesh">
+    <title>8 آبان 1405</title>
+    <sub-title>در چنین روزی</sub-title>
+    <length units="seconds">756</length>
+  </programme>
+  <programme start="20261030075125 +0000" stop="20261030084031 +0000" channel="varzesh">
+    <title>8 آبان 1405</title>
+    <sub-title>کوه گشت (شبکه ورزش)</sub-title>
+    <length units="seconds">2946</length>
+  </programme>
   <programme start="20261030060153 +0000" stop="20261030063133 +0000" channel="varzesh">
     <title>8 آبان 1405</title>
     <sub-title>پهلوون</sub-title>
@@ -122,6 +331,71 @@
   <channel id="pooya">
     <display-name>channel pooya</display-name>
   </channel>
+  <programme start="20261030152352 +0000" stop="20261030152841 +0000" channel="pooya">
+    <title>ایران من - 8 آبان 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">288</length>
+  </programme>
+  <programme start="20261030135720 +0000" stop="20261030135821 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>آزمایش مهدپویا</sub-title>
+    <length units="seconds">60</length>
+  </programme>
+  <programme start="20261030133051 +0000" stop="20261030133942 +0000" channel="pooya">
+    <title>قسمت 63</title>
+    <sub-title>ببعی</sub-title>
+    <length units="seconds">532</length>
+  </programme>
+  <programme start="20261030130037 +0000" stop="20261030131929 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>فضایی ها</sub-title>
+    <length units="seconds">1132</length>
+  </programme>
+  <programme start="20261030123727 +0000" stop="20261030124029 +0000" channel="pooya">
+    <title>بادبادک قشنگم - 8 آبان 1405</title>
+    <sub-title>شادمانه (پویا)</sub-title>
+    <length units="seconds">182</length>
+  </programme>
+  <programme start="20261030123038 +0000" stop="20261030123726 +0000" channel="pooya">
+    <title>قسمت 35</title>
+    <sub-title>باباتوتو</sub-title>
+    <length units="seconds">408</length>
+  </programme>
+  <programme start="20261030115647 +0000" stop="20261030120025 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>نقاشی مهدپویا</sub-title>
+    <length units="seconds">218</length>
+  </programme>
+  <programme start="20261030114119 +0000" stop="20261030114322 +0000" channel="pooya">
+    <title>بچه های آسمان - 8 آبان 1405</title>
+    <sub-title>ویدیو کلیپ های شبکه پویا</sub-title>
+    <length units="seconds">124</length>
+  </programme>
+  <programme start="20261030113947 +0000" stop="20261030114040 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>آزمایش مهدپویا</sub-title>
+    <length units="seconds">54</length>
+  </programme>
+  <programme start="20261030113057 +0000" stop="20261030113944 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>آنی و مانی</sub-title>
+    <length units="seconds">528</length>
+  </programme>
+  <programme start="20261030111637 +0000" stop="20261030112828 +0000" channel="pooya">
+    <title>قسمت 30</title>
+    <sub-title>ماموریت آدم آهنی ها</sub-title>
+    <length units="seconds">712</length>
+  </programme>
+  <programme start="20261030110038 +0000" stop="20261030111625 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>نقاشی نقاشی</sub-title>
+    <length units="seconds">946</length>
+  </programme>
+  <programme start="20261030105003 +0000" stop="20261030105126 +0000" channel="pooya">
+    <title>8 آبان 1405</title>
+    <sub-title>کاردستی های مهدپویا 2</sub-title>
+    <length units="seconds">84</length>
+  </programme>
   <channel id="ifilm">
     <display-name>channel ifilm</display-name>
   </channel>
@@ -137,6 +411,161 @@
   <channel id="quran">
     <display-name>channel quarn</display-name>
   </channel>
+  <programme start="20261030150257 +0000" stop="20261030152130 +0000" channel="quran">
+    <title>آقای محمدرضا پورزرگری - 8 آبان 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1114</length>
+  </programme>
+  <programme start="20261030140134 +0000" stop="20261030145556 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>ایران ما (قرآن)</sub-title>
+    <length units="seconds">3262</length>
+  </programme>
+  <programme start="20261030133649 +0000" stop="20261030140009 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>بی مرز با حجاب (قرآن)</sub-title>
+    <length units="seconds">1400</length>
+  </programme>
+  <programme start="20261030120049 +0000" stop="20261030121050 +0000" channel="quran">
+    <title>کاری که خدا دوست دارد - 8 آبان 1405</title>
+    <sub-title>عطر ماندگار</sub-title>
+    <length units="seconds">600</length>
+  </programme>
+  <programme start="20261030112719 +0000" stop="20261030114115 +0000" channel="quran">
+    <title>آقای امین صداقت - 8 آبان 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">836</length>
+  </programme>
+  <programme start="20261030103247 +0000" stop="20261030104633 +0000" channel="quran">
+    <title>راغب مصطفی غلوش - 8 آبان 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">826</length>
+  </programme>
+  <programme start="20261030093922 +0000" stop="20261030095316 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>مدرسه حفظ قرآن کریم</sub-title>
+    <length units="seconds">834</length>
+  </programme>
+  <programme start="20261030070109 +0000" stop="20261030073341 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (قرآن)</sub-title>
+    <length units="seconds">1952</length>
+  </programme>
+  <programme start="20261030065708 +0000" stop="20261030070108 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>فضیلت آیة الکرسی </sub-title>
+    <length units="seconds">238</length>
+  </programme>
+  <programme start="20261030065403 +0000" stop="20261030065708 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>چشم و چراغ (قرآن)</sub-title>
+    <length units="seconds">186</length>
+  </programme>
+  <programme start="20261030062838 +0000" stop="20261030063726 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای عهد (قرآن)</sub-title>
+    <length units="seconds">530</length>
+  </programme>
+  <programme start="20261030052904 +0000" stop="20261030062837 +0000" channel="quran">
+    <title>جز 8 - 8 آبان 1405</title>
+    <sub-title>ترتیل یک جزء قرآن (شبکه قرآن)</sub-title>
+    <length units="seconds">3572</length>
+  </programme>
+  <programme start="20261030052258 +0000" stop="20261030052902 +0000" channel="quran">
+    <title>صفحه 193 - 8 آبان 1405</title>
+    <sub-title>نور علی نور</sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20261030044403 +0000" stop="20261030045348 +0000" channel="quran">
+    <title>سوره مبارکه فرقان - 8 آبان 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">584</length>
+  </programme>
+  <programme start="20261030043647 +0000" stop="20261030044150 +0000" channel="quran">
+    <title>حاج محمود کریمی - 8 آبان 1405</title>
+    <sub-title>مناجات خوانی</sub-title>
+    <length units="seconds">304</length>
+  </programme>
+  <programme start="20261030040821 +0000" stop="20261030043646 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>شرح خطبه فدکیه</sub-title>
+    <length units="seconds">1706</length>
+  </programme>
+  <programme start="20261030040334 +0000" stop="20261030040756 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>مکتب رهبر شهید</sub-title>
+    <length units="seconds">260</length>
+  </programme>
+  <programme start="20261030035350 +0000" stop="20261030040252 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای چهاردهم صحیفه سجادیه</sub-title>
+    <length units="seconds">540</length>
+  </programme>
+  <programme start="20261030033344 +0000" stop="20261030034011 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>نکات ناب (قرآن)</sub-title>
+    <length units="seconds">386</length>
+  </programme>
+  <programme start="20261030030333 +0000" stop="20261030033344 +0000" channel="quran">
+    <title>یاسر شرقاوی - 8 آبان 1405</title>
+    <sub-title>تلاوت قرآن</sub-title>
+    <length units="seconds">1812</length>
+  </programme>
+  <programme start="20261030030154 +0000" stop="20261030030333 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>صدای شما شنیده می شود</sub-title>
+    <length units="seconds">98</length>
+  </programme>
+  <programme start="20261030030040 +0000" stop="20261030030151 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>فرازی از وصیت نامه</sub-title>
+    <length units="seconds">70</length>
+  </programme>
+  <programme start="20261030024345 +0000" stop="20261030025956 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>سلسله درس های احکام و اخلاق آیت الله مجتهدی تهرانی </sub-title>
+    <length units="seconds">972</length>
+  </programme>
+  <programme start="20261030023024 +0000" stop="20261030024319 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>نشانه ها</sub-title>
+    <length units="seconds">774</length>
+  </programme>
+  <programme start="20261030022420 +0000" stop="20261030023000 +0000" channel="quran">
+    <title>سوره جمعه - 8 آبان 1405</title>
+    <sub-title>ترتیل قرآن کریم (قرآن)</sub-title>
+    <length units="seconds">340</length>
+  </programme>
+  <programme start="20261030021417 +0000" stop="20261030022419 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>آیات و روایات راهبردی </sub-title>
+    <length units="seconds">602</length>
+  </programme>
+  <programme start="20261030020306 +0000" stop="20261030021340 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>گنجینه تلاوت</sub-title>
+    <length units="seconds">634</length>
+  </programme>
+  <programme start="20261030003217 +0000" stop="20261030020212 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>نیایش به وقت حاج قاسم</sub-title>
+    <length units="seconds">5396</length>
+  </programme>
+  <programme start="20261030002952 +0000" stop="20261030003215 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>امام امت (قرآن)</sub-title>
+    <length units="seconds">142</length>
+  </programme>
+  <programme start="20261030002642 +0000" stop="20261030002952 +0000" channel="quran">
+    <title>ایران سرفراز</title>
+    <sub-title>نماهنگ (قرآن)</sub-title>
+    <length units="seconds">190</length>
+  </programme>
+  <programme start="20261030001707 +0000" stop="20261030002642 +0000" channel="quran">
+    <title>8 آبان 1405</title>
+    <sub-title>زیارت وارث</sub-title>
+    <length units="seconds">576</length>
+  </programme>
   <channel id="amouzesh">
     <display-name>channel amouzesh</display-name>
   </channel>
@@ -171,6 +600,11 @@
   <channel id="ofogh">
     <display-name>Ofogh</display-name>
   </channel>
+  <programme start="20261030080012 +0000" stop="20261030084832 +0000" channel="ofogh">
+    <title>8 آبان 1405</title>
+    <sub-title>سمت خدا (افق)</sub-title>
+    <length units="seconds">2900</length>
+  </programme>
   <programme start="20261030070014 +0000" stop="20261030073325 +0000" channel="ofogh">
     <title>8 آبان 1405</title>
     <sub-title>رخصت</sub-title>
@@ -184,6 +618,46 @@
   <channel id="omid">
     <display-name>Omid</display-name>
   </channel>
+  <programme start="20261030145535 +0000" stop="20261030151939 +0000" channel="omid">
+    <title>8 آبان 1405</title>
+    <sub-title>هشت</sub-title>
+    <length units="seconds">1444</length>
+  </programme>
+  <programme start="20261030145218 +0000" stop="20261030145536 +0000" channel="omid">
+    <title>8 آبان 1405</title>
+    <sub-title>بازی دان</sub-title>
+    <length units="seconds">198</length>
+  </programme>
+  <programme start="20261030143115 +0000" stop="20261030145215 +0000" channel="omid">
+    <title>8 آبان 1405</title>
+    <sub-title>گوشی بازی</sub-title>
+    <length units="seconds">1262</length>
+  </programme>
+  <programme start="20261030121651 +0000" stop="20261030124543 +0000" channel="omid">
+    <title>8 آبان 1405 - بخش 3</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">1732</length>
+  </programme>
+  <programme start="20261030120948 +0000" stop="20261030121427 +0000" channel="omid">
+    <title>8 آبان 1405 - بخش 2</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">280</length>
+  </programme>
+  <programme start="20261030113747 +0000" stop="20261030113922 +0000" channel="omid">
+    <title>8 آبان 1405 - بخش 1</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">94</length>
+  </programme>
+  <programme start="20261030113322 +0000" stop="20261030113513 +0000" channel="omid">
+    <title>8 آبان 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">112</length>
+  </programme>
+  <programme start="20261030102200 +0000" stop="20261030113312 +0000" channel="omid">
+    <title> 8 آبان 1405</title>
+    <sub-title>جان فدا</sub-title>
+    <length units="seconds">4272</length>
+  </programme>
   <programme start="20261030070137 +0000" stop="20261030074557 +0000" channel="omid">
     <title>8 آبان 1405</title>
     <sub-title>صبکوک (امید)</sub-title>
@@ -195,6 +669,16 @@
   <channel id="irinn2">
     <display-name>irinn2</display-name>
   </channel>
+  <programme start="20261030114530 +0000" stop="20261030125353 +0000" channel="irinn2">
+    <title>خطبه های نماز جمعه - 8 آبان 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">4061</length>
+  </programme>
+  <programme start="20261030112446 +0000" stop="20261030114530 +0000" channel="irinn2">
+    <title>خطبه های نمازجمعه - 8 آبان 1405</title>
+    <sub-title>گزارش خبری </sub-title>
+    <length units="seconds">1176</length>
+  </programme>
   <programme start="20261030061640 +0000" stop="20261030071149 +0000" channel="irinn2">
     <title>8 آبان 1405</title>
     <sub-title>دعای ندبه (خبر ۲)</sub-title>
@@ -203,9 +687,64 @@
   <channel id="azarbayjangharbi">
     <display-name>azarbayjangharbi</display-name>
   </channel>
+  <programme start="20261030121920 +0000" stop="20261030122636 +0000" channel="azarbayjangharbi">
+    <title>سخنرانی - 8 آبان 1405</title>
+    <sub-title>اذان سسی </sub-title>
+    <length units="seconds">436</length>
+  </programme>
+  <programme start="20261030120847 +0000" stop="20261030121246 +0000" channel="azarbayjangharbi">
+    <title>8 آبان 1405</title>
+    <sub-title>تلاوت قرآن (آذربایجان غربی)</sub-title>
+    <length units="seconds">240</length>
+  </programme>
+  <programme start="20261030114519 +0000" stop="20261030120800 +0000" channel="azarbayjangharbi">
+    <title>بیان - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1360</length>
+  </programme>
+  <programme start="20261030112538 +0000" stop="20261030114130 +0000" channel="azarbayjangharbi">
+    <title>ایران یار - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">942</length>
+  </programme>
+  <programme start="20261030080551 +0000" stop="20261030085559 +0000" channel="azarbayjangharbi">
+    <title>تور بزرگ - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">2948</length>
+  </programme>
+  <programme start="20261030065800 +0000" stop="20261030075709 +0000" channel="azarbayjangharbi">
+    <title>سخنرانی های تد - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (آذربایجان غربی)</sub-title>
+    <length units="seconds">1015</length>
+  </programme>
   <channel id="sahand">
     <display-name>channel sahand</display-name>
   </channel>
+  <programme start="20261030115038 +0000" stop="20261030115642 +0000" channel="sahand">
+    <title>نکات ناب - 8 آبان 1405</title>
+    <sub-title>برنامه مذهبی (سهند)</sub-title>
+    <length units="seconds">364</length>
+  </programme>
+  <programme start="20261030090617 +0000" stop="20261030091209 +0000" channel="sahand">
+    <title>8 آبان 1405</title>
+    <sub-title>با نمایندگان (سهند)</sub-title>
+    <length units="seconds">352</length>
+  </programme>
+  <programme start="20261030064352 +0000" stop="20261030073540 +0000" channel="sahand">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (سهند)</sub-title>
+    <length units="seconds">3108</length>
+  </programme>
+  <programme start="20261030063502 +0000" stop="20261030064328 +0000" channel="sahand">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای عهد (سهند)</sub-title>
+    <length units="seconds">506</length>
+  </programme>
+  <programme start="20261030060427 +0000" stop="20261030063008 +0000" channel="sahand">
+    <title>درس اخلاق - 8 آبان 1405</title>
+    <sub-title>سخنرانی (سهند)</sub-title>
+    <length units="seconds">1540</length>
+  </programme>
   <programme start="20261030053142 +0000" stop="20261030054907 +0000" channel="sahand">
     <title>دعا برای مرزداران - 8 آبان 1405</title>
     <sub-title>ادعیه و زیارت (سهند)</sub-title>
@@ -227,6 +766,16 @@
   <channel id="esfahan">
     <display-name>channel esfahan</display-name>
   </channel>
+  <programme start="20261030074818 +0000" stop="20261030075809 +0000" channel="esfahan">
+    <title>8 آبان 1405</title>
+    <sub-title>مسیر تندرستی</sub-title>
+    <length units="seconds">590</length>
+  </programme>
+  <programme start="20261030065154 +0000" stop="20261030074541 +0000" channel="esfahan">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (اصفهان)</sub-title>
+    <length units="seconds">3226</length>
+  </programme>
   <channel id="sabalan">
     <display-name>sabalan</display-name>
   </channel>
@@ -245,15 +794,75 @@
   <channel id="khorasanrazavi">
     <display-name>Khorasan Razavi</display-name>
   </channel>
+  <programme start="20261030084428 +0000" stop="20261030084825 +0000" channel="khorasanrazavi">
+    <title>8 آبان 1405</title>
+    <sub-title>مادرانه</sub-title>
+    <length units="seconds">236</length>
+  </programme>
+  <programme start="20261030080635 +0000" stop="20261030084420 +0000" channel="khorasanrazavi">
+    <title>8 آبان 1405</title>
+    <sub-title>هویت (خراسان رضوی)</sub-title>
+    <length units="seconds">2266</length>
+  </programme>
+  <programme start="20261030060301 +0000" stop="20261030065613 +0000" channel="khorasanrazavi">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (خراسان رضوی)</sub-title>
+    <length units="seconds">3192</length>
+  </programme>
+  <programme start="20261030000744 +0000" stop="20261030004410 +0000" channel="khorasanrazavi">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای کمیل (خراسان رضوی)</sub-title>
+    <length units="seconds">2186</length>
+  </programme>
   <channel id="atrak">
     <display-name>atrak</display-name>
   </channel>
+  <programme start="20261030060243 +0000" stop="20261030070041 +0000" channel="atrak">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (اترک)</sub-title>
+    <length units="seconds">3466</length>
+  </programme>
+  <programme start="20261030044802 +0000" stop="20261030045950 +0000" channel="atrak">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای عهد (اترک)</sub-title>
+    <length units="seconds">708</length>
+  </programme>
+  <programme start="20261030011122 +0000" stop="20261030014550 +0000" channel="atrak">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای کمیل (اترک)</sub-title>
+    <length units="seconds">2021</length>
+  </programme>
   <channel id="khalijefars">
     <display-name>persian gulf channel</display-name>
   </channel>
   <channel id="khoozestan">
     <display-name>IRIB Khoozestan</display-name>
   </channel>
+  <programme start="20261030114901 +0000" stop="20261030115510 +0000" channel="khoozestan">
+    <title>8 آبان 1405</title>
+    <sub-title>رایحه</sub-title>
+    <length units="seconds">370</length>
+  </programme>
+  <programme start="20261030105912 +0000" stop="20261030114824 +0000" channel="khoozestan">
+    <title>8 آبان 1405</title>
+    <sub-title>خانه من (خوزستان)</sub-title>
+    <length units="seconds">2952</length>
+  </programme>
+  <programme start="20261030073443 +0000" stop="20261030080248 +0000" channel="khoozestan">
+    <title>با ترانه - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (خوزستان)</sub-title>
+    <length units="seconds">1686</length>
+  </programme>
+  <programme start="20261030065045 +0000" stop="20261030065601 +0000" channel="khoozestan">
+    <title>دعای امام زمان - 8 آبان 1405</title>
+    <sub-title>ادعیه و زیارت (خوزستان)</sub-title>
+    <length units="seconds">316</length>
+  </programme>
+  <programme start="20261030060341 +0000" stop="20261030065042 +0000" channel="khoozestan">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (خوزستان)</sub-title>
+    <length units="seconds">2822</length>
+  </programme>
   <programme start="20261030053030 +0000" stop="20261030055818 +0000" channel="khoozestan">
     <title>صحیفه سجادیه - 8 آبان 1405</title>
     <sub-title>سخنرانی (خوزستان)</sub-title>
@@ -281,6 +890,41 @@
   <channel id="fars">
     <display-name>channel fars</display-name>
   </channel>
+  <programme start="20261030113809 +0000" stop="20261030113927 +0000" channel="fars">
+    <title>کتاب اندیشه اسلامی - 8 آبان 1405</title>
+    <sub-title>موشن گرافیک شبکه فارس</sub-title>
+    <length units="seconds">78</length>
+  </programme>
+  <programme start="20261030112134 +0000" stop="20261030113748 +0000" channel="fars">
+    <title>8 آبان 1405</title>
+    <sub-title>عطر انتظار</sub-title>
+    <length units="seconds">974</length>
+  </programme>
+  <programme start="20261030081152 +0000" stop="20261030082602 +0000" channel="fars">
+    <title>زنگ شادی - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">850</length>
+  </programme>
+  <programme start="20261030075759 +0000" stop="20261030080452 +0000" channel="fars">
+    <title>8 آبان 1405</title>
+    <sub-title>چهل تیکه (فارس)</sub-title>
+    <length units="seconds">414</length>
+  </programme>
+  <programme start="20261030075137 +0000" stop="20261030075757 +0000" channel="fars">
+    <title>توی دروازه - 8 آبان 1405</title>
+    <sub-title>برنامه اجتماعی (فارس)</sub-title>
+    <length units="seconds">380</length>
+  </programme>
+  <programme start="20261030064533 +0000" stop="20261030065229 +0000" channel="fars">
+    <title>8 آبان 1405</title>
+    <sub-title>چهل تیکه (فارس)</sub-title>
+    <length units="seconds">416</length>
+  </programme>
+  <programme start="20261030061017 +0000" stop="20261030064406 +0000" channel="fars">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (فارس)</sub-title>
+    <length units="seconds">2030</length>
+  </programme>
   <channel id="qazvin">
     <display-name>qazvin</display-name>
   </channel>
@@ -320,6 +964,21 @@
   <channel id="aftab">
     <display-name>aftab channel</display-name>
   </channel>
+  <programme start="20261030113659 +0000" stop="20261030115018 +0000" channel="aftab">
+    <title>8 آبان 1405</title>
+    <sub-title>حدیث کساء (آفتاب)</sub-title>
+    <length units="seconds">798</length>
+  </programme>
+  <programme start="20261030070801 +0000" stop="20261030072400 +0000" channel="aftab">
+    <title>8 آبان 1405 - بخش 1</title>
+    <sub-title>مجازی نما</sub-title>
+    <length units="seconds">960</length>
+  </programme>
+  <programme start="20261030060939 +0000" stop="20261030065711 +0000" channel="aftab">
+    <title>8 آبان 1405</title>
+    <sub-title>دعای ندبه (آفتاب)</sub-title>
+    <length units="seconds">2852</length>
+  </programme>
   <programme start="20261030035702 +0000" stop="20261030045431 +0000" channel="aftab">
     <title>آسمونی - 8 آبان 1405</title>
     <sub-title>ویژه برنامه های دفاع مقدس (آفتاب)</sub-title>
